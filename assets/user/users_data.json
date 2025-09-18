@@ -1,0 +1,242 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Emma_Johnson",
+      "displayName": "Emma Johnson",
+      "avatar": "assets/user/1/usericon.webp",
+      "background": "assets/user/1/userBG.webp",
+      "introduction": "assets/user/1/Introduction.mp3",
+      "post": {
+        "id": "post_1",
+        "content": "Just finished a beautiful sunset hike! The view from the mountain top was absolutely breathtaking. Nature never fails to amaze me 🌅",
+        "likes": 127,
+        "comments": 23,
+        "images": ["assets/user/1/userBG.webp"],
+        "audio": "assets/user/1/Introduction.mp3",
+        "location": "Mountain Peak, Colorado"
+      }
+    },
+    {
+      "id": 2,
+      "username": "Liam_Chen",
+      "displayName": "Liam Chen",
+      "avatar": "assets/user/2/usericon.webp",
+      "background": "assets/user/2/userBG.webp",
+      "introduction": "assets/user/2/Introduction.mp3",
+      "post": {
+        "id": "post_2",
+        "content": "Coffee shop vibes are unmatched ☕ Working on my latest project while enjoying this perfect latte. Sometimes the best ideas come in the most relaxed environments.",
+        "likes": 89,
+        "comments": 15,
+        "images": ["assets/user/2/userBG.webp"],
+        "audio": "assets/user/2/Introduction.mp3",
+        "location": "Downtown Coffee Co."
+      }
+    },
+    {
+      "id": 3,
+      "username": "Sophia_Rodriguez",
+      "displayName": "Sophia Rodriguez",
+      "avatar": "assets/user/3/usericon.webp",
+      "background": "assets/user/3/userBG.webp",
+      "introduction": "assets/user/3/Introduction.mp3",
+      "post": {
+        "id": "post_3",
+        "content": "Weekend market haul! Fresh vegetables, local honey, and handmade pottery. Supporting local farmers and artisans makes me so happy 🥬🍯",
+        "likes": 156,
+        "comments": 31,
+        "images": ["assets/user/3/userBG.webp"],
+        "audio": "assets/user/3/Introduction.mp3",
+        "location": "Farmers Market, Seattle"
+      }
+    },
+    {
+      "id": 4,
+      "username": "Oliver_Kim",
+      "displayName": "Oliver Kim",
+      "avatar": "assets/user/4/usericon.webp",
+      "background": "assets/user/4/userBG.webp",
+      "introduction": "assets/user/4/Introduction.mp3",
+      "post": {
+        "id": "post_4",
+        "content": "Morning yoga session complete! Starting the day with mindfulness and movement. The sunrise through my window was the perfect backdrop 🧘‍♂️",
+        "likes": 203,
+        "comments": 42,
+        "images": ["assets/user/4/userBG.webp"],
+        "audio": "assets/user/4/Introduction.mp3",
+        "location": "Home Studio"
+      }
+    },
+    {
+      "id": 5,
+      "username": "Isabella_Thompson",
+      "displayName": "Isabella Thompson",
+      "avatar": "assets/user/5/usericon.webp",
+      "background": "assets/user/5/userBG.webp",
+      "introduction": "assets/user/5/Introduction.mp3",
+      "post": {
+        "id": "post_5",
+        "content": "Beach day with friends! Nothing beats the sound of waves and laughter. Summer vibes all year round 🏖️",
+        "likes": 178,
+        "comments": 28,
+        "images": ["assets/user/5/userBG.webp"],
+        "audio": "assets/user/5/Introduction.mp3",
+        "location": "Santa Monica Beach"
+      }
+    },
+    {
+      "id": 6,
+      "username": "Noah_Williams",
+      "displayName": "Noah Williams",
+      "avatar": "assets/user/6/usericon.webp",
+      "background": "assets/user/6/userBG.webp",
+      "introduction": "assets/user/6/Introduction.mp3",
+      "post": {
+        "id": "post_6",
+        "content": "Just finished reading an amazing book! The way the author weaves together different storylines is pure genius. Can't wait to start the next one 📚",
+        "likes": 94,
+        "comments": 19,
+        "images": ["assets/user/6/userBG.webp"],
+        "audio": "assets/user/6/Introduction.mp3",
+        "location": "Home Library"
+      }
+    },
+    {
+      "id": 7,
+      "username": "Ava_Davis",
+      "displayName": "Ava Davis",
+      "avatar": "assets/user/7/usericon.webp",
+      "background": "assets/user/7/userBG.webp",
+      "introduction": "assets/user/7/Introduction.mp3",
+      "post": {
+        "id": "post_7",
+        "content": "Cooking experiment success! Tried a new recipe and it turned out delicious. There's something therapeutic about creating a meal from scratch 🍳",
+        "likes": 145,
+        "comments": 33,
+        "images": ["assets/user/7/userBG.webp"],
+        "audio": "assets/user/7/Introduction.mp3",
+        "location": "My Kitchen"
+      }
+    },
+    {
+      "id": 8,
+      "username": "William_Brown",
+      "displayName": "William Brown",
+      "avatar": "assets/user/8/usericon.webp",
+      "background": "assets/user/8/userBG.webp",
+      "introduction": "assets/user/8/Introduction.mp3",
+      "post": {
+        "id": "post_8",
+        "content": "Concert night! The energy in the venue was electric. Live music has a way of bringing people together like nothing else 🎵",
+        "likes": 267,
+        "comments": 51,
+        "images": ["assets/user/8/userBG.webp"],
+        "audio": "assets/user/8/Introduction.mp3",
+        "location": "Madison Square Garden"
+      }
+    },
+    {
+      "id": 9,
+      "username": "Mia_Garcia",
+      "displayName": "Mia Garcia",
+      "avatar": "assets/user/9/usericon.webp",
+      "background": "assets/user/9/userBG.webp",
+      "introduction": "assets/user/9/Introduction.mp3",
+      "post": {
+        "id": "post_9",
+        "content": "Art gallery opening was incredible! The contemporary pieces really made me think about the world in new ways. Art has such power to inspire 🎨",
+        "likes": 189,
+        "comments": 37,
+        "images": ["assets/user/9/userBG.webp"],
+        "audio": "assets/user/9/Introduction.mp3",
+        "location": "Modern Art Museum"
+      }
+    },
+    {
+      "id": 10,
+      "username": "James_Miller",
+      "displayName": "James Miller",
+      "avatar": "assets/user/10/usericon.webp",
+      "background": "assets/user/10/userBG.webp",
+      "introduction": "assets/user/10/Introduction.mp3",
+      "post": {
+        "id": "post_10",
+        "content": "Weekend cycling adventure! Covered 50 miles through beautiful countryside. The fresh air and exercise were exactly what I needed 🚴‍♂️",
+        "likes": 134,
+        "comments": 25,
+        "images": ["assets/user/10/userBG.webp"],
+        "audio": "assets/user/10/Introduction.mp3",
+        "location": "Countryside Trail"
+      }
+    },
+    {
+      "id": 11,
+      "username": "Charlotte_Wilson",
+      "displayName": "Charlotte Wilson",
+      "avatar": "assets/user/11/usericon.webp",
+      "background": "assets/user/11/userBG.webp", 
+      "introduction": "assets/user/11/Introduction.mp3",
+      "post": {
+        "id": "post_11",
+        "content": "Volunteering at the animal shelter today! These little guys bring so much joy. Every pet deserves a loving home 🐕",
+        "likes": 298,
+        "comments": 67,
+        "images": ["assets/user/11/userBG.webp"],
+        "audio": "assets/user/11/Introduction.mp3",
+        "location": "Local Animal Shelter"
+      }
+    },
+    {
+      "id": 12,
+      "username": "Benjamin_Moore",
+      "displayName": "Benjamin Moore",  
+      "avatar": "assets/user/12/usericon.webp",
+      "background": "assets/user/12/userBG.webp",
+      "introduction": "assets/user/12/Introduction.mp3",
+      "post": {
+        "id": "post_12",
+        "content": "Tech conference was mind-blowing! Learned about the latest innovations in AI and machine learning. The future is incredibly exciting 🤖",
+        "likes": 156,
+        "comments": 29,
+        "images": ["assets/user/12/userBG.webp"],
+        "audio": "assets/user/12/Introduction.mp3",
+        "location": "Convention Center"
+      }
+    },
+    {
+      "id": 13,
+      "username": "Amelia_Taylor",
+      "displayName": "Amelia Taylor",
+      "avatar": "assets/user/13/usericon.webp",
+      "background": "assets/user/13/userBG.webp",
+      "introduction": "assets/user/13/Introduction.mp3",
+      "post": {
+        "id": "post_13",
+        "content": "Garden update! My herbs are growing beautifully. There's something magical about watching plants thrive under your care 🌿",
+        "likes": 112,
+        "comments": 21,
+        "images": ["assets/user/13/userBG.webp"],
+        "audio": "assets/user/13/Introduction.mp3",
+        "location": "Backyard Garden"
+      }
+    },
+    {
+      "id": 14,
+      "username": "Lucas_Anderson",
+      "displayName": "Lucas Anderson",
+      "avatar": "assets/user/14/usericon.webp",
+      "background": "assets/user/14/userBG.webp",
+      "introduction": "assets/user/14/Introduction.mp3",
+      "post": {
+        "id": "post_14",
+        "content": "Photography walk in the city! Captured some amazing street art and architectural details. Every corner has a story to tell 📸",
+        "likes": 223,
+        "comments": 45,
+        "images": ["assets/user/14/userBG.webp"],
+        "audio": "assets/user/14/Introduction.mp3",
+        "location": "Downtown District"
+      }
+    }
+  ]
+}
