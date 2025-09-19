@@ -145,18 +145,46 @@ class _MessageScreenState extends State<MessageScreen> with WidgetsBindingObserv
         child: SafeArea(
           child: Column(
             children: [
-              // 顶部标题图片
+              // 顶部标题和返回按钮
               Container(
-                width: 160,
-                height: 55,
-                margin: const EdgeInsets.only(top: 0),
-                child: Image.asset(
-                  'assets/images/foka_message_title.webp',
-                  fit: BoxFit.contain,
+                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                child: Row(
+                  children: [
+                    // 返回按钮
+                    GestureDetector(
+                      onTap: () {
+                        Navigator.of(context).pop();
+                      },
+                      child: Container(
+                        width: 40,
+                        height: 40,
+                        decoration: BoxDecoration(
+                          color: Colors.black.withOpacity(0.6),
+                          borderRadius: BorderRadius.circular(20),
+                          border: Border.all(
+                            color: Colors.white.withOpacity(0.3),
+                            width: 1,
+                          ),
+                        ),
+                        child: const Icon(
+                          Icons.arrow_back_ios_new,
+                          color: Colors.white,
+                          size: 20,
+                        ),
+                      ),
+                    ),
+                    const SizedBox(width: 16),
+                    // 标题图片
+                    Expanded(
+                      child: Image.asset(
+                        'assets/images/foka_message_title.webp',
+                        height: 40,
+                        fit: BoxFit.contain,
+                      ),
+                    ),
+                  ],
                 ),
               ),
-              // 用户列表
-              _buildUserList(),
               // 消息列表
               Expanded(
                 child: _buildMessageList(),
@@ -168,29 +196,6 @@ class _MessageScreenState extends State<MessageScreen> with WidgetsBindingObserv
     );
   }
 
-  /// 构建用户列表
-  Widget _buildUserList() {
-    if (_isLoading) {
-      return const Center(
-        child: CircularProgressIndicator(
-          color: Colors.white,
-        ),
-      );
-    }
-
-    return SizedBox(
-      height: 120,
-      child: ListView.builder(
-        scrollDirection: Axis.horizontal,
-        padding: const EdgeInsets.symmetric(horizontal: 16),
-        itemCount: _users.length,
-        itemBuilder: (context, index) {
-          final user = _users[index];
-          return _buildUserItem(user);
-        },
-      ),
-    );
-  }
 
   /// 构建消息列表
   Widget _buildMessageList() {
@@ -251,64 +256,6 @@ class _MessageScreenState extends State<MessageScreen> with WidgetsBindingObserv
     );
   }
 
-  /// 构建单个用户项
-  Widget _buildUserItem(UserData user) {
-    return GestureDetector(
-      onTap: () async {
-        await Navigator.pushNamed(
-          context,
-          '/user-profile',
-          arguments: user,
-        );
-        // 从用户资料页面返回后刷新数据
-        _refreshData();
-      },
-      child: Container(
-        width: 80,
-        margin: const EdgeInsets.only(right: 16),
-        child: Column(
-          children: [
-            // 用户头像
-            Stack(
-              children: [
-                Container(
-                  width: 60,
-                  height: 60,
-                  decoration: BoxDecoration(
-                    shape: BoxShape.circle,
-                    border: Border.all(
-                      color: const Color(0xFFB700FF),
-                      width: 2,
-                    ),
-                  ),
-                  child: ClipOval(
-                    child: Image.asset(
-                      user.avatar,
-                      fit: BoxFit.cover,
-                    ),
-                  ),
-                ),
-                
-              ],
-            ),
-            const SizedBox(height: 8),
-            // 用户名
-            Text(
-              user.displayName,
-              style: const TextStyle(
-                color: Colors.white,
-                fontSize: 12,
-                fontWeight: FontWeight.w500,
-              ),
-              textAlign: TextAlign.center,
-              maxLines: 1,
-              overflow: TextOverflow.ellipsis,
-            ),
-          ],
-        ),
-      ),
-    );
-  }
 
   /// 构建消息项
   Widget _buildMessageItem(UserChatSummary summary) {

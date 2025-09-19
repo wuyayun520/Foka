@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'dart:convert';
-import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
+import 'dart:math';
+import 'package:audioplayers/audioplayers.dart';
 import '../../models/user_data.dart';
 
 class DiscoverScreen extends StatefulWidget {
@@ -11,15 +12,55 @@ class DiscoverScreen extends StatefulWidget {
   State<DiscoverScreen> createState() => _DiscoverScreenState();
 }
 
-class _DiscoverScreenState extends State<DiscoverScreen> {
-  UserData? _lastUser;
-  List<UserData> _remainingUsers = [];
+class _DiscoverScreenState extends State<DiscoverScreen>
+    with TickerProviderStateMixin {
+  List<UserData> _users = [];
   bool _isLoading = true;
+  bool _isAnimating = false;
+  
+  late AnimationController _rippleController;
+  late AnimationController _cardController;
+  late Animation<double> _rippleAnimation;
+  late Animation<double> _cardAnimation;
+  
+  // 音频播放相关
+  final AudioPlayer _audioPlayer = AudioPlayer();
+  bool _isPlaying = false;
+  String? _currentPlayingAudio;
 
   @override
   void initState() {
     super.initState();
     _loadUserData();
+    _initAnimations();
+  }
+
+  void _initAnimations() {
+    _rippleController = AnimationController(
+      duration: const Duration(milliseconds: 1500),
+      vsync: this,
+    );
+    
+    _cardController = AnimationController(
+      duration: const Duration(milliseconds: 800),
+      vsync: this,
+    );
+
+    _rippleAnimation = Tween<double>(
+      begin: 0.0,
+      end: 1.0,
+    ).animate(CurvedAnimation(
+      parent: _rippleController,
+      curve: Curves.easeOut,
+    ));
+
+    _cardAnimation = Tween<double>(
+      begin: 0.0,
+      end: 1.0,
+    ).animate(CurvedAnimation(
+      parent: _cardController,
+      curve: Curves.elasticOut,
+    ));
   }
 
   Future<void> _loadUserData() async {
@@ -28,14 +69,10 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
       final Map<String, dynamic> jsonData = json.decode(jsonString);
       final UserDataList userDataList = UserDataList.fromJson(jsonData);
       
-      if (userDataList.users.isNotEmpty) {
-        setState(() {
-          _lastUser = userDataList.users.last; // 获取最后一个用户数据
-          // 获取剩余用户数据（除了最后一个）
-          _remainingUsers = userDataList.users.take(userDataList.users.length - 1).toList();
-          _isLoading = false;
-        });
-      }
+      setState(() {
+        _users = userDataList.users;
+        _isLoading = false;
+      });
     } catch (e) {
       print('Error loading user data: $e');
       setState(() {
@@ -44,268 +81,457 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
     }
   }
 
+  void _onScreenTap() async {
+    if (_isAnimating || _users.isEmpty) return;
+
+    setState(() {
+      _isAnimating = true;
+    });
+
+    // 开始水波纹动画
+    _rippleController.forward();
+
+    // 等待动画完成
+    await Future.delayed(const Duration(milliseconds: 1200));
+
+    // 随机选择一个用户
+    final random = Random();
+    final selectedUser = _users[random.nextInt(_users.length)];
+
+    // 显示用户卡片
+    _showUserCard(selectedUser);
+
+    // 重置动画状态
+    _rippleController.reset();
+    setState(() {
+      _isAnimating = false;
+    });
+  }
+
+  Future<void> _playUserAudio(String audioPath) async {
+    try {
+      if (_isPlaying && _currentPlayingAudio == audioPath) {
+        // 如果正在播放同一个音频，则暂停
+        await _audioPlayer.pause();
+        setState(() {
+          _isPlaying = false;
+          _currentPlayingAudio = null;
+        });
+      } else {
+        // 停止当前播放的音频
+        await _audioPlayer.stop();
+        
+        // 播放新的音频 - 移除重复的assets前缀
+        String cleanPath = audioPath.startsWith('assets/') 
+            ? audioPath.substring(7) // 移除 "assets/" 前缀
+            : audioPath;
+        await _audioPlayer.play(AssetSource(cleanPath));
+        
+        setState(() {
+          _isPlaying = true;
+          _currentPlayingAudio = audioPath;
+        });
+        
+        // 监听播放完成
+        _audioPlayer.onPlayerComplete.listen((event) {
+          setState(() {
+            _isPlaying = false;
+            _currentPlayingAudio = null;
+          });
+        });
+      }
+    } catch (e) {
+      print('Error playing audio: $e');
+      setState(() {
+        _isPlaying = false;
+        _currentPlayingAudio = null;
+      });
+    }
+  }
+
+  void _showUserCard(UserData user) {
+    _cardController.forward();
+    
+    showDialog(
+      context: context,
+      barrierDismissible: true,
+      barrierColor: Colors.black.withOpacity(0.6),
+      builder: (BuildContext context) {
+        return Dialog(
+          backgroundColor: Colors.transparent,
+          insetPadding: const EdgeInsets.symmetric(horizontal: 20),
+          child: AnimatedBuilder(
+            animation: _cardAnimation,
+            builder: (context, child) {
+              return Transform.scale(
+                scale: _cardAnimation.value,
+                child: Opacity(
+                  opacity: _cardAnimation.value.clamp(0.0, 1.0),
+                  child: _UserCardWidget(
+                    user: user,
+                    onPlayAudio: _playUserAudio,
+                  ),
+                ),
+              );
+            },
+          ),
+        );
+      },
+    ).then((_) {
+      _cardController.reset();
+    });
+  }
+
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Container(
-        width: double.infinity,
-        height: double.infinity,
-        decoration: const BoxDecoration(
-          image: DecorationImage(
-            image: AssetImage('assets/images/foka_all_bg.webp'),
-            fit: BoxFit.cover,
+      body: GestureDetector(
+        onTap: _onScreenTap,
+        child: Container(
+          width: double.infinity,
+          height: double.infinity,
+          decoration: const BoxDecoration(
+            image: DecorationImage(
+              image: AssetImage('assets/images/foka_connect_nor.webp'),
+              fit: BoxFit.cover,
+            ),
           ),
-        ),
-        child: SafeArea(
-          child: Column(
+          child: Stack(
             children: [
-              // 顶部标题图片
-              Container(
-                height: 55,
-                width: double.infinity,
-                alignment: Alignment.center,
-                child: Image.asset(
-                  'assets/images/foka_discover_title.webp',
-                  height: 55,
-                  fit: BoxFit.contain,
+              // 右上角聊天入口按钮
+              Positioned(
+                top: 40,
+                right: 10,
+                child: GestureDetector(
+                  onTap: () {
+                    Navigator.pushNamed(context, '/message');
+                  },
+                  child: Image.asset(
+                    'assets/images/foka_user_chat.webp',
+                    width: 50,
+                    height: 43,
+                    fit: BoxFit.contain,
+                  ),
                 ),
               ),
-              // 用户内容展示区域 - 紧贴标题下面
-              if (_isLoading)
-                const Expanded(
-                  child: Center(
-                    child: CircularProgressIndicator(
-                      color: Colors.white,
-                    ),
-                  ),
-                )
-              else if (_lastUser != null)
-                Expanded(
-                  child: SingleChildScrollView(
-                    child: Column(
-                      children: [
-                        _buildUserContent(_lastUser!),
-                        const SizedBox(height: 20),
-                        // 标题图片 - 距离左边16像素
-                        Container(
-                          alignment: Alignment.centerLeft,
-                          padding: const EdgeInsets.only(left: 16),
-                          child: Image.asset(
-                            'assets/images/foka_discover_title_two.webp',
-                            width: 136,
-                            height: 39,
-                            fit: BoxFit.contain,
+              // 水波纹动画
+              if (_isAnimating)
+                AnimatedBuilder(
+                  animation: _rippleAnimation,
+                  builder: (context, child) {
+                    return Center(
+                      child: Container(
+                        width: 200 * _rippleAnimation.value,
+                        height: 200 * _rippleAnimation.value,
+                        decoration: BoxDecoration(
+                          shape: BoxShape.circle,
+                          border: Border.all(
+                            color: Colors.white.withOpacity(
+                              (1.0 - _rippleAnimation.value).clamp(0.0, 1.0),
+                            ),
+                            width: 3,
                           ),
                         ),
-                        const SizedBox(height: 20),
-                        // 瀑布流展示剩余用户
-                        _buildWaterfallGrid(),
+                      ),
+                    );
+                  },
+                ),
+              
+              // 加载指示器
+              if (_isLoading)
+                const Center(
+                  child: CircularProgressIndicator(
+                    color: Colors.white,
+                  ),
+                ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+
+  @override
+  void dispose() {
+    _rippleController.dispose();
+    _cardController.dispose();
+    _audioPlayer.dispose();
+    super.dispose();
+  }
+}
+
+class _UserCardWidget extends StatefulWidget {
+  final UserData user;
+  final Function(String) onPlayAudio;
+
+  const _UserCardWidget({
+    required this.user,
+    required this.onPlayAudio,
+  });
+
+  @override
+  State<_UserCardWidget> createState() => _UserCardWidgetState();
+}
+
+class _UserCardWidgetState extends State<_UserCardWidget> {
+  final AudioPlayer _audioPlayer = AudioPlayer();
+  bool _isPlaying = false;
+  String? _currentPlayingAudio;
+
+  Future<void> _playUserAudio(String audioPath) async {
+    try {
+      if (_isPlaying && _currentPlayingAudio == audioPath) {
+        // 如果正在播放同一个音频，则暂停
+        await _audioPlayer.pause();
+        setState(() {
+          _isPlaying = false;
+          _currentPlayingAudio = null;
+        });
+      } else {
+        // 停止当前播放的音频
+        await _audioPlayer.stop();
+        
+        // 播放新的音频 - 移除重复的assets前缀
+        String cleanPath = audioPath.startsWith('assets/') 
+            ? audioPath.substring(7) // 移除 "assets/" 前缀
+            : audioPath;
+        await _audioPlayer.play(AssetSource(cleanPath));
+        
+        setState(() {
+          _isPlaying = true;
+          _currentPlayingAudio = audioPath;
+        });
+        
+        // 监听播放完成
+        _audioPlayer.onPlayerComplete.listen((event) {
+          setState(() {
+            _isPlaying = false;
+            _currentPlayingAudio = null;
+          });
+        });
+      }
+    } catch (e) {
+      print('Error playing audio: $e');
+      setState(() {
+        _isPlaying = false;
+        _currentPlayingAudio = null;
+      });
+    }
+  }
+
+  @override
+  void dispose() {
+    _audioPlayer.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      constraints: const BoxConstraints(
+        maxWidth: 340,
+        maxHeight: 500,
+      ),
+      decoration: BoxDecoration(
+        borderRadius: BorderRadius.circular(24),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(0.4),
+            blurRadius: 30,
+            offset: const Offset(0, 15),
+            spreadRadius: 0,
+          ),
+          BoxShadow(
+            color: Colors.black.withOpacity(0.1),
+            blurRadius: 60,
+            offset: const Offset(0, 30),
+            spreadRadius: 0,
+          ),
+        ],
+      ),
+      child: ClipRRect(
+        borderRadius: BorderRadius.circular(24),
+        child: Stack(
+          children: [
+            // 用户背景图片
+            Positioned.fill(
+              child: Image.asset(
+                widget.user.background,
+                fit: BoxFit.cover,
+              ),
+            ),
+            // 渐变遮罩
+            Positioned.fill(
+              child: Container(
+                decoration: BoxDecoration(
+                  gradient: LinearGradient(
+                    begin: Alignment.topCenter,
+                    end: Alignment.bottomCenter,
+                    colors: [
+                      Colors.transparent,
+                      Colors.black.withOpacity(0.3),
+                      Colors.black.withOpacity(0.8),
+                    ],
+                    stops: const [0.0, 0.4, 1.0],
+                  ),
+                ),
+              ),
+            ),
+            // 用户头像
+            Positioned(
+              top: 24,
+              left: 24,
+              child: Container(
+                width: 90,
+                height: 90,
+                decoration: BoxDecoration(
+                  borderRadius: BorderRadius.circular(45),
+                  border: Border.all(
+                    color: Colors.white,
+                    width: 4,
+                  ),
+                  boxShadow: [
+                    BoxShadow(
+                      color: Colors.black.withOpacity(0.4),
+                      blurRadius: 15,
+                      offset: const Offset(0, 8),
+                    ),
+                  ],
+                ),
+                child: ClipRRect(
+                  borderRadius: BorderRadius.circular(41),
+                  child: Image.asset(
+                    widget.user.avatar,
+                    fit: BoxFit.cover,
+                  ),
+                ),
+              ),
+            ),
+            // 用户信息
+            Positioned(
+              bottom: 24,
+              left: 24,
+              right: 24,
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Text(
+                    widget.user.displayName,
+                    style: const TextStyle(
+                      color: Colors.white,
+                      fontSize: 28,
+                      fontWeight: FontWeight.w700,
+                      letterSpacing: 0.5,
+                      shadows: [
+                        Shadow(
+                          color: Colors.black,
+                          blurRadius: 6,
+                          offset: Offset(0, 3),
+                        ),
                       ],
                     ),
                   ),
-                )
-              else
-                const Expanded(
-                  child: Center(
-                    child: Text(
-                      'No user data available',
-                      style: TextStyle(color: Colors.white),
-                    ),
-                  ),
-                ),
-            ],
-          ),
-        ),
-      ),
-    );
-  }
-
-  Widget _buildUserContent(UserData user) {
-    return GestureDetector(
-      onTap: () {
-        Navigator.pushNamed(
-          context,
-          '/dynamic-detail',
-          arguments: user,
-        );
-      },
-      child: Container(
-        width: double.infinity,
-        height: 195,
-        margin: const EdgeInsets.symmetric(horizontal: 16),
-        decoration: BoxDecoration(
-          borderRadius: BorderRadius.circular(20),
-          boxShadow: [
-            BoxShadow(
-              color: Colors.black.withOpacity(0.3),
-              blurRadius: 20,
-              offset: const Offset(0, 10),
-            ),
-          ],
-        ),
-        child: ClipRRect(
-          borderRadius: BorderRadius.circular(20),
-          child: Stack(
-            children: [
-              // 用户头像
-              Positioned.fill(
-                child: Image.asset(
-                  user.avatar,
-                  fit: BoxFit.cover,
-                ),
-              ),
-              // 语音播放控件 - 在上面
-              Positioned(
-                bottom: 70,
-                right: 20,
-                child: _buildVoicePlaybackWidget(),
-              ),
-              // 动态内容文字 - 在下面
-              Positioned(
-                bottom: 10,
-                left: 20,
-                right: 20,
-                child: Text(
-                  user.post.content,
-                  maxLines: 2,
-                  overflow: TextOverflow.ellipsis,
-                  style: const TextStyle(
-                    color: Colors.white,
-                    fontSize: 18,
-                    fontWeight: FontWeight.w500,
-                    height: 1.3,
-                    shadows: [
-                      Shadow(
-                        color: Colors.black,
-                        blurRadius: 4,
-                        offset: Offset(0, 2),
+                  const SizedBox(height: 16),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                    children: [
+                      _buildImageButton(
+                        imagePath: 'assets/images/foka_user_video_call.webp',
+                        width: 147,
+                        height: 43,
+                        onTap: () {
+                          Navigator.of(context).pop();
+                          Navigator.pushNamed(
+                            context,
+                            '/video-call',
+                            arguments: widget.user,
+                          );
+                        },
+                      ),
+                      _buildImageButton(
+                        imagePath: 'assets/images/foka_user_chat.webp',
+                        width: 50,
+                        height: 43,
+                        onTap: () {
+                          Navigator.of(context).pop();
+                          Navigator.pushNamed(
+                            context,
+                            '/chat',
+                            arguments: widget.user,
+                          );
+                        },
                       ),
                     ],
                   ),
+                ],
+              ),
+            ),
+            // 关闭按钮
+            Positioned(
+              top: 20,
+              right: 20,
+              child: GestureDetector(
+                onTap: () {
+                  Navigator.of(context).pop();
+                },
+                child: Container(
+                  width: 36,
+                  height: 36,
+                  decoration: BoxDecoration(
+                    color: Colors.black.withOpacity(0.6),
+                    borderRadius: BorderRadius.circular(18),
+                    border: Border.all(
+                      color: Colors.white.withOpacity(0.2),
+                      width: 1,
+                    ),
+                  ),
+                  child: const Icon(
+                    Icons.close,
+                    color: Colors.white,
+                    size: 22,
+                  ),
                 ),
               ),
-            ],
-          ),
-        ),
-      ),
-    );
-  }
-
-  Widget _buildVoicePlaybackWidget() {
-    return GestureDetector(
-      onTap: () {
-        // TODO: 实现语音播放功能
-        print('Play voice');
-      },
-      child: Image.asset(
-        'assets/images/foka_discover_voice_pre.webp',
-        width: 112,
-        height: 31,
-        fit: BoxFit.contain,
-      ),
-    );
-  }
-
-  Widget _buildWaterfallGrid() {
-    return MasonryGridView.count(
-      crossAxisCount: 2,
-      mainAxisSpacing: 12,
-      crossAxisSpacing: 12,
-      padding: const EdgeInsets.symmetric(horizontal: 16),
-      shrinkWrap: true,
-      physics: const NeverScrollableScrollPhysics(),
-      itemCount: _remainingUsers.length,
-      itemBuilder: (context, index) {
-        final user = _remainingUsers[index];
-        return _buildUserCard(user);
-      },
-    );
-  }
-
-  Widget _buildUserCard(UserData user) {
-    return GestureDetector(
-      onTap: () {
-        Navigator.pushNamed(
-          context,
-          '/dynamic-detail',
-          arguments: user,
-        );
-      },
-      child: Container(
-        decoration: BoxDecoration(
-          borderRadius: BorderRadius.circular(16),
-          boxShadow: [
-            BoxShadow(
-              color: Colors.black.withOpacity(0.2),
-              blurRadius: 10,
-              offset: const Offset(0, 5),
+            ),
+            // 语音播放按钮 - 距离右边0，关闭按钮下方30
+            Positioned(
+              top: 86, // 20 + 36 + 30 = 86
+              right: 0,
+              child: GestureDetector(
+                onTap: () {
+                  _playUserAudio(widget.user.introduction);
+                },
+                child: Image.asset(
+                  (_isPlaying && _currentPlayingAudio == widget.user.introduction)
+                      ? 'assets/images/foka_discover_voice_big_nor.webp'
+                      : 'assets/images/foka_discover_voice_big_pre.webp',
+                  width: 180,
+                  height: 45,
+                  fit: BoxFit.contain,
+                ),
+              ),
             ),
           ],
         ),
-        child: ClipRRect(
-          borderRadius: BorderRadius.circular(16),
-          child: Stack(
-            children: [
-              // 用户头像 - 根据实际图片大小展示
-              Image.asset(
-                user.avatar,
-                fit: BoxFit.cover,
-                width: double.infinity,
-              ),
-              // New标签
-              if (user.id <= 3) // 前3个用户显示New标签
-                Positioned(
-                  top: 5,
-                  right: 5,
-                  child: Container(
-                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                    decoration: BoxDecoration(
-                      color: const Color(0xFFB700FF),
-                      borderRadius: BorderRadius.circular(12),
-                    ),
-                    child: const Text(
-                      'New',
-                      style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 12,
-                        fontWeight: FontWeight.w600,
-                      ),
-                    ),
-                  ),
-                ),
-              // 语音播放控件 - 加在图片上面
-              Positioned(
-                bottom: 50,
-                left: 12,
-                child: _buildVoicePlaybackWidget(),
-              ),
-              // 用户描述文字 - 加在图片上面
-              Positioned(
-                bottom: 5,
-                left: 5,
-                right: 5,
-                child: Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                  decoration: BoxDecoration(
-                    color: Colors.black.withOpacity(0.6),
-                    borderRadius: BorderRadius.circular(8),
-                  ),
-                  child: Text(
-                    user.post.content,
-                    maxLines: 2,
-                    overflow: TextOverflow.ellipsis,
-                    style: const TextStyle(
-                      color: Colors.white,
-                      fontSize: 12,
-                      fontWeight: FontWeight.w500,
-                      height: 1.3,
-                    ),
-                  ),
-                ),
-              ),
-            ],
-          ),
-        ),
+      ),
+    );
+  }
+
+  Widget _buildImageButton({
+    required String imagePath,
+    required double width,
+    required double height,
+    required VoidCallback onTap,
+  }) {
+    return GestureDetector(
+      onTap: onTap,
+      child: Image.asset(
+        imagePath,
+        width: width,
+        height: height,
+        fit: BoxFit.contain,
       ),
     );
   }

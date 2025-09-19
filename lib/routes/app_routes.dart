@@ -11,6 +11,8 @@ import '../screens/profile/profile_screen.dart';
 import '../screens/chat/ai_chat_screen.dart';
 import '../screens/chat/voice_chat_screen.dart';
 import '../screens/chat/chat_conversation_screen.dart';
+import '../screens/message/video_call_screen.dart';
+import '../screens/message/chat_page.dart';
 import '../screens/dynamic/dynamic_detail_screen.dart';
 import '../screens/profile/user_profile_screen.dart';
 import '../screens/about/about_us_screen.dart';
@@ -30,6 +32,8 @@ class AppRoutes {
   static const String aiChat = '/ai-chat';
   static const String voiceChat = '/voice-chat';
   static const String chatConversation = '/chat-conversation';
+  static const String videoCall = '/video-call';
+  static const String chat = '/chat';
   static const String dynamicDetail = '/dynamic-detail';
   static const String userProfile = '/user-profile';
   static const String aboutUs = '/about-us';
@@ -101,6 +105,30 @@ class AppRoutes {
         }
         return MaterialPageRoute(
           builder: (_) => ChatConversationScreen(aiRole: aiRole),
+          settings: settings,
+        );
+      case videoCall:
+        final user = settings.arguments as UserData?;
+        if (user == null) {
+          return MaterialPageRoute(
+            builder: (_) => const LoginScreen(),
+            settings: settings,
+          );
+        }
+        return MaterialPageRoute(
+          builder: (_) => VideoCallScreen(user: user),
+          settings: settings,
+        );
+      case chat:
+        final user = settings.arguments as UserData?;
+        if (user == null) {
+          return MaterialPageRoute(
+            builder: (_) => const LoginScreen(),
+            settings: settings,
+          );
+        }
+        return MaterialPageRoute(
+          builder: (_) => ChatPage(user: user),
           settings: settings,
         );
       case dynamicDetail:

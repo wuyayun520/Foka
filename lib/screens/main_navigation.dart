@@ -3,6 +3,7 @@ import 'home/home_screen.dart';
 import 'discover/discover_screen.dart';
 import 'message/message_screen.dart';
 import 'profile/profile_screen.dart';
+import 'upload/upload_screen.dart';
 import '../theme/app_theme.dart';
 
 class MainNavigation extends StatefulWidget {
@@ -54,7 +55,7 @@ class _MainNavigationState extends State<MainNavigation> {
                 _buildNavItem(
                   normalIcon: 'assets/images/tabnor/foka_tab_home_3.webp',
                   selectedIcon: 'assets/images/tabpre/foka_tab_home_3.webp',
-                  label: 'Message',
+                  label: 'Upload',
                   index: 2,
                 ),
                 _buildNavItem(
@@ -80,7 +81,14 @@ class _MainNavigationState extends State<MainNavigation> {
     final bool isSelected = _currentIndex == index;
     
     return GestureDetector(
-      onTap: () => setState(() => _currentIndex = index),
+      onTap: () {
+        if (index == 2) {
+          // 第三个 tabbar (Message) 点击时弹出上传页面
+          _showUploadBottomSheet();
+        } else {
+          setState(() => _currentIndex = index);
+        }
+      },
       child: Container(
         padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
         child: Column(
@@ -105,6 +113,37 @@ class _MainNavigationState extends State<MainNavigation> {
             ),
           ],
         ),
+      ),
+    );
+  }
+
+  void _showUploadBottomSheet() {
+    showModalBottomSheet(
+      context: context,
+      isScrollControlled: true,
+      backgroundColor: Colors.transparent,
+      isDismissible: true,
+      enableDrag: false,
+      builder: (BuildContext context) {
+        return const UploadScreen();
+      },
+    ).then((result) {
+      // 如果上传成功，显示成功提示
+      if (result != null && result is String) {
+        _showSuccessSnackBar(result);
+      }
+    });
+  }
+
+  void _showSuccessSnackBar(String message) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text(message),
+        backgroundColor: const Color(0xFFB700FF),
+        duration: const Duration(seconds: 3),
+        behavior: SnackBarBehavior.floating,
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+        margin: const EdgeInsets.all(16),
       ),
     );
   }
