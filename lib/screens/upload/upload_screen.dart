@@ -3,7 +3,9 @@ import 'package:image_picker/image_picker.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:record/record.dart';
 import 'package:path_provider/path_provider.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:io';
+import '../profile/subscriptions_screen.dart';
 
 class UploadScreen extends StatefulWidget {
   const UploadScreen({super.key});
@@ -24,11 +26,182 @@ class _UploadScreenState extends State<UploadScreen> {
   Duration _recordingDuration = Duration.zero;
 
   @override
+  void initState() {
+    super.initState();
+    _checkVipStatusAndShowDialog();
+  }
+
+  @override
   void dispose() {
     _textController.dispose();
     _audioPlayer.dispose();
     _audioRecorder.dispose();
     super.dispose();
+  }
+
+  Future<bool> _checkVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    final isVip = prefs.getBool('isVip') ?? false;
+    final expiryStr = prefs.getString('vipExpiry');
+    final vipType = prefs.getString('vip_type') ?? '';
+    
+    // 检查是否为月订阅且未过期
+    if (isVip && expiryStr != null && vipType == 'monthly') {
+      final expiry = DateTime.tryParse(expiryStr);
+      if (expiry != null && expiry.isAfter(DateTime.now())) {
+        return true; // 月订阅VIP有效
+      }
+    }
+    return false; // 不是月订阅VIP或已过期
+  }
+
+  Future<void> _checkVipStatusAndShowDialog() async {
+    final isVip = await _checkVipStatus();
+    if (!isVip) {
+      // 延迟显示对话框，确保页面已完全加载
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        _showVipRequiredDialog();
+      });
+    }
+  }
+
+  void _showVipRequiredDialog() {
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          backgroundColor: const Color(0xFF1D0333),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+          title: Row(
+            children: [
+              Container(
+                padding: const EdgeInsets.all(8),
+                decoration: BoxDecoration(
+                  gradient: LinearGradient(
+                    colors: [
+                      Colors.amber.shade300,
+                      Colors.amber.shade600,
+                    ],
+                    begin: Alignment.topLeft,
+                    end: Alignment.bottomRight,
+                  ),
+                  borderRadius: BorderRadius.circular(8),
+                ),
+                child: const Icon(
+                  Icons.star,
+                  color: Colors.white,
+                  size: 20,
+                ),
+              ),
+              const SizedBox(width: 12),
+              Expanded(
+                child: Text(
+                  'Monthly Premium Required',
+                  style: const TextStyle(
+                    color: Colors.white,
+                    fontSize: 18,
+                    fontWeight: FontWeight.w600,
+                  ),
+                  overflow: TextOverflow.ellipsis,
+                ),
+              ),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'Upload wishes feature requires Monthly Foka Premium subscription!',
+                style: TextStyle(
+                  color: Colors.white70,
+                  fontSize: 16,
+                ),
+              ),
+              const SizedBox(height: 20),
+              // 月订阅价格展示
+              Container(
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: Colors.white.withOpacity(0.1),
+                  borderRadius: BorderRadius.circular(12),
+                  border: Border.all(
+                    color: Colors.amber.withOpacity(0.3),
+                    width: 1,
+                  ),
+                ),
+                child: Row(
+                  children: [
+                    Flexible(
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                        decoration: BoxDecoration(
+                          color: Colors.amber.withOpacity(0.2),
+                          borderRadius: BorderRadius.circular(8),
+                        ),
+                        child: const Text(
+                          'Monthly ',
+                          style: TextStyle(
+                            color: Colors.amber,
+                            fontSize: 16,
+                            fontWeight: FontWeight.w600,
+                          ),
+                          overflow: TextOverflow.ellipsis,
+                        ),
+                      ),
+                    ),
+                    const SizedBox(width: 8),
+                    Text(
+                      '\$49.99',
+                      style: TextStyle(
+                        color: Colors.amber.shade300,
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop(); // 关闭对话框
+                Navigator.of(context).pop(); // 关闭上传页面
+              },
+              child: const Text(
+                'Cancel',
+                style: TextStyle(color: Colors.white54),
+              ),
+            ),
+            TextButton(
+              onPressed: () async {
+                Navigator.of(context).pop(); // 关闭对话框
+                Navigator.of(context).pop(); // 关闭上传页面
+                // 跳转到订阅页面
+                await Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const SubscriptionsPage(),
+                  ),
+                );
+              },
+              child: const Text(
+                'Subscribe',
+                style: TextStyle(
+                  color: Color(0xFFB700FF),
+                  fontWeight: FontWeight.w600,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
   }
 
   Future<void> _pickImages() async {

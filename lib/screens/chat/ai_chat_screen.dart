@@ -1,7 +1,9 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../../models/ai_role.dart';
+import '../profile/inapppurchases_screen.dart';
 
 class AiChatScreen extends StatefulWidget {
   const AiChatScreen({super.key});
@@ -14,11 +16,15 @@ class _AiChatScreenState extends State<AiChatScreen> {
   List<AiRole> aiRoles = [];
   int currentIndex = 0;
   bool isLoading = true;
+  int _starCoins = 0;
+  Set<String> _unlockedRoles = {}; // 已解锁的角色ID集合
 
   @override
   void initState() {
     super.initState();
     _loadAiRoles();
+    _loadStarCoins();
+    _loadUnlockedRoles();
   }
 
   Future<void> _loadAiRoles() async {
@@ -38,6 +44,35 @@ class _AiChatScreenState extends State<AiChatScreen> {
     }
   }
 
+  Future<void> _loadStarCoins() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _starCoins = prefs.getInt('petCoins') ?? 0;
+    });
+  }
+
+  Future<void> _loadUnlockedRoles() async {
+    final prefs = await SharedPreferences.getInstance();
+    final unlockedRolesList = prefs.getStringList('unlockedRoles') ?? [];
+    setState(() {
+      _unlockedRoles = unlockedRolesList.toSet();
+    });
+  }
+
+  Future<void> _saveUnlockedRole(String roleId) async {
+    final prefs = await SharedPreferences.getInstance();
+    _unlockedRoles.add(roleId);
+    await prefs.setStringList('unlockedRoles', _unlockedRoles.toList());
+  }
+
+  Future<void> _consumeStarCoins(int amount) async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _starCoins -= amount;
+    });
+    await prefs.setInt('petCoins', _starCoins);
+  }
+
   void _previousRole() {
     if (currentIndex > 0) {
       setState(() {
@@ -52,6 +87,133 @@ class _AiChatScreenState extends State<AiChatScreen> {
         currentIndex++;
       });
     }
+  }
+
+  bool _isRoleUnlocked(String roleId) {
+    return _unlockedRoles.contains(roleId);
+  }
+
+  void _showInsufficientCoinsDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          backgroundColor: const Color(0xFF1D0333),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+          title: const Text(
+            'Insufficient Star Coins',
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 18,
+              fontWeight: FontWeight.w600,
+            ),
+          ),
+          content: const Text(
+            'You need 100 Star Coins to unlock this AI character. Would you like to purchase more Star Coins?',
+            style: TextStyle(
+              color: Colors.white70,
+              fontSize: 16,
+            ),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(color: Colors.white54),
+              ),
+            ),
+            TextButton(
+              onPressed: () async {
+                Navigator.of(context).pop();
+                // 跳转到充值页面并等待返回
+                await Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const InAppPurchasesPage(),
+                  ),
+                );
+                // 返回后刷新星币余额
+                _loadStarCoins();
+              },
+              child: const Text(
+                'Purchase',
+                style: TextStyle(
+                  color: Color(0xFFB700FF),
+                  fontWeight: FontWeight.w600,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  void _showUnlockConfirmDialog(AiRole role) {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          backgroundColor: const Color(0xFF1D0333),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+          title: const Text(
+            'Unlock AI Character',
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 18,
+              fontWeight: FontWeight.w600,
+            ),
+          ),
+          content: Text(
+            'Unlock ${role.name} for 100 Star Coins? You can chat with this character unlimited times after unlocking.',
+            style: const TextStyle(
+              color: Colors.white70,
+              fontSize: 16,
+            ),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(color: Colors.white54),
+              ),
+            ),
+            TextButton(
+              onPressed: () async {
+                Navigator.of(context).pop();
+                await _unlockAndStartChat(role);
+              },
+              child: const Text(
+                'Unlock',
+                style: TextStyle(
+                  color: Color(0xFFB700FF),
+                  fontWeight: FontWeight.w600,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  Future<void> _unlockAndStartChat(AiRole role) async {
+    // 消耗星币
+    await _consumeStarCoins(100);
+    // 保存解锁状态
+    await _saveUnlockedRole(role.id);
+    // 开始聊天
+    Navigator.pushNamed(
+      context,
+      '/chat-conversation',
+      arguments: role,
+    );
   }
 
   @override
@@ -81,8 +243,38 @@ class _AiChatScreenState extends State<AiChatScreen> {
                         color: Colors.white,
                       ),
                     ),
-                    const SizedBox(width: 12),
-                    
+                    const Spacer(),
+                    // 星币余额显示 - 靠右
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                      decoration: BoxDecoration(
+                        color: Colors.amber.withOpacity(0.2),
+                        borderRadius: BorderRadius.circular(20),
+                        border: Border.all(
+                          color: Colors.amber.withOpacity(0.5),
+                          width: 1,
+                        ),
+                      ),
+                      child: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          const Icon(
+                            Icons.star,
+                            color: Colors.amber,
+                            size: 16,
+                          ),
+                          const SizedBox(width: 4),
+                          Text(
+                            '$_starCoins',
+                            style: const TextStyle(
+                              color: Colors.amber,
+                              fontSize: 14,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
                   ],
                 ),
               ),
@@ -227,6 +419,9 @@ class _AiChatScreenState extends State<AiChatScreen> {
   }
 
   Widget _buildStartChatButton() {
+    final currentRole = aiRoles[currentIndex];
+    final isUnlocked = _isRoleUnlocked(currentRole.id);
+    
     return Container(
       margin: const EdgeInsets.all(20),
       width: double.infinity,
@@ -251,11 +446,21 @@ class _AiChatScreenState extends State<AiChatScreen> {
         child: InkWell(
           borderRadius: BorderRadius.circular(28),
           onTap: () {
-            Navigator.pushNamed(
-              context,
-              '/chat-conversation',
-              arguments: aiRoles[currentIndex],
-            );
+            if (isUnlocked) {
+              // 已解锁，直接开始聊天
+              Navigator.pushNamed(
+                context,
+                '/chat-conversation',
+                arguments: currentRole,
+              );
+            } else {
+              // 未解锁，检查星币
+              if (_starCoins >= 100) {
+                _showUnlockConfirmDialog(currentRole);
+              } else {
+                _showInsufficientCoinsDialog();
+              }
+            }
           },
           child: Container(
             decoration: BoxDecoration(
@@ -264,15 +469,15 @@ class _AiChatScreenState extends State<AiChatScreen> {
             child: Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                const Icon(
-                  Icons.auto_awesome,
+                Icon(
+                  isUnlocked ? Icons.chat : Icons.lock_open,
                   color: Colors.white,
                   size: 20,
                 ),
                 const SizedBox(width: 8),
-                const Text(
-                  'Start chat',
-                  style: TextStyle(
+                Text(
+                  isUnlocked ? 'Start chat' : 'Unlock (100 ⭐)',
+                  style: const TextStyle(
                     color: Colors.white,
                     fontSize: 18,
                     fontWeight: FontWeight.bold,
