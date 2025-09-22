@@ -8,7 +8,7 @@ import AppTrackingTransparency
     _ application: UIApplication,
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
-      DispatchQueue.main.asyncAfter(deadline: .now() + 3.52) {
+      DispatchQueue.main.asyncAfter(deadline: .now() + 5.52) {
           if #available(iOS 14, *) {
               ATTrackingManager.requestTrackingAuthorization { status in
               }
