@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoEnvironmentShape</key>
+	<string>previewAmongFlyweight</string>
+	<key>delegateObserverInteraction</key>
+	<string>sizedboxStrategyDirection</string>
+	<key>fixedSpriteVelocity</key>
+	<string>containerDespiteKind</string>
+	<key>localCurveBehavior</key>
+	<string>labelAgainstLayer</string>
+	<key>promiseTempleBound</key>
+	<string>commonGestureBorder</string>
+	<key>stampBufferStyle</key>
+	<string>graphVarKind</string>
+	<key>subscriptionInsideLayer</key>
+	<string>frameInType</string>
+</dict>
+</plist>

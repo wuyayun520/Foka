@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSegmentBehavior</key>
+	<string>dynamicGiftBrightness</string>
+	<key>exceptionInSystem</key>
+	<string>numericalTransformerMode</string>
+	<key>mobxCommandStatus</key>
+	<string>comprehensiveAlphaInterval</string>
+	<key>unaryInsideMethod</key>
+	<string>dependencyOutsideFacade</string>
+</dict>
+</plist>

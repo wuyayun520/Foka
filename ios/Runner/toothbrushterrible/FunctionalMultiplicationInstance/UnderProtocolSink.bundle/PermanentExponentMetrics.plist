@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricMatrixPosition</key>
+	<string>chapterTaskDistance</string>
+	<key>interfaceLevelInterval</key>
+	<string>gridBeyondParam</string>
+	<key>interfaceThroughBridge</key>
+	<string>backwardScaffoldOffset</string>
+	<key>mediaPerTask</key>
+	<string>oldExponentVisibility</string>
+	<key>notificationIncludeObserver</key>
+	<string>originalActivityFeedback</string>
+	<key>permissiveTickerValidation</key>
+	<string>delegateAndJob</string>
+	<key>priorFrameScale</key>
+	<string>reducerLikeLayer</string>
+</dict>
+</plist>

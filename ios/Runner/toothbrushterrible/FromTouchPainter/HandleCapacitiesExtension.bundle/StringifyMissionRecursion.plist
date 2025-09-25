@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandBesideFlyweight</key>
+	<string>previewDuringBridge</string>
+	<key>graphicExceptBridge</key>
+	<string>autoCallbackBottom</string>
+	<key>lostCubitBottom</key>
+	<string>themeExceptNumber</string>
+	<key>particleVersusStage</key>
+	<string>lazyCoordinatorTop</string>
+	<key>stateMementoOrientation</key>
+	<string>popupMediatorForce</string>
+</dict>
+</plist>

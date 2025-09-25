@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentTabbarLocation</key>
+	<string>ignoredStorageTag</string>
+	<key>indicatorKindTransparency</key>
+	<string>tweenIncludeStage</string>
+	<key>methodCommandDuration</key>
+	<string>completerFormBottom</string>
+	<key>temporaryAwaitInset</key>
+	<string>awaitProcessName</string>
+	<key>topicObserverDepth</key>
+	<string>nodeFrameworkContrast</string>
+</dict>
+</plist>

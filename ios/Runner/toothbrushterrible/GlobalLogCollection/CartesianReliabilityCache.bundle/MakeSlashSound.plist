@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateChainBottom</key>
+	<string>awaitStructureMode</string>
+	<key>flexOrCommand</key>
+	<string>synchronousConstraintBehavior</string>
+	<key>hashStrategyLeft</key>
+	<string>concurrentBulletBorder</string>
+	<key>resolverActivityAlignment</key>
+	<string>liteWidgetCenter</string>
+	<key>resolverInsideForm</key>
+	<string>scrollableCosineAlignment</string>
+	<key>significantUsageTension</key>
+	<string>featurePerVar</string>
+	<key>tweenMediatorInterval</key>
+	<string>crucialAsyncFeedback</string>
+</dict>
+</plist>

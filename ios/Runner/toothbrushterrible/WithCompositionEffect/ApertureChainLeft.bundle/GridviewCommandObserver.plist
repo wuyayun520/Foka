@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelDespiteStrategy</key>
+	<string>containerParameterHue</string>
+	<key>localLayoutTransparency</key>
+	<string>providerChainMode</string>
+	<key>standaloneSubpixelBound</key>
+	<string>constraintMementoBottom</string>
+	<key>stateCommandRate</key>
+	<string>lazyControllerCount</string>
+</dict>
+</plist>

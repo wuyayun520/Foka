@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitForProcess</key>
+	<string>priorityChainMode</string>
+	<key>containerContainStrategy</key>
+	<string>finalRoleMomentum</string>
+	<key>sliderAgainstMethod</key>
+	<string>staticCardBound</string>
+	<key>zoneWithoutShape</key>
+	<string>hashFormVisible</string>
+</dict>
+</plist>

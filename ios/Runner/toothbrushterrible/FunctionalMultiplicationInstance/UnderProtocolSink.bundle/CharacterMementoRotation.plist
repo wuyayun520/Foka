@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineVisitorResponse</key>
+	<string>constraintContainNumber</string>
+	<key>capacitiesInsideState</key>
+	<string>mobxInsideContext</string>
+	<key>cycleObserverAppearance</key>
+	<string>intuitiveBuilderOpacity</string>
+	<key>drawerDecoratorLocation</key>
+	<string>alignmentVariableTag</string>
+	<key>ignoredExtensionVisibility</key>
+	<string>oldDimensionColor</string>
+	<key>nativeAlignmentBehavior</key>
+	<string>segueOperationOpacity</string>
+	<key>remainderStyleTail</key>
+	<string>directlyCommandDistance</string>
+	<key>subscriptionFrameworkTension</key>
+	<string>gridviewOrBridge</string>
+</dict>
+</plist>

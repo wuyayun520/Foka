@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDuringMediator</key>
+	<string>gradientOfNumber</string>
+	<key>awaitAlongProcess</key>
+	<string>requestIncludeInterpreter</string>
+	<key>blocAdapterDistance</key>
+	<string>directTweenSkewy</string>
+	<key>difficultGesturedetectorDistance</key>
+	<string>optionDespiteComposite</string>
+	<key>dynamicCharacterInteraction</key>
+	<string>layerAmongMethod</string>
+	<key>handlerFacadeDepth</key>
+	<string>uniformHandlerRight</string>
+	<key>kernelActionFeedback</key>
+	<string>logMementoMode</string>
+	<key>pointBridgePosition</key>
+	<string>cartesianScaffoldMode</string>
+	<key>widgetSingletonRate</key>
+	<string>transitionActivityOffset</string>
+</dict>
+</plist>

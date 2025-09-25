@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderInType</key>
+	<string>asyncPresenterShade</string>
+	<key>globalGridSkewx</key>
+	<string>queryAndShape</string>
+	<key>mobxNearStrategy</key>
+	<string>kernelContainVariable</string>
+	<key>resourceAlongCycle</key>
+	<string>otherWidgetOrigin</string>
+</dict>
+</plist>

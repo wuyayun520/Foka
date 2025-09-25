@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileDuringDecorator</key>
+	<string>chapterFrameworkDensity</string>
+	<key>semanticsSingletonTop</key>
+	<string>topicPlatformAcceleration</string>
+</dict>
+</plist>

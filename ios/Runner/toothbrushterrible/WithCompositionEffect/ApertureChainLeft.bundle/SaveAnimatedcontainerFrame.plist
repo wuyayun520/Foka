@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDropdownbuttonCenter</key>
+	<string>actionExceptVisitor</string>
+	<key>assetFlyweightLocation</key>
+	<string>ephemeralThemeSpacing</string>
+	<key>geometricCellEdge</key>
+	<string>tickerNearActivity</string>
+	<key>globalFragmentBottom</key>
+	<string>prevColumnResponse</string>
+	<key>stepCycleTop</key>
+	<string>tappableProgressbarDistance</string>
+</dict>
+</plist>

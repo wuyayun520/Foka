@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAtMode</key>
+	<string>tableSingletonShade</string>
+	<key>dialogsThanComposite</key>
+	<string>graphOrNumber</string>
+	<key>keyTimerFrequency</key>
+	<string>geometricSampleFeedback</string>
+	<key>rapidZoneCoord</key>
+	<string>logAwayForm</string>
+	<key>relationalFactoryStyle</key>
+	<string>sequentialLayoutShape</string>
+	<key>retainedZoneFlags</key>
+	<string>mediaqueryEnvironmentSaturation</string>
+	<key>subscriptionCommandState</key>
+	<string>managerStagePadding</string>
+</dict>
+</plist>

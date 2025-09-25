@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityLayerRate</key>
+	<string>graphThroughJob</string>
+	<key>ephemeralEntityValidation</key>
+	<string>equipmentNearStage</string>
+	<key>loopStateFrequency</key>
+	<string>statelessAxisVisibility</string>
+	<key>responseAndEnvironment</key>
+	<string>equalizationNearFunction</string>
+	<key>vectorFlyweightDuration</key>
+	<string>mobileSizedboxLocation</string>
+</dict>
+</plist>

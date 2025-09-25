@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentAspectratioFlags</key>
+	<string>fusedProfileFlags</string>
+	<key>interactorBridgeIndex</key>
+	<string>usageInsideScope</string>
+	<key>observerAndLevel</key>
+	<string>advancedCallbackDensity</string>
+	<key>queueStructureState</key>
+	<string>paddingAwayFacade</string>
+	<key>responseVersusMode</key>
+	<string>exceptionAroundLevel</string>
+</dict>
+</plist>

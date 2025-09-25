@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetValueBehavior</key>
+	<string>effectBesideTemple</string>
+	<key>callbackStageResponse</key>
+	<string>storeAsActivity</string>
+	<key>configurationStageLocation</key>
+	<string>labelCommandStatus</string>
+	<key>constFrameKind</key>
+	<string>webToolCenter</string>
+	<key>labelThanStyle</key>
+	<string>vectorStylePadding</string>
+	<key>resultContextCenter</key>
+	<string>oldGroupColor</string>
+	<key>sequentialPositionMode</key>
+	<string>publicIntegerStyle</string>
+</dict>
+</plist>

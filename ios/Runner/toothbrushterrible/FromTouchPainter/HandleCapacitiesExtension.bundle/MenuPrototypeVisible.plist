@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisInterpreterAlignment</key>
+	<string>sinkAtProcess</string>
+	<key>comprehensiveGemBehavior</key>
+	<string>gemPerProxy</string>
+	<key>effectUntilEnvironment</key>
+	<string>lostInterpolationRate</string>
+	<key>graphCompositeMargin</key>
+	<string>configurationAlongInterpreter</string>
+	<key>imageTaskHead</key>
+	<string>sinkTaskAppearance</string>
+	<key>masterByShape</key>
+	<string>responseBeyondOperation</string>
+	<key>respectiveTechniqueEdge</key>
+	<string>activityTaskMode</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContainPrototype</key>
+	<string>mobileContainerType</string>
+	<key>delegateDespiteJob</key>
+	<string>transitionIncludeProcess</string>
+	<key>graphWithVariable</key>
+	<string>repositoryWithInterpreter</string>
+	<key>isolateCompositeHead</key>
+	<string>bufferAlongParameter</string>
+	<key>progressbarParameterCenter</key>
+	<string>eagerBatchMode</string>
+	<key>sceneOrVisitor</key>
+	<string>statelessDecoratorScale</string>
+	<key>tweenDuringStrategy</key>
+	<string>layoutBeyondSingleton</string>
+</dict>
+</plist>

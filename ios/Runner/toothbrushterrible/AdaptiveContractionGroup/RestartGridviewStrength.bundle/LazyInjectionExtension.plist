@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnContextLeft</key>
+	<string>referenceCompositeSpacing</string>
+	<key>effectValuePosition</key>
+	<string>topicInScope</string>
+	<key>layoutStageTheme</key>
+	<string>sizedboxTierCoord</string>
+	<key>normalEquipmentEdge</key>
+	<string>tappableLogSize</string>
+	<key>persistentAnimationFlags</key>
+	<string>anchorLayerMode</string>
+	<key>textureCommandLocation</key>
+	<string>difficultTextOrientation</string>
+</dict>
+</plist>

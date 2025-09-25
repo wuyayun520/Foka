@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerBridgeOffset</key>
+	<string>groupAroundAction</string>
+	<key>menuFunctionStyle</key>
+	<string>euclideanImageAppearance</string>
+	<key>priorExceptionIndex</key>
+	<string>granularAnimationBehavior</string>
+	<key>transitionEnvironmentRotation</key>
+	<string>statelessForScope</string>
+</dict>
+</plist>

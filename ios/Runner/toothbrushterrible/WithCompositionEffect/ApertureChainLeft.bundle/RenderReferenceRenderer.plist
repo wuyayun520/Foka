@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBesideMode</key>
+	<string>columnThanPlatform</string>
+	<key>cacheFacadeTransparency</key>
+	<string>loopStyleTheme</string>
+	<key>projectBesideKind</key>
+	<string>tangentAndCommand</string>
+	<key>stepScopeInset</key>
+	<string>responsivePositionedPadding</string>
+	<key>subpixelStagePadding</key>
+	<string>euclideanFeatureRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInsideStyle</key>
+	<string>statelessAlignmentInset</string>
+	<key>draggableControllerMode</key>
+	<string>iterativeManagerLocation</string>
+	<key>dynamicRadioVisible</key>
+	<string>sophisticatedCallbackShape</string>
+	<key>geometricResponseVisible</key>
+	<string>queueLayerAlignment</string>
+	<key>grayscaleProxyFlags</key>
+	<string>advancedStackFormat</string>
+	<key>inkwellAgainstInterpreter</key>
+	<string>progressbarPerStrategy</string>
+	<key>priorEventTension</key>
+	<string>logarithmStateInterval</string>
+	<key>queuePerParam</key>
+	<string>spriteTaskLeft</string>
+	<key>rapidCanvasEdge</key>
+	<string>documentCommandName</string>
+	<key>threadContainShape</key>
+	<string>borderTypePadding</string>
+</dict>
+</plist>

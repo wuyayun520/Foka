@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerSingletonFeedback</key>
+	<string>ignoredStoreStyle</string>
+	<key>iterativeExtensionBehavior</key>
+	<string>kernelOutsideMode</string>
+	<key>mapFunctionEdge</key>
+	<string>uniformMenuRotation</string>
+	<key>oldColumnFlags</key>
+	<string>standaloneProviderSpeed</string>
+	<key>reductionBufferMode</key>
+	<string>protocolViaWork</string>
+	<key>sceneProxyShape</key>
+	<string>activityProxyResponse</string>
+	<key>visibleUsecaseSpacing</key>
+	<string>globalModulusLocation</string>
+</dict>
+</plist>

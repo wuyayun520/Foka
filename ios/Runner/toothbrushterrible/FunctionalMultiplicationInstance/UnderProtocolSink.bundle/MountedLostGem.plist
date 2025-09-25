@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerFrameworkDepth</key>
+	<string>sizedboxBridgeOrientation</string>
+	<key>contractionOutsidePattern</key>
+	<string>statelessViaProxy</string>
+	<key>effectBufferVisible</key>
+	<string>sizeStyleHead</string>
+	<key>intuitiveOptionMode</key>
+	<string>progressbarContextSkewx</string>
+	<key>localizationKindOpacity</key>
+	<string>managerPerJob</string>
+	<key>resourceCompositeTheme</key>
+	<string>plateDuringFlyweight</string>
+	<key>symbolPerLayer</key>
+	<string>nextFragmentLocation</string>
+</dict>
+</plist>

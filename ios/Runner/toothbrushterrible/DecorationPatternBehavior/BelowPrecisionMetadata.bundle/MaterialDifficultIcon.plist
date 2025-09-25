@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchExceptStyle</key>
+	<string>collectionOutsideStyle</string>
+	<key>cacheDespiteEnvironment</key>
+	<string>keyIndicatorBehavior</string>
+	<key>configurationOperationPadding</key>
+	<string>containerFormShade</string>
+	<key>containerVarFeedback</key>
+	<string>completionContextAcceleration</string>
+	<key>cupertinoAwayState</key>
+	<string>materialUntilFramework</string>
+	<key>durationAmongTier</key>
+	<string>skirtProxyTag</string>
+	<key>equipmentWorkFeedback</key>
+	<string>numericalChallengeCount</string>
+	<key>resizableGraphBound</key>
+	<string>arithmeticProjectTheme</string>
+	<key>singletonFlyweightType</key>
+	<string>temporaryMemberShape</string>
+	<key>uniformResourceBottom</key>
+	<string>asyncInForm</string>
+</dict>
+</plist>

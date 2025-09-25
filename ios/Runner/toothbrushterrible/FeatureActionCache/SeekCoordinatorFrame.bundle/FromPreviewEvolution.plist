@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineExceptLayer</key>
+	<string>memberFrameworkTint</string>
+	<key>deferredRowDensity</key>
+	<string>frameOutsideFunction</string>
+	<key>documentPatternInteraction</key>
+	<string>presenterProxyTag</string>
+	<key>ephemeralRadiusSize</key>
+	<string>richtextEnvironmentStatus</string>
+	<key>gridContextInteraction</key>
+	<string>notifierBridgeSkewx</string>
+	<key>indicatorPerStage</key>
+	<string>keyRectCount</string>
+	<key>protocolFlyweightAppearance</key>
+	<string>inkwellChainSkewy</string>
+	<key>timerAboutPhase</key>
+	<string>projectWorkAcceleration</string>
+</dict>
+</plist>

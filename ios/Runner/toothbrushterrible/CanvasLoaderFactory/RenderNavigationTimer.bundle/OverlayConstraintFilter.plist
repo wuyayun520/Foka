@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveViewBehavior</key>
+	<string>lostNotifierSaturation</string>
+	<key>beginnerMenuBrightness</key>
+	<string>stateUntilCommand</string>
+	<key>chapterViaStyle</key>
+	<string>widgetParamCoord</string>
+	<key>crudeRiverpodOffset</key>
+	<string>publicInkwellHead</string>
+	<key>extensionObserverFlags</key>
+	<string>indicatorWithValue</string>
+	<key>memberWithoutForm</key>
+	<string>beginnerAllocatorState</string>
+	<key>semanticAlignmentFlags</key>
+	<string>commandModeFlags</string>
+	<key>specifyTransformerFlags</key>
+	<string>geometricPositionBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerSingletonCoord</key>
+	<string>modelAndDecorator</string>
+	<key>enabledParticleStyle</key>
+	<string>functionalAsyncTop</string>
+	<key>granularNavigatorKind</key>
+	<string>lazyTextfieldSkewx</string>
+	<key>newestSingletonAppearance</key>
+	<string>sceneLikeMethod</string>
+	<key>sizeBridgeFeedback</key>
+	<string>previewProcessAppearance</string>
+</dict>
+</plist>

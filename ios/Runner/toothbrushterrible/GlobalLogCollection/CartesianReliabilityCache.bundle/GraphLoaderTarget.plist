@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAdapterDirection</key>
+	<string>prevCompleterTransparency</string>
+	<key>appbarOutsideCommand</key>
+	<string>topicOrPattern</string>
+	<key>asyncAnimatedcontainerInteraction</key>
+	<string>shaderBridgeTheme</string>
+	<key>borderScopeEdge</key>
+	<string>resourceWithPrototype</string>
+	<key>durationBufferBorder</key>
+	<string>techniqueFormTop</string>
+	<key>iterativeZoneBound</key>
+	<string>screenCompositeColor</string>
+	<key>labelSinceFacade</key>
+	<string>elasticConstraintTail</string>
+	<key>publicRiverpodLocation</key>
+	<string>labelAndVar</string>
+	<key>sizedboxVisitorCount</key>
+	<string>apertureSystemFrequency</string>
+</dict>
+</plist>

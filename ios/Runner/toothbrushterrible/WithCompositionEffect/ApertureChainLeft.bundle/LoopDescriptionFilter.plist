@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutInsideBridge</key>
+	<string>observerContextName</string>
+	<key>plateCycleRate</key>
+	<string>streamContextBrightness</string>
+	<key>stampContainNumber</key>
+	<string>repositoryValueFlags</string>
+	<key>storePrototypeResponse</key>
+	<string>animationVariableCoord</string>
+	<key>temporaryMusicDuration</key>
+	<string>resizableSemanticsRotation</string>
+</dict>
+</plist>

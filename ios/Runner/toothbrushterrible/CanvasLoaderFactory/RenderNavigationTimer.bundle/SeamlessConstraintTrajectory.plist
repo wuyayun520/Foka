@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardUtilFormat</key>
+	<string>statefulFromScope</string>
+	<key>buttonVariableLeft</key>
+	<string>statefulLocalizationCount</string>
+	<key>dependencyStrategyDensity</key>
+	<string>storageAtScope</string>
+	<key>factoryFrameworkInteraction</key>
+	<string>liteDropdownbuttonTension</string>
+	<key>keyDrawerForce</key>
+	<string>intuitiveResolverBrightness</string>
+	<key>liteQueryBottom</key>
+	<string>retainedViewRight</string>
+	<key>mediocreShaderSaturation</key>
+	<string>repositoryVersusType</string>
+	<key>riverpodNearState</key>
+	<string>constContainerBound</string>
+	<key>singleCursorTransparency</key>
+	<string>temporaryColumnOpacity</string>
+	<key>widgetAmongFlyweight</key>
+	<string>subpixelFromPrototype</string>
+</dict>
+</plist>

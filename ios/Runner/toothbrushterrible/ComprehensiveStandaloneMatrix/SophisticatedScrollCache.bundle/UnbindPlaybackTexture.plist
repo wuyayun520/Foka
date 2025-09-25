@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTextureShade</key>
+	<string>hierarchicalPositionSkewy</string>
+	<key>beginnerLayerDepth</key>
+	<string>instructionIncludeVariable</string>
+	<key>navigatorDuringForm</key>
+	<string>checkboxDuringParameter</string>
+	<key>projectOperationBottom</key>
+	<string>specifierScopeVisible</string>
+	<key>radioTaskTheme</key>
+	<string>indicatorPrototypeSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,13 @@
+"NSUserTrackingUsageDescription" = "L'accesso alle informazioni relative all'identificativo del dispositivo verrà utilizzato per proteggere le transazioni del tuo account e fornire servizi pubblicitari personalizzati.";
+
+"NSPhotoLibraryUsageDescription" = "Accedi all'album per ottenere le foto e aggiornare la foto di copertina. Se vietato, la foto di copertina non può essere aggiornata.";
+
+"NSLocationWhenInUseUsageDescription" = "Accedi alla posizione per visualizzare gli utenti vicini a te, se è vietato visualizzare gli utenti nelle vicinanze.";
+
+"NSCameraUsageDescription" = "Accedi alla fotocamera per scattare foto e aggiornare la foto di copertina. Se vietato, la foto di copertina non verrà aggiornata.";
+
+"NSLocationAlwaysUsageDescription" = "Accedi alla posizione per visualizzare gli utenti vicini a te, se è vietato visualizzare gli utenti nelle vicinanze.";
+
+"NSPhotoLibraryAddUsageDescription" = "Accesso alla libreria fotografica per aggiungere nuove foto";
+
+"NSMicrophoneUsageDescription" = "Accedi al microfono per registrare messaggi audio; se vietato, l'audio non può essere registrato e inviato.";

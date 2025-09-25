@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAwaitSpacing</key>
+	<string>blocAmongState</string>
+	<key>exceptionUntilFramework</key>
+	<string>futureThroughMediator</string>
+	<key>isolateBridgeShape</key>
+	<string>subpixelUntilTask</string>
+	<key>navigationBesidePhase</key>
+	<string>mutableManagerBorder</string>
+	<key>navigatorMediatorBehavior</key>
+	<string>unactivatedRadiusInterval</string>
+	<key>offsetActionTheme</key>
+	<string>requestMementoBound</string>
+	<key>protocolPhaseStyle</key>
+	<string>rectAgainstVariable</string>
+	<key>statefulBridgeSpeed</key>
+	<string>usageSinceVar</string>
+	<key>visibleSliderInteraction</key>
+	<string>titleNumberState</string>
+</dict>
+</plist>

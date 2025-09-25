@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCommandDistance</key>
+	<string>requestIncludeFlyweight</string>
+	<key>asyncEffectAcceleration</key>
+	<string>graphForParam</string>
+	<key>beginnerCharacterBrightness</key>
+	<string>handlerTaskFeedback</string>
+	<key>builderIncludeWork</key>
+	<string>factoryObserverEdge</string>
+	<key>chartOrVariable</key>
+	<string>variantOfObserver</string>
+	<key>descriptionStrategyDelay</key>
+	<string>queueSystemSize</string>
+	<key>navigatorFormBound</key>
+	<string>activeCompleterInterval</string>
+	<key>parallelLayerSkewy</key>
+	<string>sampleMethodForce</string>
+	<key>particleChainKind</key>
+	<string>sequentialPositionHue</string>
+	<key>shaderSinceLevel</key>
+	<string>sortedServiceRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticDelegateTheme</key>
+	<string>toolSinceEnvironment</string>
+	<key>greatWidgetDepth</key>
+	<string>similarDecorationAppearance</string>
+	<key>inactiveTransformerMargin</key>
+	<string>enabledHashColor</string>
+	<key>opaqueAnimationEdge</key>
+	<string>enabledZoneTail</string>
+	<key>permissiveGesturedetectorScale</key>
+	<string>cupertinoCompleterFlags</string>
+	<key>permissiveUnaryEdge</key>
+	<string>fixedApertureDistance</string>
+	<key>tabviewTypeBrightness</key>
+	<string>opaqueProgressbarTransparency</string>
+	<key>taskThanAdapter</key>
+	<string>statelessOutsideSystem</string>
+</dict>
+</plist>

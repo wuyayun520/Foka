@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanBlocDirection</key>
+	<string>imperativeContainerOrigin</string>
+	<key>exceptionJobOrigin</key>
+	<string>mapViaStage</string>
+	<key>fixedInjectionVelocity</key>
+	<string>sharedObserverFrequency</string>
+	<key>originalChartOrientation</key>
+	<string>localGramFeedback</string>
+	<key>progressbarAlongInterpreter</key>
+	<string>progressbarFlyweightFeedback</string>
+	<key>unactivatedStepShape</key>
+	<string>kernelCycleAcceleration</string>
+</dict>
+</plist>

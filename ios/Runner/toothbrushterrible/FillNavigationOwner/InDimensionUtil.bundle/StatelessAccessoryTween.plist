@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainLayerVisibility</key>
+	<string>reusableInteractorRotation</string>
+	<key>indicatorLevelPressure</key>
+	<string>customProviderAlignment</string>
+	<key>interactorCommandDuration</key>
+	<string>rectOfContext</string>
+	<key>paddingFromMethod</key>
+	<string>webTitleAlignment</string>
+	<key>substantialChartResponse</key>
+	<string>isolateContextState</string>
+	<key>taskScopeDelay</key>
+	<string>sensorLayerSpacing</string>
+	<key>temporaryRouteInterval</key>
+	<string>containerDecoratorSaturation</string>
+</dict>
+</plist>

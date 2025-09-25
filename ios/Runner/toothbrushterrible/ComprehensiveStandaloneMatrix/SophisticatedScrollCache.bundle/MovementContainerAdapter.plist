@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedAspectFeedback</key>
+	<string>elasticLossFlags</string>
+	<key>eagerQueueBehavior</key>
+	<string>discardedVectorOffset</string>
+	<key>elasticChannelsMargin</key>
+	<string>arithmeticRectHead</string>
+	<key>optionChainRotation</key>
+	<string>reactiveInterpolationMomentum</string>
+	<key>routerFunctionFlags</key>
+	<string>awaitWorkStyle</string>
+</dict>
+</plist>

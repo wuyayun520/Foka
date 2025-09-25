@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationProcessFeedback</key>
+	<string>liteDurationInteraction</string>
+	<key>groupSingletonDuration</key>
+	<string>reactivePromiseResponse</string>
+	<key>pivotalNodeTag</key>
+	<string>widgetCycleBound</string>
+	<key>seamlessAssetAlignment</key>
+	<string>entityLayerLeft</string>
+	<key>semanticsThroughProxy</key>
+	<string>sinkCommandShade</string>
+	<key>sortedTaskKind</key>
+	<string>sequentialSegueVelocity</string>
+	<key>vectorLevelVelocity</key>
+	<string>capacitiesWithShape</string>
+</dict>
+</plist>

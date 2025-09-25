@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledAlphaHue</key>
+	<string>webSwiftAppearance</string>
+	<key>explicitTabbarType</key>
+	<string>firstTopicAcceleration</string>
+	<key>metadataAwayObserver</key>
+	<string>metadataExceptTask</string>
+	<key>particleProcessAppearance</key>
+	<string>sophisticatedCharacterLeft</string>
+	<key>standaloneMenuTheme</key>
+	<string>singleWidgetState</string>
+	<key>visibleNavigatorSpacing</key>
+	<string>lazyWorkflowDistance</string>
+</dict>
+</plist>

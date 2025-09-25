@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRouterTheme</key>
+	<string>cubitWorkBehavior</string>
+	<key>anchorOutsideStrategy</key>
+	<string>storeVariableColor</string>
+	<key>builderAwayOperation</key>
+	<string>dialogsWithDecorator</string>
+	<key>bulletAtInterpreter</key>
+	<string>basicServiceTheme</string>
+	<key>specifierCommandAcceleration</key>
+	<string>resourceIncludeLayer</string>
+	<key>standaloneGridKind</key>
+	<string>specifyMaterialFlags</string>
+</dict>
+</plist>

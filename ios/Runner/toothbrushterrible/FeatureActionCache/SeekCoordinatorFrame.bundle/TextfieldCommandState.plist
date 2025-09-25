@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInsideCycle</key>
+	<string>capsuleWithPattern</string>
+	<key>constraintBeyondPlatform</key>
+	<string>actionChainTint</string>
+	<key>coordinatorPatternInteraction</key>
+	<string>multiplicationMediatorShape</string>
+	<key>curveFlyweightShade</key>
+	<string>difficultBinaryForce</string>
+	<key>drawerParameterVisible</key>
+	<string>symmetricScreenAlignment</string>
+	<key>imageAlongLayer</key>
+	<string>dependencyInsideStage</string>
+	<key>primaryGridviewOpacity</key>
+	<string>instructionVariableTop</string>
+	<key>singletonAlongFlyweight</key>
+	<string>collectionAlongBuffer</string>
+	<key>sizeProcessTint</key>
+	<string>equipmentSystemDensity</string>
+	<key>temporaryPageviewBound</key>
+	<string>extensionParameterOpacity</string>
+</dict>
+</plist>

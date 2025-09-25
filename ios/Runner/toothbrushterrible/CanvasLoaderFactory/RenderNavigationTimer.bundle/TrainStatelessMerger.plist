@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAdapterOpacity</key>
+	<string>decorationAlongOperation</string>
+	<key>checkboxNearStrategy</key>
+	<string>grainAdapterSkewy</string>
+	<key>clipperAndFacade</key>
+	<string>axisInterpreterSpeed</string>
+	<key>descriptorFromLayer</key>
+	<string>listenerChainFrequency</string>
+	<key>intermediateTweenBottom</key>
+	<string>unactivatedBitrateTension</string>
+	<key>mobxVarIndex</key>
+	<string>grainInTier</string>
+	<key>respectiveSizedboxDistance</key>
+	<string>rowAsMethod</string>
+	<key>serviceBufferAppearance</key>
+	<string>ephemeralLayerTop</string>
+	<key>timerOrFlyweight</key>
+	<string>specifyTweenRotation</string>
+</dict>
+</plist>

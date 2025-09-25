@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionVariableBehavior</key>
+	<string>asyncActivitySpacing</string>
+	<key>difficultCubitInset</key>
+	<string>projectionThroughPattern</string>
+	<key>gradientMediatorState</key>
+	<string>staticMediaqueryRotation</string>
+	<key>grainAdapterShape</key>
+	<string>spriteFlyweightRotation</string>
+	<key>interactiveTextfieldPadding</key>
+	<string>reusableScaleResponse</string>
+	<key>tappablePaddingTension</key>
+	<string>factoryLikePrototype</string>
+	<key>topicAsAdapter</key>
+	<string>numericalGradientResponse</string>
+</dict>
+</plist>

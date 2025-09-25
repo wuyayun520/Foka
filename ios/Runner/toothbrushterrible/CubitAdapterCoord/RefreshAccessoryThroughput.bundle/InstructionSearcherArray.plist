@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackThanMediator</key>
+	<string>routerBufferLocation</string>
+	<key>capsuleIncludeState</key>
+	<string>opaqueCubitScale</string>
+	<key>independentAwaitInteraction</key>
+	<string>intermediateCosineVelocity</string>
+	<key>invisibleChartAlignment</key>
+	<string>topicSingletonDistance</string>
+	<key>lostInteractorMargin</key>
+	<string>descriptionFlyweightStyle</string>
+	<key>sliderFrameworkDepth</key>
+	<string>usecaseFormBottom</string>
+	<key>subtleProtocolMargin</key>
+	<string>drawerVisitorScale</string>
+</dict>
+</plist>

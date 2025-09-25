@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandPerScope</key>
+	<string>resourceStatePosition</string>
+	<key>ephemeralPresenterMargin</key>
+	<string>projectLayerDelay</string>
+	<key>gridAroundValue</key>
+	<string>mapAroundVisitor</string>
+	<key>layoutInsideShape</key>
+	<string>tweenDecoratorInterval</string>
+	<key>liteAlphaKind</key>
+	<string>textThroughPlatform</string>
+	<key>serviceAmongContext</key>
+	<string>asynchronousSinkDistance</string>
+	<key>temporaryControllerType</key>
+	<string>agileDependencyHead</string>
+</dict>
+</plist>

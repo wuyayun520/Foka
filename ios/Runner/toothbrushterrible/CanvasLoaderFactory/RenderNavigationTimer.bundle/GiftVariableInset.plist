@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyJobStyle</key>
+	<string>positionByCycle</string>
+	<key>draggableSpotInteraction</key>
+	<string>plateAsContext</string>
+	<key>hyperbolicMomentumKind</key>
+	<string>retainedVectorDirection</string>
+	<key>storageBeyondFlyweight</key>
+	<string>lostSinkDensity</string>
+	<key>storageUntilStructure</key>
+	<string>significantSensorDensity</string>
+	<key>tickerDuringChain</key>
+	<string>particleCycleResponse</string>
+	<key>uniformConsumerInset</key>
+	<string>sequentialResourceBound</string>
+</dict>
+</plist>

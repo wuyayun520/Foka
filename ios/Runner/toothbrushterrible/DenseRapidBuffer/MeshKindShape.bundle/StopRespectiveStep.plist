@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryLayerHue</key>
+	<string>gesturedetectorFromEnvironment</string>
+	<key>expandedDecoratorHue</key>
+	<string>cupertinoAmongEnvironment</string>
+	<key>gestureOrPhase</key>
+	<string>builderFunctionOrigin</string>
+	<key>inheritedTitleTop</key>
+	<string>equalizationKindBehavior</string>
+	<key>mobileProtocolTop</key>
+	<string>directlyExtensionDuration</string>
+	<key>providerTypeOffset</key>
+	<string>effectTempleInset</string>
+	<key>rapidPlaybackTransparency</key>
+	<string>navigatorEnvironmentForce</string>
+	<key>requestVersusShape</key>
+	<string>tweenInsideShape</string>
+	<key>subscriptionInsideKind</key>
+	<string>tensorSingletonSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureIncludeTemple</key>
+	<string>widgetOrMethod</string>
+	<key>isolateKindEdge</key>
+	<string>unaryValueDepth</string>
+	<key>optimizerBufferEdge</key>
+	<string>backwardColumnColor</string>
+	<key>semanticListenerEdge</key>
+	<string>brushSingletonInset</string>
+	<key>subsequentNormKind</key>
+	<string>equalizationFrameworkStyle</string>
+	<key>textfieldWorkTheme</key>
+	<string>configurationAsChain</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerEventContrast</key>
+	<string>reducerFromStage</string>
+	<key>errorBridgeFeedback</key>
+	<string>transitionOutsideProxy</string>
+	<key>gesturedetectorThroughVariable</key>
+	<string>navigatorUntilState</string>
+	<key>spriteCompositeVisible</key>
+	<string>responseIncludeCommand</string>
+	<key>storeAwayPhase</key>
+	<string>sceneInsideProxy</string>
+	<key>variantAboutPlatform</key>
+	<string>cubitStageFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerInsideBuffer</key>
+	<string>discardedSpriteDirection</string>
+	<key>firstSliderForce</key>
+	<string>titleProxySpeed</string>
+	<key>heroValueContrast</key>
+	<string>symmetricCursorType</string>
+	<key>layerWithChain</key>
+	<string>dependencyVisitorLeft</string>
+	<key>originalResourceCount</key>
+	<string>subtleButtonFrequency</string>
+	<key>pivotalTextureContrast</key>
+	<string>hardStampValidation</string>
+	<key>publicSizeTint</key>
+	<string>requestValueSpeed</string>
+	<key>routeEnvironmentIndex</key>
+	<string>usedTextTint</string>
+	<key>skinStateBound</key>
+	<string>blocAlongFlyweight</string>
+</dict>
+</plist>

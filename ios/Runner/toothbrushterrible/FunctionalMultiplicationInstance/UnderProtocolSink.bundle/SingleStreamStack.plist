@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsLikeFramework</key>
+	<string>aspectAmongBridge</string>
+	<key>greatTaskMargin</key>
+	<string>navigationCommandDepth</string>
+	<key>iconFunctionDelay</key>
+	<string>custompaintFacadeSpacing</string>
+	<key>subsequentMenuDelay</key>
+	<string>retainedResponseDirection</string>
+	<key>tableStateName</key>
+	<string>gatePhaseHue</string>
+</dict>
+</plist>

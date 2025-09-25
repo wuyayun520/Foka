@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSceneName</key>
+	<string>cupertinoTangentBorder</string>
+	<key>builderKindRotation</key>
+	<string>visiblePageviewPadding</string>
+	<key>callbackOperationVelocity</key>
+	<string>webDelegateBehavior</string>
+	<key>compositionalSceneFrequency</key>
+	<string>rectTempleIndex</string>
+	<key>storyboardLevelRotation</key>
+	<string>compositionalProviderAlignment</string>
+</dict>
+</plist>

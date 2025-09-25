@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameSinceComposite</key>
+	<string>immutableZoneFlags</string>
+	<key>nextNotificationStyle</key>
+	<string>storyboardAtLayer</string>
+	<key>sessionOrStrategy</key>
+	<string>similarControllerBehavior</string>
+</dict>
+</plist>

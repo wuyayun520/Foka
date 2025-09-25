@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoListenerPressure</key>
+	<string>widgetAdapterSkewx</string>
+	<key>blocCompositeResponse</key>
+	<string>capsuleWorkAcceleration</string>
+	<key>compositionTempleFeedback</key>
+	<string>decorationAdapterLocation</string>
+	<key>constraintFromStyle</key>
+	<string>dedicatedVectorFeedback</string>
+	<key>cupertinoRowDirection</key>
+	<string>iterativeVectorBrightness</string>
+	<key>kernelExceptLevel</key>
+	<string>intermediateGraphTop</string>
+	<key>resultAdapterSpeed</key>
+	<string>usageBeyondPattern</string>
+	<key>tweenNumberSpacing</key>
+	<string>persistentReductionOffset</string>
+</dict>
+</plist>

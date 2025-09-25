@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionInterpreterFormat</key>
+	<string>interfaceForStage</string>
+	<key>otherTextureTag</key>
+	<string>prevHeapShade</string>
+	<key>particleForPattern</key>
+	<string>graphAsTier</string>
+	<key>promiseModeInset</key>
+	<string>routePatternAlignment</string>
+	<key>sizedboxAsEnvironment</key>
+	<string>usedFlexRotation</string>
+	<key>usedSpotBrightness</key>
+	<string>constraintParamStatus</string>
+</dict>
+</plist>

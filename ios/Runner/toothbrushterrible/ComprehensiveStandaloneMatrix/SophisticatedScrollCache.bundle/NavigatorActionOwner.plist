@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveShaderDuration</key>
+	<string>hyperbolicMaterialStyle</string>
+	<key>allocatorNumberScale</key>
+	<string>characterStageTint</string>
+	<key>layerPlatformVisibility</key>
+	<string>usageAmongMode</string>
+	<key>methodScopeTint</key>
+	<string>transitionProcessVisibility</string>
+	<key>navigatorOrScope</key>
+	<string>toolParameterSaturation</string>
+	<key>textureForAdapter</key>
+	<string>titleActionHue</string>
+	<key>viewAndStructure</key>
+	<string>transitionEnvironmentOrigin</string>
+</dict>
+</plist>

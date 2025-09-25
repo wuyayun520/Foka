@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveAroundStyle</key>
+	<string>apertureSingletonState</string>
+	<key>gateUntilCycle</key>
+	<string>sizeViaLayer</string>
+	<key>iterativeInterpolationRate</key>
+	<string>zoneInterpreterValidation</string>
+	<key>previewNearCycle</key>
+	<string>inactiveMetadataColor</string>
+	<key>storeFrameworkDensity</key>
+	<string>singleGridviewDuration</string>
+	<key>unsortedEventPosition</key>
+	<string>marginVarTension</string>
+</dict>
+</plist>

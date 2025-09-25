@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSwitchForce</key>
+	<string>statelessLayerCount</string>
+	<key>aspectTaskState</key>
+	<string>kernelAboutValue</string>
+	<key>mediaByParameter</key>
+	<string>observerAdapterInterval</string>
+	<key>scrollDuringParameter</key>
+	<string>criticalFrameCount</string>
+	<key>statelessMatrixBehavior</key>
+	<string>globalSceneValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackViaFacade</key>
+	<string>viewContainJob</string>
+	<key>canvasPhaseLeft</key>
+	<string>dynamicTweenFlags</string>
+	<key>multiNavigatorType</key>
+	<string>anchorOutsideMethod</string>
+	<key>providerFormVelocity</key>
+	<string>resilientCoordinatorCoord</string>
+</dict>
+</plist>

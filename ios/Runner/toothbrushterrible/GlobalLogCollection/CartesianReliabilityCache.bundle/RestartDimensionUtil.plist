@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarPhaseKind</key>
+	<string>providerActivityLocation</string>
+	<key>composableInteractorDistance</key>
+	<string>loopSinceProxy</string>
+	<key>compositionalTableBorder</key>
+	<string>localizationChainCenter</string>
+	<key>crucialPainterDensity</key>
+	<string>symbolStrategyVelocity</string>
+	<key>gridThanStructure</key>
+	<string>seamlessAnimationTheme</string>
+	<key>mapSingletonInset</key>
+	<string>symmetricQueueDirection</string>
+</dict>
+</plist>

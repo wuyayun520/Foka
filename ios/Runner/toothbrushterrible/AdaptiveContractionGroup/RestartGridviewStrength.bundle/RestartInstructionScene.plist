@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAboutFlyweight</key>
+	<string>layoutNearVar</string>
+	<key>criticalLayoutAlignment</key>
+	<string>synchronousGesturedetectorFormat</string>
+	<key>curveStageCount</key>
+	<string>storyboardStructureFormat</string>
+	<key>delegateChainInteraction</key>
+	<string>requiredUnaryOffset</string>
+	<key>inactiveTabviewRate</key>
+	<string>persistentQueryFormat</string>
+	<key>kernelMediatorShape</key>
+	<string>compositionChainMargin</string>
+	<key>liteTickerBorder</key>
+	<string>consultativeFlexAcceleration</string>
+	<key>parallelUsecaseContrast</key>
+	<string>adaptiveVectorBottom</string>
+	<key>prismaticActivityPosition</key>
+	<string>immutableConsumerTheme</string>
+</dict>
+</plist>

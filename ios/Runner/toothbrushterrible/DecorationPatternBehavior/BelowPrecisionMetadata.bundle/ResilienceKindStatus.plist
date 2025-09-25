@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentAtChain</key>
+	<string>primaryMenuAcceleration</string>
+	<key>inkwellStrategyFlags</key>
+	<string>referenceExceptMemento</string>
+	<key>layerIncludeMediator</key>
+	<string>asynchronousLayoutRotation</string>
+	<key>layoutAsInterpreter</key>
+	<string>intermediateOffsetFeedback</string>
+	<key>modelActivityType</key>
+	<string>routeIncludeInterpreter</string>
+</dict>
+</plist>

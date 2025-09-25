@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelTempleDelay</key>
+	<string>arithmeticPerBuffer</string>
+	<key>cosineEnvironmentStyle</key>
+	<string>tableViaComposite</string>
+	<key>cubitPerOperation</key>
+	<string>customizedCapsuleCount</string>
+	<key>cubitScopeFrequency</key>
+	<string>inheritedSliderFrequency</string>
+	<key>interactorVarDuration</key>
+	<string>baselineTaskBottom</string>
+	<key>localizationFunctionBorder</key>
+	<string>alphaAroundFacade</string>
+	<key>loopCycleState</key>
+	<string>nextBatchResponse</string>
+	<key>queueOperationAlignment</key>
+	<string>lostMenuRotation</string>
+	<key>transformerPhaseTail</key>
+	<string>captionMediatorVisibility</string>
+	<key>uniqueAlignmentBound</key>
+	<string>factoryTypeTag</string>
+</dict>
+</plist>

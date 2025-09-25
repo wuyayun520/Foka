@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFromFlyweight</key>
+	<string>cursorBeyondContext</string>
+	<key>canvasStrategyScale</key>
+	<string>autoLoopOpacity</string>
+	<key>nativeGroupRight</key>
+	<string>localizationSinceBuffer</string>
+	<key>sequentialContainerDirection</key>
+	<string>alphaScopeState</string>
+	<key>standaloneCheckboxCoord</key>
+	<string>presenterActivityValidation</string>
+	<key>statelessInterfaceStatus</key>
+	<string>buttonVariableColor</string>
+</dict>
+</plist>

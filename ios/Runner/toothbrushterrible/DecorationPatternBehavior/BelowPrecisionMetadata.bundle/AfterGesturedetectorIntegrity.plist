@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityKindAcceleration</key>
+	<string>gridDecoratorPosition</string>
+	<key>cardValueSkewx</key>
+	<string>granularCupertinoSaturation</string>
+	<key>futureSingletonIndex</key>
+	<string>composableAnimatedcontainerEdge</string>
+	<key>localizationMediatorState</key>
+	<string>similarStepHue</string>
+	<key>managerOperationBehavior</key>
+	<string>gestureAtAction</string>
+	<key>resilientFlexDelay</key>
+	<string>observerViaContext</string>
+	<key>toolStageAppearance</key>
+	<string>mobileQueueResponse</string>
+</dict>
+</plist>

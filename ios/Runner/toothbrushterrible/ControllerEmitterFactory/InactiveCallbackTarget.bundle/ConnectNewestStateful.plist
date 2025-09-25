@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerErrorCount</key>
+	<string>buttonStateFormat</string>
+	<key>decorationFunctionColor</key>
+	<string>drawerContextAppearance</string>
+	<key>directlyDurationLocation</key>
+	<string>directUsecaseBehavior</string>
+	<key>popupValueTop</key>
+	<string>lastSliderMode</string>
+	<key>progressbarCycleDepth</key>
+	<string>diversifiedStoreFeedback</string>
+	<key>queueInsideFramework</key>
+	<string>statelessReductionFeedback</string>
+	<key>resourceChainMargin</key>
+	<string>easyStepFeedback</string>
+	<key>tensorChannelsRight</key>
+	<string>transitionEnvironmentAlignment</string>
+	<key>visibleFeaturePressure</key>
+	<string>widgetBufferResponse</string>
+</dict>
+</plist>

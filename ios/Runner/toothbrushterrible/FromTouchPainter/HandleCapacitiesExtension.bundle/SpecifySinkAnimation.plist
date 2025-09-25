@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaScopeMode</key>
+	<string>declarativeAsyncStatus</string>
+	<key>featureChainBorder</key>
+	<string>prevControllerColor</string>
+	<key>heapBufferFrequency</key>
+	<string>transitionParamDensity</string>
+	<key>layoutSinceStage</key>
+	<string>exceptionSinceKind</string>
+	<key>mediaqueryCommandPadding</key>
+	<string>histogramWithStage</string>
+	<key>permissiveCallbackResponse</key>
+	<string>accordionAssetStyle</string>
+	<key>petParameterShape</key>
+	<string>intuitiveLocalizationHead</string>
+	<key>presenterActivityInteraction</key>
+	<string>shaderCycleTransparency</string>
+	<key>routeAlongFunction</key>
+	<string>mobileConvolutionEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAgainstMethod</key>
+	<string>sequentialLogCenter</string>
+	<key>compositionAndValue</key>
+	<string>pageviewVarBorder</string>
+	<key>constraintAboutStructure</key>
+	<string>sizeProxyScale</string>
+	<key>hardTransitionResponse</key>
+	<string>batchAtFlyweight</string>
+	<key>labelPatternTag</key>
+	<string>seamlessVariantCoord</string>
+	<key>playbackMementoAcceleration</key>
+	<string>transitionAndCommand</string>
+</dict>
+</plist>

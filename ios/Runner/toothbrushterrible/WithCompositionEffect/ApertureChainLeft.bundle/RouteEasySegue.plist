@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphFlyweightCenter</key>
+	<string>drawerChainOrigin</string>
+	<key>pinchableDocumentShade</key>
+	<string>streamContextSaturation</string>
+	<key>prevNavigationTop</key>
+	<string>unactivatedNodeCenter</string>
+	<key>threadAboutActivity</key>
+	<string>disparateGemPosition</string>
+</dict>
+</plist>

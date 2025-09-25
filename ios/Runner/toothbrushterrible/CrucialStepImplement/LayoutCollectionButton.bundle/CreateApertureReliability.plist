@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryVarFrequency</key>
+	<string>radiusBridgeOpacity</string>
+	<key>behaviorPatternTheme</key>
+	<string>managerThroughFlyweight</string>
+	<key>commandWithCycle</key>
+	<string>injectionIncludeStrategy</string>
+	<key>dependencyBufferAlignment</key>
+	<string>controllerAlongMethod</string>
+	<key>expandedInTask</key>
+	<string>uniformInterpolationBrightness</string>
+	<key>momentumJobHead</key>
+	<string>sampleAroundTier</string>
+	<key>titleActivityMomentum</key>
+	<string>resultPhaseShape</string>
+</dict>
+</plist>

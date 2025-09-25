@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicatePageviewKind</key>
+	<string>lossMediatorLeft</string>
+	<key>elasticResponseRight</key>
+	<string>screenAmongMemento</string>
+	<key>graphObserverOffset</key>
+	<string>durationFrameworkOpacity</string>
+	<key>missedDimensionResponse</key>
+	<string>sizeTaskResponse</string>
+	<key>momentumBeyondNumber</key>
+	<string>streamFormVisibility</string>
+	<key>storeAtFunction</key>
+	<string>mainWidgetPosition</string>
+	<key>tabviewValueAppearance</key>
+	<string>pageviewAdapterStyle</string>
+	<key>taskAlongFacade</key>
+	<string>taskSingletonShade</string>
+	<key>touchInInterpreter</key>
+	<string>indicatorWithScope</string>
+	<key>visiblePopupBorder</key>
+	<string>grainExceptPhase</string>
+</dict>
+</plist>

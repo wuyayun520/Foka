@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTopicAppearance</key>
+	<string>heapSystemCoord</string>
+	<key>completionObserverCoord</key>
+	<string>statelessDependencyScale</string>
+	<key>consultativeRowRotation</key>
+	<string>methodMediatorLeft</string>
+	<key>cubitCommandCount</key>
+	<string>requestInterpreterDepth</string>
+	<key>extensionContextFeedback</key>
+	<string>standaloneOperationTop</string>
+	<key>granularQueryInterval</key>
+	<string>rowNearCycle</string>
+	<key>modalAmongMethod</key>
+	<string>axisOrKind</string>
+	<key>precisionFunctionTheme</key>
+	<string>callbackExceptMemento</string>
+	<key>substantialRouterFrequency</key>
+	<string>adaptiveDelegateFormat</string>
+</dict>
+</plist>

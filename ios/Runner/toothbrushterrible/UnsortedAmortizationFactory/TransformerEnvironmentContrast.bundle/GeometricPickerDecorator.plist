@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAboutFacade</key>
+	<string>textLevelRate</string>
+	<key>keyRadiusVisible</key>
+	<string>pinchableFragmentBehavior</string>
+	<key>materialInterpreterDensity</key>
+	<string>layerInsideBuffer</string>
+	<key>observerAndBuffer</key>
+	<string>imperativePositionedStatus</string>
+	<key>radiusInsideMemento</key>
+	<string>cubeLevelFrequency</string>
+	<key>routeNearStyle</key>
+	<string>providerVarFeedback</string>
+	<key>textAroundObserver</key>
+	<string>reducerFacadeCount</string>
+	<key>viewValueInterval</key>
+	<string>vectorTaskHue</string>
+</dict>
+</plist>

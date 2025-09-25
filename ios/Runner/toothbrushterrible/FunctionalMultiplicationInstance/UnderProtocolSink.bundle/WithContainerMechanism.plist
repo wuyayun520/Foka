@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerVariableFormat</key>
+	<string>lastFragmentPosition</string>
+	<key>clipperFromChain</key>
+	<string>aspectratioDuringLayer</string>
+	<key>completerContainVariable</key>
+	<string>asyncVariantOrientation</string>
+	<key>constraintLikeLevel</key>
+	<string>reducerProcessSkewx</string>
+	<key>ignoredAnimationBrightness</key>
+	<string>priorityAwayStrategy</string>
+	<key>intermediateSpotDensity</key>
+	<string>heroTierAppearance</string>
+	<key>sensorBufferStyle</key>
+	<string>paddingAgainstCommand</string>
+	<key>tappableExceptionBorder</key>
+	<string>observerOfSystem</string>
+	<key>widgetAlongContext</key>
+	<string>sessionStyleVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSignatureBehavior</key>
+	<string>switchBeyondDecorator</string>
+	<key>cubeStateInteraction</key>
+	<string>baseVersusLevel</string>
+	<key>deferredObserverContrast</key>
+	<string>curveContainStrategy</string>
+	<key>dialogsWithoutType</key>
+	<string>textAboutStyle</string>
+	<key>missedStoreCoord</key>
+	<string>frameAmongDecorator</string>
+	<key>stampNearFramework</key>
+	<string>labelByState</string>
+	<key>subpixelSystemScale</key>
+	<string>intensityAdapterScale</string>
+	<key>unsortedCardVisible</key>
+	<string>statefulVariantRotation</string>
+	<key>zoneInStrategy</key>
+	<string>activeCallbackName</string>
+</dict>
+</plist>

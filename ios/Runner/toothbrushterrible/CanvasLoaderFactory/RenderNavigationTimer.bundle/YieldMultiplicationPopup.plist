@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSpriteTransparency</key>
+	<string>reducerEnvironmentInset</string>
+	<key>clipperTaskPadding</key>
+	<string>specifyPageviewBrightness</string>
+	<key>curveAlongBridge</key>
+	<string>sliderThroughActivity</string>
+	<key>curveValueBound</key>
+	<string>relationalDependencyState</string>
+	<key>labelMediatorTop</key>
+	<string>reducerJobHue</string>
+	<key>observerOperationFeedback</key>
+	<string>cartesianCommandRight</string>
+	<key>streamSystemHue</key>
+	<string>switchContainForm</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionSystemRight</key>
+	<string>notificationAmongShape</string>
+	<key>inkwellCommandName</key>
+	<string>navigationPerCycle</string>
+	<key>integerParameterOpacity</key>
+	<string>shaderEnvironmentVisibility</string>
+	<key>reductionAmongProxy</key>
+	<string>tickerInsideChain</string>
+	<key>storeModeBorder</key>
+	<string>imperativeRowState</string>
+</dict>
+</plist>

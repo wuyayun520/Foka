@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observerShapeAlignment</key>
+	<string>instructionLikeShape</string>
+	<key>sequentialTransitionRotation</key>
+	<string>radiusTaskStatus</string>
+	<key>specifyOverlayMode</key>
+	<string>featureStyleMode</string>
+	<key>stateAndTemple</key>
+	<string>spriteAndDecorator</string>
+	<key>timerBeyondStage</key>
+	<string>radiusStructureOrigin</string>
+	<key>unsortedManagerKind</key>
+	<string>pinchableStreamInset</string>
+</dict>
+</plist>

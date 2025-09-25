@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowAroundValue</key>
+	<string>reductionProxyBottom</string>
+	<key>cardStageSpacing</key>
+	<string>lossLevelLocation</string>
+	<key>difficultTextFormat</key>
+	<string>progressbarNearShape</string>
+	<key>mediocreGemTheme</key>
+	<string>subsequentStepTail</string>
+	<key>mobxShapeSkewx</key>
+	<string>specifierThroughMediator</string>
+	<key>observerLikePrototype</key>
+	<string>timerAsInterpreter</string>
+	<key>petViaProxy</key>
+	<string>basicModelAcceleration</string>
+	<key>requestThroughCycle</key>
+	<string>matrixPatternRate</string>
+	<key>synchronousVectorDirection</key>
+	<string>unactivatedManagerSpeed</string>
+</dict>
+</plist>

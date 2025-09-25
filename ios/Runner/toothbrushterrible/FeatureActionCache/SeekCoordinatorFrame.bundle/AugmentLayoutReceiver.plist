@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerTempleTension</key>
+	<string>cubeModeAlignment</string>
+	<key>histogramModeBorder</key>
+	<string>subpixelTaskFeedback</string>
+	<key>labelPlatformEdge</key>
+	<string>functionalCaptionTop</string>
+	<key>loopLevelTag</key>
+	<string>customizedTaskSkewx</string>
+	<key>monsterObserverFrequency</key>
+	<string>graphIncludeSystem</string>
+	<key>progressbarAlongTask</key>
+	<string>euclideanUtilRate</string>
+	<key>queryNearMode</key>
+	<string>callbackInterpreterResponse</string>
+	<key>resultStyleSkewy</key>
+	<string>explicitPriorityState</string>
+	<key>uniformAwaitBehavior</key>
+	<string>navigatorTypeTint</string>
+</dict>
+</plist>

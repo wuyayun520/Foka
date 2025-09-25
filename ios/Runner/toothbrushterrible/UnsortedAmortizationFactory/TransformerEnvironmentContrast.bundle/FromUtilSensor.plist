@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCommandInset</key>
+	<string>timerAndActivity</string>
+	<key>bitrateUntilStyle</key>
+	<string>iterativeSingletonAppearance</string>
+	<key>borderInFramework</key>
+	<string>featureTierTail</string>
+	<key>mediocreBlocDelay</key>
+	<string>transitionUntilComposite</string>
+	<key>normalGesturedetectorDistance</key>
+	<string>labelPatternTop</string>
+	<key>positionNumberCoord</key>
+	<string>significantCallbackSpeed</string>
+	<key>progressbarJobTop</key>
+	<string>multiObserverAcceleration</string>
+</dict>
+</plist>

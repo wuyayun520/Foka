@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleLikeMethod</key>
+	<string>beginnerActionFeedback</string>
+	<key>discardedNavigatorVelocity</key>
+	<string>subtleSignatureLocation</string>
+	<key>previewDespiteSingleton</key>
+	<string>optionTaskValidation</string>
+	<key>sizeParamFrequency</key>
+	<string>expandedAdapterShade</string>
+</dict>
+</plist>

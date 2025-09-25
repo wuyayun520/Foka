@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicRichtextForce</key>
+	<string>sliderObserverDensity</string>
+	<key>cyclePerOperation</key>
+	<string>completerValueInset</string>
+	<key>disabledInjectionContrast</key>
+	<string>axisShapeFlags</string>
+	<key>mediocreSensorSkewx</key>
+	<string>robustSizedboxInterval</string>
+	<key>oldCubeOffset</key>
+	<string>pivotalStatelessInteraction</string>
+	<key>radioLayerPadding</key>
+	<string>touchProxyTransparency</string>
+	<key>respectiveGraphName</key>
+	<string>captionTaskOpacity</string>
+</dict>
+</plist>

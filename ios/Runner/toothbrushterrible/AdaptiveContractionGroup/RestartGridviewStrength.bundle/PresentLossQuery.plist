@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationCycleTint</key>
+	<string>fusedMaterialOffset</string>
+	<key>compositionalChartBottom</key>
+	<string>buttonStateIndex</string>
+	<key>compositionalRadiusRight</key>
+	<string>seamlessLogOrigin</string>
+	<key>frameShapeScale</key>
+	<string>sceneContainComposite</string>
+	<key>missionMethodColor</key>
+	<string>streamScopeTail</string>
+	<key>seamlessUnaryTint</key>
+	<string>uniqueAppbarMargin</string>
+	<key>textFacadeDensity</key>
+	<string>cacheAndStyle</string>
+</dict>
+</plist>

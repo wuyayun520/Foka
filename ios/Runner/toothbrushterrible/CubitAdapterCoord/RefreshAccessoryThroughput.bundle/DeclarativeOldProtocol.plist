@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBufferResponse</key>
+	<string>lostAccessoryName</string>
+	<key>blocProcessBorder</key>
+	<string>documentBeyondVariable</string>
+	<key>flexibleCellInteraction</key>
+	<string>sharedActionBorder</string>
+	<key>logarithmAsSystem</key>
+	<string>titlePerAction</string>
+	<key>normalInkwellResponse</key>
+	<string>descriptorOutsideDecorator</string>
+	<key>protectedProfileBottom</key>
+	<string>constMasterScale</string>
+	<key>queueAmongBridge</key>
+	<string>sizeVarOrigin</string>
+	<key>transitionSinceFramework</key>
+	<string>intuitiveResourcePosition</string>
+	<key>usedSegueDuration</key>
+	<string>rectForFlyweight</string>
+</dict>
+</plist>

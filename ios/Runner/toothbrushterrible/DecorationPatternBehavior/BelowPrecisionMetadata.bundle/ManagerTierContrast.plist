@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineOrStyle</key>
+	<string>associatedStreamOffset</string>
+	<key>decorationWithoutShape</key>
+	<string>musicDecoratorOpacity</string>
+	<key>diffableListviewFormat</key>
+	<string>blocAdapterDistance</string>
+	<key>draggablePopupValidation</key>
+	<string>intuitivePresenterVisibility</string>
+	<key>eventValueType</key>
+	<string>visibleCanvasBottom</string>
+	<key>hashModeIndex</key>
+	<string>vectorVersusVariable</string>
+	<key>memberByPlatform</key>
+	<string>smallNormTransparency</string>
+	<key>titleAboutMethod</key>
+	<string>ephemeralMethodInteraction</string>
+</dict>
+</plist>

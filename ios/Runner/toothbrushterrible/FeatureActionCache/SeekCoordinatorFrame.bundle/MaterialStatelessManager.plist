@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorParameterCount</key>
+	<string>sessionStateFormat</string>
+	<key>exceptionVarTheme</key>
+	<string>actionInProxy</string>
+	<key>previewStructureVisibility</key>
+	<string>presenterContainDecorator</string>
+	<key>resourceExceptTier</key>
+	<string>resultForProcess</string>
+	<key>sceneJobSaturation</key>
+	<string>concreteCompleterPadding</string>
+	<key>storePrototypeCoord</key>
+	<string>pointForForm</string>
+	<key>unactivatedNodePressure</key>
+	<string>stepParameterBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyInterpreterMode</key>
+	<string>singleNibDensity</string>
+	<key>finalEventHead</key>
+	<string>mobileMetadataBottom</string>
+	<key>geometricResourceBehavior</key>
+	<string>projectPerTask</string>
+	<key>kernelThanTask</key>
+	<string>gridviewStrategyLocation</string>
+	<key>matrixProcessResponse</key>
+	<string>respectiveTopicSpeed</string>
+	<key>providerLikePrototype</key>
+	<string>referencePerCommand</string>
+	<key>sizeDuringOperation</key>
+	<string>imperativeLoopFeedback</string>
+	<key>standaloneMobxCenter</key>
+	<string>associatedCallbackFlags</string>
+</dict>
+</plist>

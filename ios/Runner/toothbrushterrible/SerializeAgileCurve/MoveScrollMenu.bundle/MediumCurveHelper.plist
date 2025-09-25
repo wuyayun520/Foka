@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralLayoutForce</key>
+	<string>pinchablePetTheme</string>
+	<key>immutableEffectShape</key>
+	<string>effectPhaseStatus</string>
+	<key>prevStatelessDepth</key>
+	<string>signPerSingleton</string>
+	<key>resourceAtFramework</key>
+	<string>modalActivityAlignment</string>
+	<key>sampleOfParameter</key>
+	<string>operationBeyondMethod</string>
+	<key>widgetBridgeInteraction</key>
+	<string>viewOperationCoord</string>
+</dict>
+</plist>

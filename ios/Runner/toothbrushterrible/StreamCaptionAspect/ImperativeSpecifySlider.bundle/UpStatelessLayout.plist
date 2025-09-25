@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedDurationSpacing</key>
+	<string>scaleBeyondAction</string>
+	<key>futureAgainstShape</key>
+	<string>asynchronousBrushTop</string>
+	<key>immediateObserverCount</key>
+	<string>typicalTransitionIndex</string>
+	<key>inactiveListenerShape</key>
+	<string>inheritedAccessoryShade</string>
+	<key>textureOrValue</key>
+	<string>characterActivityContrast</string>
+	<key>tickerChainShade</key>
+	<string>navigationTypeType</string>
+</dict>
+</plist>

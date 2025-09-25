@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventUntilValue</key>
+	<string>materialAlongPattern</string>
+	<key>futurePatternBehavior</key>
+	<string>sustainableSceneTail</string>
+	<key>geometricPopupAppearance</key>
+	<string>uniformLabelColor</string>
+	<key>independentTimerTag</key>
+	<string>effectCommandBound</string>
+	<key>nodeScopeInset</key>
+	<string>commandExceptStage</string>
+	<key>providerAgainstMediator</key>
+	<string>tickerFromFlyweight</string>
+	<key>spriteOutsideMemento</key>
+	<string>taskEnvironmentOpacity</string>
+	<key>storeAboutBridge</key>
+	<string>compositionOutsideComposite</string>
+	<key>taskInsideSystem</key>
+	<string>nodeActionVelocity</string>
+</dict>
+</plist>

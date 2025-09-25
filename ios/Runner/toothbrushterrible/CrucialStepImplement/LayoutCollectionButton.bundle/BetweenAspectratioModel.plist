@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleActivityRotation</key>
+	<string>cupertinoShapeDepth</string>
+	<key>deferredFrameShade</key>
+	<string>animationAwayShape</string>
+	<key>materialHeapLocation</key>
+	<string>positionedFromVar</string>
+	<key>navigationActionContrast</key>
+	<string>eventParameterAcceleration</string>
+	<key>roleFunctionBrightness</key>
+	<string>iterativeTickerSpacing</string>
+	<key>significantStateOrientation</key>
+	<string>cubitExceptStructure</string>
+	<key>sineAwayState</key>
+	<string>providerTypeSize</string>
+</dict>
+</plist>

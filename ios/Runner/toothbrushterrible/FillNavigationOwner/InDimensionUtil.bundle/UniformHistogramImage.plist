@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionViaAction</key>
+	<string>sliderActionColor</string>
+	<key>flexibleUsecaseKind</key>
+	<string>cubeLevelDistance</string>
+	<key>kernelTierFeedback</key>
+	<string>staticExceptionName</string>
+	<key>persistentGraphOrigin</key>
+	<string>tensorFutureScale</string>
+</dict>
+</plist>

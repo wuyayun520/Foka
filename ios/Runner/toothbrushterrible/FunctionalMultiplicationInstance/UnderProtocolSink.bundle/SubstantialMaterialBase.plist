@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>particleAsPrototype</key>
+	<string>referenceInterpreterFormat</string>
+	<key>projectVarInteraction</key>
+	<string>asynchronousViewVisible</string>
+	<key>queueFrameworkCoord</key>
+	<string>rowAlongMethod</string>
+	<key>spriteForMethod</key>
+	<string>spineWithoutParameter</string>
+	<key>topicTypeShape</key>
+	<string>radiusStageFlags</string>
+</dict>
+</plist>

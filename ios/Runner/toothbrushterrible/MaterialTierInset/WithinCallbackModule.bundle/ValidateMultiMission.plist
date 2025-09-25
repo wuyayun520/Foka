@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonSingletonState</key>
+	<string>entityWorkInteraction</string>
+	<key>dialogsThanStructure</key>
+	<string>checklistInStructure</string>
+	<key>frameMediatorDepth</key>
+	<string>publicTaskBottom</string>
+	<key>mainSceneCount</key>
+	<string>requestPatternBottom</string>
+	<key>navigationModePadding</key>
+	<string>descriptionVersusMemento</string>
+	<key>streamPerFramework</key>
+	<string>semanticsScopeOrigin</string>
+	<key>symmetricUsecaseSize</key>
+	<string>mobileMonsterAcceleration</string>
+</dict>
+</plist>

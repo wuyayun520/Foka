@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAndVar</key>
+	<string>modelTempleMode</string>
+	<key>constraintVarBrightness</key>
+	<string>referenceParameterSpacing</string>
+	<key>oldUsecaseIndex</key>
+	<string>labelAndLayer</string>
+	<key>singletonContainVisitor</key>
+	<string>widgetProcessScale</string>
+	<key>spriteProcessPressure</key>
+	<string>tickerAmongBridge</string>
+	<key>stackForChain</key>
+	<string>dependencyProxySaturation</string>
+	<key>statefulBesideState</key>
+	<string>clipperBufferSpacing</string>
+</dict>
+</plist>

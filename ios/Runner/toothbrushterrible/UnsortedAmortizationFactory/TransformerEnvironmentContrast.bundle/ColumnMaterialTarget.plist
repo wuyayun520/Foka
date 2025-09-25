@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineNumberKind</key>
+	<string>alertCommandShape</string>
+	<key>commonBehaviorLocation</key>
+	<string>fragmentFacadeSize</string>
+	<key>denseLayoutSaturation</key>
+	<string>permissiveAwaitDensity</string>
+	<key>finalDecorationForce</key>
+	<string>textCommandRate</string>
+	<key>finalThemeHead</key>
+	<string>pageviewBeyondContext</string>
+	<key>tableCycleDirection</key>
+	<string>interactorByShape</string>
+</dict>
+</plist>

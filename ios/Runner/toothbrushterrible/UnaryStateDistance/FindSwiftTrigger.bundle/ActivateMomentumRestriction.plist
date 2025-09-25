@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertStructureSkewy</key>
+	<string>sceneUntilMethod</string>
+	<key>blocAlongMode</key>
+	<string>sampleUntilVariable</string>
+	<key>displayableActionEdge</key>
+	<string>blocMementoTail</string>
+	<key>largeStackValidation</key>
+	<string>scrollFromTier</string>
+	<key>notificationFlyweightHue</key>
+	<string>textFrameworkMargin</string>
+	<key>queryFormDuration</key>
+	<string>asyncTimerLeft</string>
+	<key>seamlessControllerContrast</key>
+	<string>musicTierPadding</string>
+	<key>slashForOperation</key>
+	<string>tensorPopupTop</string>
+	<key>tweenPerTier</key>
+	<string>skinFacadeTransparency</string>
+</dict>
+</plist>

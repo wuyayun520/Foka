@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisIncludeAdapter</key>
+	<string>substantialPopupTransparency</string>
+	<key>coordinatorBeyondActivity</key>
+	<string>groupInsideTask</string>
+	<key>inactiveFutureSpeed</key>
+	<string>offsetScopeFlags</string>
+	<key>tappablePetPosition</key>
+	<string>touchStateFeedback</string>
+	<key>tickerOutsideInterpreter</key>
+	<string>globalTabviewLeft</string>
+</dict>
+</plist>

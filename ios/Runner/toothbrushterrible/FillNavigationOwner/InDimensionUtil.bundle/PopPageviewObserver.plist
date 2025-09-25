@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocDecoratorScale</key>
+	<string>particleOfFlyweight</string>
+	<key>clipperCommandOpacity</key>
+	<string>agileLabelBrightness</string>
+	<key>completerAndKind</key>
+	<string>singletonBufferScale</string>
+	<key>gradientParamOffset</key>
+	<string>builderVariableDelay</string>
+	<key>inheritedBorderRight</key>
+	<string>modalTypeTheme</string>
+	<key>normalMobxInterval</key>
+	<string>transformerAgainstNumber</string>
+	<key>oldBinaryShade</key>
+	<string>interpolationActionResponse</string>
+	<key>overlayFrameworkVisibility</key>
+	<string>prevStateLeft</string>
+	<key>radioAsBridge</key>
+	<string>smartMultiplicationStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lossAsParameter</key>
+	<string>challengeCommandCenter</string>
+	<key>plateAgainstAdapter</key>
+	<string>storeCycleDistance</string>
+	<key>significantCallbackVisibility</key>
+	<string>histogramFrameworkVisibility</string>
+	<key>storyboardCompositeInset</key>
+	<string>futureLevelBrightness</string>
+</dict>
+</plist>

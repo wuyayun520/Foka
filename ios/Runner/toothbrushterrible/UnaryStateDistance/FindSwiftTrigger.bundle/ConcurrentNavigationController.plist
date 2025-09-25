@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCacheValidation</key>
+	<string>injectionJobColor</string>
+	<key>containerParamMode</key>
+	<string>decorationAsSystem</string>
+	<key>draggableCommandSize</key>
+	<string>tableBeyondLevel</string>
+	<key>localBoxShape</key>
+	<string>responseAlongLayer</string>
+	<key>navigatorMementoRate</key>
+	<string>completionTaskMode</string>
+	<key>progressbarLayerCoord</key>
+	<string>routerBufferScale</string>
+	<key>signDuringVar</key>
+	<string>widgetAlongSingleton</string>
+	<key>visibleChecklistForce</key>
+	<string>sceneFrameworkState</string>
+</dict>
+</plist>

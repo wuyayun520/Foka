@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedEntropySpacing</key>
+	<string>asyncVersusPhase</string>
+	<key>inactiveAwaitDepth</key>
+	<string>tabviewDespiteFlyweight</string>
+	<key>injectionVisitorLeft</key>
+	<string>titleNumberCount</string>
+	<key>lazyCycleFrequency</key>
+	<string>nodeContextResponse</string>
+	<key>presenterStrategyTransparency</key>
+	<string>textActionBehavior</string>
+	<key>publicOffsetPadding</key>
+	<string>primaryListviewDistance</string>
+	<key>secondSinkVelocity</key>
+	<string>segueFunctionDuration</string>
+</dict>
+</plist>

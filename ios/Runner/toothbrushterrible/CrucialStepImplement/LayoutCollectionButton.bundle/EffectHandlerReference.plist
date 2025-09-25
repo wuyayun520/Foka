@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheOrVar</key>
+	<string>specifySubpixelOrientation</string>
+	<key>displayableBufferVisibility</key>
+	<string>iconLayerTint</string>
+	<key>ephemeralCatalystPadding</key>
+	<string>typicalMatrixCoord</string>
+	<key>smallBufferFrequency</key>
+	<string>dependencyDuringContext</string>
+</dict>
+</plist>

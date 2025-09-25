@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationActivitySaturation</key>
+	<string>routeAmongProxy</string>
+	<key>curveWithoutDecorator</key>
+	<string>localizationVarInteraction</string>
+	<key>desktopListenerForce</key>
+	<string>specifierViaSystem</string>
+	<key>keyMenuBound</key>
+	<string>pinchableControllerFlags</string>
+	<key>playbackAgainstBuffer</key>
+	<string>projectionOrVisitor</string>
+	<key>reducerAwaySingleton</key>
+	<string>graphicStrategyCoord</string>
+	<key>resolverSystemLeft</key>
+	<string>standaloneBufferBorder</string>
+	<key>subpixelFunctionBorder</key>
+	<string>accessiblePointAppearance</string>
+</dict>
+</plist>

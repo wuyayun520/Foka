@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFlexState</key>
+	<string>custompaintStateFeedback</string>
+	<key>convolutionExceptMethod</key>
+	<string>labelVersusFramework</string>
+	<key>graphicFrameworkEdge</key>
+	<string>statelessHandlerDelay</string>
+	<key>inkwellSinceCycle</key>
+	<string>allocatorThroughMethod</string>
+	<key>menuTypeIndex</key>
+	<string>elasticQueueTail</string>
+	<key>particleOrLevel</key>
+	<string>batchUntilMethod</string>
+	<key>providerLevelDirection</key>
+	<string>curveObserverFormat</string>
+	<key>sharedResolverSkewy</key>
+	<string>blocProcessStyle</string>
+</dict>
+</plist>

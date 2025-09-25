@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsOutsideInterpreter</key>
+	<string>clipperVisitorFeedback</string>
+	<key>configurationFacadeOrigin</key>
+	<string>hardPlaybackOpacity</string>
+	<key>nodeScopeCount</key>
+	<string>mapShapeTint</string>
+	<key>parallelFutureName</key>
+	<string>typicalDependencyVisibility</string>
+	<key>prismaticLogarithmMargin</key>
+	<string>paddingProcessCount</string>
+	<key>progressbarModeInteraction</key>
+	<string>futureObserverSaturation</string>
+	<key>resolverByPhase</key>
+	<string>animationBesideVariable</string>
+	<key>rowByFramework</key>
+	<string>notifierShapePadding</string>
+	<key>statefulPhaseBottom</key>
+	<string>symbolLevelBottom</string>
+</dict>
+</plist>

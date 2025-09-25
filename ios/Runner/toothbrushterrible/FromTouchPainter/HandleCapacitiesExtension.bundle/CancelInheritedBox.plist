@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyViaState</key>
+	<string>visibleSwiftSkewx</string>
+	<key>skinOfChain</key>
+	<string>interpolationAgainstOperation</string>
+	<key>slashStrategyMode</key>
+	<string>localizationWithProcess</string>
+	<key>sliderPrototypeVisible</key>
+	<string>spotBeyondSingleton</string>
+	<key>textAboutObserver</key>
+	<string>resilientUtilMargin</string>
+</dict>
+</plist>

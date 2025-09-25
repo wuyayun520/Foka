@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardFeatureTop</key>
+	<string>toolDecoratorMode</string>
+	<key>indicatorBesideNumber</key>
+	<string>tensorCubeIndex</string>
+	<key>logarithmFacadeSpacing</key>
+	<string>asyncFormFeedback</string>
+	<key>lossNearTask</key>
+	<string>requestSinceLevel</string>
+	<key>nextProtocolDuration</key>
+	<string>statefulOffsetDelay</string>
+	<key>opaqueSizeAlignment</key>
+	<string>factoryAndAction</string>
+	<key>prevManagerVisible</key>
+	<string>accessoryAlongCycle</string>
+	<key>typicalGridContrast</key>
+	<string>enabledBaseDuration</string>
+</dict>
+</plist>

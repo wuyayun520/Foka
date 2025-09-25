@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedDescriptionFeedback</key>
+	<string>equipmentAwayState</string>
+	<key>hardInterfaceVelocity</key>
+	<string>expandedNearState</string>
+	<key>semanticDescriptionBound</key>
+	<string>radiusAwayStrategy</string>
+	<key>standaloneTangentSpeed</key>
+	<string>queryFlyweightDelay</string>
+	<key>statefulBridgeSkewx</key>
+	<string>precisionPlatformTop</string>
+	<key>transformerScopeOffset</key>
+	<string>consumerVarVisibility</string>
+</dict>
+</plist>

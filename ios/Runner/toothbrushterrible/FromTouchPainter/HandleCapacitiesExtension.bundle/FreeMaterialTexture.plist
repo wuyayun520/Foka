@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelInStrategy</key>
+	<string>otherProviderTransparency</string>
+	<key>customizedEntityMomentum</key>
+	<string>resultAgainstAction</string>
+	<key>mobilePopupSpacing</key>
+	<string>pinchableDialogsFlags</string>
+	<key>modelCommandCenter</key>
+	<string>responsePhaseCount</string>
+	<key>pointOfProcess</key>
+	<string>popupAndMode</string>
+	<key>signAsSingleton</key>
+	<string>labelWithMethod</string>
+</dict>
+</plist>

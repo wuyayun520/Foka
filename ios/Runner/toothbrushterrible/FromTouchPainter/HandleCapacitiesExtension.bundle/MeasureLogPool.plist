@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapObserverBehavior</key>
+	<string>temporaryResolverAcceleration</string>
+	<key>masterOfBridge</key>
+	<string>callbackLevelOpacity</string>
+	<key>painterAwayObserver</key>
+	<string>retainedPainterContrast</string>
+	<key>spotForFunction</key>
+	<string>textureWithoutStructure</string>
+	<key>tickerMethodCenter</key>
+	<string>interfaceUntilStructure</string>
+</dict>
+</plist>

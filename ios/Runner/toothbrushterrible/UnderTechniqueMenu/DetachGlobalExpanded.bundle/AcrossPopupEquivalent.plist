@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetActionSpacing</key>
+	<string>declarativeAssetValidation</string>
+	<key>binarySingletonScale</key>
+	<string>curveBufferScale</string>
+	<key>bulletDespiteMemento</key>
+	<string>checkboxInParam</string>
+	<key>chartViaValue</key>
+	<string>normalCycleIndex</string>
+	<key>euclideanAssetLeft</key>
+	<string>resilientRadioVisible</string>
+	<key>hierarchicalRowTail</key>
+	<string>sharedProgressbarVisible</string>
+	<key>mobxTierAppearance</key>
+	<string>standaloneTextInset</string>
+	<key>notifierDecoratorCount</key>
+	<string>alignmentPrototypeOrigin</string>
+	<key>uniformRepositoryDelay</key>
+	<string>buttonLikeForm</string>
+</dict>
+</plist>

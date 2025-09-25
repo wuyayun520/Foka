@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveTierRotation</key>
+	<string>resizableContainerRotation</string>
+	<key>delegateContainFunction</key>
+	<string>modalProxyKind</string>
+	<key>enabledOptimizerOrientation</key>
+	<string>heapProxyBrightness</string>
+	<key>normVariableDistance</key>
+	<string>containerWorkScale</string>
+	<key>resultObserverMargin</key>
+	<string>layoutActivitySize</string>
+	<key>routeAsAction</key>
+	<string>singleHashShade</string>
+	<key>semanticScrollInteraction</key>
+	<string>segueContainVar</string>
+	<key>tweenThanState</key>
+	<string>buttonPatternContrast</string>
+</dict>
+</plist>

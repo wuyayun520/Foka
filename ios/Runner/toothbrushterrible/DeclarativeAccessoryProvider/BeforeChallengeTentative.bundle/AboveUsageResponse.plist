@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPreviewDelay</key>
+	<string>variantStageFeedback</string>
+	<key>awaitAdapterBound</key>
+	<string>euclideanNodeRotation</string>
+	<key>collectionDuringStyle</key>
+	<string>denseRectMomentum</string>
+	<key>gradientFrameworkBottom</key>
+	<string>originalFrameBorder</string>
+	<key>keyDescriptionDepth</key>
+	<string>smartTextureTag</string>
+	<key>nativeThemeFlags</key>
+	<string>commonAxisOrigin</string>
+	<key>referenceDecoratorPressure</key>
+	<string>buttonParamResponse</string>
+	<key>sharedEffectRight</key>
+	<string>asynchronousCoordinatorInteraction</string>
+	<key>threadPhaseKind</key>
+	<string>reactiveTransitionResponse</string>
+</dict>
+</plist>

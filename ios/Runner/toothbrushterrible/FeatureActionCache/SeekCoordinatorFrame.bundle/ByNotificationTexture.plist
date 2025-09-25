@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAmongActivity</key>
+	<string>advancedMenuBorder</string>
+	<key>effectAmongCommand</key>
+	<string>viewDecoratorAppearance</string>
+	<key>equipmentInsideCommand</key>
+	<string>curveSystemResponse</string>
+	<key>flexibleRoleStatus</key>
+	<string>kernelMediatorPadding</string>
+</dict>
+</plist>

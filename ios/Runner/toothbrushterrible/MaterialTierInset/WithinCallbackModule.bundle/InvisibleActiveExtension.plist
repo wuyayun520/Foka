@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>methodOutsideContext</key>
+	<string>taskStyleTail</string>
+	<key>rectChainScale</key>
+	<string>sizeAgainstBuffer</string>
+	<key>slashModeTransparency</key>
+	<string>hardSessionFrequency</string>
+	<key>workflowMementoRight</key>
+	<string>frameMementoTint</string>
+</dict>
+</plist>

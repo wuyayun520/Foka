@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentWithTask</key>
+	<string>documentCommandShade</string>
+	<key>animationCycleSpacing</key>
+	<string>rectMethodEdge</string>
+	<key>assetAtCommand</key>
+	<string>musicMediatorName</string>
+	<key>binaryActivityTag</key>
+	<string>assetAndMemento</string>
+	<key>cubitWithoutPrototype</key>
+	<string>delegateTaskDensity</string>
+	<key>curveAndAction</key>
+	<string>commandFrameworkTheme</string>
+	<key>singletonAgainstType</key>
+	<string>spriteScopeSkewy</string>
+	<key>skirtExceptBuffer</key>
+	<string>topicWithPlatform</string>
+	<key>substantialEffectType</key>
+	<string>parallelMapTag</string>
+</dict>
+</plist>

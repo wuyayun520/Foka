@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAndMode</key>
+	<string>seamlessDecorationScale</string>
+	<key>consumerFromPlatform</key>
+	<string>equalizationBesideLevel</string>
+	<key>easyProjectColor</key>
+	<string>usedAnimationCount</string>
+	<key>grainDecoratorFrequency</key>
+	<string>drawerAwayCommand</string>
+	<key>graphSingletonDistance</key>
+	<string>dependencyLevelAcceleration</string>
+	<key>skirtDecoratorRight</key>
+	<string>flexibleCommandBehavior</string>
+	<key>specifyBulletSpacing</key>
+	<string>desktopControllerMomentum</string>
+	<key>symbolOfNumber</key>
+	<string>futureIncludeState</string>
+	<key>tweenActivityFeedback</key>
+	<string>presenterStyleTransparency</string>
+</dict>
+</plist>

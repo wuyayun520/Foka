@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPhaseRotation</key>
+	<string>routerExceptLevel</string>
+	<key>animationSingletonSkewx</key>
+	<string>standaloneSceneScale</string>
+	<key>featureActionSkewx</key>
+	<string>animationModeShade</string>
+	<key>finalBehaviorCount</key>
+	<string>statefulAlphaPressure</string>
+	<key>lazyOverlayCoord</key>
+	<string>metadataKindCenter</string>
+	<key>navigatorAtVariable</key>
+	<string>publicModelIndex</string>
+	<key>screenLevelDepth</key>
+	<string>cubitTypeFlags</string>
+</dict>
+</plist>

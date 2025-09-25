@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicControllerVisible</key>
+	<string>criticalCharacterAppearance</string>
+	<key>buttonFrameworkTheme</key>
+	<string>decorationFrameworkFormat</string>
+	<key>containerLayerTag</key>
+	<string>gesturedetectorBeyondShape</string>
+	<key>decorationNearMemento</key>
+	<string>nativeInstructionBrightness</string>
+	<key>delegateOfObserver</key>
+	<string>retainedProtocolName</string>
+	<key>diversifiedMenuForce</key>
+	<string>mapLevelStyle</string>
+	<key>reducerWithActivity</key>
+	<string>numericalHeapSpacing</string>
+	<key>resultDespiteAdapter</key>
+	<string>factoryScopeDistance</string>
+	<key>titleVarDensity</key>
+	<string>decorationAlongPlatform</string>
+</dict>
+</plist>

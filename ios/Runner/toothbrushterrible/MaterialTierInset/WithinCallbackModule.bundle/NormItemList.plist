@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityScopeFormat</key>
+	<string>viewActivityName</string>
+	<key>aspectratioStyleOpacity</key>
+	<string>localLabelBottom</string>
+	<key>crucialNavigatorScale</key>
+	<string>navigatorUntilScope</string>
+	<key>factoryAmongStage</key>
+	<string>accordionInjectionLocation</string>
+	<key>geometricCaptionMargin</key>
+	<string>directlyBorderColor</string>
+	<key>interactorPerComposite</key>
+	<string>builderPerVariable</string>
+	<key>lostVectorOrientation</key>
+	<string>constShaderDepth</string>
+	<key>reactiveChapterCoord</key>
+	<string>ignoredGemOpacity</string>
+	<key>stampAroundChain</key>
+	<string>activatedStackBound</string>
+	<key>substantialEffectShape</key>
+	<string>singleChapterRight</string>
+</dict>
+</plist>

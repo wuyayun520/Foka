@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderParamTransparency</key>
+	<string>callbackAtAction</string>
+	<key>curveAsSystem</key>
+	<string>concurrentStoryboardFeedback</string>
+	<key>expandedJobPosition</key>
+	<string>activeTweenLocation</string>
+	<key>independentTransitionCoord</key>
+	<string>themeEnvironmentDepth</string>
+	<key>unsortedEventPressure</key>
+	<string>utilFrameworkOrigin</string>
+</dict>
+</plist>

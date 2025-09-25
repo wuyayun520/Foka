@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalFrameShape</key>
+	<string>interfaceLayerInset</string>
+	<key>desktopOperationValidation</key>
+	<string>storeNumberHue</string>
+	<key>iterativeOffsetContrast</key>
+	<string>widgetLayerState</string>
+	<key>reducerFacadeStatus</key>
+	<string>fusedAnimationFormat</string>
+	<key>reusableNibDistance</key>
+	<string>kernelStyleContrast</string>
+	<key>symbolFlyweightRight</key>
+	<string>relationalViewInteraction</string>
+</dict>
+</plist>

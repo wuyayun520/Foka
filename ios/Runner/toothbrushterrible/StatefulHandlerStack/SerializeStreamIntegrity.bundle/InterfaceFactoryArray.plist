@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAgainstFacade</key>
+	<string>sceneForMethod</string>
+	<key>channelsAtSingleton</key>
+	<string>iconOutsideBridge</string>
+	<key>explicitMetadataSkewy</key>
+	<string>modelParamBrightness</string>
+	<key>exponentParameterAlignment</key>
+	<string>scaleStateTheme</string>
+	<key>graphicAlongStyle</key>
+	<string>delicateLoopRotation</string>
+	<key>ignoredSemanticsForce</key>
+	<string>controllerTaskBound</string>
+	<key>intensityMethodFrequency</key>
+	<string>otherReducerTag</string>
+	<key>parallelTabviewStyle</key>
+	<string>gradientVisitorName</string>
+	<key>utilAdapterColor</key>
+	<string>musicProcessTag</string>
+</dict>
+</plist>

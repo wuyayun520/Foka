@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPatternDelay</key>
+	<string>temporaryTickerOpacity</string>
+	<key>boxshadowAndParam</key>
+	<string>collectionCycleTheme</string>
+	<key>displayableRadiusRotation</key>
+	<string>resourceBeyondCommand</string>
+	<key>layerEnvironmentType</key>
+	<string>themeStyleHue</string>
+	<key>similarPointAcceleration</key>
+	<string>imperativeTweenDuration</string>
+	<key>widgetAboutOperation</key>
+	<string>rowForBridge</string>
+</dict>
+</plist>

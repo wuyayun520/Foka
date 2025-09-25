@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationExceptContext</key>
+	<string>errorOutsideStyle</string>
+	<key>constraintFromTask</key>
+	<string>discardedAssetAlignment</string>
+	<key>cursorStateMode</key>
+	<string>largeMarginHue</string>
+	<key>declarativeManagerType</key>
+	<string>immediateMobileCount</string>
+	<key>eagerBinaryFrequency</key>
+	<string>transitionWithScope</string>
+	<key>missedSinkResponse</key>
+	<string>aspectInterpreterState</string>
+	<key>normalButtonTail</key>
+	<string>injectionStagePosition</string>
+	<key>reusableDecorationDistance</key>
+	<string>titleOrFacade</string>
+	<key>semanticCustompaintPosition</key>
+	<string>resultEnvironmentTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchFrameworkTransparency</key>
+	<string>cardBesideComposite</string>
+	<key>cardOrInterpreter</key>
+	<string>labelOfMode</string>
+	<key>compositionalRouterTag</key>
+	<string>denseTaskRate</string>
+	<key>concurrentTaskScale</key>
+	<string>callbackMediatorFrequency</string>
+	<key>intermediateRequestOrientation</key>
+	<string>futureOperationPadding</string>
+	<key>resourceAlongFramework</key>
+	<string>customizedAssetSkewy</string>
+	<key>resourceWorkPressure</key>
+	<string>elasticTickerDepth</string>
+	<key>sliderStageValidation</key>
+	<string>keyReducerPadding</string>
+	<key>stateTypeLocation</key>
+	<string>sliderCommandKind</string>
+	<key>tappableProfileCount</key>
+	<string>subtleFeatureMargin</string>
+</dict>
+</plist>

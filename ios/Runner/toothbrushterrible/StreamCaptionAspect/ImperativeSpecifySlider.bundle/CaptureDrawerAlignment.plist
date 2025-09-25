@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryActivityFeedback</key>
+	<string>sensorProxyInteraction</string>
+	<key>denseBlocSaturation</key>
+	<string>stampUntilDecorator</string>
+	<key>displayableDescriptionRight</key>
+	<string>sampleTempleTag</string>
+	<key>enabledPresenterBehavior</key>
+	<string>materialAxisCoord</string>
+	<key>granularStreamForce</key>
+	<string>agileCubitResponse</string>
+	<key>signatureUntilStage</key>
+	<string>coordinatorScopeVelocity</string>
+</dict>
+</plist>
