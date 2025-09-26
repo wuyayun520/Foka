@@ -69,27 +69,26 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/images/
-    - assets/images/tabnor/
-    - assets/images/tabpre/
-    - assets/AIRole/
-    - assets/user/
-    - assets/user/
-    - assets/user/1/
-    - assets/user/2/
-    - assets/user/3/
-    - assets/user/4/
-    - assets/user/5/
-    - assets/user/6/
-    - assets/user/7/
-    - assets/user/8/
-    - assets/user/9/
-    - assets/user/10/
-    - assets/user/11/
-    - assets/user/12/
-    - assets/user/13/
-    - assets/user/14/
-    - assets/user/users_data.json
+    - assets/section/
+    - assets/section/tabnor/
+    - assets/section/tabpre/
+    - assets/protagonist/
+    - assets/people/
+    - assets/people/people_Arr.json
+    - assets/people/usera/
+    - assets/people/userb/
+    - assets/people/userc/
+    - assets/people/userd/
+    - assets/people/usere/
+    - assets/people/userf/
+    - assets/people/userg/
+    - assets/people/userh/
+    - assets/people/useri/
+    - assets/people/userj/
+    - assets/people/userk/
+    - assets/people/userl/
+    - assets/people/userm/
+    - assets/people/usern/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

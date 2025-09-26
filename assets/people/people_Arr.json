@@ -1,0 +1,242 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Alex_Rivera",
+      "displayName": "Alex Rivera",
+      "avatar": "assets/people/usera/peopleicon.webp",
+      "background": "assets/people/usera/peopleBG.webp",
+      "introduction": "assets/people/usera/shares.mp3",
+      "post": {
+        "id": "post_1",
+        "content": "Just completed an amazing sunrise yoga session! Practicing under the Tokyo Tower, feeling the city's pulse and inner peace. Every dawn brings new beginnings 🧘‍♀️",
+        "likes": 89,
+        "comments": 15,
+        "images": ["assets/people/usera/peopleBG.webp"],
+        "audio": "assets/people/usera/shares.mp3",
+        "location": "Tokyo Tower Park, Japan"
+      }
+    },
+    {
+      "id": 2,
+      "username": "Sofia_Martinez",
+      "displayName": "Sofia Martinez",
+      "avatar": "assets/people/userb/peopleicon.webp",
+      "background": "assets/people/userb/peopleBG.webp",
+      "introduction": "assets/people/userb/shares.mp3",
+      "post": {
+        "id": "post_2",
+        "content": "Discovered this incredible street art in Barcelona's art district! Art truly has the power to transform a community's atmosphere. Every stroke tells a story 🎨",
+        "likes": 156,
+        "comments": 28,
+        "images": ["assets/people/userb/peopleBG.webp"],
+        "audio": "assets/people/userb/shares.mp3",
+        "location": "El Raval, Barcelona"
+      }
+    },
+    {
+      "id": 3,
+      "username": "Marcus_Thompson",
+      "displayName": "Marcus Thompson",
+      "avatar": "assets/people/userc/peopleicon.webp",
+      "background": "assets/people/userc/peopleBG.webp",
+      "introduction": "assets/people/userc/shares.mp3",
+      "post": {
+        "id": "post_3",
+        "content": "Learned about cutting-edge AI technology at London's tech summit! Machine learning is transforming our world, and being part of this revolution is incredibly exciting 🤖✨",
+        "likes": 203,
+        "comments": 42,
+        "images": ["assets/people/userc/peopleBG.webp"],
+        "audio": "assets/people/userc/shares.mp3",
+        "location": "London Tech Center, UK"
+      }
+    },
+    {
+      "id": 4,
+      "username": "Yuki_Tanaka",
+      "displayName": "Yuki Tanaka",
+      "avatar": "assets/people/userd/peopleicon.webp",
+      "background": "assets/people/userd/peopleBG.webp",
+      "introduction": "assets/people/userd/shares.mp3",
+      "post": {
+        "id": "post_4",
+        "content": "Practicing tea ceremony in Kyoto's bamboo forest, feeling the weight of a thousand years of culture. Every sip carries zen, bringing true peace to the soul 🍵",
+        "likes": 178,
+        "comments": 33,
+        "images": ["assets/people/userd/peopleBG.webp"],
+        "audio": "assets/people/userd/shares.mp3",
+        "location": "Arashiyama Bamboo Grove, Kyoto"
+      }
+    },
+    {
+      "id": 5,
+      "username": "Priya_Sharma",
+      "displayName": "Priya Sharma",
+      "avatar": "assets/people/usere/peopleicon.webp",
+      "background": "assets/people/usere/peopleBG.webp",
+      "introduction": "assets/people/usere/shares.mp3",
+      "post": {
+        "id": "post_5",
+        "content": "Exploring the mysteries of spices in Mumbai's spice market! Every grain carries the history and culture of India, absolutely mesmerizing 🌶️",
+        "likes": 145,
+        "comments": 26,
+        "images": ["assets/people/usere/peopleBG.webp"],
+        "audio": "assets/people/usere/shares.mp3",
+        "location": "Spice Market, Mumbai"
+      }
+    },
+    {
+      "id": 6,
+      "username": "Elena_Petrov",
+      "displayName": "Elena Petrov",
+      "avatar": "assets/people/userf/peopleicon.webp",
+      "background": "assets/people/userf/peopleBG.webp",
+      "introduction": "assets/people/userf/shares.mp3",
+      "post": {
+        "id": "post_6",
+        "content": "Admiring world-class art collections at the Hermitage in St. Petersburg! Every painting tells a story of history, absolutely captivating 🎭",
+        "likes": 267,
+        "comments": 51,
+        "images": ["assets/people/userf/peopleBG.webp"],
+        "audio": "assets/people/userf/shares.mp3",
+        "location": "Hermitage Museum, St. Petersburg"
+      }
+    },
+    {
+      "id": 7,
+      "username": "Zara_Al-Hassan",
+      "displayName": "Zara Al-Hassan",
+      "avatar": "assets/people/userg/peopleicon.webp",
+      "background": "assets/people/userg/peopleBG.webp",
+      "introduction": "assets/people/userg/shares.mp3",
+      "post": {
+        "id": "post_7",
+        "content": "Just finished an incredible desert safari in Dubai! The golden dunes stretched endlessly, and the sunset was absolutely magical. Adventure awaits! 🐪",
+        "likes": 189,
+        "comments": 37,
+        "images": ["assets/people/userg/peopleBG.webp"],
+        "audio": "assets/people/userg/shares.mp3",
+        "location": "Dubai Desert, UAE"
+      }
+    },
+    {
+      "id": 8,
+      "username": "Diego_Silva",
+      "displayName": "Diego Silva",
+      "avatar": "assets/people/userh/peopleicon.webp",
+      "background": "assets/people/userh/peopleBG.webp",
+      "introduction": "assets/people/userh/shares.mp3",
+      "post": {
+        "id": "post_8",
+        "content": "Samba night in Rio was absolutely electrifying! The rhythm of Brazil flows through every street. Dancing until dawn under the stars! 💃",
+        "likes": 134,
+        "comments": 25,
+        "images": ["assets/people/userh/peopleBG.webp"],
+        "audio": "assets/people/userh/shares.mp3",
+        "location": "Copacabana Beach, Rio de Janeiro"
+      }
+    },
+    {
+      "id": 9,
+      "username": "Amara_Okafor",
+      "displayName": "Amara Okafor",
+      "avatar": "assets/people/useri/peopleicon.webp",
+      "background": "assets/people/useri/peopleBG.webp",
+      "introduction": "assets/people/useri/shares.mp3",
+      "post": {
+        "id": "post_9",
+        "content": "Exploring the vibrant markets of Lagos! The colors, sounds, and energy here are absolutely infectious. Every corner tells a story of resilience and joy 🌍",
+        "likes": 156,
+        "comments": 29,
+        "images": ["assets/people/useri/peopleBG.webp"],
+        "audio": "assets/people/useri/shares.mp3",
+        "location": "Lagos Market, Nigeria"
+      }
+    },
+    {
+      "id": 10,
+      "username": "Lars_Andersen",
+      "displayName": "Lars Andersen",
+      "avatar": "assets/people/userj/peopleicon.webp",
+      "background": "assets/people/userj/peopleBG.webp",
+      "introduction": "assets/people/userj/shares.mp3",
+      "post": {
+        "id": "post_10",
+        "content": "Northern lights were absolutely spectacular tonight! Dancing across the Arctic sky in shades of green and purple. Nature's own light show! 🌌",
+        "likes": 298,
+        "comments": 67,
+        "images": ["assets/people/userj/peopleBG.webp"],
+        "audio": "assets/people/userj/shares.mp3",
+        "location": "Tromsø, Norway"
+      }
+    },
+    {
+      "id": 11,
+      "username": "Chen_Wei",
+      "displayName": "Chen Wei",
+      "avatar": "assets/people/userk/peopleicon.webp",
+      "background": "assets/people/userk/peopleBG.webp",
+      "introduction": "assets/people/userk/shares.mp3",
+      "post": {
+        "id": "post_11",
+        "content": "Morning tai chi in the Forbidden City gardens! The ancient movements connect me to centuries of tradition. Finding balance in every breath 🥋",
+        "likes": 112,
+        "comments": 21,
+        "images": ["assets/people/userk/peopleBG.webp"],
+        "audio": "assets/people/userk/shares.mp3",
+        "location": "Forbidden City, Beijing"
+      }
+    },
+    {
+      "id": 12,
+      "username": "Isabella_Rossi",
+      "displayName": "Isabella Rossi",  
+      "avatar": "assets/people/userl/peopleicon.webp",
+      "background": "assets/people/userl/peopleBG.webp",
+      "introduction": "assets/people/userl/shares.mp3",
+      "post": {
+        "id": "post_12",
+        "content": "Gelato tasting tour through Florence! Each flavor is a masterpiece of Italian craftsmanship. La dolce vita at its finest! 🍦",
+        "likes": 223,
+        "comments": 45,
+        "images": ["assets/people/userl/peopleBG.webp"],
+        "audio": "assets/people/userl/shares.mp3",
+        "location": "Florence Historic Center, Italy"
+      }
+    },
+    {
+      "id": 13,
+      "username": "Ahmed_Hassan",
+      "displayName": "Ahmed Hassan",
+      "avatar": "assets/people/userm/peopleicon.webp",
+      "background": "assets/people/userm/peopleBG.webp",
+      "introduction": "assets/people/userm/shares.mp3",
+      "post": {
+        "id": "post_13",
+        "content": "Sunset calligraphy session overlooking the Nile! The ancient art of Arabic script flows like water. Every stroke carries centuries of wisdom ✍️",
+        "likes": 189,
+        "comments": 37,
+        "images": ["assets/people/userm/peopleBG.webp"],
+        "audio": "assets/people/userm/shares.mp3",
+        "location": "Nile River, Cairo"
+      }
+    },
+    {
+      "id": 14,
+      "username": "Sakura_Yamamoto",
+      "displayName": "Sakura Yamamoto",
+      "avatar": "assets/people/usern/peopleicon.webp",
+      "background": "assets/people/usern/peopleBG.webp",
+      "introduction": "assets/people/usern/shares.mp3",
+      "post": {
+        "id": "post_14",
+        "content": "Cherry blossom season in full bloom! The delicate pink petals create a magical canopy. Spring in Japan is pure poetry 🌸",
+        "likes": 267,
+        "comments": 51,
+        "images": ["assets/people/usern/peopleBG.webp"],
+        "audio": "assets/people/usern/shares.mp3",
+        "location": "Ueno Park, Tokyo"
+      }
+    }
+  ]
+}
