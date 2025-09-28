@@ -363,154 +363,33 @@ class _AccountScreenState extends State<AccountScreen> {
               : SingleChildScrollView(
                   child: Column(
                     children: [
-                    const SizedBox(height: 60),
-                    // 用户头像和编辑按钮布局
-                    Stack(
-                      children: [
-                        // 用户头像 - 居中
-                        Center(
-                          child: GestureDetector(
-                            onTap: _pickAvatar,
-                            child: Container(
-                              width: 120,
-                              height: 120,
-                              decoration: BoxDecoration(
-                                shape: BoxShape.circle,
-                                border: Border.all(
-                                  color: Colors.white,
-                                  width: 3,
-                                ),
-                                boxShadow: [
-                                  BoxShadow(
-                                    color: Colors.black.withOpacity(0.3),
-                                    blurRadius: 20,
-                                    offset: const Offset(0, 10),
-                                  ),
-                                ],
-                              ),
-                              child: ClipOval(
-                                child: _profile.avatarFileName != null
-                                    ? FutureBuilder<String?>(
-                                        future: UserDataService.getAvatarFilePath(_profile.avatarFileName),
-                                        builder: (context, snapshot) {
-                                          if (snapshot.hasData && snapshot.data != null) {
-                                            return Image.file(
-                                              File(snapshot.data!),
-                                              fit: BoxFit.cover,
-                                              width: 120,
-                                              height: 120,
-                                            );
-                                          }
-                                          return Container(
-                                            color: Colors.white.withOpacity(0.2),
-                                            child: const Icon(
-                                              Icons.person,
-                                              color: Colors.white,
-                                              size: 60,
-                                            ),
-                                          );
-                                        },
-                                      )
-                                    : Container(
-                                        color: Colors.white.withOpacity(0.2),
-                                        child: const Icon(
-                                          Icons.person,
-                                          color: Colors.white,
-                                          size: 60,
-                                        ),
-                                      ),
-                              ),
-                            ),
-                          ),
+                    const SizedBox(height: 40),
+                    
+                    // 顶部装饰条
+                    Container(
+                      width: 60,
+                      height: 4,
+                      decoration: BoxDecoration(
+                        gradient: const LinearGradient(
+                          colors: [Color(0xFFB700FF), Color(0xFFFF69B4)],
                         ),
-                        // 编辑按钮 - 靠右对齐
-                        Positioned(
-                          right: 20,
-                          top: 0,
-                          bottom: 0,
-                          child: Center(
-                            child: GestureDetector(
-                              onTap: _showEditDialog,
-                              child: Container(
-                                padding: const EdgeInsets.symmetric(
-                                  horizontal: 20,
-                                  vertical: 12,
-                                ),
-                                decoration: BoxDecoration(
-                                  gradient: const LinearGradient(
-                                    colors: [
-                                      Color(0xFFB700FF),
-                                      Color(0xFFFF69B4),
-                                    ],
-                                  ),
-                                  borderRadius: BorderRadius.circular(25),
-                                  boxShadow: [
-                                    BoxShadow(
-                                      color: Colors.black.withOpacity(0.2),
-                                      blurRadius: 10,
-                                      offset: const Offset(0, 5),
-                                    ),
-                                  ],
-                                ),
-                                child: const Row(
-                                  mainAxisSize: MainAxisSize.min,
-                                  children: [
-                                    Icon(
-                                      Icons.edit,
-                                      color: Colors.white,
-                                      size: 18,
-                                    ),
-                                    SizedBox(width: 8),
-                                    Text(
-                                      'Edit',
-                                      style: TextStyle(
-                                        color: Colors.white,
-                                        fontSize: 16,
-                                        fontWeight: FontWeight.w600,
-                                      ),
-                                    ),
-                                  ],
-                                ),
-                              ),
-                            ),
-                          ),
-                        ),
-                      ],
-                    ),
-                    const SizedBox(height: 20),
-                    // 用户名称和性别符号
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        Text(
-                          _profile.name,
-                          style: const TextStyle(
-                            color: Colors.white,
-                            fontSize: 28,
-                            fontWeight: FontWeight.bold,
-                          ),
-                        ),
-                      
-                      ],
-                    ),
-                    const SizedBox(height: 12),
-                    // 个人简介
-                    Padding(
-                      padding: const EdgeInsets.symmetric(horizontal: 40),
-                      child: Text(
-                        _profile.bio,
-                        style: const TextStyle(
-                          color: Colors.white,
-                          fontSize: 16,
-                          height: 1.4,
-                        ),
-                        textAlign: TextAlign.center,
+                        borderRadius: BorderRadius.circular(2),
                       ),
                     ),
-                    const SizedBox(height: 40),
+                    const SizedBox(height: 30),
+                    
+                    // 用户头像区域 - 重新设计
+                    _buildUserAvatarSection(),
+                    const SizedBox(height: 25),
+                    
+                    // 用户信息卡片
+                    _buildUserInfoCard(),
+                    const SizedBox(height: 30),
+                    
                     // VIP和Wallet选项
                     _buildVipWalletOptions(),
-                    const SizedBox(height: 40),
+                    const SizedBox(height: 30),
+                    
                     // 菜单列表
                     _buildMenuList(),
                     const SizedBox(height: 40),
@@ -518,6 +397,249 @@ class _AccountScreenState extends State<AccountScreen> {
                   ),
                 ),
         ),
+      ),
+    );
+  }
+
+  Widget _buildUserAvatarSection() {
+    return Stack(
+      children: [
+        // 头像容器
+        Center(
+          child: GestureDetector(
+            onTap: _pickAvatar,
+            child: Container(
+              width: 130,
+              height: 130,
+              decoration: BoxDecoration(
+                shape: BoxShape.circle,
+                gradient: const LinearGradient(
+                  begin: Alignment.topLeft,
+                  end: Alignment.bottomRight,
+                  colors: [
+                    Color(0xFFB700FF),
+                    Color(0xFFFF69B4),
+                  ],
+                ),
+                boxShadow: [
+                  BoxShadow(
+                    color: const Color(0xFFB700FF).withOpacity(0.4),
+                    blurRadius: 25,
+                    offset: const Offset(0, 12),
+                    spreadRadius: 2,
+                  ),
+                ],
+              ),
+              child: Container(
+                margin: const EdgeInsets.all(4),
+                decoration: const BoxDecoration(
+                  shape: BoxShape.circle,
+                  color: Colors.white,
+                ),
+                child: Container(
+                  margin: const EdgeInsets.all(3),
+                  decoration: BoxDecoration(
+                    shape: BoxShape.circle,
+                    color: Colors.grey[100],
+                  ),
+                  child: ClipOval(
+                    child: _profile.avatarFileName != null
+                        ? FutureBuilder<String?>(
+                            future: UserDataService.getAvatarFilePath(_profile.avatarFileName),
+                            builder: (context, snapshot) {
+                              if (snapshot.hasData && snapshot.data != null) {
+                                return Image.file(
+                                  File(snapshot.data!),
+                                  fit: BoxFit.cover,
+                                  width: 120,
+                                  height: 120,
+                                );
+                              }
+                              return Container(
+                                decoration: BoxDecoration(
+                                  shape: BoxShape.circle,
+                                  gradient: LinearGradient(
+                                    colors: [
+                                      Colors.grey[300]!,
+                                      Colors.grey[200]!,
+                                    ],
+                                  ),
+                                ),
+                                child: Icon(
+                                  Icons.person,
+                                  color: Colors.grey[600],
+                                  size: 50,
+                                ),
+                              );
+                            },
+                          )
+                        : Container(
+                            decoration: BoxDecoration(
+                              shape: BoxShape.circle,
+                              gradient: LinearGradient(
+                                colors: [
+                                  Colors.grey[300]!,
+                                  Colors.grey[200]!,
+                                ],
+                              ),
+                            ),
+                            child: Icon(
+                              Icons.person,
+                              color: Colors.grey[600],
+                              size: 50,
+                            ),
+                          ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        // 相机图标 - 右下角
+        Positioned(
+          right: MediaQuery.of(context).size.width * 0.5 - 80,
+          bottom: 5,
+          child: GestureDetector(
+            onTap: _pickAvatar,
+            child: Container(
+              width: 36,
+              height: 36,
+              decoration: BoxDecoration(
+                gradient: const LinearGradient(
+                  colors: [Color(0xFFB700FF), Color(0xFFFF69B4)],
+                ),
+                shape: BoxShape.circle,
+                border: Border.all(color: Colors.white, width: 2),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black.withOpacity(0.2),
+                    blurRadius: 8,
+                    offset: const Offset(0, 3),
+                  ),
+                ],
+              ),
+              child: const Icon(
+                Icons.camera_alt,
+                color: Colors.white,
+                size: 18,
+              ),
+            ),
+          ),
+        ),
+        // 编辑按钮 - 右上角
+        Positioned(
+          right: 20,
+          top: 10,
+          child: GestureDetector(
+            onTap: _showEditDialog,
+            child: Container(
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+              decoration: BoxDecoration(
+                color: Colors.white.withOpacity(0.9),
+                borderRadius: BorderRadius.circular(20),
+                border: Border.all(
+                  color: const Color(0xFFB700FF).withOpacity(0.3),
+                  width: 1,
+                ),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black.withOpacity(0.1),
+                    blurRadius: 10,
+                    offset: const Offset(0, 4),
+                  ),
+                ],
+              ),
+              child: const Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Icon(
+                    Icons.edit,
+                    color: Color(0xFFB700FF),
+                    size: 16,
+                  ),
+                  SizedBox(width: 6),
+                  Text(
+                    'Edit',
+                    style: TextStyle(
+                      color: Color(0xFFB700FF),
+                      fontSize: 14,
+                      fontWeight: FontWeight.w600,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ),
+      ],
+    );
+  }
+
+  Widget _buildUserInfoCard() {
+    return Container(
+      margin: const EdgeInsets.symmetric(horizontal: 20),
+      padding: const EdgeInsets.all(24),
+      decoration: BoxDecoration(
+        gradient: LinearGradient(
+          begin: Alignment.topLeft,
+          end: Alignment.bottomRight,
+          colors: [
+            Colors.white.withOpacity(0.15),
+            Colors.white.withOpacity(0.05),
+          ],
+        ),
+        borderRadius: BorderRadius.circular(24),
+        border: Border.all(
+          color: Colors.white.withOpacity(0.2),
+          width: 1,
+        ),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(0.1),
+            blurRadius: 20,
+            offset: const Offset(0, 8),
+          ),
+        ],
+      ),
+      child: Column(
+        children: [
+          // 用户名
+          Text(
+            _profile.name.isEmpty ? 'Your Name' : _profile.name,
+            style: const TextStyle(
+              color: Colors.white,
+              fontSize: 24,
+              fontWeight: FontWeight.w700,
+              letterSpacing: 0.5,
+            ),
+          ),
+          const SizedBox(height: 12),
+          // 分隔线
+          Container(
+            width: 40,
+            height: 2,
+            decoration: BoxDecoration(
+              gradient: const LinearGradient(
+                colors: [Color(0xFFB700FF), Color(0xFFFF69B4)],
+              ),
+              borderRadius: BorderRadius.circular(1),
+            ),
+          ),
+          const SizedBox(height: 12),
+          // 个人简介
+          Text(
+            _profile.bio.isEmpty ? 'Tell us about yourself...' : _profile.bio,
+            style: TextStyle(
+              color: Colors.white.withOpacity(0.8),
+              fontSize: 16,
+              height: 1.5,
+              letterSpacing: 0.3,
+            ),
+            textAlign: TextAlign.center,
+            maxLines: 3,
+            overflow: TextOverflow.ellipsis,
+          ),
+        ],
       ),
     );
   }
@@ -538,9 +660,24 @@ class _AccountScreenState extends State<AccountScreen> {
                   ),
                 );
               },
-              child: Image.asset(
-                'assets/section/foka_me_vip.webp',
-                fit: BoxFit.contain,
+              child: Container(
+                decoration: BoxDecoration(
+                  borderRadius: BorderRadius.circular(16),
+                  boxShadow: [
+                    BoxShadow(
+                      color: Colors.black.withOpacity(0.1),
+                      blurRadius: 15,
+                      offset: const Offset(0, 6),
+                    ),
+                  ],
+                ),
+                child: ClipRRect(
+                  borderRadius: BorderRadius.circular(16),
+                  child: Image.asset(
+                    'assets/section/foka_me_vip.webp',
+                    fit: BoxFit.contain,
+                  ),
+                ),
               ),
             ),
           ),
@@ -556,9 +693,24 @@ class _AccountScreenState extends State<AccountScreen> {
                   ),
                 );
               },
-              child: Image.asset(
-                'assets/section/foka_me_wallet.webp',
-                fit: BoxFit.contain,
+              child: Container(
+                decoration: BoxDecoration(
+                  borderRadius: BorderRadius.circular(16),
+                  boxShadow: [
+                    BoxShadow(
+                      color: Colors.black.withOpacity(0.1),
+                      blurRadius: 15,
+                      offset: const Offset(0, 6),
+                    ),
+                  ],
+                ),
+                child: ClipRRect(
+                  borderRadius: BorderRadius.circular(16),
+                  child: Image.asset(
+                    'assets/section/foka_me_wallet.webp',
+                    fit: BoxFit.contain,
+                  ),
+                ),
               ),
             ),
           ),
@@ -570,24 +722,43 @@ class _AccountScreenState extends State<AccountScreen> {
   Widget _buildMenuList() {
     return Container(
       margin: const EdgeInsets.symmetric(horizontal: 20),
-      padding: const EdgeInsets.all(20),
+      padding: const EdgeInsets.all(24),
       decoration: BoxDecoration(
-        color: const Color(0xFF1D0333).withOpacity(0.8),
-        borderRadius: BorderRadius.circular(20),
+        gradient: LinearGradient(
+          begin: Alignment.topLeft,
+          end: Alignment.bottomRight,
+          colors: [
+            Colors.white.withOpacity(0.12),
+            Colors.white.withOpacity(0.04),
+          ],
+        ),
+        borderRadius: BorderRadius.circular(24),
         border: Border.all(
-          color: Colors.white.withOpacity(0.1),
+          color: Colors.white.withOpacity(0.15),
           width: 1,
         ),
         boxShadow: [
           BoxShadow(
-            color: Colors.black.withOpacity(0.3),
-            blurRadius: 20,
-            offset: const Offset(0, 10),
+            color: Colors.black.withOpacity(0.15),
+            blurRadius: 25,
+            offset: const Offset(0, 12),
+            spreadRadius: 0,
           ),
         ],
       ),
       child: Column(
         children: [
+          // 标题
+          Text(
+            'Settings & Support',
+            style: TextStyle(
+              color: Colors.white.withOpacity(0.9),
+              fontSize: 18,
+              fontWeight: FontWeight.w600,
+              letterSpacing: 0.5,
+            ),
+          ),
+          const SizedBox(height: 20),
           // 第一行：Privacy Policy, About us
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -608,7 +779,7 @@ class _AccountScreenState extends State<AccountScreen> {
               ),
             ],
           ),
-          const SizedBox(height: 20),
+          const SizedBox(height: 24),
           // 第二行：User Agreement
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
@@ -635,35 +806,55 @@ class _AccountScreenState extends State<AccountScreen> {
     return GestureDetector(
       onTap: onTap,
       child: Container(
-        width: 100,
+        width: 110,
+        padding: const EdgeInsets.all(12),
+        decoration: BoxDecoration(
+          color: Colors.white.withOpacity(0.08),
+          borderRadius: BorderRadius.circular(16),
+          border: Border.all(
+            color: Colors.white.withOpacity(0.1),
+            width: 1,
+          ),
+        ),
         child: Column(
           children: [
             // 图标容器
             Container(
-              width: 40,
-              height: 40,
-              
+              width: 48,
+              height: 48,
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(16),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black.withOpacity(0.1),
+                    blurRadius: 8,
+                    offset: const Offset(0, 3),
+                  ),
+                ],
+              ),
               child: ClipRRect(
-                borderRadius: BorderRadius.circular(14),
+                borderRadius: BorderRadius.circular(16),
                 child: Image.asset(
                   icon,
                   fit: BoxFit.cover,
-                  width: 40,
-                  height: 40,
+                  width: 48,
+                  height: 48,
                 ),
               ),
             ),
-            const SizedBox(height: 5),
+            const SizedBox(height: 8),
             // 标签文字
             Text(
               label,
-              style: const TextStyle(
-                color: Colors.white,
-                fontSize: 16,
+              style: TextStyle(
+                color: Colors.white.withOpacity(0.9),
+                fontSize: 13,
                 fontWeight: FontWeight.w500,
-                letterSpacing: 0.5,
+                letterSpacing: 0.3,
               ),
               textAlign: TextAlign.center,
+              maxLines: 2,
+              overflow: TextOverflow.ellipsis,
             ),
           ],
         ),

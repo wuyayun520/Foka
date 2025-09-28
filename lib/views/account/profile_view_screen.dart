@@ -629,11 +629,8 @@ class _UserAccountScreenState extends State<UserAccountScreen> {
   Widget _buildPostCard(String imagePath) {
     return GestureDetector(
       onTap: () {
-        Navigator.pushNamed(
-          context,
-          '/dynamic-detail',
-          arguments: widget.user,
-        );
+        // 功能已移除 - 动态详情页面
+        print('Dynamic detail feature removed');
       },
       child: Container(
         height: 240,

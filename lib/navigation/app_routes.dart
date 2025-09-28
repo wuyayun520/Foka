@@ -8,12 +8,10 @@ import '../views/recording/record_screen.dart';
 import '../views/explore/explore_screen.dart';
 import '../views/messaging/chat_list_screen.dart';
 import '../views/account/account_screen.dart';
-import '../views/conversation/ai_chat_screen.dart';
 import '../views/conversation/voice_chat_screen.dart';
 import '../views/conversation/chat_conversation_screen.dart';
 import '../views/messaging/video_call_screen.dart';
 import '../views/messaging/conversation_page.dart';
-import '../views/feed/dynamic_detail_screen.dart';
 import '../views/account/profile_view_screen.dart';
 import '../views/info/about_us_screen.dart';
 import '../entities/ai_character_entity.dart';
@@ -34,7 +32,6 @@ class AppRoutes {
   static const String chatConversation = '/chat-conversation';
   static const String videoCall = '/video-call';
   static const String chat = '/chat';
-  static const String dynamicDetail = '/dynamic-detail';
   static const String userProfile = '/user-profile';
   static const String aboutUs = '/about-us';
 
@@ -87,7 +84,24 @@ class AppRoutes {
         );
       case aiChat:
         return MaterialPageRoute(
-          builder: (_) => const AiChatScreen(),
+          builder: (_) => ChatConversationScreen(
+            aiRole: AiCharacter(
+              id: 'default',
+              name: 'Assistant',
+              englishName: 'Assistant',
+              avatar: 'assets/protagonist/protagonist1.webp',
+              title: 'AI Assistant',
+              personality: 'Helpful and friendly',
+              description: 'A helpful AI assistant ready to chat with you.',
+              specialties: const ['General Chat'],
+              speakingStyle: 'Friendly and helpful',
+              background: 'AI Assistant',
+              tags: const ['assistant'],
+              colorTheme: '#E91E63',
+              isActive: true,
+              createdAt: DateTime.now().toIso8601String(),
+            ),
+          ),
           settings: settings,
         );
       case voiceChat:
@@ -129,18 +143,6 @@ class AppRoutes {
         }
         return MaterialPageRoute(
           builder: (_) => ConversationPage(user: user),
-          settings: settings,
-        );
-      case dynamicDetail:
-        final user = settings.arguments as UserEntity?;
-        if (user == null) {
-          return MaterialPageRoute(
-            builder: (_) => const LoginScreen(),
-            settings: settings,
-          );
-        }
-        return MaterialPageRoute(
-          builder: (_) => DynamicDetailScreen(user: user),
           settings: settings,
         );
       case userProfile:
