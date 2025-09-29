@@ -3,7 +3,6 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
 import 'dart:async';
 import 'package:url_launcher/url_launcher.dart';
-import '../../config/app_colors.dart';
 
 class SubscriptionsPage extends StatefulWidget {
   final int initialIndex;
@@ -198,7 +197,9 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
           content: Text(msg),
-          backgroundColor: AppConfig.primary,
+          backgroundColor: const Color(0xFF2E7D7A),
+          behavior: SnackBarBehavior.floating,
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
         ),
       );
     }
@@ -295,42 +296,90 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
     final privileges = planPrivileges[_selectedIndex];
     
     return Scaffold(
-      backgroundColor: AppConfig.background,
-      body: _isLoading
-          ? Center(
-              child: CircularProgressIndicator(
-                color: AppConfig.primary,
-              ),
-            )
-          : CustomScrollView(
-              slivers: [
-                // Custom App Bar
-                SliverAppBar(
-                  expandedHeight: _isVip && _vipExpiry != null ? 380 : 280,
-                  floating: false,
-                  pinned: true,
-                  backgroundColor: AppConfig.background,
-                  leading: IconButton(
-                    icon: Icon(Icons.arrow_back_ios_new, color: AppConfig.primary),
-                    onPressed: () => Navigator.of(context).pop(),
-                  ),
-                  flexibleSpace: FlexibleSpaceBar(
-                    background: Container(
+      body: Container(
+        height: MediaQuery.of(context).size.height,
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+            colors: [
+              const Color(0xFF667eea),
+              const Color(0xFF764ba2),
+              const Color(0xFFf093fb),
+            ],
+            stops: const [0.0, 0.5, 1.0],
+          ),
+        ),
+        child: _isLoading
+            ? Center(
+                child: CircularProgressIndicator(
+                  color: Colors.white,
+                  strokeWidth: 3,
+                ),
+              )
+            : CustomScrollView(
+                slivers: [
+                  // Custom App Bar
+                  SliverAppBar(
+                    expandedHeight: _isVip && _vipExpiry != null ? 400 : 320,
+                    floating: false,
+                    pinned: true,
+                    backgroundColor: Colors.transparent,
+                    leading: Container(
+                      margin: const EdgeInsets.all(8),
                       decoration: BoxDecoration(
-                        gradient: LinearGradient(
-                          begin: Alignment.topCenter,
-                          end: Alignment.bottomCenter,
-                          colors: [
-                            AppConfig.primary.withOpacity(0.1),
-                            AppConfig.background,
-                          ],
+                        gradient: const LinearGradient(
+                          colors: [Color(0xFF764ba2), Color(0xFFf093fb)],
+                          begin: Alignment.topLeft,
+                          end: Alignment.bottomRight,
                         ),
+                        borderRadius: BorderRadius.circular(15),
+                        border: Border.all(
+                          color: Colors.white.withOpacity(0.4),
+                          width: 2,
+                        ),
+                        boxShadow: [
+                          BoxShadow(
+                            color: const Color(0xFF764ba2).withOpacity(0.4),
+                            blurRadius: 12,
+                            offset: const Offset(0, 4),
+                          ),
+                        ],
                       ),
-                      child: SafeArea(
+                      child: IconButton(
+                        icon: const Icon(Icons.arrow_back_ios_new, color: Colors.white, size: 20),
+                        onPressed: () => Navigator.of(context).pop(),
+                      ),
+                    ),
+                    flexibleSpace: FlexibleSpaceBar(
+                      background: SafeArea(
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
-                            const SizedBox(height: 40),
+                            const SizedBox(height: 80),
+                            
+                            // 装饰性顶部条
+                            Container(
+                              width: 80,
+                              height: 6,
+                              decoration: BoxDecoration(
+                                gradient: const LinearGradient(
+                                  colors: [Colors.white, Color(0xFFf093fb)],
+                                  begin: Alignment.centerLeft,
+                                  end: Alignment.centerRight,
+                                ),
+                                borderRadius: BorderRadius.circular(3),
+                                boxShadow: [
+                                  BoxShadow(
+                                    color: Colors.white.withOpacity(0.3),
+                                    blurRadius: 8,
+                                    offset: const Offset(0, 2),
+                                  ),
+                                ],
+                              ),
+                            ),
+                            
+                            const SizedBox(height: 30),
                             
                             // VIP Status Card (if active)
                             if (_isVip && _vipExpiry != null) ...[
@@ -339,26 +388,49 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
                                 decoration: BoxDecoration(
                                   gradient: LinearGradient(
                                     colors: [
-                                      AppConfig.primary,
-                                      AppConfig.secondary,
+                                      Colors.white.withOpacity(0.95),
+                                      const Color(0xFFf093fb).withOpacity(0.2),
                                     ],
-                                    begin: Alignment.topLeft,
-                                    end: Alignment.bottomRight,
                                   ),
-                                  borderRadius: BorderRadius.circular(16),
+                                  borderRadius: BorderRadius.circular(25),
+                                  border: Border.all(
+                                    color: Colors.white.withOpacity(0.3),
+                                    width: 2,
+                                  ),
                                   boxShadow: [
                                     BoxShadow(
-                                      color: AppConfig.primary.withOpacity(0.3),
-                                      blurRadius: 12,
-                                      offset: const Offset(0, 4),
+                                      color: Colors.black.withOpacity(0.1),
+                                      blurRadius: 15,
+                                      offset: const Offset(0, 5),
+                                    ),
+                                    BoxShadow(
+                                      color: const Color(0xFFf093fb).withOpacity(0.3),
+                                      blurRadius: 10,
+                                      offset: const Offset(0, 0),
                                     ),
                                   ],
                                 ),
-                                padding: const EdgeInsets.symmetric(vertical: 16, horizontal: 20),
+                                padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 24),
                                 child: Row(
                                   children: [
-                                    const Icon(Icons.star, color: AppConfig.background, size: 28),
-                                    const SizedBox(width: 12),
+                                    Container(
+                                      padding: const EdgeInsets.all(10),
+                                      decoration: BoxDecoration(
+                                        gradient: const LinearGradient(
+                                          colors: [Color(0xFF667eea), Color(0xFF764ba2)],
+                                        ),
+                                        shape: BoxShape.circle,
+                                        boxShadow: [
+                                          BoxShadow(
+                                            color: const Color(0xFF667eea).withOpacity(0.4),
+                                            blurRadius: 8,
+                                            offset: const Offset(0, 2),
+                                          ),
+                                        ],
+                                      ),
+                                      child: const Icon(Icons.star, color: Colors.white, size: 24),
+                                    ),
+                                    const SizedBox(width: 16),
                                     Expanded(
                                       child: Column(
                                         crossAxisAlignment: CrossAxisAlignment.start,
@@ -366,16 +438,19 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
                                           const Text(
                                             'Foka Premium Active',
                                             style: TextStyle(
-                                              color: AppConfig.background,
-                                              fontWeight: FontWeight.bold,
+                                              color: Color(0xFF764ba2),
+                                              fontWeight: FontWeight.w800,
                                               fontSize: 18,
+                                              letterSpacing: 0.5,
                                             ),
                                           ),
+                                          const SizedBox(height: 4),
                                           Text(
                                             'Expires: ${_vipExpiry!.year}-${_vipExpiry!.month.toString().padLeft(2, '0')}-${_vipExpiry!.day.toString().padLeft(2, '0')} (${_vipExpiry!.difference(DateTime.now()).inDays} days)',
                                             style: const TextStyle(
-                                              color: AppConfig.background,
+                                              color: Color(0xFF667eea),
                                               fontSize: 14,
+                                              fontWeight: FontWeight.w500,
                                             ),
                                           ),
                                         ],
@@ -384,58 +459,79 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
                                   ],
                                 ),
                               ),
-                              const SizedBox(height: 16),
+                              const SizedBox(height: 20),
                             ],
                             
-                            // 星币主题图标
+                            // Premium图标
                             AnimatedBuilder(
                               animation: _pulseAnimation,
                               builder: (context, child) {
                                 return Transform.scale(
                                   scale: _pulseAnimation.value,
                                   child: Container(
-                                    padding: const EdgeInsets.all(20),
+                                    width: 120,
+                                    height: 120,
                                     decoration: BoxDecoration(
-                                      gradient: LinearGradient(
-                                        colors: [
-                                          Colors.amber.shade300,
-                                          Colors.amber.shade600,
-                                          Colors.orange.shade400,
-                                        ],
+                                      shape: BoxShape.circle,
+                                      gradient: const LinearGradient(
+                                        colors: [Colors.white, Color(0xFFf093fb)],
                                         begin: Alignment.topLeft,
                                         end: Alignment.bottomRight,
                                       ),
-                                      shape: BoxShape.circle,
+                                      border: Border.all(
+                                        color: Colors.white.withOpacity(0.4),
+                                        width: 3,
+                                      ),
                                       boxShadow: [
                                         BoxShadow(
-                                          color: Colors.amber.withOpacity(0.4),
+                                          color: Colors.white.withOpacity(0.3),
                                           blurRadius: 20,
-                                          offset: const Offset(0, 8),
+                                          spreadRadius: 5,
+                                        ),
+                                        BoxShadow(
+                                          color: const Color(0xFFf093fb).withOpacity(0.4),
+                                          blurRadius: 15,
+                                          offset: const Offset(0, 0),
                                         ),
                                       ],
                                     ),
                                     child: Stack(
                                       alignment: Alignment.center,
                                       children: [
-                                        const Icon(
-                                          Icons.star,
-                                          color: Colors.white,
-                                          size: 40,
+                                        Container(
+                                          padding: const EdgeInsets.all(12),
+                                          decoration: BoxDecoration(
+                                            gradient: const LinearGradient(
+                                              colors: [Color(0xFF667eea), Color(0xFF764ba2)],
+                                            ),
+                                            shape: BoxShape.circle,
+                                          ),
+                                          child: const Icon(
+                                            Icons.workspace_premium,
+                                            color: Colors.white,
+                                            size: 50,
+                                          ),
                                         ),
                                         Positioned(
-                                          top: 5,
-                                          right: 5,
+                                          top: 15,
+                                          right: 15,
                                           child: Container(
-                                            width: 12,
-                                            height: 12,
+                                            width: 20,
+                                            height: 20,
                                             decoration: BoxDecoration(
+                                              gradient: const LinearGradient(
+                                                colors: [Color(0xFFf093fb), Color(0xFF764ba2)],
+                                              ),
                                               shape: BoxShape.circle,
-                                              color: Colors.white.withOpacity(0.9),
+                                              border: Border.all(
+                                                color: Colors.white,
+                                                width: 2,
+                                              ),
                                             ),
                                             child: const Icon(
                                               Icons.diamond,
-                                              color: Colors.amber,
-                                              size: 8,
+                                              color: Colors.white,
+                                              size: 12,
                                             ),
                                           ),
                                         ),
@@ -449,13 +545,36 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
                             const SizedBox(height: 20),
                             
                             // Title
-                            Text(
-                              'Foka Premium',
-                              style: TextStyle(
-                                color: Colors.amber.shade600,
-                                fontWeight: FontWeight.bold,
-                                fontSize: 28,
-                                letterSpacing: 1.0,
+                            Container(
+                              padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                              decoration: BoxDecoration(
+                                gradient: LinearGradient(
+                                  colors: [
+                                    Colors.white.withOpacity(0.9),
+                                    const Color(0xFFf093fb).withOpacity(0.2),
+                                  ],
+                                ),
+                                borderRadius: BorderRadius.circular(25),
+                                border: Border.all(
+                                  color: Colors.white.withOpacity(0.3),
+                                  width: 2,
+                                ),
+                                boxShadow: [
+                                  BoxShadow(
+                                    color: Colors.black.withOpacity(0.1),
+                                    blurRadius: 15,
+                                    offset: const Offset(0, 5),
+                                  ),
+                                ],
+                              ),
+                              child: const Text(
+                                'Foka Premium',
+                                style: TextStyle(
+                                  fontSize: 28,
+                                  fontWeight: FontWeight.w800,
+                                  color: Color(0xFF764ba2),
+                                  letterSpacing: 1.2,
+                                ),
                               ),
                             ),
                             
@@ -464,321 +583,463 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
                       ),
                     ),
                   ),
-                ),
                 
-                // Content
-                SliverToBoxAdapter(
-                  child: Padding(
-                    padding: const EdgeInsets.fromLTRB(24, 24, 24, 100),
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        // Subscription Plans
-                        Row(
-                          children: List.generate(_plans.length, (i) {
-                            final plan = _plans[i];
-                            final selected = i == _selectedIndex;
-                            return Expanded(
-                              child: GestureDetector(
-                                onTap: () {
-                                  setState(() {
-                                    _selectedIndex = i;
-                                  });
-                                },
-                                child: Container(
-                                  margin: EdgeInsets.only(right: i == 0 ? 12 : 0, left: i == 1 ? 12 : 0),
-                                  padding: const EdgeInsets.all(20),
-                                  decoration: BoxDecoration(
-                                    gradient: selected 
-                                        ? LinearGradient(
-                                            colors: [
-                                              AppConfig.primary,
-                                              AppConfig.secondary,
-                                            ],
-                                            begin: Alignment.topLeft,
-                                            end: Alignment.bottomRight,
-                                          )
-                                        : null,
-                                    color: selected ? null : AppConfig.background,
-                                    borderRadius: BorderRadius.circular(16),
-                                    border: Border.all(
-                                      color: selected ? AppConfig.primary : AppConfig.secondary.withOpacity(0.3),
-                                      width: 2,
-                                    ),
-                                                                            boxShadow: [
+                  // Content
+                  SliverToBoxAdapter(
+                    child: Padding(
+                      padding: const EdgeInsets.fromLTRB(24, 24, 24, 100),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          // Subscription Plans
+                          Row(
+                            children: List.generate(_plans.length, (i) {
+                              final plan = _plans[i];
+                              final selected = i == _selectedIndex;
+                              return Expanded(
+                                child: GestureDetector(
+                                  onTap: () {
+                                    setState(() {
+                                      _selectedIndex = i;
+                                    });
+                                  },
+                                  child: Container(
+                                    margin: EdgeInsets.only(right: i == 0 ? 12 : 0, left: i == 1 ? 12 : 0),
+                                    padding: const EdgeInsets.all(24),
+                                    decoration: BoxDecoration(
+                                      gradient: selected 
+                                          ? const LinearGradient(
+                                              colors: [Color(0xFF764ba2), Color(0xFFf093fb)],
+                                              begin: Alignment.topLeft,
+                                              end: Alignment.bottomRight,
+                                            )
+                                          : LinearGradient(
+                                              colors: [
+                                                Colors.white.withOpacity(0.9),
+                                                const Color(0xFFf093fb).withOpacity(0.1),
+                                              ],
+                                            ),
+                                      borderRadius: BorderRadius.circular(25),
+                                      border: Border.all(
+                                        color: selected 
+                                            ? Colors.white.withOpacity(0.3)
+                                            : const Color(0xFF764ba2).withOpacity(0.3),
+                                        width: 2,
+                                      ),
+                                      boxShadow: [
+                                        BoxShadow(
+                                          color: selected 
+                                              ? const Color(0xFF764ba2).withOpacity(0.4)
+                                              : Colors.black.withOpacity(0.1),
+                                          blurRadius: selected ? 15 : 10,
+                                          offset: Offset(0, selected ? 6 : 3),
+                                        ),
+                                        if (selected)
                                           BoxShadow(
+                                            color: const Color(0xFFf093fb).withOpacity(0.3),
+                                            blurRadius: 10,
+                                            offset: const Offset(0, 0),
+                                          ),
+                                      ],
+                                    ),
+                                    child: Column(
+                                      children: [
+                                        Text(
+                                          '\$${plan.title}',
+                                          style: TextStyle(
+                                            color: selected ? Colors.white : const Color(0xFF764ba2),
+                                            fontWeight: FontWeight.w800,
+                                            fontSize: 28,
+                                            letterSpacing: 0.5,
+                                          ),
+                                        ),
+                                        const SizedBox(height: 6),
+                                        Text(
+                                          plan.subTitle,
+                                          style: TextStyle(
                                             color: selected 
-                                                ? AppConfig.primary.withOpacity(0.3)
-                                                : AppConfig.primary.withOpacity(0.05),
-                                            blurRadius: selected ? 12 : 8,
-                                            offset: const Offset(0, 4),
+                                                ? Colors.white.withOpacity(0.9) 
+                                                : const Color(0xFF667eea),
+                                            fontSize: 14,
+                                            fontWeight: FontWeight.w600,
                                           ),
-                                        ],
-                                  ),
-                                  child: Stack(
-                                    children: [
-                                     
-                                      Column(
-                                        children: [
-                                          Text(
-                                            '\$${plan.title}',
-                                            style: TextStyle(
-                                              color: selected ? AppConfig.background : AppConfig.primary,
-                                              fontWeight: FontWeight.bold,
-                                              fontSize: 28,
+                                        ),
+                                        const SizedBox(height: 12),
+                                        Container(
+                                          padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                                          decoration: BoxDecoration(
+                                            color: selected 
+                                                ? Colors.white.withOpacity(0.2)
+                                                : const Color(0xFF764ba2).withOpacity(0.1),
+                                            borderRadius: BorderRadius.circular(15),
+                                            border: Border.all(
+                                              color: selected 
+                                                  ? Colors.white.withOpacity(0.3)
+                                                  : const Color(0xFF764ba2).withOpacity(0.2),
+                                              width: 1,
                                             ),
                                           ),
-                                          const SizedBox(height: 4),
-                                          Text(
-                                            plan.subTitle,
-                                            style: TextStyle(
-                                              color: selected ? AppConfig.background.withOpacity(0.9) : AppConfig.secondary,
-                                              fontSize: 14,
-                                            ),
-                                          ),
-                                          const SizedBox(height: 12),
-                                          Text(
+                                          child: Text(
                                             plan.desc,
                                             style: TextStyle(
-                                              color: selected ? AppConfig.background : AppConfig.primary,
-                                              fontWeight: FontWeight.bold,
-                                              fontSize: 14,
+                                              color: selected ? Colors.white : const Color(0xFF764ba2),
+                                              fontWeight: FontWeight.w700,
+                                              fontSize: 12,
+                                              letterSpacing: 0.3,
                                             ),
                                           ),
-                                        ],
-                                      ),
-                                    ],
-                                  ),
-                                ),
-                              ),
-                            );
-                          }),
-                        ),
-                        
-                        const SizedBox(height: 32),
-                        
-                        // Features Title
-                        Text(
-                          'Foka Premium Benefits',
-                          style: TextStyle(
-                            color: Colors.amber.shade600,
-                            fontWeight: FontWeight.bold,
-                            fontSize: 20,
-                          ),
-                        ),
-                        
-                        const SizedBox(height: 16),
-                        
-                        // Features List
-                        Container(
-                          decoration: BoxDecoration(
-                            color: AppConfig.background,
-                            borderRadius: BorderRadius.circular(16),
-                            border: Border.all(
-                              color: AppConfig.secondary.withOpacity(0.2),
-                            ),
-                            boxShadow: [
-                              BoxShadow(
-                                color: AppConfig.primary.withOpacity(0.05),
-                                blurRadius: 8,
-                                offset: const Offset(0, 2),
-                              ),
-                            ],
-                          ),
-                          padding: const EdgeInsets.all(20),
-                          child: Column(
-                            children: [
-                              for (int i = 0; i < privileges.length; i++) ...[
-                                _VipPrivilegeItem(
-                                  icon: privileges[i].icon,
-                                  text: privileges[i].text,
-                                ),
-                                if (i != privileges.length - 1) 
-                                  Padding(
-                                    padding: const EdgeInsets.symmetric(vertical: 12),
-                                    child: Divider(
-                                      color: AppConfig.secondary.withOpacity(0.2),
-                                      height: 1,
+                                        ),
+                                      ],
                                     ),
                                   ),
-                              ],
-                            ],
+                                ),
+                              );
+                            }),
                           ),
-                        ),
+                          
+                          const SizedBox(height: 32),
+                          
+                          // Features Title
+                          Container(
+                            width: double.infinity,
+                            padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+                            decoration: BoxDecoration(
+                              gradient: LinearGradient(
+                                colors: [
+                                  Colors.white.withOpacity(0.9),
+                                  const Color(0xFFf093fb).withOpacity(0.15),
+                                ],
+                              ),
+                              borderRadius: BorderRadius.circular(20),
+                              border: Border.all(
+                                color: Colors.white.withOpacity(0.3),
+                                width: 2,
+                              ),
+                              boxShadow: [
+                                BoxShadow(
+                                  color: Colors.black.withOpacity(0.1),
+                                  blurRadius: 10,
+                                  offset: const Offset(0, 3),
+                                ),
+                              ],
+                            ),
+                            child: const Text(
+                              'Foka Premium Benefits',
+                              textAlign: TextAlign.center,
+                              style: TextStyle(
+                                color: Color(0xFF764ba2),
+                                fontWeight: FontWeight.w800,
+                                fontSize: 20,
+                                letterSpacing: 0.5,
+                              ),
+                            ),
+                          ),
+                          
+                          const SizedBox(height: 20),
+                          
+                          // Features List
+                          Container(
+                            decoration: BoxDecoration(
+                              gradient: LinearGradient(
+                                colors: [
+                                  Colors.white.withOpacity(0.95),
+                                  const Color(0xFFf093fb).withOpacity(0.1),
+                                ],
+                              ),
+                              borderRadius: BorderRadius.circular(25),
+                              border: Border.all(
+                                color: Colors.white.withOpacity(0.3),
+                                width: 2,
+                              ),
+                              boxShadow: [
+                                BoxShadow(
+                                  color: Colors.black.withOpacity(0.1),
+                                  blurRadius: 15,
+                                  offset: const Offset(0, 5),
+                                ),
+                                BoxShadow(
+                                  color: const Color(0xFFf093fb).withOpacity(0.2),
+                                  blurRadius: 10,
+                                  offset: const Offset(0, 0),
+                                ),
+                              ],
+                            ),
+                            padding: const EdgeInsets.all(24),
+                            child: Column(
+                              children: [
+                                for (int i = 0; i < privileges.length; i++) ...[
+                                  _VipPrivilegeItem(
+                                    icon: privileges[i].icon,
+                                    text: privileges[i].text,
+                                  ),
+                                  if (i != privileges.length - 1) 
+                                    Padding(
+                                      padding: const EdgeInsets.symmetric(vertical: 16),
+                                      child: Container(
+                                        height: 1,
+                                        width: double.infinity,
+                                        decoration: BoxDecoration(
+                                          gradient: LinearGradient(
+                                            colors: [
+                                              Colors.transparent,
+                                              const Color(0xFF764ba2).withOpacity(0.3),
+                                              Colors.transparent,
+                                            ],
+                                          ),
+                                        ),
+                                      ),
+                                    ),
+                                ],
+                              ],
+                            ),
+                          ),
                         
-                        const SizedBox(height: 32),
-                        
-                        // Purchase Button
-                        SizedBox(
-                          width: double.infinity,
-                          height: 56,
-                          child: GestureDetector(
-                            onTap: _purchasePending ? null : _processPurchase,
+                          const SizedBox(height: 32),
+                          
+                          // Purchase Button
+                          SizedBox(
+                            width: double.infinity,
+                            height: 60,
+                            child: GestureDetector(
+                              onTap: _purchasePending ? null : _processPurchase,
+                              child: Container(
+                                decoration: BoxDecoration(
+                                  gradient: const LinearGradient(
+                                    colors: [Color(0xFF764ba2), Color(0xFFf093fb)],
+                                    begin: Alignment.centerLeft,
+                                    end: Alignment.centerRight,
+                                  ),
+                                  borderRadius: BorderRadius.circular(30),
+                                  border: Border.all(
+                                    color: Colors.white.withOpacity(0.3),
+                                    width: 2,
+                                  ),
+                                  boxShadow: [
+                                    BoxShadow(
+                                      color: const Color(0xFF764ba2).withOpacity(0.4),
+                                      blurRadius: 15,
+                                      offset: const Offset(0, 6),
+                                    ),
+                                    BoxShadow(
+                                      color: const Color(0xFFf093fb).withOpacity(0.3),
+                                      blurRadius: 10,
+                                      offset: const Offset(0, 0),
+                                    ),
+                                  ],
+                                ),
+                                alignment: Alignment.center,
+                                child: _purchasePending
+                                    ? const SizedBox(
+                                        width: 28,
+                                        height: 28,
+                                        child: CircularProgressIndicator(
+                                          color: Colors.white,
+                                          strokeWidth: 3,
+                                        ),
+                                      )
+                                    : const Text(
+                                        'Start Foka Premium',
+                                        style: TextStyle(
+                                          color: Colors.white,
+                                          fontWeight: FontWeight.w800,
+                                          fontSize: 20,
+                                          letterSpacing: 1.0,
+                                        ),
+                                      ),
+                              ),
+                            ),
+                          ),
+                          
+                          const SizedBox(height: 20),
+                          
+                          // Restore Purchases Button
+                          Center(
                             child: Container(
+                              padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
                               decoration: BoxDecoration(
                                 gradient: LinearGradient(
                                   colors: [
-                                    AppConfig.primary,
-                                    AppConfig.secondary,
+                                    Colors.white.withOpacity(0.2),
+                                    const Color(0xFFf093fb).withOpacity(0.1),
                                   ],
-                                  begin: Alignment.centerLeft,
-                                  end: Alignment.centerRight,
                                 ),
-                                borderRadius: BorderRadius.circular(28),
-                                boxShadow: [
-                                  BoxShadow(
-                                    color: AppConfig.primary.withOpacity(0.4),
-                                    blurRadius: 12,
-                                    offset: const Offset(0, 4),
-                                  ),
-                                ],
+                                borderRadius: BorderRadius.circular(25),
+                                border: Border.all(
+                                  color: Colors.white.withOpacity(0.3),
+                                  width: 1,
+                                ),
                               ),
-                              alignment: Alignment.center,
-                              child: _purchasePending
-                                  ? const SizedBox(
-                                      width: 24,
-                                      height: 24,
-                                      child: CircularProgressIndicator(
-                                        color: AppConfig.background,
-                                        strokeWidth: 2,
-                                      ),
-                                    )
-                                  : const Text(
-                                      'Start Foka Premium',
+                              child: TextButton(
+                                onPressed: _purchasePending ? null : _restorePurchases,
+                                style: TextButton.styleFrom(
+                                  padding: EdgeInsets.zero,
+                                  minimumSize: Size.zero,
+                                  tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                                ),
+                                child: Row(
+                                  mainAxisSize: MainAxisSize.min,
+                                  children: [
+                                    Icon(
+                                      Icons.restore,
+                                      color: Colors.white.withOpacity(0.9),
+                                      size: 20,
+                                    ),
+                                    const SizedBox(width: 10),
+                                    Text(
+                                      'Restore Purchases',
                                       style: TextStyle(
-                                        color: AppConfig.background,
-                                        fontWeight: FontWeight.bold,
-                                        fontSize: 18,
-                                        letterSpacing: 1.0,
+                                        color: Colors.white.withOpacity(0.9),
+                                        fontSize: 16,
+                                        fontWeight: FontWeight.w600,
+                                        letterSpacing: 0.3,
                                       ),
                                     ),
+                                  ],
+                                ),
+                              ),
                             ),
                           ),
-                        ),
                         
-                        const SizedBox(height: 16),
-                        
-                        // Restore Purchases Button
-                        Center(
-                          child: TextButton(
-                            onPressed: _purchasePending ? null : _restorePurchases,
-                            style: TextButton.styleFrom(
-                              padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                          const SizedBox(height: 32),
+                          
+                          // Legal Links
+                          Container(
+                            padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
+                            decoration: BoxDecoration(
+                              gradient: LinearGradient(
+                                colors: [
+                                  Colors.white.withOpacity(0.1),
+                                  const Color(0xFFf093fb).withOpacity(0.05),
+                                ],
+                              ),
+                              borderRadius: BorderRadius.circular(20),
+                              border: Border.all(
+                                color: Colors.white.withOpacity(0.2),
+                                width: 1,
+                              ),
                             ),
                             child: Row(
-                              mainAxisSize: MainAxisSize.min,
+                              mainAxisAlignment: MainAxisAlignment.center,
                               children: [
-                                Icon(
-                                  Icons.restore,
-                                  color: AppConfig.secondary,
-                                  size: 18,
+                                TextButton(
+                                  onPressed: () => _launchURL('https://www.privacypolicies.com/live/a17dbc23-6125-4a2c-95f7-b76f1722eb83'),
+                                  child: Text(
+                                    'Privacy Policy',
+                                    style: TextStyle(
+                                      color: Colors.white.withOpacity(0.9),
+                                      fontSize: 14,
+                                      fontWeight: FontWeight.w600,
+                                      decoration: TextDecoration.underline,
+                                      decorationColor: Colors.white.withOpacity(0.5),
+                                    ),
+                                  ),
                                 ),
-                                const SizedBox(width: 8),
-                                Text(
-                                  'Restore Purchases',
-                                  style: TextStyle(
-                                    color: AppConfig.secondary,
-                                    fontSize: 16,
-                                    fontWeight: FontWeight.w500,
+                                Container(
+                                  width: 1,
+                                  height: 16,
+                                  decoration: BoxDecoration(
+                                    gradient: LinearGradient(
+                                      begin: Alignment.topCenter,
+                                      end: Alignment.bottomCenter,
+                                      colors: [
+                                        Colors.transparent,
+                                        Colors.white.withOpacity(0.5),
+                                        Colors.transparent,
+                                      ],
+                                    ),
+                                  ),
+                                  margin: const EdgeInsets.symmetric(horizontal: 16),
+                                ),
+                                TextButton(
+                                  onPressed: () => _launchURL('https://www.apple.com/legal/internet-core/itunes/dev/stdeula'),
+                                  child: Text(
+                                    'Terms of Use',
+                                    style: TextStyle(
+                                      color: Colors.white.withOpacity(0.9),
+                                      fontSize: 14,
+                                      fontWeight: FontWeight.w600,
+                                      decoration: TextDecoration.underline,
+                                      decorationColor: Colors.white.withOpacity(0.5),
+                                    ),
                                   ),
                                 ),
                               ],
                             ),
                           ),
-                        ),
-                        
-                        const SizedBox(height: 32),
-                        
-                        // Legal Links
-                        Row(
-                          mainAxisAlignment: MainAxisAlignment.center,
-                          children: [
-                            TextButton(
-                              onPressed: () => _launchURL('https://www.privacypolicies.com/live/a17dbc23-6125-4a2c-95f7-b76f1722eb83'),
-                              child: Text(
-                                'Privacy Policy',
-                                style: TextStyle(
-                                  color: AppConfig.secondary,
-                                  fontSize: 14,
-                                  decoration: TextDecoration.underline,
+                          
+                          const SizedBox(height: 24),
+                          
+                          // Subscription Terms
+                          Container(
+                            padding: const EdgeInsets.all(24),
+                            decoration: BoxDecoration(
+                              gradient: LinearGradient(
+                                colors: [
+                                  Colors.white.withOpacity(0.9),
+                                  const Color(0xFFf093fb).withOpacity(0.1),
+                                ],
+                              ),
+                              borderRadius: BorderRadius.circular(25),
+                              border: Border.all(
+                                color: Colors.white.withOpacity(0.3),
+                                width: 2,
+                              ),
+                              boxShadow: [
+                                BoxShadow(
+                                  color: Colors.black.withOpacity(0.1),
+                                  blurRadius: 15,
+                                  offset: const Offset(0, 5),
                                 ),
-                              ),
-                            ),
-                            Container(
-                              width: 1,
-                              height: 16,
-                              color: AppConfig.secondary.withOpacity(0.3),
-                              margin: const EdgeInsets.symmetric(horizontal: 8),
-                            ),
-                            TextButton(
-                              onPressed: () => _launchURL('https://www.apple.com/legal/internet-core/itunes/dev/stdeula'),
-                              child: Text(
-                                'Terms of Use',
-                                style: TextStyle(
-                                  color: AppConfig.secondary,
-                                  fontSize: 14,
-                                  decoration: TextDecoration.underline,
+                                BoxShadow(
+                                  color: const Color(0xFFf093fb).withOpacity(0.2),
+                                  blurRadius: 10,
+                                  offset: const Offset(0, 0),
                                 ),
-                              ),
+                              ],
                             ),
-                          ],
-                        ),
-                        
-                        const SizedBox(height: 24),
-                        
-                        // Subscription Terms
-                        Container(
-                          padding: const EdgeInsets.all(16),
-                          decoration: BoxDecoration(
-                            color: AppConfig.background,
-                            borderRadius: BorderRadius.circular(12),
-                            boxShadow: [
-                              BoxShadow(
-                                color: AppConfig.primary.withOpacity(0.05),
-                                blurRadius: 8,
-                                offset: const Offset(0, 2),
-                              ),
-                            ],
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                const Text(
+                                  'Foka Premium Terms',
+                                  style: TextStyle(
+                                    color: Color(0xFF764ba2),
+                                    fontSize: 18,
+                                    fontWeight: FontWeight.w800,
+                                    letterSpacing: 0.5,
+                                  ),
+                                ),
+                                const SizedBox(height: 16),
+                                Text(
+                                  '• Weekly subscription: \$12.99 per week\n'
+                                  '• Monthly subscription: \$49.99 per month\n\n'
+                                  'Payment will be charged to your Apple ID account at the confirmation of purchase. Your subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. You can manage and cancel your subscriptions by going to your App Store account settings after purchase.\n\n'
+                                  'To cancel your subscription:\n'
+                                  '1. Open the Settings app\n'
+                                  '2. Tap your Apple ID at the top\n'
+                                  '3. Tap Subscriptions\n'
+                                  '4. Find Foka Premium in the list\n'
+                                  '5. Tap Cancel Subscription',
+                                  style: TextStyle(
+                                    color: const Color(0xFF667eea),
+                                    fontSize: 13,
+                                    height: 1.6,
+                                    fontWeight: FontWeight.w500,
+                                    letterSpacing: 0.2,
+                                  ),
+                                ),
+                              ],
+                            ),
                           ),
-                          child: Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            children: [
-                              Text(
-                                'Foka Premium Terms',
-                                style: TextStyle(
-                                  color: Colors.amber.shade600,
-                                  fontSize: 16,
-                                  fontWeight: FontWeight.bold,
-                                ),
-                              ),
-                              const SizedBox(height: 12),
-                              Text(
-                                '• Weekly subscription: \$12.99 per week\n'
-                                '• Monthly subscription: \$49.99 per month\n\n'
-                                'Payment will be charged to your Apple ID account at the confirmation of purchase. Your subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. You can manage and cancel your subscriptions by going to your App Store account settings after purchase.\n\n'
-                                'To cancel your subscription:\n'
-                                '1. Open the Settings app\n'
-                                '2. Tap your Apple ID at the top\n'
-                                '3. Tap Subscriptions\n'
-                                '4. Find Foka Premium in the list\n'
-                                '5. Tap Cancel Subscription',
-                                style: TextStyle(
-                                  color: AppConfig.secondary,
-                                  fontSize: 12,
-                                  height: 1.5,
-                                ),
-                              ),
-                            ],
-                          ),
-                        ),
-                        
-                        const SizedBox(height: 24),
-                      ],
+                          
+                          const SizedBox(height: 24),
+                        ],
+                      ),
                     ),
                   ),
-                ),
-              ],
-            ),
+                ],
+              ),
+      ),
     );
   }
 }
@@ -807,32 +1068,41 @@ class _VipPrivilegeItem extends StatelessWidget {
   
   @override
   Widget build(BuildContext context) {
-    // final colorScheme = Theme.of(context).colorScheme; // 不再使用
     return Row(
       children: [
         Container(
           decoration: BoxDecoration(
-            gradient: LinearGradient(
-              colors: [
-                AppConfig.primary,
-                AppConfig.secondary,
-              ],
+            gradient: const LinearGradient(
+              colors: [Color(0xFF667eea), Color(0xFF764ba2)],
               begin: Alignment.topLeft,
               end: Alignment.bottomRight,
             ),
-            borderRadius: BorderRadius.circular(10),
+            borderRadius: BorderRadius.circular(15),
+            border: Border.all(
+              color: Colors.white.withOpacity(0.3),
+              width: 1,
+            ),
+            boxShadow: [
+              BoxShadow(
+                color: const Color(0xFF667eea).withOpacity(0.3),
+                blurRadius: 8,
+                offset: const Offset(0, 2),
+              ),
+            ],
           ),
-          padding: const EdgeInsets.all(10),
-          child: Icon(icon, color: AppConfig.background, size: 20),
+          padding: const EdgeInsets.all(12),
+          child: Icon(icon, color: Colors.white, size: 22),
         ),
-        const SizedBox(width: 16),
+        const SizedBox(width: 18),
         Expanded(
           child: Text(
             text,
-            style: TextStyle(
-              color: AppConfig.primary,
+            style: const TextStyle(
+              color: Color(0xFF764ba2),
               fontSize: 16,
-              fontWeight: FontWeight.w500,
+              fontWeight: FontWeight.w600,
+              letterSpacing: 0.3,
+              height: 1.4,
             ),
           ),
         ),

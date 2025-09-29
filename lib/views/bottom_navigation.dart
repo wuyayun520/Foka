@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'dashboard/dashboard_screen.dart';
 import 'explore/explore_screen.dart';
-import 'messaging/chat_list_screen.dart';
 import 'account/account_screen.dart';
 import 'sharing/upload_screen.dart';
+import 'sharing/wish_list_screen.dart';
 import '../styles/app_theme.dart';
 
 class BottomNavigation extends StatefulWidget {
@@ -19,7 +19,7 @@ class _BottomNavigationState extends State<BottomNavigation> {
   final List<Widget> _screens = [
     const DashboardScreen(),
     const ExploreScreen(),
-    const ChatListScreen(),
+    const WishListScreen(),
     const AccountScreen(),
   ];
 
@@ -31,12 +31,27 @@ class _BottomNavigationState extends State<BottomNavigation> {
         children: _screens,
       ),
       bottomNavigationBar: Container(
-        decoration: const BoxDecoration(
-          color: AppTheme.tabBarBackground,
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            begin: Alignment.topCenter,
+            end: Alignment.bottomCenter,
+            colors: [
+              const Color(0xFF263238).withOpacity(0.95),
+              const Color(0xFF1B5E20).withOpacity(0.9),
+            ],
+          ),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.black.withOpacity(0.2),
+              blurRadius: 20,
+              offset: const Offset(0, -5),
+              spreadRadius: 0,
+            ),
+          ],
         ),
         child: SafeArea(
           child: Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
@@ -55,7 +70,7 @@ class _BottomNavigationState extends State<BottomNavigation> {
                 _buildNavItem(
                   normalIcon: 'assets/section/tabnor/foka_tab_home_3.webp',
                   selectedIcon: 'assets/section/tabpre/foka_tab_home_3.webp',
-                  label: 'Upload',
+                  label: 'Wishes',
                   index: 2,
                 ),
                 _buildNavItem(
@@ -82,35 +97,25 @@ class _BottomNavigationState extends State<BottomNavigation> {
     
     return GestureDetector(
       onTap: () {
-        if (index == 2) {
-          // 第三个 tabbar (Message) 点击时弹出上传页面
-          _showUploadBottomSheet();
+        if (index == 3) {
+          // 第四个 tabbar (Me) 点击时切换到个人中心
+          setState(() => _currentIndex = 3);
         } else {
           setState(() => _currentIndex = index);
         }
       },
       child: Container(
-        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
             Image.asset(
               isSelected ? selectedIcon : normalIcon,
-              width: 28,
-              height: 28,
+              width: 34,
+              height: 34,
               fit: BoxFit.contain,
             ),
-            const SizedBox(height: 4),
-            Text(
-              label,
-              style: TextStyle(
-                color: isSelected
-                    ? AppTheme.tabTextSelected
-                    : AppTheme.tabTextNormal,
-                fontSize: 12,
-                fontWeight: isSelected ? FontWeight.w600 : FontWeight.normal,
-              ),
-            ),
+            
           ],
         ),
       ),
@@ -139,7 +144,7 @@ class _BottomNavigationState extends State<BottomNavigation> {
     ScaffoldMessenger.of(context).showSnackBar(
       SnackBar(
         content: Text(message),
-        backgroundColor: const Color(0xFFB700FF),
+        backgroundColor: const Color(0xFF2E7D7A),
         duration: const Duration(seconds: 3),
         behavior: SnackBarBehavior.floating,
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),

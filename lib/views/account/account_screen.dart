@@ -213,7 +213,7 @@ class _AccountScreenState extends State<AccountScreen> {
               child: const Text(
                 'Subscribe',
                 style: TextStyle(
-                  color: Color(0xFFB700FF),
+                  color: Color(0xFF2E7D7A),
                   fontWeight: FontWeight.w600,
                 ),
               ),
@@ -286,7 +286,7 @@ class _AccountScreenState extends State<AccountScreen> {
                     borderSide: BorderSide(color: Colors.white30),
                   ),
                   focusedBorder: UnderlineInputBorder(
-                    borderSide: BorderSide(color: Color(0xFFB700FF)),
+                    borderSide: BorderSide(color: Color(0xFF2E7D7A)),
                   ),
                 ),
                 controller: TextEditingController(text: name),
@@ -302,7 +302,7 @@ class _AccountScreenState extends State<AccountScreen> {
                     borderSide: BorderSide(color: Colors.white30),
                   ),
                   focusedBorder: UnderlineInputBorder(
-                    borderSide: BorderSide(color: Color(0xFFB700FF)),
+                    borderSide: BorderSide(color: Color(0xFF2E7D7A)),
                   ),
                 ),
                 controller: TextEditingController(text: bio),
@@ -330,7 +330,7 @@ class _AccountScreenState extends State<AccountScreen> {
               child: const Text(
                 'Save',
                 style: TextStyle(
-                  color: Color(0xFFB700FF),
+                  color: Color(0xFF2E7D7A),
                   fontWeight: FontWeight.w600,
                 ),
               ),
@@ -347,10 +347,16 @@ class _AccountScreenState extends State<AccountScreen> {
       body: Container(
         width: double.infinity,
         height: double.infinity,
-        decoration: const BoxDecoration(
-          image: DecorationImage(
-            image: AssetImage('assets/section/foka_all_bg.webp'),
-            fit: BoxFit.cover,
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+            colors: [
+              const Color(0xFF667eea),
+              const Color(0xFF764ba2),
+              const Color(0xFFf093fb),
+            ],
+            stops: const [0.0, 0.5, 1.0],
           ),
         ),
         child: SafeArea(
@@ -358,6 +364,7 @@ class _AccountScreenState extends State<AccountScreen> {
               ? const Center(
                   child: CircularProgressIndicator(
                     color: Colors.white,
+                    strokeWidth: 3,
                   ),
                 )
               : SingleChildScrollView(
@@ -365,15 +372,22 @@ class _AccountScreenState extends State<AccountScreen> {
                     children: [
                     const SizedBox(height: 40),
                     
-                    // 顶部装饰条
+                    // 顶部装饰条 - 重新设计
                     Container(
-                      width: 60,
-                      height: 4,
+                      width: 80,
+                      height: 6,
                       decoration: BoxDecoration(
                         gradient: const LinearGradient(
-                          colors: [Color(0xFFB700FF), Color(0xFFFF69B4)],
+                          colors: [Colors.white, Color(0xFFf093fb)],
                         ),
-                        borderRadius: BorderRadius.circular(2),
+                        borderRadius: BorderRadius.circular(3),
+                        boxShadow: [
+                          BoxShadow(
+                            color: Colors.white.withOpacity(0.3),
+                            blurRadius: 8,
+                            offset: const Offset(0, 2),
+                          ),
+                        ],
                       ),
                     ),
                     const SizedBox(height: 30),
@@ -404,29 +418,35 @@ class _AccountScreenState extends State<AccountScreen> {
   Widget _buildUserAvatarSection() {
     return Stack(
       children: [
-        // 头像容器
+        // 头像容器 - 全新设计
         Center(
           child: GestureDetector(
             onTap: _pickAvatar,
             child: Container(
-              width: 130,
-              height: 130,
+              width: 140,
+              height: 140,
               decoration: BoxDecoration(
                 shape: BoxShape.circle,
                 gradient: const LinearGradient(
                   begin: Alignment.topLeft,
                   end: Alignment.bottomRight,
                   colors: [
-                    Color(0xFFB700FF),
-                    Color(0xFFFF69B4),
+                    Colors.white,
+                    Color(0xFFf093fb),
                   ],
                 ),
                 boxShadow: [
                   BoxShadow(
-                    color: const Color(0xFFB700FF).withOpacity(0.4),
-                    blurRadius: 25,
-                    offset: const Offset(0, 12),
-                    spreadRadius: 2,
+                    color: Colors.black.withOpacity(0.2),
+                    blurRadius: 30,
+                    offset: const Offset(0, 15),
+                    spreadRadius: 0,
+                  ),
+                  BoxShadow(
+                    color: Colors.white.withOpacity(0.3),
+                    blurRadius: 20,
+                    offset: const Offset(0, -5),
+                    spreadRadius: 0,
                   ),
                 ],
               ),
@@ -495,57 +515,69 @@ class _AccountScreenState extends State<AccountScreen> {
             ),
           ),
         ),
-        // 相机图标 - 右下角
+        // 相机图标 - 右下角 - 全新设计
         Positioned(
-          right: MediaQuery.of(context).size.width * 0.5 - 80,
-          bottom: 5,
+          right: MediaQuery.of(context).size.width * 0.5 - 85,
+          bottom: 8,
           child: GestureDetector(
             onTap: _pickAvatar,
             child: Container(
-              width: 36,
-              height: 36,
+              width: 40,
+              height: 40,
               decoration: BoxDecoration(
                 gradient: const LinearGradient(
-                  colors: [Color(0xFFB700FF), Color(0xFFFF69B4)],
+                  colors: [Color(0xFF764ba2), Color(0xFFf093fb)],
                 ),
                 shape: BoxShape.circle,
-                border: Border.all(color: Colors.white, width: 2),
+                border: Border.all(color: Colors.white, width: 3),
                 boxShadow: [
                   BoxShadow(
-                    color: Colors.black.withOpacity(0.2),
+                    color: Colors.black.withOpacity(0.3),
+                    blurRadius: 12,
+                    offset: const Offset(0, 4),
+                  ),
+                  BoxShadow(
+                    color: Colors.white.withOpacity(0.5),
                     blurRadius: 8,
-                    offset: const Offset(0, 3),
+                    offset: const Offset(0, -2),
                   ),
                 ],
               ),
               child: const Icon(
                 Icons.camera_alt,
                 color: Colors.white,
-                size: 18,
+                size: 20,
               ),
             ),
           ),
         ),
-        // 编辑按钮 - 右上角
+        // 编辑按钮 - 右上角 - 全新设计
         Positioned(
           right: 20,
           top: 10,
           child: GestureDetector(
             onTap: _showEditDialog,
             child: Container(
-              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+              padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 10),
               decoration: BoxDecoration(
-                color: Colors.white.withOpacity(0.9),
-                borderRadius: BorderRadius.circular(20),
+                gradient: const LinearGradient(
+                  colors: [Colors.white, Color(0xFFf093fb)],
+                ),
+                borderRadius: BorderRadius.circular(25),
                 border: Border.all(
-                  color: const Color(0xFFB700FF).withOpacity(0.3),
-                  width: 1,
+                  color: Colors.white,
+                  width: 2,
                 ),
                 boxShadow: [
                   BoxShadow(
-                    color: Colors.black.withOpacity(0.1),
+                    color: Colors.black.withOpacity(0.2),
+                    blurRadius: 15,
+                    offset: const Offset(0, 6),
+                  ),
+                  BoxShadow(
+                    color: Colors.white.withOpacity(0.4),
                     blurRadius: 10,
-                    offset: const Offset(0, 4),
+                    offset: const Offset(0, -3),
                   ),
                 ],
               ),
@@ -554,16 +586,16 @@ class _AccountScreenState extends State<AccountScreen> {
                 children: [
                   Icon(
                     Icons.edit,
-                    color: Color(0xFFB700FF),
-                    size: 16,
+                    color: Color(0xFF764ba2),
+                    size: 18,
                   ),
-                  SizedBox(width: 6),
+                  SizedBox(width: 8),
                   Text(
                     'Edit',
                     style: TextStyle(
-                      color: Color(0xFFB700FF),
-                      fontSize: 14,
-                      fontWeight: FontWeight.w600,
+                      color: Color(0xFF764ba2),
+                      fontSize: 16,
+                      fontWeight: FontWeight.w700,
                     ),
                   ),
                 ],
@@ -578,26 +610,33 @@ class _AccountScreenState extends State<AccountScreen> {
   Widget _buildUserInfoCard() {
     return Container(
       margin: const EdgeInsets.symmetric(horizontal: 20),
-      padding: const EdgeInsets.all(24),
+      padding: const EdgeInsets.all(28),
       decoration: BoxDecoration(
         gradient: LinearGradient(
           begin: Alignment.topLeft,
           end: Alignment.bottomRight,
           colors: [
-            Colors.white.withOpacity(0.15),
-            Colors.white.withOpacity(0.05),
+            Colors.white.withOpacity(0.95),
+            const Color(0xFFf093fb).withOpacity(0.1),
           ],
         ),
-        borderRadius: BorderRadius.circular(24),
+        borderRadius: BorderRadius.circular(30),
         border: Border.all(
-          color: Colors.white.withOpacity(0.2),
-          width: 1,
+          color: Colors.white.withOpacity(0.8),
+          width: 2,
         ),
         boxShadow: [
           BoxShadow(
-            color: Colors.black.withOpacity(0.1),
+            color: Colors.black.withOpacity(0.15),
+            blurRadius: 30,
+            offset: const Offset(0, 15),
+            spreadRadius: 0,
+          ),
+          BoxShadow(
+            color: Colors.white.withOpacity(0.6),
             blurRadius: 20,
-            offset: const Offset(0, 8),
+            offset: const Offset(0, -8),
+            spreadRadius: 0,
           ),
         ],
       ),
@@ -607,22 +646,22 @@ class _AccountScreenState extends State<AccountScreen> {
           Text(
             _profile.name.isEmpty ? 'Your Name' : _profile.name,
             style: const TextStyle(
-              color: Colors.white,
-              fontSize: 24,
-              fontWeight: FontWeight.w700,
-              letterSpacing: 0.5,
+              color: Color(0xFF764ba2),
+              fontSize: 26,
+              fontWeight: FontWeight.w800,
+              letterSpacing: 0.8,
             ),
           ),
           const SizedBox(height: 12),
           // 分隔线
           Container(
-            width: 40,
-            height: 2,
+            width: 50,
+            height: 3,
             decoration: BoxDecoration(
               gradient: const LinearGradient(
-                colors: [Color(0xFFB700FF), Color(0xFFFF69B4)],
+                colors: [Color(0xFF764ba2), Color(0xFFf093fb)],
               ),
-              borderRadius: BorderRadius.circular(1),
+              borderRadius: BorderRadius.circular(2),
             ),
           ),
           const SizedBox(height: 12),
@@ -630,10 +669,11 @@ class _AccountScreenState extends State<AccountScreen> {
           Text(
             _profile.bio.isEmpty ? 'Tell us about yourself...' : _profile.bio,
             style: TextStyle(
-              color: Colors.white.withOpacity(0.8),
-              fontSize: 16,
-              height: 1.5,
-              letterSpacing: 0.3,
+              color: const Color(0xFF667eea),
+              fontSize: 17,
+              height: 1.6,
+              letterSpacing: 0.4,
+              fontWeight: FontWeight.w500,
             ),
             textAlign: TextAlign.center,
             maxLines: 3,
@@ -728,8 +768,8 @@ class _AccountScreenState extends State<AccountScreen> {
           begin: Alignment.topLeft,
           end: Alignment.bottomRight,
           colors: [
-            Colors.white.withOpacity(0.12),
-            Colors.white.withOpacity(0.04),
+            Colors.white.withOpacity(0.9),
+            const Color(0xFFf093fb).withOpacity(0.15),
           ],
         ),
         borderRadius: BorderRadius.circular(24),
@@ -752,10 +792,10 @@ class _AccountScreenState extends State<AccountScreen> {
           Text(
             'Settings & Support',
             style: TextStyle(
-              color: Colors.white.withOpacity(0.9),
-              fontSize: 18,
-              fontWeight: FontWeight.w600,
-              letterSpacing: 0.5,
+              color: const Color(0xFF764ba2),
+              fontSize: 20,
+              fontWeight: FontWeight.w700,
+              letterSpacing: 0.8,
             ),
           ),
           const SizedBox(height: 20),
@@ -809,12 +849,31 @@ class _AccountScreenState extends State<AccountScreen> {
         width: 110,
         padding: const EdgeInsets.all(12),
         decoration: BoxDecoration(
-          color: Colors.white.withOpacity(0.08),
-          borderRadius: BorderRadius.circular(16),
-          border: Border.all(
-            color: Colors.white.withOpacity(0.1),
-            width: 1,
+          gradient: LinearGradient(
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+            colors: [
+              Colors.white.withOpacity(0.4),
+              const Color(0xFFf093fb).withOpacity(0.1),
+            ],
           ),
+          borderRadius: BorderRadius.circular(20),
+          border: Border.all(
+            color: const Color(0xFF764ba2).withOpacity(0.3),
+            width: 2,
+          ),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.black.withOpacity(0.1),
+              blurRadius: 15,
+              offset: const Offset(0, 8),
+            ),
+            BoxShadow(
+              color: Colors.white.withOpacity(0.3),
+              blurRadius: 10,
+              offset: const Offset(0, -4),
+            ),
+          ],
         ),
         child: Column(
           children: [
@@ -847,10 +906,10 @@ class _AccountScreenState extends State<AccountScreen> {
             Text(
               label,
               style: TextStyle(
-                color: Colors.white.withOpacity(0.9),
-                fontSize: 13,
-                fontWeight: FontWeight.w500,
-                letterSpacing: 0.3,
+                color: const Color(0xFF667eea),
+                fontSize: 14,
+                fontWeight: FontWeight.w600,
+                letterSpacing: 0.4,
               ),
               textAlign: TextAlign.center,
               maxLines: 2,

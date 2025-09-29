@@ -6,7 +6,6 @@ import '../views/bottom_navigation.dart';
 import '../views/dashboard/dashboard_screen.dart';
 import '../views/recording/record_screen.dart';
 import '../views/explore/explore_screen.dart';
-import '../views/messaging/chat_list_screen.dart';
 import '../views/account/account_screen.dart';
 import '../views/conversation/voice_chat_screen.dart';
 import '../views/conversation/chat_conversation_screen.dart';
@@ -74,7 +73,7 @@ class AppRoutes {
         );
       case message:
         return MaterialPageRoute(
-          builder: (_) => const ChatListScreen(),
+          builder: (_) => const AccountScreen(),
           settings: settings,
         );
       case profile:

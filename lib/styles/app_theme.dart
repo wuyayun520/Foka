@@ -1,26 +1,26 @@
 import 'package:flutter/material.dart';
 
 class AppTheme {
-  // 主题色
-  static const Color primaryColor = Color(0xFFB700FF);
-  static const Color primaryColorLight = Color(0xFFE066FF);
-  static const Color primaryColorDark = Color(0xFF8A00CC);
+  // 主题色 - 更新为蓝绿色系
+  static const Color primaryColor = Color(0xFF2E7D7A);
+  static const Color primaryColorLight = Color(0xFF4DB6AC);
+  static const Color primaryColorDark = Color(0xFF1B5E20);
   
   // 辅助色
-  static const Color accentColor = Color(0xFFFF6B35);
+  static const Color accentColor = Color(0xFF4CAF50);
   static const Color backgroundColor = Color(0xFFF8F9FA);
   static const Color surfaceColor = Colors.white;
-  static const Color errorColor = Color(0xFFE53E3E);
+  static const Color errorColor = Color(0xFFF44336);
   
-  // 文字颜色
-  static const Color textPrimary = Color(0xFF1A202C);
-  static const Color textSecondary = Color(0xFF718096);
-  static const Color textTertiary = Color(0xFFA0AEC0);
+  // 文字颜色 - 更新为更柔和的颜色
+  static const Color textPrimary = Color(0xFF263238);
+  static const Color textSecondary = Color(0xFF546E7A);
+  static const Color textTertiary = Color(0xFF90A4AE);
   
   // 底部导航栏颜色
-  static const Color tabBarBackground = Color(0xFF1D0333);
-  static const Color tabTextNormal = Color(0xFF999999);
-  static const Color tabTextSelected = Color(0xFFAB3DFF);
+  static const Color tabBarBackground = Color(0xFF263238);
+  static const Color tabTextNormal = Color(0xFF90A4AE);
+  static const Color tabTextSelected = Color(0xFF4DB6AC);
   
   // 渐变色
   static const LinearGradient primaryGradient = LinearGradient(

@@ -155,7 +155,7 @@ class _DashboardScreenState extends State<DashboardScreen>
               child: const Text(
                 'Purchase',
                 style: TextStyle(
-                  color: Color(0xFFB700FF),
+                  color: Color(0xFF2E7D7A),
                   fontWeight: FontWeight.w600,
                 ),
               ),
@@ -206,7 +206,7 @@ class _DashboardScreenState extends State<DashboardScreen>
               child: const Text(
                 'Unlock',
                 style: TextStyle(
-                  color: Color(0xFFB700FF),
+                  color: Color(0xFF2E7D7A),
                   fontWeight: FontWeight.w600,
                 ),
               ),
@@ -602,24 +602,25 @@ class _DashboardScreenState extends State<DashboardScreen>
       body: Container(
         width: double.infinity,
         height: double.infinity,
-        decoration: const BoxDecoration(
+        decoration: BoxDecoration(
           gradient: LinearGradient(
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
             colors: [
-              Color(0xFF0D1421),
-              Color(0xFF1A1B3A),
-              Color(0xFF2D1B69),
-              Color(0xFF0D1421),
+              const Color(0xFF667eea),
+              const Color(0xFF764ba2),
+              const Color(0xFFf093fb),
+              const Color(0xFF667eea),
             ],
-            stops: [0.0, 0.3, 0.7, 1.0],
+            stops: const [0.0, 0.3, 0.7, 1.0],
           ),
         ),
         child: SafeArea(
           child: _isLoading
               ? const Center(
                   child: CircularProgressIndicator(
-                    valueColor: AlwaysStoppedAnimation<Color>(Colors.pink),
+                    valueColor: AlwaysStoppedAnimation<Color>(Colors.white),
+                    strokeWidth: 3,
                   ),
                 )
               : Stack(
@@ -674,27 +675,37 @@ class _DashboardScreenState extends State<DashboardScreen>
                                 end: Alignment.bottomRight,
                                 colors: _isScanning 
                                   ? [
-                                      const Color(0xFFE91E63).withOpacity(0.8),
-                                      const Color(0xFFE91E63).withOpacity(0.6),
+                                      const Color(0xFFf093fb).withOpacity(0.9),
+                                      const Color(0xFF764ba2).withOpacity(0.8),
                                     ]
                                   : [
-                                      const Color(0xFFFFFFFF),
-                                      const Color(0xFFF5F5F5),
+                                      Colors.white.withOpacity(0.9),
+                                      const Color(0xFFf093fb).withOpacity(0.1),
                                     ],
                               ),
-                              borderRadius: BorderRadius.circular(30),
+                              borderRadius: BorderRadius.circular(35),
+                              border: Border.all(
+                                color: Colors.white.withOpacity(0.8),
+                                width: 2,
+                              ),
                               boxShadow: [
                                 BoxShadow(
-                                  color: Colors.black.withOpacity(0.1),
-                                  blurRadius: 20,
+                                  color: Colors.black.withOpacity(0.2),
+                                  blurRadius: 25,
                                   spreadRadius: 0,
-                                  offset: const Offset(0, 10),
+                                  offset: const Offset(0, 12),
                                 ),
                                 BoxShadow(
-                                  color: const Color(0xFFE91E63).withOpacity(0.2),
+                                  color: const Color(0xFFf093fb).withOpacity(0.4),
+                                  blurRadius: 20,
+                                  spreadRadius: -3,
+                                  offset: const Offset(0, 0),
+                                ),
+                                BoxShadow(
+                                  color: Colors.white.withOpacity(0.3),
                                   blurRadius: 15,
                                   spreadRadius: -5,
-                                  offset: const Offset(0, 0),
+                                  offset: const Offset(0, -5),
                                 ),
                               ],
                             ),
@@ -703,12 +714,19 @@ class _DashboardScreenState extends State<DashboardScreen>
                                 ? 'Scanning...' 
                                 : (_scanCompleted ? 'Scan Again' : 'Start Scan'),
                               style: TextStyle(
-                                fontSize: 18,
-                                fontWeight: FontWeight.w600,
+                                fontSize: 20,
+                                fontWeight: FontWeight.w700,
                                 color: _isScanning 
                                   ? Colors.white 
-                                  : const Color(0xFF2D1B69),
-                                letterSpacing: 0.5,
+                                  : const Color(0xFF764ba2),
+                                letterSpacing: 0.8,
+                                shadows: _isScanning ? [
+                                  Shadow(
+                                    color: Colors.black.withOpacity(0.3),
+                                    blurRadius: 4,
+                                    offset: const Offset(0, 2),
+                                  ),
+                                ] : null,
                               ),
                             ),
                           ),
@@ -728,19 +746,26 @@ class _DashboardScreenState extends State<DashboardScreen>
       builder: (context, child) {
         return Stack(
           children: [
-            // 外圈 - 细线条，更优雅
+            // 外圈 - 全新设计
             Container(
               width: size,
               height: size,
               decoration: BoxDecoration(
                 shape: BoxShape.circle,
                 border: Border.all(
-                  color: const Color(0xFFE91E63).withOpacity(0.15 + _pulseController.value * 0.15),
-                  width: 1,
+                  color: Colors.white.withOpacity(0.2 + _pulseController.value * 0.3),
+                  width: 2,
                 ),
+                boxShadow: [
+                  BoxShadow(
+                    color: const Color(0xFFf093fb).withOpacity(0.3 + _pulseController.value * 0.2),
+                    blurRadius: 20,
+                    spreadRadius: 2,
+                  ),
+                ],
               ),
             ),
-            // 中圈
+            // 中圈 - 全新设计
             Center(
               child: Container(
                 width: size * 0.65,
@@ -748,13 +773,20 @@ class _DashboardScreenState extends State<DashboardScreen>
                 decoration: BoxDecoration(
                   shape: BoxShape.circle,
                   border: Border.all(
-                    color: const Color(0xFFE91E63).withOpacity(0.2 + _pulseController.value * 0.2),
-                    width: 1,
+                    color: Colors.white.withOpacity(0.3 + _pulseController.value * 0.4),
+                    width: 2,
                   ),
+                  boxShadow: [
+                    BoxShadow(
+                      color: const Color(0xFF764ba2).withOpacity(0.4 + _pulseController.value * 0.3),
+                      blurRadius: 15,
+                      spreadRadius: 1,
+                    ),
+                  ],
                 ),
               ),
             ),
-            // 内圈
+            // 内圈 - 全新设计
             Center(
               child: Container(
                 width: size * 0.3,
@@ -762,9 +794,16 @@ class _DashboardScreenState extends State<DashboardScreen>
                 decoration: BoxDecoration(
                   shape: BoxShape.circle,
                   border: Border.all(
-                    color: const Color(0xFFE91E63).withOpacity(0.25 + _pulseController.value * 0.25),
-                    width: 1,
+                    color: Colors.white.withOpacity(0.4 + _pulseController.value * 0.5),
+                    width: 2,
                   ),
+                  boxShadow: [
+                    BoxShadow(
+                      color: const Color(0xFF667eea).withOpacity(0.5 + _pulseController.value * 0.4),
+                      blurRadius: 10,
+                      spreadRadius: 1,
+                    ),
+                  ],
                 ),
               ),
             ),
@@ -839,17 +878,23 @@ class _DashboardScreenState extends State<DashboardScreen>
                           shape: BoxShape.circle,
                           border: Border.all(
                             color: Colors.white.withOpacity(opacity * 0.9),
-                            width: 2,
+                            width: 3,
                           ),
                           boxShadow: [
                             BoxShadow(
-                              color: const Color(0xFFE91E63).withOpacity(0.4 * opacity),
-                              blurRadius: 20,
-                              spreadRadius: 3,
+                              color: const Color(0xFFf093fb).withOpacity(0.5 * opacity),
+                              blurRadius: 25,
+                              spreadRadius: 4,
                               offset: const Offset(0, 0),
                             ),
                             BoxShadow(
-                              color: Colors.black.withOpacity(0.3),
+                              color: const Color(0xFF764ba2).withOpacity(0.3 * opacity),
+                              blurRadius: 15,
+                              spreadRadius: 2,
+                              offset: const Offset(0, 0),
+                            ),
+                            BoxShadow(
+                              color: Colors.black.withOpacity(0.2),
                               blurRadius: 10,
                               offset: const Offset(0, 4),
                             ),
@@ -896,15 +941,21 @@ class _DashboardScreenState extends State<DashboardScreen>
               shape: BoxShape.circle,
               gradient: RadialGradient(
                 colors: [
-                  const Color(0xFFE91E63).withOpacity(1.0),
-                  const Color(0xFFE91E63).withOpacity(0.6),
-                  const Color(0xFFE91E63).withOpacity(0.0),
+                  Colors.white.withOpacity(1.0),
+                  const Color(0xFFf093fb).withOpacity(0.8),
+                  const Color(0xFF764ba2).withOpacity(0.4),
+                  Colors.transparent,
                 ],
-                stops: const [0.0, 0.7, 1.0],
+                stops: const [0.0, 0.4, 0.7, 1.0],
               ),
               boxShadow: [
                 BoxShadow(
-                  color: const Color(0xFFE91E63).withOpacity(0.6),
+                  color: const Color(0xFFf093fb).withOpacity(0.8),
+                  blurRadius: 20 + _pulseController.value * 15,
+                  spreadRadius: 3 + _pulseController.value * 5,
+                ),
+                BoxShadow(
+                  color: const Color(0xFF764ba2).withOpacity(0.6),
                   blurRadius: 15 + _pulseController.value * 10,
                   spreadRadius: 2 + _pulseController.value * 3,
                 ),
@@ -927,16 +978,16 @@ class RadarSweepPainter extends CustomPainter {
     final center = Offset(size.width / 2, size.height / 2);
     final radius = size.width / 2;
     
-    // 创建更优雅的渐变扫描效果
+    // 创建全新的渐变扫描效果
     final gradient = SweepGradient(
       startAngle: 0,
       endAngle: math.pi * 0.6,
       colors: [
         Colors.transparent,
-        const Color(0xFFE91E63).withOpacity(0.05),
-        const Color(0xFFE91E63).withOpacity(0.15),
-        const Color(0xFFE91E63).withOpacity(0.35),
-        const Color(0xFFE91E63).withOpacity(0.6),
+        Colors.white.withOpacity(0.1),
+        const Color(0xFFf093fb).withOpacity(0.2),
+        const Color(0xFF764ba2).withOpacity(0.4),
+        const Color(0xFF667eea).withOpacity(0.6),
       ],
       stops: const [0.0, 0.2, 0.5, 0.8, 1.0],
     );
@@ -976,8 +1027,8 @@ class RadarGridPainter extends CustomPainter {
     final radius = size.width / 2;
     
     final paint = Paint()
-      ..color = const Color(0xFFE91E63).withOpacity(0.08)
-      ..strokeWidth = 0.5
+      ..color = Colors.white.withOpacity(0.1)
+      ..strokeWidth = 1.0
       ..style = PaintingStyle.stroke;
     
     // 绘制十字线
@@ -993,7 +1044,7 @@ class RadarGridPainter extends CustomPainter {
     );
     
     // 绘制对角线
-    paint.color = const Color(0xFFE91E63).withOpacity(0.05);
+    paint.color = Colors.white.withOpacity(0.05);
     canvas.drawLine(
       const Offset(0, 0),
       Offset(size.width, size.height),

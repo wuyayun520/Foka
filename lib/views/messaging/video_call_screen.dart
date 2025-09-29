@@ -15,10 +15,10 @@ class VideoCallScreen extends StatefulWidget {
 }
 
 class _VideoCallScreenState extends State<VideoCallScreen> {
-  bool _isCalling = true;
-  bool _showOfflineMessage = false;
+  bool _isCalling = true; // 默认显示为拨打状态
   bool _isConnected = false;
-  int _countdown = 0; // 将在_startCountdown中设置
+  bool _showOfflineMessage = false;
+  int _countdown = 0; // 倒计时
   Timer? _timer;
   Timer? _callTimer;
   int _callDuration = 0; // 通话时长（秒）
@@ -36,11 +36,9 @@ class _VideoCallScreenState extends State<VideoCallScreen> {
     super.dispose();
   }
 
-
   void _startCountdown() {
-    // 只有第10个用户才能接通，其他用户20秒后挂断
-    final maxCountdown = widget.user.id == 10 ? 5 : 20;
-    _countdown = maxCountdown;
+    // 20秒后挂断
+    _countdown = 20;
     
     _timer = Timer.periodic(const Duration(seconds: 1), (timer) {
       setState(() {
@@ -50,25 +48,14 @@ class _VideoCallScreenState extends State<VideoCallScreen> {
       if (_countdown <= 0) {
         _timer?.cancel();
         
-        if (widget.user.id == 10) {
-          // 第10个用户接通
-          setState(() {
-            _isCalling = false;
-            _isConnected = true;
-          });
-          
-          // 启动通话计时器
-          _startCallTimer();
-        } else {
-          // 其他用户20秒后挂断
-          setState(() {
-            _isCalling = false;
-            _showOfflineMessage = true;
-          });
-          
-          // 显示挂断弹窗
-          _showOfflineDialog();
-        }
+        // 20秒后挂断
+        setState(() {
+          _isCalling = false;
+          _showOfflineMessage = true;
+        });
+        
+        // 显示挂断弹窗
+        _showOfflineDialog();
       }
     });
   }
@@ -95,55 +82,132 @@ class _VideoCallScreenState extends State<VideoCallScreen> {
       barrierDismissible: false,
       builder: (BuildContext context) {
         return AlertDialog(
-          backgroundColor: Colors.white,
+          backgroundColor: Colors.transparent,
           shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(16),
+            borderRadius: BorderRadius.circular(25),
           ),
-          title: Row(
-            children: [
-              Icon(
-                Icons.signal_wifi_off,
-                color: Colors.orange,
-                size: 24,
+          content: Container(
+            padding: const EdgeInsets.all(24),
+            decoration: BoxDecoration(
+              gradient: LinearGradient(
+                begin: Alignment.topLeft,
+                end: Alignment.bottomRight,
+                colors: [
+                  Colors.white.withOpacity(0.95),
+                  const Color(0xFFf093fb).withOpacity(0.1),
+                ],
               ),
-              const SizedBox(width: 8),
-              const Text(
-                'Connection Failed',
-                style: TextStyle(
-                  fontSize: 18,
-                  fontWeight: FontWeight.w600,
-                  color: Color(0xFF333333),
+              borderRadius: BorderRadius.circular(25),
+              border: Border.all(
+                color: Colors.white.withOpacity(0.3),
+                width: 2,
+              ),
+              boxShadow: [
+                BoxShadow(
+                  color: Colors.black.withOpacity(0.2),
+                  blurRadius: 20,
+                  offset: const Offset(0, 10),
                 ),
-              ),
-            ],
-          ),
-          content: Text(
-            '${widget.user.displayName} is currently offline.\nPlease try again later.',
-            style: const TextStyle(
-              fontSize: 16,
-              color: Color(0xFF666666),
+                BoxShadow(
+                  color: const Color(0xFFf093fb).withOpacity(0.3),
+                  blurRadius: 15,
+                  offset: const Offset(0, 0),
+                ),
+              ],
+            ),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Container(
+                  padding: const EdgeInsets.all(12),
+                  decoration: BoxDecoration(
+                    gradient: const LinearGradient(
+                      colors: [Color(0xFF667eea), Color(0xFF764ba2)],
+                    ),
+                    shape: BoxShape.circle,
+                    boxShadow: [
+                      BoxShadow(
+                        color: const Color(0xFF667eea).withOpacity(0.4),
+                        blurRadius: 12,
+                        offset: const Offset(0, 4),
+                      ),
+                    ],
+                  ),
+                  child: const Icon(
+                    Icons.signal_wifi_off,
+                    color: Colors.white,
+                    size: 28,
+                  ),
+                ),
+                const SizedBox(height: 16),
+                const Text(
+                  'Connection Failed',
+                  style: TextStyle(
+                    fontSize: 20,
+                    fontWeight: FontWeight.w800,
+                    color: Color(0xFF764ba2),
+                    letterSpacing: 0.5,
+                  ),
+                ),
+                const SizedBox(height: 12),
+                Text(
+                  '${widget.user.displayName} is currently offline.\nPlease try again later.',
+                  textAlign: TextAlign.center,
+                  style: const TextStyle(
+                    fontSize: 16,
+                    color: Color(0xFF667eea),
+                    fontWeight: FontWeight.w500,
+                    height: 1.4,
+                  ),
+                ),
+                const SizedBox(height: 24),
+                Container(
+                  width: double.infinity,
+                  decoration: BoxDecoration(
+                    gradient: const LinearGradient(
+                      colors: [Color(0xFF764ba2), Color(0xFFf093fb)],
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
+                    ),
+                    borderRadius: BorderRadius.circular(20),
+                    boxShadow: [
+                      BoxShadow(
+                        color: const Color(0xFF764ba2).withOpacity(0.4),
+                        blurRadius: 12,
+                        offset: const Offset(0, 4),
+                      ),
+                    ],
+                  ),
+                  child: TextButton(
+                    onPressed: () {
+                      Navigator.of(context).pop(); // 关闭弹窗
+                      Navigator.of(context).pop(); // 返回上一页面
+                    },
+                    style: TextButton.styleFrom(
+                      padding: const EdgeInsets.symmetric(vertical: 16),
+                      shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(20),
+                      ),
+                    ),
+                    child: const Text(
+                      'OK',
+                      style: TextStyle(
+                        fontSize: 18,
+                        fontWeight: FontWeight.w700,
+                        color: Colors.white,
+                        letterSpacing: 0.5,
+                      ),
+                    ),
+                  ),
+                ),
+              ],
             ),
           ),
-          actions: [
-            TextButton(
-              onPressed: () {
-                Navigator.of(context).pop(); // 关闭弹窗
-                Navigator.of(context).pop(); // 返回上一页面
-              },
-              child: const Text(
-                'OK',
-                style: TextStyle(
-                  fontSize: 16,
-                  fontWeight: FontWeight.w600,
-                  color: Color(0xFFC874FF),
-                ),
-              ),
-            ),
-          ],
         );
       },
     );
   }
+
 
 
 
@@ -167,57 +231,136 @@ class _VideoCallScreenState extends State<VideoCallScreen> {
               ),
             ),
             
-            // 背景遮罩（只在拨打时显示，接通后不显示遮罩以显示前置摄像头）
+            // 梦幻渐变遮罩
+            Container(
+              width: double.infinity,
+              height: double.infinity,
+              decoration: BoxDecoration(
+                gradient: LinearGradient(
+                  begin: Alignment.topLeft,
+                  end: Alignment.bottomRight,
+                  colors: [
+                    const Color(0xFF667eea).withOpacity(0.3),
+                    const Color(0xFF764ba2).withOpacity(0.4),
+                    const Color(0xFFf093fb).withOpacity(0.3),
+                  ],
+                  stops: const [0.0, 0.5, 1.0],
+                ),
+              ),
+            ),
+            
+            // 背景遮罩（只在拨打时显示）
             if (!_isConnected)
               Container(
                 width: double.infinity,
                 height: double.infinity,
-                color: Colors.black.withOpacity(0.3),
+                decoration: BoxDecoration(
+                  gradient: LinearGradient(
+                    begin: Alignment.topCenter,
+                    end: Alignment.bottomCenter,
+                    colors: [
+                      Colors.black.withOpacity(0.2),
+                      Colors.black.withOpacity(0.5),
+                      Colors.black.withOpacity(0.7),
+                    ],
+                    stops: const [0.0, 0.5, 1.0],
+                  ),
+                ),
               ),
             
-            // 小窗口显示用户头像（接通后显示）
+            // 小窗口显示用户头像（只在连接时显示）
             if (_isConnected)
               Positioned(
                 top: 140,
                 left: 20,
                 child: Container(
-                  width: 117,
-                  height: 117,
+                  width: 130,
+                  height: 130,
                   decoration: BoxDecoration(
-                    borderRadius: BorderRadius.circular(12),
+                    borderRadius: BorderRadius.circular(20),
+                    gradient: const LinearGradient(
+                      colors: [Color(0xFFf093fb), Color(0xFF764ba2)],
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
+                    ),
                     border: Border.all(
-                      color: Colors.white,
-                      width: 2,
+                      color: Colors.white.withOpacity(0.4),
+                      width: 3,
                     ),
                     boxShadow: [
                       BoxShadow(
-                        color: Colors.black.withOpacity(0.3),
+                        color: const Color(0xFFf093fb).withOpacity(0.4),
+                        blurRadius: 20,
+                        spreadRadius: 2,
+                        offset: const Offset(0, 8),
+                      ),
+                      BoxShadow(
+                        color: const Color(0xFF764ba2).withOpacity(0.3),
+                        blurRadius: 15,
+                        spreadRadius: 1,
+                        offset: const Offset(0, 4),
+                      ),
+                      BoxShadow(
+                        color: Colors.black.withOpacity(0.2),
                         blurRadius: 10,
-                        offset: const Offset(0, 5),
+                        offset: const Offset(0, 2),
                       ),
                     ],
                   ),
                   child: ClipRRect(
-                    borderRadius: BorderRadius.circular(10),
+                    borderRadius: BorderRadius.circular(17),
                     child: Container(
-                      color: Colors.grey[800],
+                      decoration: BoxDecoration(
+                        gradient: LinearGradient(
+                          begin: Alignment.topLeft,
+                          end: Alignment.bottomRight,
+                          colors: [
+                            Colors.white.withOpacity(0.9),
+                            const Color(0xFFf093fb).withOpacity(0.1),
+                          ],
+                        ),
+                      ),
                       child: Center(
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
-                            Icon(
-                              Icons.videocam,
-                              color: Colors.white,
-                              size: 28,
+                            Container(
+                              padding: const EdgeInsets.all(8),
+                              decoration: BoxDecoration(
+                                gradient: const LinearGradient(
+                                  colors: [Color(0xFF667eea), Color(0xFF764ba2)],
+                                ),
+                                shape: BoxShape.circle,
+                                boxShadow: [
+                                  BoxShadow(
+                                    color: const Color(0xFF667eea).withOpacity(0.4),
+                                    blurRadius: 8,
+                                    offset: const Offset(0, 3),
+                                  ),
+                                ],
+                              ),
+                              child: const Icon(
+                                Icons.videocam,
+                                color: Colors.white,
+                                size: 24,
+                              ),
                             ),
-                            const SizedBox(height: 6),
+                            const SizedBox(height: 8),
                             Text(
                               'Video Call\nActive',
                               textAlign: TextAlign.center,
-                              style: TextStyle(
-                                color: Colors.white,
-                                fontSize: 11,
-                                fontWeight: FontWeight.w500,
+                              style: const TextStyle(
+                                color: Color(0xFF764ba2),
+                                fontSize: 12,
+                                fontWeight: FontWeight.w700,
+                                letterSpacing: 0.3,
+                                shadows: [
+                                  Shadow(
+                                    color: Colors.white,
+                                    blurRadius: 4,
+                                    offset: Offset(0, 1),
+                                  ),
+                                ],
                               ),
                             ),
                           ],
@@ -233,16 +376,63 @@ class _VideoCallScreenState extends State<VideoCallScreen> {
               left: 0,
               right: 0,
               child: Container(
-                padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
-                child: Text(
-                  widget.user.displayName,
-                  style: const TextStyle(
-                    fontSize: 18,
-                    fontWeight: FontWeight.w700,
-                    color: Colors.white,
-                    letterSpacing: 0.5,
+                padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
+                decoration: BoxDecoration(
+                  gradient: LinearGradient(
+                    begin: Alignment.topCenter,
+                    end: Alignment.bottomCenter,
+                    colors: [
+                      Colors.black.withOpacity(0.3),
+                      Colors.transparent,
+                    ],
                   ),
-                  textAlign: TextAlign.center,
+                ),
+                child: Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                  decoration: BoxDecoration(
+                    gradient: LinearGradient(
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
+                      colors: [
+                        Colors.white.withOpacity(0.9),
+                        const Color(0xFFf093fb).withOpacity(0.2),
+                      ],
+                    ),
+                    borderRadius: BorderRadius.circular(25),
+                    border: Border.all(
+                      color: Colors.white.withOpacity(0.3),
+                      width: 2,
+                    ),
+                    boxShadow: [
+                      BoxShadow(
+                        color: Colors.black.withOpacity(0.2),
+                        blurRadius: 15,
+                        offset: const Offset(0, 6),
+                      ),
+                      BoxShadow(
+                        color: const Color(0xFFf093fb).withOpacity(0.3),
+                        blurRadius: 10,
+                        offset: const Offset(0, 0),
+                      ),
+                    ],
+                  ),
+                  child: Text(
+                    widget.user.displayName,
+                    style: const TextStyle(
+                      fontSize: 20,
+                      fontWeight: FontWeight.w800,
+                      color: Color(0xFF764ba2),
+                      letterSpacing: 0.8,
+                      shadows: [
+                        Shadow(
+                          color: Colors.white,
+                          blurRadius: 6,
+                          offset: Offset(0, 2),
+                        ),
+                      ],
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
                 ),
               ),
             ),
@@ -263,37 +453,69 @@ class _VideoCallScreenState extends State<VideoCallScreen> {
                     begin: Alignment.bottomCenter,
                     end: Alignment.topCenter,
                     colors: [
-                      Colors.black.withOpacity(_isConnected ? 0.4 : 0.7),
+                      Colors.black.withOpacity(_isConnected ? 0.3 : 0.6),
+                      const Color(0xFF667eea).withOpacity(0.2),
                       Colors.transparent,
                     ],
+                    stops: const [0.0, 0.3, 1.0],
                   ),
                 ),
                 child: Column(
                   mainAxisSize: MainAxisSize.min,
                   children: [
-                    // 通话计时器（只在接通时显示）
+                    // 通话计时器（只在连接时显示）
                     if (_isConnected)
                       Container(
-                        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                        padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
                         decoration: BoxDecoration(
-                          color: Colors.black.withOpacity(0.5),
-                          borderRadius: BorderRadius.circular(20),
+                          gradient: LinearGradient(
+                            begin: Alignment.topLeft,
+                            end: Alignment.bottomRight,
+                            colors: [
+                              Colors.white.withOpacity(0.9),
+                              const Color(0xFFf093fb).withOpacity(0.2),
+                            ],
+                          ),
+                          borderRadius: BorderRadius.circular(25),
+                          border: Border.all(
+                            color: Colors.white.withOpacity(0.3),
+                            width: 2,
+                          ),
+                          boxShadow: [
+                            BoxShadow(
+                              color: Colors.black.withOpacity(0.2),
+                              blurRadius: 15,
+                              offset: const Offset(0, 6),
+                            ),
+                            BoxShadow(
+                              color: const Color(0xFFf093fb).withOpacity(0.3),
+                              blurRadius: 10,
+                              offset: const Offset(0, 0),
+                            ),
+                          ],
                         ),
                         child: Text(
                           _formatCallDuration(_callDuration),
                           style: const TextStyle(
-                            fontSize: 18,
-                            fontWeight: FontWeight.w600,
-                            color: Colors.white,
-                            letterSpacing: 1.0,
+                            fontSize: 20,
+                            fontWeight: FontWeight.w800,
+                            color: Color(0xFF764ba2),
+                            letterSpacing: 1.2,
+                            shadows: [
+                              Shadow(
+                                color: Colors.white,
+                                blurRadius: 4,
+                                offset: Offset(0, 1),
+                              ),
+                            ],
                           ),
                         ),
                       ),
                     if (_isConnected) const SizedBox(height: 20),
                     
-                    // 拨打按钮
+                    // 挂断按钮
                     GestureDetector(
-                      onTap: _showOfflineMessage ? null : () {
+                      onTap: () {
                         _timer?.cancel();
                         _callTimer?.cancel();
                         setState(() {
@@ -314,18 +536,43 @@ class _VideoCallScreenState extends State<VideoCallScreen> {
                     ),
                     const SizedBox(height: 20),
                     // 状态文本
-                    Text(
-                      _showOfflineMessage
-                          ? '${widget.user.displayName} is offline'
-                          : _isCalling 
-                              ? 'Calling ${widget.user.displayName}... '
-                              : _isConnected
-                                  ? 'Connected with ${widget.user.displayName}'
-                                  : 'Ending call...',
-                      style: const TextStyle(
-                        fontSize: 16,
-                        fontWeight: FontWeight.w500,
-                        color: Colors.white,
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+                      decoration: BoxDecoration(
+                        gradient: LinearGradient(
+                          begin: Alignment.topLeft,
+                          end: Alignment.bottomRight,
+                          colors: [
+                            Colors.white.withOpacity(0.1),
+                            const Color(0xFFf093fb).withOpacity(0.1),
+                          ],
+                        ),
+                        borderRadius: BorderRadius.circular(20),
+                        border: Border.all(
+                          color: Colors.white.withOpacity(0.2),
+                          width: 1,
+                        ),
+                      ),
+                      child: Text(
+                        _isCalling 
+                            ? 'Calling ${widget.user.displayName}... (${_countdown}s)'
+                            : _isConnected
+                                ? 'Connected with ${widget.user.displayName}'
+                                : 'Ending call...',
+                        style: const TextStyle(
+                          fontSize: 16,
+                          fontWeight: FontWeight.w600,
+                          color: Colors.white,
+                          letterSpacing: 0.3,
+                          shadows: [
+                            Shadow(
+                              color: Colors.black,
+                              blurRadius: 4,
+                              offset: Offset(0, 2),
+                            ),
+                          ],
+                        ),
+                        textAlign: TextAlign.center,
                       ),
                     ),
                   ],

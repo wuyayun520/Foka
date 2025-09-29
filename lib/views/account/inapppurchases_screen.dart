@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
 import 'dart:async';
-import '../../config/app_colors.dart';
 
 class GoldProduct {
   final String amountStr;
@@ -220,7 +219,7 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
           content: Text(msg),
-          backgroundColor: AppConfig.primary,
+          backgroundColor: const Color(0xFF2E7D7A),
           behavior: SnackBarBehavior.floating,
           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
         ),
@@ -265,41 +264,90 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: AppConfig.background,
-      body: _isLoading
-          ? Center(
-              child: CircularProgressIndicator(
-                color: AppConfig.primary,
-              ),
-            )
-          : CustomScrollView(
-              slivers: [
-                // 自定义AppBar
-                SliverAppBar(
-                  expandedHeight: 300,
-                  floating: false,
-                  pinned: true,
-                  backgroundColor: AppConfig.background,
-                  leading: IconButton(
-                    icon: Icon(Icons.arrow_back_ios_new, color: AppConfig.primary),
-                    onPressed: () => Navigator.of(context).pop(),
-                  ),
-                  flexibleSpace: FlexibleSpaceBar(
-                    background: Container(
+      body: Container(
+        height: MediaQuery.of(context).size.height,
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+            colors: [
+              const Color(0xFF667eea),
+              const Color(0xFF764ba2),
+              const Color(0xFFf093fb),
+            ],
+            stops: const [0.0, 0.5, 1.0],
+          ),
+        ),
+        child: _isLoading
+            ? Center(
+                child: CircularProgressIndicator(
+                  color: Colors.white,
+                  strokeWidth: 3,
+                ),
+              )
+            : CustomScrollView(
+                slivers: [
+                  // 自定义AppBar
+                  SliverAppBar(
+                    expandedHeight: 350,
+                    floating: false,
+                    pinned: true,
+                    backgroundColor: Colors.transparent,
+                    leading: Container(
+                      margin: const EdgeInsets.all(8),
                       decoration: BoxDecoration(
-                        gradient: LinearGradient(
-                          begin: Alignment.topCenter,
-                          end: Alignment.bottomCenter,
-                          colors: [
-                            AppConfig.primary.withOpacity(0.1),
-                            AppConfig.background,
-                          ],
+                        gradient: const LinearGradient(
+                          colors: [Color(0xFF764ba2), Color(0xFFf093fb)],
+                          begin: Alignment.topLeft,
+                          end: Alignment.bottomRight,
                         ),
+                        borderRadius: BorderRadius.circular(15),
+                        border: Border.all(
+                          color: Colors.white.withOpacity(0.4),
+                          width: 2,
+                        ),
+                        boxShadow: [
+                          BoxShadow(
+                            color: const Color(0xFF764ba2).withOpacity(0.4),
+                            blurRadius: 12,
+                            offset: const Offset(0, 4),
+                          ),
+                        ],
                       ),
-                      child: Column(
+                      child: IconButton(
+                        icon: const Icon(Icons.arrow_back_ios_new, color: Colors.white, size: 20),
+                        onPressed: () => Navigator.of(context).pop(),
+                      ),
+                    ),
+                    flexibleSpace: FlexibleSpaceBar(
+                      background: Column(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
-                          const SizedBox(height: 60),
+                          const SizedBox(height: 80),
+                          
+                          // 装饰性顶部条
+                          Container(
+                            width: 80,
+                            height: 6,
+                            decoration: BoxDecoration(
+                              gradient: const LinearGradient(
+                                colors: [Colors.white, Color(0xFFf093fb)],
+                                begin: Alignment.centerLeft,
+                                end: Alignment.centerRight,
+                              ),
+                              borderRadius: BorderRadius.circular(3),
+                              boxShadow: [
+                                BoxShadow(
+                                  color: Colors.white.withOpacity(0.3),
+                                  blurRadius: 8,
+                                  offset: const Offset(0, 2),
+                                ),
+                              ],
+                            ),
+                          ),
+                          
+                          const SizedBox(height: 30),
+                          
                           // 星币主题图标
                           AnimatedBuilder(
                             animation: _pulseAnimation,
@@ -307,49 +355,69 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                               return Transform.scale(
                                 scale: _pulseAnimation.value,
                                 child: Container(
-                                  width: 100,
-                                  height: 100,
+                                  width: 120,
+                                  height: 120,
                                   decoration: BoxDecoration(
                                     shape: BoxShape.circle,
-                                    gradient: LinearGradient(
-                                      colors: [
-                                        Colors.amber.shade300,
-                                        Colors.amber.shade600,
-                                        Colors.orange.shade400,
-                                      ],
+                                    gradient: const LinearGradient(
+                                      colors: [Colors.white, Color(0xFFf093fb)],
                                       begin: Alignment.topLeft,
                                       end: Alignment.bottomRight,
                                     ),
+                                    border: Border.all(
+                                      color: Colors.white.withOpacity(0.4),
+                                      width: 3,
+                                    ),
                                     boxShadow: [
                                       BoxShadow(
-                                        color: Colors.amber.withOpacity(0.4),
+                                        color: Colors.white.withOpacity(0.3),
                                         blurRadius: 20,
                                         spreadRadius: 5,
+                                      ),
+                                      BoxShadow(
+                                        color: const Color(0xFFf093fb).withOpacity(0.4),
+                                        blurRadius: 15,
+                                        offset: const Offset(0, 0),
                                       ),
                                     ],
                                   ),
                                   child: Stack(
                                     alignment: Alignment.center,
                                     children: [
-                                      const Icon(
-                                        Icons.star,
-                                    color: Colors.white,
-                                    size: 50,
+                                      Container(
+                                        padding: const EdgeInsets.all(12),
+                                        decoration: BoxDecoration(
+                                          gradient: const LinearGradient(
+                                            colors: [Color(0xFF667eea), Color(0xFF764ba2)],
+                                          ),
+                                          shape: BoxShape.circle,
+                                        ),
+                                        child: const Icon(
+                                          Icons.star,
+                                          color: Colors.white,
+                                          size: 50,
+                                        ),
                                       ),
                                       Positioned(
-                                        top: 8,
-                                        right: 8,
+                                        top: 15,
+                                        right: 15,
                                         child: Container(
-                                          width: 16,
-                                          height: 16,
+                                          width: 20,
+                                          height: 20,
                                           decoration: BoxDecoration(
+                                            gradient: const LinearGradient(
+                                              colors: [Color(0xFFf093fb), Color(0xFF764ba2)],
+                                            ),
                                             shape: BoxShape.circle,
-                                            color: Colors.white.withOpacity(0.9),
+                                            border: Border.all(
+                                              color: Colors.white,
+                                              width: 2,
+                                            ),
                                           ),
                                           child: const Icon(
                                             Icons.diamond,
-                                            color: Colors.amber,
-                                            size: 10,
+                                            color: Colors.white,
+                                            size: 12,
                                           ),
                                         ),
                                       ),
@@ -359,191 +427,269 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                               );
                             },
                           ),
-                          const SizedBox(height: 20),
-                          // 余额显示
-                          Text(
-                            '$_goldCoins',
-                            style: TextStyle(
-                              fontSize: 48,
-                              fontWeight: FontWeight.bold,
-                              color: Colors.amber.shade600,
-                            ),
-                          ),
-                          const SizedBox(height: 8),
-                          Text(
-                            'Star Coins',
-                            style: TextStyle(
-                              fontSize: 20,
-                              color: Colors.amber.shade600,
-                              fontWeight: FontWeight.w600,
-                            ),
-                          ),
                           
+                          const SizedBox(height: 20),
+                          
+                          // 余额显示
+                          Container(
+                            padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                            decoration: BoxDecoration(
+                              gradient: LinearGradient(
+                                colors: [
+                                  Colors.white.withOpacity(0.9),
+                                  const Color(0xFFf093fb).withOpacity(0.2),
+                                ],
+                              ),
+                              borderRadius: BorderRadius.circular(25),
+                              border: Border.all(
+                                color: Colors.white.withOpacity(0.3),
+                                width: 2,
+                              ),
+                              boxShadow: [
+                                BoxShadow(
+                                  color: Colors.black.withOpacity(0.1),
+                                  blurRadius: 15,
+                                  offset: const Offset(0, 5),
+                                ),
+                              ],
+                            ),
+                            child: Column(
+                              children: [
+                                Text(
+                                  '$_goldCoins',
+                                  style: const TextStyle(
+                                    fontSize: 42,
+                                    fontWeight: FontWeight.w800,
+                                    color: Color(0xFF764ba2),
+                                    letterSpacing: 1.2,
+                                  ),
+                                ),
+                                const SizedBox(height: 4),
+                                Text(
+                                  'Star Coins',
+                                  style: TextStyle(
+                                    fontSize: 18,
+                                    color: const Color(0xFF667eea),
+                                    fontWeight: FontWeight.w600,
+                                    letterSpacing: 0.5,
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ),
                         ],
                       ),
                     ),
                   ),
-                ),
                 
-                // 商品列表
-                SliverPadding(
-                  padding: const EdgeInsets.fromLTRB(16, 16, 16, 100),
-                  sliver: SliverList(
-                    delegate: SliverChildBuilderDelegate(
-                      (context, index) {
-                        final item = _goldProducts[index];
-                        final product = _products.firstWhereOrNull((p) => p.id == item.productId);
-                        final priceStr = product?.price ?? '\$${item.price.toStringAsFixed(2)}';
-                        
-                        // 添加特殊标签
-                        String? badge;
-                        Color? badgeColor;
-                        
-                        // 为特定商品添加标签
-                        if (item.amount >= 3199) {
-                          badge = 'BEST VALUE';
-                          badgeColor = AppConfig.secondary;
-                        } else if (item.amount >= 599) {
-                          badge = 'POPULAR';
-                          badgeColor = AppConfig.success;
-                        }
-                        
-    return Container(
-                          margin: const EdgeInsets.only(bottom: 12),
-      decoration: BoxDecoration(
-                            color: AppConfig.surface,
-        borderRadius: BorderRadius.circular(16),
-        border: Border.all(
-                              color: AppConfig.primary.withOpacity(0.2),
-          width: 1,
-        ),
-        boxShadow: [
-          BoxShadow(
-            color: Colors.black.withOpacity(0.05),
-            blurRadius: 8,
-            offset: const Offset(0, 2),
-          ),
-        ],
-      ),
-      child: Material(
-        color: Colors.transparent,
-        child: InkWell(
-          borderRadius: BorderRadius.circular(16),
-                              onTap: _purchasePending ? null : () => _processPurchase(item.productId),
-                              child: Stack(
-                                children: [
-                                  // 特殊标签
-                                  if (badge != null)
-                                    Positioned(
-                                      top: 10,
-                                      right: 12,
-                                      child: Container(
-                                        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                                        decoration: BoxDecoration(
-                                          color: badgeColor,
-                                          borderRadius: BorderRadius.circular(12),
-                                        ),
-                                        child: Text(
-                                          badge,
-                                          style: const TextStyle(
-                                            color: Colors.white,
-                                            fontSize: 12,
-                                            fontWeight: FontWeight.bold,
-                                          ),
-                                        ),
-                                      ),
-                                    ),
-                                  
-                                  Padding(
-            padding: const EdgeInsets.all(20),
-            child: Row(
-              children: [
-                                        // 星币图标
-                                        Container(
-                                          width: 60,
-                                          height: 60,
+                  // 商品列表
+                  SliverPadding(
+                    padding: const EdgeInsets.fromLTRB(24, 16, 24, 100),
+                    sliver: SliverList(
+                      delegate: SliverChildBuilderDelegate(
+                        (context, index) {
+                          final item = _goldProducts[index];
+                          final product = _products.firstWhereOrNull((p) => p.id == item.productId);
+                          final priceStr = product?.price ?? '\$${item.price.toStringAsFixed(2)}';
+                          
+                          // 添加特殊标签
+                          String? badge;
+                          LinearGradient? badgeGradient;
+                          
+                          // 为特定商品添加标签
+                          if (item.amount >= 3199) {
+                            badge = 'BEST VALUE';
+                            badgeGradient = const LinearGradient(
+                              colors: [Color(0xFFf093fb), Color(0xFF764ba2)],
+                            );
+                          } else if (item.amount >= 599) {
+                            badge = 'POPULAR';
+                            badgeGradient = const LinearGradient(
+                              colors: [Color(0xFF667eea), Color(0xFF764ba2)],
+                            );
+                          }
+                          
+                          return Container(
+                            margin: const EdgeInsets.only(bottom: 16),
+                            decoration: BoxDecoration(
+                              gradient: LinearGradient(
+                                begin: Alignment.topLeft,
+                                end: Alignment.bottomRight,
+                                colors: [
+                                  Colors.white.withOpacity(0.95),
+                                  const Color(0xFFf093fb).withOpacity(0.1),
+                                ],
+                              ),
+                              borderRadius: BorderRadius.circular(25),
+                              border: Border.all(
+                                color: Colors.white.withOpacity(0.3),
+                                width: 2,
+                              ),
+                              boxShadow: [
+                                BoxShadow(
+                                  color: Colors.black.withOpacity(0.1),
+                                  blurRadius: 15,
+                                  offset: const Offset(0, 5),
+                                ),
+                                BoxShadow(
+                                  color: const Color(0xFFf093fb).withOpacity(0.2),
+                                  blurRadius: 10,
+                                  offset: const Offset(0, 0),
+                                ),
+                              ],
+                            ),
+                            child: Material(
+                              color: Colors.transparent,
+                              child: InkWell(
+                                borderRadius: BorderRadius.circular(25),
+                                onTap: _purchasePending ? null : () => _processPurchase(item.productId),
+                                child: Stack(
+                                  children: [
+                                    // 特殊标签
+                                    if (badge != null)
+                                      Positioned(
+                                        top: 15,
+                                        right: 15,
+                                        child: Container(
+                                          padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
                                           decoration: BoxDecoration(
-                                            gradient: LinearGradient(
-                                              colors: [
-                                                Colors.amber.shade300,
-                                                Colors.amber.shade600,
-                                              ],
-                                              begin: Alignment.topLeft,
-                                              end: Alignment.bottomRight,
+                                            gradient: badgeGradient,
+                                            borderRadius: BorderRadius.circular(15),
+                                            border: Border.all(
+                                              color: Colors.white.withOpacity(0.3),
+                                              width: 1,
                                             ),
-                                            borderRadius: BorderRadius.circular(16),
                                             boxShadow: [
                                               BoxShadow(
-                                                color: Colors.amber.withOpacity(0.3),
-                                                blurRadius: 8,
-                                                offset: const Offset(0, 2),
-                                              ),
-                                            ],
-                                          ),
-                                          child: const Icon(
-                                            Icons.star,
-                                            color: Colors.white,
-                                            size: 30,
-                                          ),
-                                        ),
-                
-                const SizedBox(width: 16),
-                
-                                        // 商品信息
-                Expanded(
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                                              Text(
-                                                '${item.amount} Star Coins',
-                                                style: TextStyle(
-                                                  color: AppConfig.textPrimary,
-                                                  fontSize: 18,
-                                                  fontWeight: FontWeight.bold,
-                                                ),
-                                              ),
-                                             
-                                            ],
-                                          ),
-                                        ),
-                                        
-                                        // 价格按钮
-                                        Container(
-                                          padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
-                                          decoration: BoxDecoration(
-                                            color: AppConfig.primary,
-                                            borderRadius: BorderRadius.circular(25),
-                                            boxShadow: [
-                                              BoxShadow(
-                                                color: AppConfig.primary.withOpacity(0.3),
+                                                color: const Color(0xFF764ba2).withOpacity(0.3),
                                                 blurRadius: 8,
                                                 offset: const Offset(0, 2),
                                               ),
                                             ],
                                           ),
                                           child: Text(
-                                            priceStr,
-                        style: const TextStyle(
+                                            badge,
+                                            style: const TextStyle(
                                               color: Colors.white,
-                                              fontWeight: FontWeight.bold,
-                                              fontSize: 16,
+                                              fontSize: 12,
+                                              fontWeight: FontWeight.w700,
+                                              letterSpacing: 0.5,
                                             ),
                                           ),
                                         ),
-                                      ],
-                        ),
+                                      ),
+                                    
+                                    Padding(
+                                      padding: const EdgeInsets.all(24),
+                                      child: Row(
+                                        children: [
+                                          // 星币图标
+                                          Container(
+                                            width: 70,
+                                            height: 70,
+                                            decoration: BoxDecoration(
+                                              gradient: const LinearGradient(
+                                                colors: [Color(0xFF667eea), Color(0xFF764ba2)],
+                                                begin: Alignment.topLeft,
+                                                end: Alignment.bottomRight,
+                                              ),
+                                              borderRadius: BorderRadius.circular(20),
+                                              border: Border.all(
+                                                color: Colors.white.withOpacity(0.3),
+                                                width: 2,
+                                              ),
+                                              boxShadow: [
+                                                BoxShadow(
+                                                  color: const Color(0xFF667eea).withOpacity(0.4),
+                                                  blurRadius: 12,
+                                                  offset: const Offset(0, 4),
+                                                ),
+                                              ],
+                                            ),
+                                            child: const Icon(
+                                              Icons.star,
+                                              color: Colors.white,
+                                              size: 35,
+                                            ),
+                                          ),
+                          
+                                          const SizedBox(width: 20),
+                          
+                                          // 商品信息
+                                          Expanded(
+                                            child: Column(
+                                              crossAxisAlignment: CrossAxisAlignment.start,
+                                              children: [
+                                                Text(
+                                                  '${item.amount}',
+                                                  style: const TextStyle(
+                                                    color: Color(0xFF764ba2),
+                                                    fontSize: 24,
+                                                    fontWeight: FontWeight.w800,
+                                                    letterSpacing: 0.5,
+                                                  ),
+                                                ),
+                                                const SizedBox(height: 4),
+                                                Text(
+                                                  'Star Coins',
+                                                  style: TextStyle(
+                                                    color: const Color(0xFF667eea),
+                                                    fontSize: 16,
+                                                    fontWeight: FontWeight.w600,
+                                                    letterSpacing: 0.3,
+                                                  ),
+                                                ),
+                                              ],
+                                            ),
+                                          ),
+                                          
+                                          // 价格按钮
+                                          Container(
+                                            padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 14),
+                                            decoration: BoxDecoration(
+                                              gradient: const LinearGradient(
+                                                colors: [Color(0xFF764ba2), Color(0xFFf093fb)],
+                                                begin: Alignment.topLeft,
+                                                end: Alignment.bottomRight,
+                                              ),
+                                              borderRadius: BorderRadius.circular(25),
+                                              border: Border.all(
+                                                color: Colors.white.withOpacity(0.3),
+                                                width: 2,
+                                              ),
+                                              boxShadow: [
+                                                BoxShadow(
+                                                  color: const Color(0xFF764ba2).withOpacity(0.4),
+                                                  blurRadius: 12,
+                                                  offset: const Offset(0, 4),
+                                                ),
+                                              ],
+                                            ),
+                                            child: Text(
+                                              priceStr,
+                                              style: const TextStyle(
+                                                color: Colors.white,
+                                                fontWeight: FontWeight.w700,
+                                                fontSize: 16,
+                                                letterSpacing: 0.3,
+                                              ),
+                                            ),
+                                          ),
+                                        ],
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                              ),
+                            ),
+                          );
+                        },
+                        childCount: _goldProducts.length,
                       ),
-                    ],
-                  ),
-                ),
-                          ),
-                        );
-                      },
-                      childCount: _goldProducts.length,
                     ),
                   ),
-                ),
-              ],
+                ],
+              ),
       ),
     );
   }

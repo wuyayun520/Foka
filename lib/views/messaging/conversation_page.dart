@@ -198,20 +198,24 @@ class _ConversationPageState extends State<ConversationPage> {
         leading: Container(
           margin: const EdgeInsets.all(8),
           decoration: BoxDecoration(
-            gradient: LinearGradient(
-              colors: [
-                AppTheme.primaryColor.withOpacity(0.8),
-                AppTheme.primaryColorLight.withOpacity(0.8),
-              ],
+            gradient: const LinearGradient(
+              colors: [Color(0xFF764ba2), Color(0xFFf093fb)],
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight,
             ),
-            borderRadius: BorderRadius.circular(12),
+            borderRadius: BorderRadius.circular(15),
             border: Border.all(
-              color: Colors.white.withOpacity(0.3),
-              width: 1,
+              color: Colors.white.withOpacity(0.4),
+              width: 2,
             ),
             boxShadow: [
               BoxShadow(
-                color: AppTheme.primaryColor.withOpacity(0.3),
+                color: const Color(0xFF764ba2).withOpacity(0.4),
+                blurRadius: 12,
+                offset: const Offset(0, 4),
+              ),
+              BoxShadow(
+                color: const Color(0xFFf093fb).withOpacity(0.3),
                 blurRadius: 8,
                 offset: const Offset(0, 2),
               ),
@@ -225,25 +229,34 @@ class _ConversationPageState extends State<ConversationPage> {
         title: Row(
           children: [
             Container(
-              padding: const EdgeInsets.all(3),
+              padding: const EdgeInsets.all(4),
               decoration: BoxDecoration(
                 shape: BoxShape.circle,
                 gradient: const LinearGradient(
-                  colors: [AppTheme.primaryColor, AppTheme.primaryColorLight],
+                  colors: [Color(0xFFf093fb), Color(0xFF764ba2)],
                   begin: Alignment.topLeft,
                   end: Alignment.bottomRight,
                 ),
                 boxShadow: [
                   BoxShadow(
-                    color: AppTheme.primaryColor.withOpacity(0.3),
-                    blurRadius: 8,
-                    offset: const Offset(0, 2),
+                    color: const Color(0xFFf093fb).withOpacity(0.4),
+                    blurRadius: 15,
+                    spreadRadius: 2,
+                  ),
+                  BoxShadow(
+                    color: const Color(0xFF764ba2).withOpacity(0.3),
+                    blurRadius: 10,
+                    spreadRadius: 1,
                   ),
                 ],
               ),
               child: CircleAvatar(
-                radius: 18,
-                backgroundImage: AssetImage(widget.user.avatar),
+                radius: 20,
+                backgroundColor: Colors.white,
+                child: CircleAvatar(
+                  radius: 18,
+                  backgroundImage: AssetImage(widget.user.avatar),
+                ),
               ),
             ),
             const SizedBox(width: 12),
@@ -254,14 +267,15 @@ class _ConversationPageState extends State<ConversationPage> {
                   Text(
                     widget.user.displayName,
                     style: const TextStyle(
-                      fontSize: 16,
-                      fontWeight: FontWeight.w600,
-                      color: Colors.white,
+                      fontSize: 18,
+                      fontWeight: FontWeight.w800,
+                      color: Color(0xFF764ba2),
+                      letterSpacing: 0.5,
                       shadows: [
                         Shadow(
-                          color: AppTheme.primaryColor,
-                          blurRadius: 4,
-                          offset: Offset(0, 1),
+                          color: Colors.white,
+                          blurRadius: 6,
+                          offset: Offset(0, 2),
                         ),
                       ],
                     ),
@@ -269,12 +283,14 @@ class _ConversationPageState extends State<ConversationPage> {
                   Text(
                     '@${widget.user.username}',
                     style: const TextStyle(
-                      fontSize: 12,
-                      color: Colors.white70,
+                      fontSize: 13,
+                      color: Color(0xFF667eea),
+                      fontWeight: FontWeight.w500,
+                      letterSpacing: 0.3,
                       shadows: [
                         Shadow(
-                          color: AppTheme.primaryColor,
-                          blurRadius: 2,
+                          color: Colors.white,
+                          blurRadius: 4,
                           offset: Offset(0, 1),
                         ),
                       ],
@@ -289,14 +305,21 @@ class _ConversationPageState extends State<ConversationPage> {
       ),
       body: Stack(
         children: [
-          // 通用背景图片
+          // 全新渐变背景
           Container(
             width: double.infinity,
             height: double.infinity,
-            decoration: const BoxDecoration(
-              image: DecorationImage(
-                image: AssetImage('assets/section/foka_all_bg.webp'),
-                fit: BoxFit.cover,
+            decoration: BoxDecoration(
+              gradient: LinearGradient(
+                begin: Alignment.topLeft,
+                end: Alignment.bottomRight,
+                colors: [
+                  const Color(0xFF667eea),
+                  const Color(0xFF764ba2),
+                  const Color(0xFFf093fb),
+                  const Color(0xFF667eea),
+                ],
+                stops: const [0.0, 0.3, 0.7, 1.0],
               ),
             ),
           ),
@@ -312,16 +335,27 @@ class _ConversationPageState extends State<ConversationPage> {
                       children: [
                         // 聊天头部装饰
                         Container(
-                          padding: const EdgeInsets.all(16),
+                          padding: const EdgeInsets.all(20),
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
                               Container(
-                                width: 40,
-                                height: 4,
+                                width: 60,
+                                height: 6,
                                 decoration: BoxDecoration(
-                                  color: Colors.white.withOpacity(0.3),
-                                  borderRadius: BorderRadius.circular(2),
+                                  gradient: const LinearGradient(
+                                    colors: [Color(0xFFf093fb), Color(0xFF764ba2)],
+                                    begin: Alignment.centerLeft,
+                                    end: Alignment.centerRight,
+                                  ),
+                                  borderRadius: BorderRadius.circular(3),
+                                  boxShadow: [
+                                    BoxShadow(
+                                      color: const Color(0xFFf093fb).withOpacity(0.4),
+                                      blurRadius: 8,
+                                      offset: const Offset(0, 2),
+                                    ),
+                                  ],
                                 ),
                               ),
                             ],
@@ -442,20 +476,27 @@ class _ChatBubbleState extends State<_ChatBubble> {
             margin: const EdgeInsets.symmetric(vertical: 6),
             constraints: const BoxConstraints(maxWidth: 200),
             decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(16),
+              borderRadius: BorderRadius.circular(20),
               border: Border.all(
                 color: msg.isMe 
-                    ? Colors.white.withOpacity(0.3)
-                    : AppTheme.primaryColor.withOpacity(0.3),
-                width: 2,
+                    ? Colors.white.withOpacity(0.4)
+                    : const Color(0xFF764ba2).withOpacity(0.4),
+                width: 3,
               ),
               boxShadow: [
                 BoxShadow(
                   color: msg.isMe 
-                      ? Colors.white.withOpacity(0.2)
-                      : AppTheme.primaryColor.withOpacity(0.2),
-                  blurRadius: 12,
-                  offset: const Offset(0, 4),
+                      ? const Color(0xFF764ba2).withOpacity(0.3)
+                      : const Color(0xFFf093fb).withOpacity(0.3),
+                  blurRadius: 15,
+                  offset: const Offset(0, 6),
+                ),
+                BoxShadow(
+                  color: msg.isMe 
+                      ? const Color(0xFFf093fb).withOpacity(0.2)
+                      : Colors.white.withOpacity(0.3),
+                  blurRadius: 10,
+                  offset: const Offset(0, -3),
                 ),
               ],
             ),
@@ -494,8 +535,9 @@ class _ChatBubbleState extends State<_ChatBubble> {
                   child: Text(
                     msg.time,
                     style: TextStyle(
-                      color: msg.isMe ? Colors.white70 : Colors.black54,
+                      color: msg.isMe ? Colors.white70 : const Color(0xFF667eea),
                       fontSize: 11,
+                      fontWeight: FontWeight.w500,
                     ),
                   ),
                 ),
@@ -518,24 +560,39 @@ class _ChatBubbleState extends State<_ChatBubble> {
         decoration: BoxDecoration(
           gradient: msg.isMe 
               ? const LinearGradient(
-                  colors: [AppTheme.primaryColor, AppTheme.primaryColorLight],
+                  colors: [Color(0xFF764ba2), Color(0xFFf093fb)],
                   begin: Alignment.topLeft,
                   end: Alignment.bottomRight,
                 )
-              : null,
-          color: msg.isMe ? null : Colors.white.withOpacity(0.9),
-          borderRadius: BorderRadius.circular(20),
-          border: msg.isMe ? null : Border.all(
-            color: AppTheme.primaryColor.withOpacity(0.2),
-            width: 1,
+              : LinearGradient(
+                  colors: [
+                    Colors.white.withOpacity(0.95),
+                    const Color(0xFFf093fb).withOpacity(0.1),
+                  ],
+                  begin: Alignment.topLeft,
+                  end: Alignment.bottomRight,
+                ),
+          borderRadius: BorderRadius.circular(25),
+          border: Border.all(
+            color: msg.isMe 
+                ? Colors.white.withOpacity(0.3)
+                : const Color(0xFF764ba2).withOpacity(0.3),
+            width: 2,
           ),
           boxShadow: [
             BoxShadow(
               color: msg.isMe 
-                  ? AppTheme.primaryColor.withOpacity(0.3)
+                  ? const Color(0xFF764ba2).withOpacity(0.4)
                   : Colors.black.withOpacity(0.1),
-              blurRadius: 8,
-              offset: const Offset(0, 2),
+              blurRadius: 15,
+              offset: const Offset(0, 6),
+            ),
+            BoxShadow(
+              color: msg.isMe 
+                  ? const Color(0xFFf093fb).withOpacity(0.3)
+                  : Colors.white.withOpacity(0.3),
+              blurRadius: 10,
+              offset: const Offset(0, -3),
             ),
           ],
         ),
@@ -545,9 +602,11 @@ class _ChatBubbleState extends State<_ChatBubble> {
             Text(
               msg.text ?? '',
               style: TextStyle(
-                color: msg.isMe ? Colors.white : Colors.black87,
+                color: msg.isMe ? Colors.white : const Color(0xFF764ba2),
                 fontSize: 16,
-                height: 1.3,
+                height: 1.5,
+                fontWeight: FontWeight.w500,
+                letterSpacing: 0.2,
               ),
             ),
             const SizedBox(height: 6),
@@ -556,8 +615,9 @@ class _ChatBubbleState extends State<_ChatBubble> {
               child: Text(
                 msg.time,
                 style: TextStyle(
-                  color: msg.isMe ? Colors.white70 : Colors.black54,
+                  color: msg.isMe ? Colors.white70 : const Color(0xFF667eea),
                   fontSize: 11,
+                  fontWeight: FontWeight.w500,
                 ),
               ),
             ),
@@ -584,15 +644,31 @@ class _ChatInputBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: const EdgeInsets.all(16),
+      padding: const EdgeInsets.all(20),
       decoration: BoxDecoration(
-        color: Colors.black.withOpacity(0.1),
-        borderRadius: const BorderRadius.vertical(top: Radius.circular(24)),
+        gradient: LinearGradient(
+          begin: Alignment.topLeft,
+          end: Alignment.bottomRight,
+          colors: [
+            Colors.white.withOpacity(0.9),
+            const Color(0xFFf093fb).withOpacity(0.2),
+          ],
+        ),
+        borderRadius: const BorderRadius.vertical(top: Radius.circular(30)),
+        border: Border.all(
+          color: Colors.white.withOpacity(0.3),
+          width: 2,
+        ),
         boxShadow: [
           BoxShadow(
-            color: AppTheme.primaryColor.withOpacity(0.1),
+            color: Colors.black.withOpacity(0.1),
+            blurRadius: 20,
+            offset: const Offset(0, -8),
+          ),
+          BoxShadow(
+            color: const Color(0xFFf093fb).withOpacity(0.2),
             blurRadius: 15,
-            offset: const Offset(0, -4),
+            offset: const Offset(0, 0),
           ),
         ],
       ),
@@ -603,22 +679,28 @@ class _ChatInputBar extends StatelessWidget {
                 // 图片按钮
                 Container(
                   decoration: BoxDecoration(
-                    gradient: LinearGradient(
-                      colors: [
-                        AppTheme.primaryColor.withOpacity(0.2),
-                        AppTheme.primaryColorLight.withOpacity(0.2),
-                      ],
+                    gradient: const LinearGradient(
+                      colors: [Color(0xFF667eea), Color(0xFF764ba2)],
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
                     ),
                     shape: BoxShape.circle,
                     border: Border.all(
-                      color: AppTheme.primaryColor.withOpacity(0.3),
-                      width: 1,
+                      color: Colors.white.withOpacity(0.3),
+                      width: 2,
                     ),
+                    boxShadow: [
+                      BoxShadow(
+                        color: const Color(0xFF667eea).withOpacity(0.4),
+                        blurRadius: 12,
+                        offset: const Offset(0, 4),
+                      ),
+                    ],
                   ),
                   child: IconButton(
-                    icon: Icon(
+                    icon: const Icon(
                       Icons.image_rounded,
-                      color: AppTheme.primaryColor,
+                      color: Colors.white,
                       size: 24,
                     ),
                     onPressed: onImage,
@@ -631,17 +713,29 @@ class _ChatInputBar extends StatelessWidget {
                 Expanded(
                   child: Container(
                     decoration: BoxDecoration(
-                      color: Colors.white.withOpacity(0.9),
-                      borderRadius: BorderRadius.circular(25),
+                      gradient: LinearGradient(
+                        begin: Alignment.topLeft,
+                        end: Alignment.bottomRight,
+                        colors: [
+                          Colors.white.withOpacity(0.9),
+                          const Color(0xFFf093fb).withOpacity(0.1),
+                        ],
+                      ),
+                      borderRadius: BorderRadius.circular(30),
                       border: Border.all(
-                        color: AppTheme.primaryColor.withOpacity(0.3),
+                        color: const Color(0xFF764ba2).withOpacity(0.3),
                         width: 2,
                       ),
                       boxShadow: [
                         BoxShadow(
-                          color: AppTheme.primaryColor.withOpacity(0.1),
-                          blurRadius: 8,
-                          offset: const Offset(0, 2),
+                          color: Colors.black.withOpacity(0.1),
+                          blurRadius: 15,
+                          offset: const Offset(0, 6),
+                        ),
+                        BoxShadow(
+                          color: Colors.white.withOpacity(0.3),
+                          blurRadius: 10,
+                          offset: const Offset(0, -3),
                         ),
                       ],
                     ),
@@ -652,17 +746,19 @@ class _ChatInputBar extends StatelessWidget {
                       textInputAction: TextInputAction.send,
                       onSubmitted: (_) => onSend(),
                       style: const TextStyle(
-                        color: AppTheme.textPrimary,
-                        fontSize: 15,
+                        color: Color(0xFF764ba2),
+                        fontSize: 16,
+                        fontWeight: FontWeight.w500,
                       ),
                       decoration: InputDecoration(
                         hintText: 'Type a message...',
-                        hintStyle: TextStyle(
-                          color: AppTheme.textSecondary,
-                          fontSize: 15,
+                        hintStyle: const TextStyle(
+                          color: Color(0xFF667eea),
+                          fontSize: 16,
+                          fontWeight: FontWeight.w400,
                         ),
                         border: InputBorder.none,
-                        contentPadding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+                        contentPadding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
                       ),
                     ),
                   ),
@@ -673,20 +769,25 @@ class _ChatInputBar extends StatelessWidget {
                 Container(
                   decoration: BoxDecoration(
                     gradient: const LinearGradient(
-                      colors: [AppTheme.primaryColor, AppTheme.primaryColorLight],
+                      colors: [Color(0xFF764ba2), Color(0xFFf093fb)],
                       begin: Alignment.topLeft,
                       end: Alignment.bottomRight,
                     ),
                     shape: BoxShape.circle,
                     border: Border.all(
                       color: Colors.white.withOpacity(0.3),
-                      width: 1,
+                      width: 2,
                     ),
                     boxShadow: [
                       BoxShadow(
-                        color: AppTheme.primaryColor.withOpacity(0.4),
-                        blurRadius: 12,
-                        offset: const Offset(0, 4),
+                        color: const Color(0xFF764ba2).withOpacity(0.4),
+                        blurRadius: 15,
+                        offset: const Offset(0, 6),
+                      ),
+                      BoxShadow(
+                        color: const Color(0xFFf093fb).withOpacity(0.3),
+                        blurRadius: 10,
+                        offset: const Offset(0, -3),
                       ),
                     ],
                   ),
