@@ -281,16 +281,16 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
     final List<List<_Privilege>> planPrivileges = [
       // Weekly
       [
-        _Privilege(icon: Icons.auto_awesome, text: 'Unlimited access to star wishes'),
+        _Privilege(icon: Icons.auto_awesome, text: 'Unlimited access to user information'),
         _Privilege(icon: Icons.block, text: 'Ad-free experience'),
         _Privilege(icon: Icons.face_retouching_natural, text: 'Unlimited modification of the avatar'),
       ],
       // Monthly
       [
-        _Privilege(icon: Icons.auto_awesome, text: 'Unlimited access to star wishes'),
+        _Privilege(icon: Icons.auto_awesome, text: 'Unlimited access to user information'),
         _Privilege(icon: Icons.block, text: 'Ad-free experience'),
         _Privilege(icon: Icons.face_retouching_natural, text: 'Unlimited modification of the avatar'),
-        _Privilege(icon: Icons.rocket_launch, text: 'Infinitely release star wishes'),
+        _Privilege(icon: Icons.rocket_launch, text: 'Post wishes infinitely'),
       ],
     ];
     final privileges = planPrivileges[_selectedIndex];
@@ -353,33 +353,34 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
                     ),
                     flexibleSpace: FlexibleSpaceBar(
                       background: SafeArea(
-                        child: Column(
-                          mainAxisAlignment: MainAxisAlignment.center,
-                          children: [
-                            const SizedBox(height: 80),
-                            
-                            // 装饰性顶部条
-                            Container(
-                              width: 80,
-                              height: 6,
-                              decoration: BoxDecoration(
-                                gradient: const LinearGradient(
-                                  colors: [Colors.white, Color(0xFFf093fb)],
-                                  begin: Alignment.centerLeft,
-                                  end: Alignment.centerRight,
-                                ),
-                                borderRadius: BorderRadius.circular(3),
-                                boxShadow: [
-                                  BoxShadow(
-                                    color: Colors.white.withOpacity(0.3),
-                                    blurRadius: 8,
-                                    offset: const Offset(0, 2),
+                        child: SingleChildScrollView(
+                          child: Column(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              const SizedBox(height: 60),
+                              
+                              // 装饰性顶部条
+                              Container(
+                                width: 80,
+                                height: 6,
+                                decoration: BoxDecoration(
+                                  gradient: const LinearGradient(
+                                    colors: [Colors.white, Color(0xFFf093fb)],
+                                    begin: Alignment.centerLeft,
+                                    end: Alignment.centerRight,
                                   ),
-                                ],
+                                  borderRadius: BorderRadius.circular(3),
+                                  boxShadow: [
+                                    BoxShadow(
+                                      color: Colors.white.withOpacity(0.3),
+                                      blurRadius: 8,
+                                      offset: const Offset(0, 2),
+                                    ),
+                                  ],
+                                ),
                               ),
-                            ),
-                            
-                            const SizedBox(height: 30),
+                              
+                              const SizedBox(height: 20),
                             
                             // VIP Status Card (if active)
                             if (_isVip && _vipExpiry != null) ...[
@@ -579,6 +580,7 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
                             ),
                             
                           ],
+                          ),
                         ),
                       ),
                     ),

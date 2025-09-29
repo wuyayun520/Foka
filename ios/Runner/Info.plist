@@ -40,7 +40,7 @@
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Foka needs access to photo library to share images in chat.</string>
 	<key>NSUserTrackingUsageDescription</key>
-	<string>Foka track your activity across other companies' apps and websites to provide you with a personalized experience</string>
+	<string>Foka would like to track your activity across other companies' apps and websites to provide you with personalized content and improve your experience with AI companions.</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UIBackgroundModes</key>

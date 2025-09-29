@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import '../../styles/app_theme.dart';
 import '../../navigation/app_routes.dart';
+import '../../core/att_permission_service.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
@@ -32,6 +33,23 @@ class _LoginScreenState extends State<LoginScreen>
     ));
     
     _fadeController.forward();
+    
+    // Check and request ATT permission after a delay
+    _checkATTPermission();
+  }
+  
+  Future<void> _checkATTPermission() async {
+    // Wait for the app to fully load
+    await Future.delayed(const Duration(seconds: 2));
+    
+    // Check if ATT permission is needed
+    final shouldRequest = await ATTPermissionService.shouldRequestATT();
+    if (shouldRequest) {
+      print("ATT permission needed, requesting...");
+      await ATTPermissionService.requestTrackingAuthorization();
+    } else {
+      print("ATT permission already determined");
+    }
   }
 
   @override
