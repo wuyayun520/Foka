@@ -33,7 +33,7 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
       subTitle: 'Per week',
       total: 'Total \$12.99',
       desc: '+7 Days ',
-      productId: 'loungeplusweek_13',
+      productId: 'FokaWeekVIP',
       popular: false,
     ),
     _VipPlan(
@@ -171,7 +171,7 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
     DateTime now = DateTime.now();
     DateTime expiry;
     String vipType;
-    if (purchaseDetails.productID == 'loungeplusweek_13') {
+    if (purchaseDetails.productID == 'FokaWeekVIP') {
       expiry = now.add(const Duration(days: 7));
       vipType = 'weekly';
     } else if (purchaseDetails.productID == 'FokaMonthVIP') {
