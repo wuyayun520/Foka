@@ -33,7 +33,7 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
       subTitle: 'Per week',
       total: 'Total \$12.99',
       desc: '+7 Days ',
-      productId: 'FokaWeekVIP',
+      productId: 'loungeplusweek_13',
       popular: false,
     ),
     _VipPlan(
@@ -171,7 +171,7 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
     DateTime now = DateTime.now();
     DateTime expiry;
     String vipType;
-    if (purchaseDetails.productID == 'FokaWeekVIP') {
+    if (purchaseDetails.productID == 'loungeplusweek_13') {
       expiry = now.add(const Duration(days: 7));
       vipType = 'weekly';
     } else if (purchaseDetails.productID == 'FokaMonthVIP') {
@@ -284,12 +284,17 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
         _Privilege(icon: Icons.auto_awesome, text: 'Unlimited access to user information'),
         _Privilege(icon: Icons.block, text: 'Ad-free experience'),
         _Privilege(icon: Icons.face_retouching_natural, text: 'Unlimited modification of the avatar'),
+        _Privilege(icon: Icons.chat, text: 'Chat with users'),
+        _Privilege(icon: Icons.subtitles, text: 'User voice translation into text'),
       ],
       // Monthly
       [
         _Privilege(icon: Icons.auto_awesome, text: 'Unlimited access to user information'),
         _Privilege(icon: Icons.block, text: 'Ad-free experience'),
         _Privilege(icon: Icons.face_retouching_natural, text: 'Unlimited modification of the avatar'),
+        _Privilege(icon: Icons.chat, text: 'Chat with users'),
+        _Privilege(icon: Icons.subtitles, text: 'User voice translation into text'),
+        _Privilege(icon: Icons.videocam, text: 'Video calling with users'),
         _Privilege(icon: Icons.rocket_launch, text: 'Post wishes infinitely'),
       ],
     ];
