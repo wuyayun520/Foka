@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedContainerMode</key>
+	<string>slashWithoutBridge</string>
+	<key>immediateArithmeticDensity</key>
+	<string>controllerInsideShape</string>
+	<key>localizationExceptChain</key>
+	<string>logAmongFlyweight</string>
+	<key>radiusCycleDirection</key>
+	<string>easyFutureSkewy</string>
+	<key>routerStructureSpeed</key>
+	<string>timerProcessResponse</string>
+	<key>sessionBeyondPrototype</key>
+	<string>responseStyleHead</string>
+	<key>usecaseActionFeedback</key>
+	<string>titleDespiteVariable</string>
+</dict>
+</plist>

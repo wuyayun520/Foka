@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertByLevel</key>
+	<string>playbackAboutAdapter</string>
+	<key>animatedcontainerValueBound</key>
+	<string>expandedSingletonVisibility</string>
+	<key>consumerDecoratorValidation</key>
+	<string>logProcessStatus</string>
+	<key>containerMementoLocation</key>
+	<string>temporaryRoutePadding</string>
+	<key>reductionAsFramework</key>
+	<string>prismaticPlateBorder</string>
+	<key>requestOutsideFunction</key>
+	<string>playbackActionPosition</string>
+	<key>textfieldModePadding</key>
+	<string>borderChainType</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncProviderAlignment</key>
+	<string>explicitAssetBottom</string>
+	<key>batchViaKind</key>
+	<string>topicSinceStage</string>
+	<key>boxNumberFlags</key>
+	<string>geometricModalOpacity</string>
+	<key>diffableDelegateDepth</key>
+	<string>statefulLevelVisibility</string>
+	<key>queryActionBound</key>
+	<string>pivotalButtonMomentum</string>
+</dict>
+</plist>

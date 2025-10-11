@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushWithVisitor</key>
+	<string>interpolationAmongTemple</string>
+	<key>canvasBeyondContext</key>
+	<string>gridViaTier</string>
+	<key>cursorWithoutState</key>
+	<string>variantExceptVisitor</string>
+	<key>deferredSceneDistance</key>
+	<string>graphicMediatorOffset</string>
+	<key>drawerAboutChain</key>
+	<string>grainWorkTag</string>
+	<key>labelFlyweightDepth</key>
+	<string>delegateAtParameter</string>
+</dict>
+</plist>

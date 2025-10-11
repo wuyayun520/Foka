@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBaseLocation</key>
+	<string>activatedNavigatorBehavior</string>
+	<key>futureOutsideOperation</key>
+	<string>integerExceptComposite</string>
+	<key>futureStructureSpeed</key>
+	<string>cursorSincePrototype</string>
+	<key>modelTypeIndex</key>
+	<string>similarAlertCoord</string>
+</dict>
+</plist>

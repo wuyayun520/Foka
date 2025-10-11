@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryKindVelocity</key>
+	<string>protocolAgainstTier</string>
+	<key>currentPriorityFrequency</key>
+	<string>capacitiesActionSpeed</string>
+	<key>methodAmongType</key>
+	<string>beginnerNibMode</string>
+	<key>playbackStrategyPadding</key>
+	<string>managerTaskOrientation</string>
+	<key>prismaticResourceAlignment</key>
+	<string>tappableRouterPadding</string>
+	<key>robustDecorationRotation</key>
+	<string>coordinatorIncludeBuffer</string>
+	<key>spriteDuringState</key>
+	<string>coordinatorFormTint</string>
+</dict>
+</plist>

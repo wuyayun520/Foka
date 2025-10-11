@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPhaseFlags</key>
+	<string>routeJobDuration</string>
+	<key>canvasInterpreterValidation</key>
+	<string>factoryAtSystem</string>
+	<key>chartOrInterpreter</key>
+	<string>globalSliderRate</string>
+	<key>enabledEffectMargin</key>
+	<string>transitionExceptVar</string>
+	<key>fragmentAndStyle</key>
+	<string>buttonTempleMomentum</string>
+	<key>frameVarSize</key>
+	<string>statelessOptionRight</string>
+	<key>groupWithObserver</key>
+	<string>skirtProcessBrightness</string>
+	<key>sizedboxUntilAdapter</key>
+	<string>customSliderSkewy</string>
+</dict>
+</plist>

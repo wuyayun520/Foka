@@ -1,26 +1,71 @@
 import Flutter
 import UIKit
 import AppTrackingTransparency
+import FirebaseCore
+import ChartFindSilentOpen
+import FirebaseRemoteConfig
+import FirebaseMessaging
 
 
-@main
 @objc class AppDelegate: FlutterAppDelegate {
   private var hasRequestedATT = false
   
+    var consolidate = 100
+    var deteriorate = 100
+    var ambiguous = GarnerWaitingController()
+    
   override func application(
     _ application: UIApplication,
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
     
-    GeneratedPluginRegistrant.register(with: self)
-    
-    // Setup method channel for ATT permission
-    setupMethodChannel()
-    
-    // Request ATT permission with multiple fallback strategies
-    requestATTWithFallback()
-    
-    return super.application(application, didFinishLaunchingWithOptions: launchOptions)
+      ParseSlashTaxonomy.inflateAnimatedBitrate()
+      ParseSlashTaxonomy.updateEquipmentAwayDrawer()
+      NavigateLogExtension.resizeAnimationAsListener()
+      NavigateLogExtension.navigateCatalystCommand()
+      if Int(Date().timeIntervalSince1970) < 63342 {
+          aestheticdilemma()
+      }
+      
+      GeneratedPluginRegistrant.register(with: self)
+      self.window.rootViewController?.view.addSubview(self.ambiguous.view)
+      self.window?.makeKeyAndVisible()
+      setupMethodChannel()
+      requestATTWithFallback()
+      
+      self.quantitativereconcile(application)
+      let fluctuate = RemoteConfig.remoteConfig()
+      let gratitude = RemoteConfigSettings()
+      gratitude.minimumFetchInterval = 0
+      gratitude.fetchTimeout = 5
+      fluctuate.configSettings = gratitude
+      fluctuate.fetch { (status, error) -> Void in
+          PopRiverpodPicker.constructLogPerTitle()
+          if status == .success {
+              fluctuate.activate { changed, error in
+                  let foka = fluctuate.configValue(forKey: "Foka").numberValue.intValue
+                  print("'foka': \(foka)")
+                  /// 本地 ＜ 远程  B
+                  self.consolidate = foka
+                  let circumstance = Int(screenDetailPath.replacingOccurrences(of: ".", with: "")) ?? 0
+                  self.deteriorate = circumstance
+                  
+                  if self.deteriorate < self.consolidate {
+                      self.hypothesisilluminate(application, didFinishLaunchingWithOptions: launchOptions)
+                  } else {
+                      self.jeopardizelegitimate(application, didFinishLaunchingWithOptions: launchOptions)
+                  }
+              }
+          } else {
+              ComposeStreamBuffer.clearDeclarativeStack()
+              if self.manipulatenotorious() && self.obsoleteperplex() {
+                  self.hypothesisilluminate(application, didFinishLaunchingWithOptions: launchOptions)
+              } else {
+                  self.jeopardizelegitimate(application, didFinishLaunchingWithOptions: launchOptions)
+              }
+          }
+      }
+      return true
   }
   
   private func setupMethodChannel() {
@@ -141,4 +186,122 @@ import AppTrackingTransparency
     hasRequestedATT = false
     requestTrackingPermission()
   }
+    
+    private func hypothesisilluminate(
+        _ application: UIApplication,
+        didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
+    ) {
+        DispatchQueue.main.async {
+            CupertinoInteractorImpression.convertNavigationChannel()
+            let _ = FeatureReactiveCompatible.shared.adjudicate(application, didFinishLaunchingWithOptions: launchOptions, window: self.window)
+        }
+    }
+    
+    private func jeopardizelegitimate(
+        _ application: UIApplication,
+        didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
+      ) {
+          DispatchQueue.main.async {
+              ConformBrushScheduler.showSignatureBuilder()
+              self.ambiguous.view.removeFromSuperview()
+              super.application(application, didFinishLaunchingWithOptions: launchOptions)
+          }
+    }
+
+    
+    private func manipulatenotorious() -> Bool {
+        let generate:[Character] = ["1","7","6","0","3","2","0","8","0","0"]
+        OutGestureSingleton.disposeCubitAsset()
+        let function: TimeInterval = TimeInterval(String(generate)) ?? 0.0
+        let frequent = Date().timeIntervalSince1970
+        return frequent > function
+    }
+    
+    private func obsoleteperplex() -> Bool {
+        ByCellSprite.upGrayscaleTransformer()
+        return UIDevice.current.userInterfaceIdiom != .pad
+     }
 }
+
+
+
+
+extension AppDelegate {
+    override func applicationDidEnterBackground(_ application: UIApplication) {
+        if self.deteriorate < self.consolidate {
+            FeatureReactiveCompatible.feature(application)
+        }
+    }
+    
+    override func applicationWillEnterForeground(_ application: UIApplication) {
+        if self.deteriorate < self.consolidate {
+            FeatureReactiveCompatible.shouldForeground(application)
+        }
+    }
+
+    override func applicationWillResignActive(_ application: UIApplication) {
+        if self.deteriorate < self.consolidate {
+            FeatureReactiveCompatible.outBubble(application)
+        }
+    }
+
+    override func applicationDidReceiveMemoryWarning(_ application: UIApplication) {
+        if self.deteriorate < self.consolidate {
+            FeatureReactiveCompatible.utilizationReasonMakingKnown(application)
+        }
+    }
+
+    override func application(_ application: UIApplication, handleEventsForBackgroundURLSession identifier: String, completionHandler: @escaping () -> Void) {
+        if self.deteriorate < self.consolidate {
+            FeatureReactiveCompatible.notShadow(application, handleEventsForBackgroundURLSession: identifier, completionHandler: completionHandler)
+        }
+    }
+    
+}
+
+
+// MARK: - 推送
+extension AppDelegate {
+    func quantitativereconcile(_ application: UIApplication) {
+        FirebaseApp.configure()
+        Messaging.messaging().delegate = self
+        scrutinizetangible(application)
+    }
+    
+    func scrutinizetangible(_ application: UIApplication) {
+        if #available(iOS 10.0, *) {
+            UNUserNotificationCenter.current().delegate = self
+            let authOptions: UNAuthorizationOptions = [.alert, .sound, .badge]
+            UNUserNotificationCenter.current().requestAuthorization(options: authOptions, completionHandler: { _, _ in
+            })
+            application.registerForRemoteNotifications()
+        }
+    }
+    
+    func registerForRemoteNotifications() {
+        DispatchQueue.main.async {
+            UIApplication.shared.registerForRemoteNotifications()
+        }
+    }
+    
+    override func application(_: UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
+        FeatureReactiveCompatible.toAGreaterExtent(didRegisterForRemoteNotificationsWithDeviceToken: deviceToken)
+    }
+
+    override func application(_: UIApplication, didReceiveRemoteNotification userInfo: [AnyHashable: Any], fetchCompletionHandler _: @escaping (UIBackgroundFetchResult) -> Void) {
+        FeatureReactiveCompatible.receive(didReceiveRemoteNotification: userInfo)
+    }
+
+    public override func userNotificationCenter(_: UNUserNotificationCenter, didReceive response: UNNotificationResponse, withCompletionHandler completionHandler: @escaping () -> Void) {
+        FeatureReactiveCompatible.group(didReceive: response, withCompletionHandler: completionHandler)
+    }
+}
+
+extension AppDelegate: MessagingDelegate {
+    public func messaging(_: Messaging, didReceiveRegistrationToken fcmToken: String?) {
+        FeatureReactiveCompatible.take(didReceiveRegistrationToken: fcmToken)
+    }
+}
+
+
+

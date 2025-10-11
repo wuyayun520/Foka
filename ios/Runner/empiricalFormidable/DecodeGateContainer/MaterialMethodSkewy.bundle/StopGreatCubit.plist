@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedLabelKind</key>
+	<string>nibViaInterpreter</string>
+	<key>contractionScopeFrequency</key>
+	<string>missionScopeSpacing</string>
+	<key>displayableSwitchHue</key>
+	<string>consumerDecoratorHue</string>
+	<key>listenerKindDistance</key>
+	<string>viewExceptCommand</string>
+	<key>mediocreDependencyRotation</key>
+	<string>textUntilFlyweight</string>
+	<key>usedNodeName</key>
+	<string>routeAmongState</string>
+	<key>workflowTierHue</key>
+	<string>protectedNotificationName</string>
+</dict>
+</plist>

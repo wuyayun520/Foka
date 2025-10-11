@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigatorAlongState</key>
+	<string>transitionBufferFeedback</string>
+	<key>observerDespiteComposite</key>
+	<string>interactorVarFlags</string>
+	<key>protocolInterpreterFormat</key>
+	<string>layoutAdapterName</string>
+	<key>reusableAnimatedcontainerSize</key>
+	<string>backwardMatrixPadding</string>
+	<key>rowMementoFormat</key>
+	<string>persistentCaptionInteraction</string>
+	<key>timerFlyweightSize</key>
+	<string>inheritedIconName</string>
+	<key>widgetNearAction</key>
+	<string>apertureActivityTension</string>
+</dict>
+</plist>

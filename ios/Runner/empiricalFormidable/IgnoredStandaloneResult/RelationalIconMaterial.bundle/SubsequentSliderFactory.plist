@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableDelegateDensity</key>
+	<string>arithmeticConfigurationOrigin</string>
+	<key>lossBufferBorder</key>
+	<string>builderAroundLayer</string>
+	<key>permissiveActivityRate</key>
+	<string>disabledResponseInterval</string>
+	<key>repositoryCommandPadding</key>
+	<string>denseRouteRate</string>
+	<key>sliderInWork</key>
+	<string>statefulAdapterPadding</string>
+	<key>standaloneCertificateType</key>
+	<string>primaryAwaitOrigin</string>
+	<key>textfieldCompositeAlignment</key>
+	<string>factoryOrTier</string>
+</dict>
+</plist>

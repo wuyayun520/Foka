@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionVarVelocity</key>
+	<string>dependencyDecoratorDuration</string>
+	<key>completerLikeDecorator</key>
+	<string>musicShapeScale</string>
+	<key>histogramObserverInteraction</key>
+	<string>routeOfParam</string>
+	<key>layerTaskAppearance</key>
+	<string>mediumSceneOrigin</string>
+	<key>providerStructureValidation</key>
+	<string>paddingInsideJob</string>
+	<key>serviceVersusAction</key>
+	<string>singletonCycleInteraction</string>
+	<key>standaloneEffectRotation</key>
+	<string>unaryPhaseSkewy</string>
+	<key>statelessAlignmentOpacity</key>
+	<string>durationForSingleton</string>
+	<key>tweenPrototypeLeft</key>
+	<string>dropdownbuttonForFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationKindTint</key>
+	<string>sceneWorkContrast</string>
+	<key>cubeStructureSpeed</key>
+	<string>awaitAmongTask</string>
+	<key>imperativeCommandAlignment</key>
+	<string>providerStateBrightness</string>
+	<key>mobileAnimationContrast</key>
+	<string>observerBufferBorder</string>
+	<key>referenceFacadeDuration</key>
+	<string>injectionInFramework</string>
+	<key>sceneFormHue</key>
+	<string>containerInterpreterVisibility</string>
+</dict>
+</plist>

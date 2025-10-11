@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderScopeVelocity</key>
+	<string>grainTierVisibility</string>
+	<key>cycleSinceScope</key>
+	<string>eagerCycleOrigin</string>
+	<key>deferredGridCenter</key>
+	<string>immediateAlignmentEdge</string>
+	<key>progressbarLevelStatus</key>
+	<string>positionPrototypeBorder</string>
+</dict>
+</plist>

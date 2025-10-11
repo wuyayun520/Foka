@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSampleInset</key>
+	<string>momentumShapeScale</string>
+	<key>descriptorInterpreterTag</key>
+	<string>associatedSizedboxVisibility</string>
+	<key>drawerParamLocation</key>
+	<string>sceneStyleTransparency</string>
+	<key>intensityNearSingleton</key>
+	<string>previewDespiteInterpreter</string>
+	<key>scaleViaInterpreter</key>
+	<string>durationStageDensity</string>
+</dict>
+</plist>

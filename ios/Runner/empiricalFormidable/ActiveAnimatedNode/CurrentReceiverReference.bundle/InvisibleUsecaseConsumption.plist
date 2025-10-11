@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectContainLevel</key>
+	<string>euclideanPageviewTop</string>
+	<key>curvePerStrategy</key>
+	<string>similarConvolutionLeft</string>
+	<key>curveStrategyDirection</key>
+	<string>imperativeBehaviorLeft</string>
+	<key>customizedCallbackOrientation</key>
+	<string>navigatorThroughCycle</string>
+	<key>retainedExceptionBorder</key>
+	<string>channelSystemScale</string>
+	<key>specifyQueueKind</key>
+	<string>widgetThroughMode</string>
+	<key>tickerOfFunction</key>
+	<string>intuitiveLossBottom</string>
+	<key>tweenBufferEdge</key>
+	<string>navigatorAboutCommand</string>
+</dict>
+</plist>

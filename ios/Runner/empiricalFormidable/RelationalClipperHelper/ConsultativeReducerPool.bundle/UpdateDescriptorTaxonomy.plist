@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerChainStyle</key>
+	<string>layoutInsideFacade</string>
+	<key>descriptorVisitorEdge</key>
+	<string>nodeAdapterForce</string>
+	<key>mobxPlatformStatus</key>
+	<string>lazyInterpolationDepth</string>
+	<key>repositoryAdapterRotation</key>
+	<string>prismaticPetIndex</string>
+</dict>
+</plist>

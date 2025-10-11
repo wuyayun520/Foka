@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarOutsideEnvironment</key>
+	<string>touchInsideScope</string>
+	<key>asyncBeyondBridge</key>
+	<string>explicitSensorSkewx</string>
+	<key>asyncTaskPosition</key>
+	<string>reductionExceptPlatform</string>
+	<key>chapterViaEnvironment</key>
+	<string>resizableGraphFormat</string>
+	<key>commandParamForce</key>
+	<string>curveVisitorScale</string>
+	<key>configurationDecoratorBound</key>
+	<string>configurationStrategyTheme</string>
+	<key>flexFunctionSpacing</key>
+	<string>resolverAboutVar</string>
+	<key>subpixelActionBehavior</key>
+	<string>requiredScaleAppearance</string>
+</dict>
+</plist>

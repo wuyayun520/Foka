@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVersusAction</key>
+	<string>layerWorkInteraction</string>
+	<key>batchViaWork</key>
+	<string>greatPopupCenter</string>
+	<key>easySkinCenter</key>
+	<string>currentHandlerRight</string>
+	<key>listviewCommandStatus</key>
+	<string>logInComposite</string>
+	<key>materialRouterHue</key>
+	<string>radiusPlatformForce</string>
+	<key>storageInterpreterBehavior</key>
+	<string>controllerAroundChain</string>
+	<key>uniformPetName</key>
+	<string>storyboardFromMode</string>
+</dict>
+</plist>

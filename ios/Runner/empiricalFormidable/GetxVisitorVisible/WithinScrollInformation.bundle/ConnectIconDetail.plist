@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationCompositeFlags</key>
+	<string>statelessCycleTheme</string>
+	<key>equalizationOfLevel</key>
+	<string>completionFromForm</string>
+	<key>flexCommandDistance</key>
+	<string>navigationActivityColor</string>
+	<key>fragmentBesideBuffer</key>
+	<string>metadataLevelSkewx</string>
+	<key>musicCommandCoord</key>
+	<string>menuTaskRate</string>
+</dict>
+</plist>

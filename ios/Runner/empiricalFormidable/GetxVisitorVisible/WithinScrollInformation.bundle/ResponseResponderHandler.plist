@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionByObserver</key>
+	<string>draggableSineCoord</string>
+	<key>borderIncludeCycle</key>
+	<string>inkwellMementoFlags</string>
+	<key>characterForContext</key>
+	<string>axisStageCenter</string>
+	<key>descriptionPrototypeVelocity</key>
+	<string>commandWithoutProcess</string>
+	<key>nextDurationMargin</key>
+	<string>relationalConfigurationBound</string>
+	<key>optionMethodSpacing</key>
+	<string>priorityForStrategy</string>
+	<key>promiseByComposite</key>
+	<string>mediaActivityVisibility</string>
+	<key>sizedboxOutsidePrototype</key>
+	<string>uniqueResponseAlignment</string>
+	<key>smartControllerDirection</key>
+	<string>advancedBaselineScale</string>
+	<key>tensorSliderAlignment</key>
+	<string>crudeBufferRight</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerWithFunction</key>
+	<string>buttonTaskFlags</string>
+	<key>futureStructurePosition</key>
+	<string>alphaAlongTier</string>
+	<key>hardDecorationBorder</key>
+	<string>baselineModePressure</string>
+	<key>immutableEventVelocity</key>
+	<string>smallSpriteDepth</string>
+	<key>parallelExceptionScale</key>
+	<string>standaloneStoreDuration</string>
+	<key>singlePreviewDepth</key>
+	<string>integerThroughSingleton</string>
+	<key>sizeAsAction</key>
+	<string>nodeInterpreterFrequency</string>
+	<key>textureVarTop</key>
+	<string>immutableMusicSpeed</string>
+</dict>
+</plist>

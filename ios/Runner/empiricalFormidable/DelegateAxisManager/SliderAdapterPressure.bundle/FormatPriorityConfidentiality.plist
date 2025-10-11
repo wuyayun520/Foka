@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackChainFrequency</key>
+	<string>newestResourceFrequency</string>
+	<key>captionWorkBound</key>
+	<string>equalizationProxyHead</string>
+	<key>chapterNearFunction</key>
+	<string>presenterCommandBorder</string>
+	<key>explicitShaderPadding</key>
+	<string>titleCycleDistance</string>
+	<key>frameLayerBorder</key>
+	<string>cellDespiteSingleton</string>
+	<key>layoutLikeKind</key>
+	<string>dynamicCurveInterval</string>
+	<key>numericalMaterialValidation</key>
+	<string>segmentCommandStatus</string>
+	<key>precisionForOperation</key>
+	<string>relationalZoneBorder</string>
+	<key>themeAtStrategy</key>
+	<string>storageAtProcess</string>
+</dict>
+</plist>

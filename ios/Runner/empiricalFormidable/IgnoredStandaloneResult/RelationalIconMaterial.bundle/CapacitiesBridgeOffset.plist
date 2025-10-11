@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerBufferBehavior</key>
+	<string>labelBySingleton</string>
+	<key>customAnimationMode</key>
+	<string>lazyPlateVisible</string>
+	<key>geometricResourceSkewy</key>
+	<string>groupContextOrigin</string>
+	<key>nativeLabelDirection</key>
+	<string>tappableCallbackPressure</string>
+	<key>playbackPlatformStyle</key>
+	<string>baseTaskColor</string>
+	<key>positionedOrNumber</key>
+	<string>accessibleFactoryOffset</string>
+</dict>
+</plist>

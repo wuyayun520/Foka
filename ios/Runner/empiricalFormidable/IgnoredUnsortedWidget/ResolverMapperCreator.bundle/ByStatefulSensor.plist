@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintModeDepth</key>
+	<string>textureVarContrast</string>
+	<key>declarativeMethodFeedback</key>
+	<string>smallMarginVisibility</string>
+	<key>delegateThroughStrategy</key>
+	<string>blocInCycle</string>
+	<key>entropyModeContrast</key>
+	<string>constPointOpacity</string>
+	<key>listenerPrototypeAlignment</key>
+	<string>desktopPopupInteraction</string>
+	<key>prevPreviewTint</key>
+	<string>consultativeHandlerInteraction</string>
+	<key>rowExceptMemento</key>
+	<string>zoneWithState</string>
+</dict>
+</plist>

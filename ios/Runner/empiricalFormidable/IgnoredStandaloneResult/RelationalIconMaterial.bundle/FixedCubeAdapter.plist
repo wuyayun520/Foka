@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedContractionDirection</key>
+	<string>easyAnchorBehavior</string>
+	<key>dynamicOperationLocation</key>
+	<string>durationViaContext</string>
+	<key>lastExtensionVisible</key>
+	<string>titleAndMethod</string>
+	<key>memberFromPattern</key>
+	<string>requestStageFlags</string>
+	<key>presenterAmongKind</key>
+	<string>priorityInsidePhase</string>
+	<key>queryNumberRotation</key>
+	<string>relationalMissionSaturation</string>
+	<key>statelessResponseFormat</key>
+	<string>promiseAlongState</string>
+	<key>tangentPerPrototype</key>
+	<string>largeNavigatorAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerAmongScope</key>
+	<string>coordinatorNumberStyle</string>
+	<key>customConfigurationTheme</key>
+	<string>permissiveNavigationMargin</string>
+	<key>entityInterpreterPadding</key>
+	<string>managerValueCenter</string>
+	<key>gestureFacadeForce</key>
+	<string>blocOfFunction</string>
+	<key>graphOutsideFramework</key>
+	<string>transformerAdapterVisible</string>
+	<key>mobxAdapterEdge</key>
+	<string>largeSkinOpacity</string>
+	<key>prevViewKind</key>
+	<string>callbackContextLeft</string>
+</dict>
+</plist>

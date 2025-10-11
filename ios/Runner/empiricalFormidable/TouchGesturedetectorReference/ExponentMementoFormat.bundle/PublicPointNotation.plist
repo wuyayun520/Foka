@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisVariableCount</key>
+	<string>materialNavigatorBrightness</string>
+	<key>bitrateContainComposite</key>
+	<string>webPositionedDelay</string>
+	<key>draggableUsecaseDensity</key>
+	<string>animationParameterTransparency</string>
+	<key>gemActivityName</key>
+	<string>arithmeticActionResponse</string>
+	<key>mobxPatternInset</key>
+	<string>logLayerInterval</string>
+	<key>numericalTransformerOrientation</key>
+	<string>staticGridviewInset</string>
+	<key>protectedSpecifierEdge</key>
+	<string>stateForFlyweight</string>
+</dict>
+</plist>

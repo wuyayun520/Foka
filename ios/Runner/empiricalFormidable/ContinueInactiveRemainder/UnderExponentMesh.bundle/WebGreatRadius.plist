@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelMementoShade</key>
+	<string>brushPatternOffset</string>
+	<key>checkboxObserverShade</key>
+	<string>independentFrameAcceleration</string>
+	<key>coordinatorAdapterOpacity</key>
+	<string>multiTransitionState</string>
+	<key>drawerPatternFormat</key>
+	<string>operationExceptMethod</string>
+	<key>inkwellActionName</key>
+	<string>hardCatalystDensity</string>
+	<key>intensityWithoutMethod</key>
+	<string>subtleResolverDuration</string>
+	<key>materialCompletionTop</key>
+	<string>reducerKindFeedback</string>
+	<key>movementDuringOperation</key>
+	<string>baselineProcessBound</string>
+	<key>multiFragmentCoord</key>
+	<string>exceptionActivityState</string>
+	<key>rowInScope</key>
+	<string>granularServiceTint</string>
+</dict>
+</plist>

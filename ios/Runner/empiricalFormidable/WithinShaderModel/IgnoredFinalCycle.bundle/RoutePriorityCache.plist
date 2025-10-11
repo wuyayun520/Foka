@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticGridLocation</key>
+	<string>queuePerVisitor</string>
+	<key>hardCompleterTransparency</key>
+	<string>ignoredGrainBrightness</string>
+	<key>particleMediatorScale</key>
+	<string>decorationStrategyLeft</string>
+	<key>protocolValueMomentum</key>
+	<string>injectionVersusCommand</string>
+	<key>secondPlateMargin</key>
+	<string>subsequentResponseFlags</string>
+	<key>smallCoordinatorMargin</key>
+	<string>constSemanticsDuration</string>
+	<key>threadContextFlags</key>
+	<string>inactiveEffectMargin</string>
+	<key>transformerNumberDensity</key>
+	<string>themeLevelSaturation</string>
+</dict>
+</plist>

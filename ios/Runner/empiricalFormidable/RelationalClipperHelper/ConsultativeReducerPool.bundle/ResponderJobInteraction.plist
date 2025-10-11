@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAwayPattern</key>
+	<string>baseStateBound</string>
+	<key>chapterIncludeChain</key>
+	<string>callbackOfTask</string>
+	<key>handlerViaStructure</key>
+	<string>loopWithStrategy</string>
+	<key>modelThanFlyweight</key>
+	<string>explicitMatrixTransparency</string>
+	<key>precisionCompositeFormat</key>
+	<string>stepScopeRight</string>
+	<key>presenterParamShape</key>
+	<string>pinchableSpriteVelocity</string>
+	<key>sizeValueDuration</key>
+	<string>textureEnvironmentOpacity</string>
+	<key>transitionLevelInset</key>
+	<string>storeObserverEdge</string>
+</dict>
+</plist>

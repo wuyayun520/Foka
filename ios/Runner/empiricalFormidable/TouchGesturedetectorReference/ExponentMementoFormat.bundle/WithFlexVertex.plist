@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSizeName</key>
+	<string>heroPlatformRight</string>
+	<key>layoutPerWork</key>
+	<string>criticalResolverEdge</string>
+	<key>pointContextScale</key>
+	<string>chartVariableSkewy</string>
+	<key>scrollBufferDirection</key>
+	<string>equalizationBeyondStage</string>
+	<key>secondExtensionTension</key>
+	<string>layoutAlongSystem</string>
+	<key>topicOperationMode</key>
+	<string>compositionalContainerBottom</string>
+	<key>unsortedTaskResponse</key>
+	<string>asyncSinceObserver</string>
+	<key>workflowIncludeBridge</key>
+	<string>tabbarForMode</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedDescriptionTail</key>
+	<string>largeRectContrast</string>
+	<key>globalDependencyDelay</key>
+	<string>unsortedTextContrast</string>
+	<key>materialWithoutAction</key>
+	<string>singletonVarSkewy</string>
+	<key>primaryBoxshadowTint</key>
+	<string>composableActivityTheme</string>
+	<key>skirtAtStyle</key>
+	<string>lazyOptimizerResponse</string>
+	<key>spriteBufferAlignment</key>
+	<string>workflowFlyweightTension</string>
+	<key>storyboardIncludePrototype</key>
+	<string>queryKindAppearance</string>
+	<key>symbolMediatorBrightness</key>
+	<string>documentTaskMomentum</string>
+	<key>viewViaTask</key>
+	<string>grainFormVelocity</string>
+</dict>
+</plist>

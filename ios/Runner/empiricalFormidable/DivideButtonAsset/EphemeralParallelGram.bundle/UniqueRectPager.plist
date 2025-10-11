@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerMediatorSkewy</key>
+	<string>lossAroundFlyweight</string>
+	<key>documentUntilProcess</key>
+	<string>mediumActionVelocity</string>
+	<key>easyHeapVisible</key>
+	<string>tabbarChainOrigin</string>
+	<key>metadataTypeBrightness</key>
+	<string>channelsVarSaturation</string>
+	<key>mobileEnvironmentType</key>
+	<string>paddingParameterFlags</string>
+	<key>pageviewForBridge</key>
+	<string>callbackVariableOffset</string>
+	<key>resilientRectMargin</key>
+	<string>disabledPreviewBottom</string>
+	<key>semanticButtonAppearance</key>
+	<string>commonRowTop</string>
+	<key>sliderThroughStrategy</key>
+	<string>discardedRequestSize</string>
+</dict>
+</plist>

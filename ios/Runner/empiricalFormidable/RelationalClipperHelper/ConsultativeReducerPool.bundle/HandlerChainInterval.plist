@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inkwellContainProcess</key>
+	<string>normAgainstChain</string>
+	<key>remainderOperationHead</key>
+	<string>otherFragmentOffset</string>
+	<key>responsiveTextureInset</key>
+	<string>cartesianTouchTheme</string>
+	<key>singletonAndStage</key>
+	<string>cupertinoInjectionRotation</string>
+</dict>
+</plist>

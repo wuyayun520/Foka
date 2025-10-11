@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedResultStyle</key>
+	<string>nativeScrollStatus</string>
+	<key>baselineNumberCount</key>
+	<string>viewKindBrightness</string>
+	<key>discardedProjectInteraction</key>
+	<string>criticalSpriteVisibility</string>
+	<key>gramPerNumber</key>
+	<string>cupertinoContextColor</string>
+	<key>intensityContextBottom</key>
+	<string>modulusMediatorEdge</string>
+	<key>interactorActionState</key>
+	<string>radiusLikeValue</string>
+	<key>layerChainStatus</key>
+	<string>graphPerStrategy</string>
+	<key>sizeMediatorStatus</key>
+	<string>crucialOffsetTag</string>
+	<key>viewVersusEnvironment</key>
+	<string>synchronousCapsuleKind</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartActivityVelocity</key>
+	<string>requestBeyondActivity</string>
+	<key>consumerAndInterpreter</key>
+	<string>tickerTierFrequency</string>
+	<key>disparateSegueSize</key>
+	<string>currentCharacterDuration</string>
+	<key>invisibleChartOpacity</key>
+	<string>primaryAwaitOpacity</string>
+	<key>mediocreProgressbarFlags</key>
+	<string>sceneCycleDistance</string>
+	<key>resourcePrototypeStatus</key>
+	<string>customManagerDensity</string>
+	<key>timerPatternFlags</key>
+	<string>associatedProviderStyle</string>
+</dict>
+</plist>

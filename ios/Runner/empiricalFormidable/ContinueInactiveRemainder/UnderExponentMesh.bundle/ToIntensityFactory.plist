@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperParameterMargin</key>
+	<string>constMenuInset</string>
+	<key>discardedDecorationDirection</key>
+	<string>mediaProxyValidation</string>
+	<key>gateOrMediator</key>
+	<string>inkwellStrategyPressure</string>
+	<key>graphTypePadding</key>
+	<string>anchorActivityIndex</string>
+	<key>observerInsideShape</key>
+	<string>memberModeAlignment</string>
+	<key>queueFlyweightRight</key>
+	<string>extensionVersusLevel</string>
+	<key>tickerShapeOffset</key>
+	<string>cycleNearAction</string>
+</dict>
+</plist>

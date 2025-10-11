@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintVisitorMode</key>
+	<string>coordinatorModeOrigin</string>
+	<key>decorationUntilPrototype</key>
+	<string>instructionInAdapter</string>
+	<key>eagerGridRotation</key>
+	<string>tweenBesidePattern</string>
+	<key>slashSingletonInterval</key>
+	<string>awaitBufferTag</string>
+	<key>topicDuringAdapter</key>
+	<string>normalRadioOpacity</string>
+</dict>
+</plist>

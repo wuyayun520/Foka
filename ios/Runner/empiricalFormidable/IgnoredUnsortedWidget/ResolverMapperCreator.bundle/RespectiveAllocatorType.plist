@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleHeroAlignment</key>
+	<string>beginnerTextfieldOrientation</string>
+	<key>boxshadowPerTier</key>
+	<string>adaptiveReductionTint</string>
+	<key>positionForSingleton</key>
+	<string>callbackPerFunction</string>
+	<key>singleAppbarResponse</key>
+	<string>channelEnvironmentValidation</string>
+</dict>
+</plist>

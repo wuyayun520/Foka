@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousStoreBehavior</key>
+	<string>rowAgainstPlatform</string>
+	<key>euclideanZoneTension</key>
+	<string>invisibleTransformerDelay</string>
+	<key>fragmentBeyondWork</key>
+	<string>secondLayerTension</string>
+	<key>gemStylePressure</key>
+	<string>integerOrVisitor</string>
+	<key>grainContextDuration</key>
+	<string>lastContainerTransparency</string>
+	<key>ignoredBitrateBehavior</key>
+	<string>hashPhaseFormat</string>
+	<key>intuitiveBitrateTail</key>
+	<string>listenerAroundChain</string>
+	<key>layerAdapterScale</key>
+	<string>tangentStrategyKind</string>
+	<key>otherSubpixelLocation</key>
+	<string>heapBeyondLevel</string>
+	<key>queueUntilAction</key>
+	<string>disabledAssetSize</string>
+</dict>
+</plist>

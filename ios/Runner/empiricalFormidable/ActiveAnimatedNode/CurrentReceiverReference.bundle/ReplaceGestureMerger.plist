@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardInsideObserver</key>
+	<string>hierarchicalSliderSaturation</string>
+	<key>cartesianButtonStyle</key>
+	<string>crudeAxisSaturation</string>
+	<key>cosinePatternIndex</key>
+	<string>cycleSingletonInterval</string>
+	<key>decorationAndDecorator</key>
+	<string>progressbarContainCycle</string>
+	<key>injectionTempleOrientation</key>
+	<string>scrollableRequestEdge</string>
+	<key>semanticBlocEdge</key>
+	<string>rectWithoutLevel</string>
+	<key>spineValueInterval</key>
+	<string>normProcessTint</string>
+	<key>tweenWithoutStage</key>
+	<string>sceneAgainstVariable</string>
+	<key>utilStructureFlags</key>
+	<string>handlerFrameworkVelocity</string>
+</dict>
+</plist>

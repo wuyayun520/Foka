@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStructureBound</key>
+	<string>constEntropyPadding</string>
+	<key>heapAtContext</key>
+	<string>viewStylePadding</string>
+	<key>interactiveAnimationFrequency</key>
+	<string>awaitEnvironmentAcceleration</string>
+	<key>localizationStateFlags</key>
+	<string>compositionalNotifierBorder</string>
+	<key>rectProxyVelocity</key>
+	<string>constraintPhaseCount</string>
+	<key>unsortedMusicInteraction</key>
+	<string>responseAboutAction</string>
+</dict>
+</plist>

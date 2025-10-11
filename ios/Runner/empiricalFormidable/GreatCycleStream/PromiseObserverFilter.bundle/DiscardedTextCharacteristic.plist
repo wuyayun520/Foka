@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentDocumentVisible</key>
+	<string>accordionConstraintStyle</string>
+	<key>newestColumnInteraction</key>
+	<string>nativeBorderDelay</string>
+	<key>nodeProxyLocation</key>
+	<string>intuitiveSceneColor</string>
+	<key>offsetProxyStyle</key>
+	<string>mobxPhaseType</string>
+	<key>protectedPromiseBrightness</key>
+	<string>methodDuringPhase</string>
+	<key>radiusPerStrategy</key>
+	<string>unaryIncludeCycle</string>
+	<key>reducerAwayWork</key>
+	<string>boxshadowOperationVisibility</string>
+	<key>repositoryStructureOrientation</key>
+	<string>observerLevelMode</string>
+	<key>unaryDespiteContext</key>
+	<string>commandLevelRate</string>
+</dict>
+</plist>

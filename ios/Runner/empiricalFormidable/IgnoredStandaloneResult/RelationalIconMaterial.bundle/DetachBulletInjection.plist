@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentIndicatorSkewx</key>
+	<string>descriptionTierInset</string>
+	<key>gridviewOrStrategy</key>
+	<string>cellAtAdapter</string>
+	<key>nativeTopicDensity</key>
+	<string>optimizerAsSingleton</string>
+	<key>offsetActionType</key>
+	<string>exceptionAgainstJob</string>
+	<key>singletonStyleTheme</key>
+	<string>bufferFormOrigin</string>
+	<key>tweenStateState</key>
+	<string>hierarchicalConsumerBehavior</string>
+</dict>
+</plist>

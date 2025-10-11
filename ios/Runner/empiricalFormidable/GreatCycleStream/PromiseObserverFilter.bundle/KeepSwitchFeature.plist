@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDescriptorMode</key>
+	<string>accessibleRadiusMode</string>
+	<key>buttonPatternCoord</key>
+	<string>mobileGridType</string>
+	<key>commandAtParam</key>
+	<string>monsterTypeValidation</string>
+	<key>finalProviderRight</key>
+	<string>stepCompositeVisible</string>
+	<key>listenerStageRotation</key>
+	<string>intensityAgainstParameter</string>
+	<key>nativeEqualizationContrast</key>
+	<string>webChartVisible</string>
+	<key>scaleSinceCommand</key>
+	<string>composableRectTension</string>
+	<key>textCommandForce</key>
+	<string>pivotalTouchSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGraphSpacing</key>
+	<string>drawerInTemple</string>
+	<key>certificateWorkDirection</key>
+	<string>draggableDescriptionContrast</string>
+	<key>customizedButtonHue</key>
+	<string>configurationChainOpacity</string>
+	<key>invisibleStoreBehavior</key>
+	<string>appbarPlatformFrequency</string>
+	<key>responsiveEffectSkewy</key>
+	<string>fixedAccessoryCount</string>
+	<key>robustStatelessFlags</key>
+	<string>seamlessCustompaintInteraction</string>
+	<key>usecaseModeScale</key>
+	<string>checkboxIncludeChain</string>
+	<key>utilAmongKind</key>
+	<string>titleTypeShape</string>
+	<key>viewPerParam</key>
+	<string>customStoreDirection</string>
+</dict>
+</plist>

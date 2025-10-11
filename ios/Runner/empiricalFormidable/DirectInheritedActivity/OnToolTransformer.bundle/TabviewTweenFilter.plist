@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBehaviorCoord</key>
+	<string>fusedControllerForce</string>
+	<key>customizedConfigurationInset</key>
+	<string>callbackAmongInterpreter</string>
+	<key>deferredSpriteOrigin</key>
+	<string>vectorMethodName</string>
+	<key>diversifiedFlexMode</key>
+	<string>explicitAnimationTint</string>
+	<key>missedDependencyBehavior</key>
+	<string>inheritedTabbarVisibility</string>
+	<key>paddingScopeFlags</key>
+	<string>gemOrContext</string>
+	<key>reactiveSampleInteraction</key>
+	<string>catalystFormPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTweenContrast</key>
+	<string>logKindPressure</string>
+	<key>inactiveControllerDelay</key>
+	<string>liteObserverResponse</string>
+	<key>mainSpecifierOrientation</key>
+	<string>opaqueCompositionDepth</string>
+	<key>normObserverShade</key>
+	<string>directlyShaderSaturation</string>
+	<key>requestLayerTransparency</key>
+	<string>protocolKindSaturation</string>
+	<key>stepLayerDepth</key>
+	<string>rectContextDelay</string>
+	<key>vectorInterpreterTheme</key>
+	<string>controllerBeyondComposite</string>
+	<key>workflowBridgeSpeed</key>
+	<string>streamMediatorColor</string>
+</dict>
+</plist>

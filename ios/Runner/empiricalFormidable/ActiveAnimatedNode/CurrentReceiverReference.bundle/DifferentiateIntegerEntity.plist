@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedTickerFormat</key>
+	<string>typicalNodeState</string>
+	<key>dependencyMediatorInterval</key>
+	<string>actionWithoutMode</string>
+	<key>displayableViewLeft</key>
+	<string>newestLocalizationOrigin</string>
+	<key>momentumNearFacade</key>
+	<string>buttonLayerAcceleration</string>
+	<key>musicAtTier</key>
+	<string>spriteOrLevel</string>
+	<key>promiseCycleMode</key>
+	<string>factoryBeyondState</string>
+	<key>providerAlongShape</key>
+	<string>inactiveBufferBrightness</string>
+	<key>touchWithoutCycle</key>
+	<string>prismaticAnchorVisibility</string>
+	<key>usedUsecaseTension</key>
+	<string>fixedTweenSize</string>
+</dict>
+</plist>

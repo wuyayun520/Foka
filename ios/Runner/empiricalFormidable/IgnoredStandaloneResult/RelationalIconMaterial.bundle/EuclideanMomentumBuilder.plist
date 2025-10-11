@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyPatternMode</key>
+	<string>collectionOfStyle</string>
+	<key>descriptorContainSingleton</key>
+	<string>touchVersusEnvironment</string>
+	<key>gateWithoutLevel</key>
+	<string>kernelViaAdapter</string>
+	<key>grainThanNumber</key>
+	<string>giftMementoVisibility</string>
+	<key>intensityAlongParameter</key>
+	<string>usageInterpreterVelocity</string>
+	<key>resourceParamFeedback</key>
+	<string>chapterBesideCycle</string>
+	<key>taskAtProxy</key>
+	<string>curveThanPhase</string>
+	<key>titleSingletonInteraction</key>
+	<string>mobileModeMode</string>
+	<key>unactivatedObserverVisible</key>
+	<string>asyncUtilSpeed</string>
+</dict>
+</plist>

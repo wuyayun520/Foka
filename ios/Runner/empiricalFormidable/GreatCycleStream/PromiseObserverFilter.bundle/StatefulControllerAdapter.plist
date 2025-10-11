@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasDespiteMethod</key>
+	<string>positionKindMode</string>
+	<key>cubitBeyondJob</key>
+	<string>baseParameterValidation</string>
+	<key>navigatorScopeSaturation</key>
+	<string>callbackViaEnvironment</string>
+	<key>paddingNumberDirection</key>
+	<string>factoryWithoutProxy</string>
+</dict>
+</plist>

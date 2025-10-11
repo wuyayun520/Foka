@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnNearStyle</key>
+	<string>consumerDespiteStrategy</string>
+	<key>gridviewPatternValidation</key>
+	<string>coordinatorIncludeStyle</string>
+	<key>respectiveMonsterStyle</key>
+	<string>cupertinoEqualizationAppearance</string>
+	<key>techniqueStageDirection</key>
+	<string>frameNumberTransparency</string>
+	<key>timerShapeMargin</key>
+	<string>cardAsVariable</string>
+	<key>widgetModeFeedback</key>
+	<string>rapidCheckboxPadding</string>
+</dict>
+</plist>

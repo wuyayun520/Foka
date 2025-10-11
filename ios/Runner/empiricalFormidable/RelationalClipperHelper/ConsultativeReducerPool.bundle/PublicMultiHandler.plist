@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellLevelOpacity</key>
+	<string>sustainableNotificationCenter</string>
+	<key>groupInsideComposite</key>
+	<string>navigationDuringInterpreter</string>
+	<key>matrixVersusBuffer</key>
+	<string>themeWithJob</string>
+	<key>nextInstructionIndex</key>
+	<string>switchWithoutParam</string>
+	<key>popupFormBrightness</key>
+	<string>originalThemeSpeed</string>
+	<key>stepBeyondMediator</key>
+	<string>observerByTier</string>
+	<key>streamPerStage</key>
+	<string>decorationInLevel</string>
+</dict>
+</plist>

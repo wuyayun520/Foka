@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectExceptFunction</key>
+	<string>entityInsideShape</string>
+	<key>symbolPlatformPressure</key>
+	<string>listviewLevelLeft</string>
+	<key>symbolUntilMode</key>
+	<string>requestValueAcceleration</string>
+	<key>widgetActionCoord</key>
+	<string>sequentialSpotStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateStrategyTransparency</key>
+	<string>callbackAndMethod</string>
+	<key>exceptionPrototypeValidation</key>
+	<string>draggableAwaitType</string>
+	<key>gradientTypeFeedback</key>
+	<string>paddingActionBrightness</string>
+	<key>reactiveContractionTension</key>
+	<string>vectorVersusPattern</string>
+	<key>respectiveBaselineSkewy</key>
+	<string>buttonPerFramework</string>
+	<key>sensorAtFlyweight</key>
+	<string>customScaffoldKind</string>
+	<key>sequentialArithmeticPressure</key>
+	<string>resolverNearSystem</string>
+	<key>serviceForSingleton</key>
+	<string>previewTaskName</string>
+	<key>storeChainMargin</key>
+	<string>sampleBufferCenter</string>
+</dict>
+</plist>

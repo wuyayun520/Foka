@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxViaMethod</key>
+	<string>asynchronousBatchSaturation</string>
+	<key>builderPerParameter</key>
+	<string>frameMethodInterval</string>
+	<key>characterActionInteraction</key>
+	<string>taskByMemento</string>
+	<key>lossParamSpacing</key>
+	<string>stepInsideVisitor</string>
+	<key>mobileHistogramRotation</key>
+	<string>firstSizedboxValidation</string>
+	<key>musicInChain</key>
+	<string>consumerAlongShape</string>
+	<key>observerOutsideTier</key>
+	<string>nativeCosineLeft</string>
+	<key>queueChainForce</key>
+	<string>largeTweenInterval</string>
+</dict>
+</plist>

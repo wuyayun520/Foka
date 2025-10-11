@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeMethodPressure</key>
+	<string>gridWithFacade</string>
+	<key>euclideanTransitionSize</key>
+	<string>screenExceptDecorator</string>
+	<key>grainFunctionResponse</key>
+	<string>catalystPhaseDelay</string>
+	<key>mediaqueryAmongLayer</key>
+	<string>interfaceIncludeDecorator</string>
+	<key>positionedLikeStructure</key>
+	<string>signatureExceptStrategy</string>
+	<key>semanticTransitionCount</key>
+	<string>transitionMethodIndex</string>
+</dict>
+</plist>

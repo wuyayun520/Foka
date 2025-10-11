@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousChartStyle</key>
+	<string>displayableDialogsCenter</string>
+	<key>binaryModeTag</key>
+	<string>scenePhaseKind</string>
+	<key>concreteTransitionTag</key>
+	<string>taskExceptCommand</string>
+	<key>keyPresenterFeedback</key>
+	<string>respectiveRouterBound</string>
+	<key>substantialFutureFlags</key>
+	<string>vectorIncludePhase</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonScrollDepth</key>
+	<string>autoPromiseAppearance</string>
+	<key>containerAsJob</key>
+	<string>mainConfigurationBound</string>
+	<key>functionalFutureMargin</key>
+	<string>adaptiveCanvasHue</string>
+	<key>mobxActivityMode</key>
+	<string>customizedAlphaFeedback</string>
+	<key>rectEnvironmentType</key>
+	<string>primaryGateSpacing</string>
+	<key>textureWithStrategy</key>
+	<string>themeAsLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellMediatorPadding</key>
+	<string>resizableTextAcceleration</string>
+	<key>checkboxIncludePhase</key>
+	<string>effectChainLocation</string>
+	<key>dependencyFlyweightIndex</key>
+	<string>delegateNearChain</string>
+	<key>draggableGroupFormat</key>
+	<string>decorationAwayType</string>
+	<key>requestAgainstOperation</key>
+	<string>actionViaFacade</string>
+</dict>
+</plist>

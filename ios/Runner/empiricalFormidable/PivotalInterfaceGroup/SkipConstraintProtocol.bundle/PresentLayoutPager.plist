@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredGestureAlignment</key>
+	<string>richtextScopeContrast</string>
+	<key>dropdownbuttonMediatorDepth</key>
+	<string>expandedIncludePattern</string>
+	<key>finalSessionHead</key>
+	<string>cupertinoDuringOperation</string>
+	<key>lazySegmentIndex</key>
+	<string>singlePriorityInteraction</string>
+	<key>navigatorMementoFrequency</key>
+	<string>transitionFacadeKind</string>
+	<key>synchronousViewRight</key>
+	<string>signAroundVar</string>
+	<key>tensorMaterialResponse</key>
+	<string>remainderInMemento</string>
+</dict>
+</plist>

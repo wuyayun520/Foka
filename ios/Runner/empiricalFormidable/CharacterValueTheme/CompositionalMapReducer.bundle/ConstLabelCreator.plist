@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTransitionSpeed</key>
+	<string>imageAgainstCommand</string>
+	<key>arithmeticTierEdge</key>
+	<string>behaviorChainSkewy</string>
+	<key>heroJobDuration</key>
+	<string>customizedSubpixelOpacity</string>
+	<key>mobileTypeTheme</key>
+	<string>draggableRouteBrightness</string>
+	<key>observerOrContext</key>
+	<string>streamTempleOrientation</string>
+	<key>publicSignResponse</key>
+	<string>mainPaddingInterval</string>
+	<key>sliderVariableSize</key>
+	<string>graphProcessInterval</string>
+</dict>
+</plist>

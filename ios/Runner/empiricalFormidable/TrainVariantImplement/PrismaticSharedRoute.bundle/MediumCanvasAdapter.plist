@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackStateFlags</key>
+	<string>unaryDuringTask</string>
+	<key>gradientFromJob</key>
+	<string>assetWorkStatus</string>
+	<key>interactiveActivityDistance</key>
+	<string>stampParamShade</string>
+	<key>lostDurationCoord</key>
+	<string>compositionalProgressbarCoord</string>
+	<key>rowWithoutMediator</key>
+	<string>sessionDuringMemento</string>
+	<key>transitionCycleKind</key>
+	<string>cubitSinceParameter</string>
+	<key>viewPhaseKind</key>
+	<string>providerAwayMediator</string>
+</dict>
+</plist>

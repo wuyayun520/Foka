@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperOutsideActivity</key>
+	<string>channelByWork</string>
+	<key>customizedAppbarVelocity</key>
+	<string>cubitOperationOrientation</string>
+	<key>movementStageScale</key>
+	<string>rowExceptJob</string>
+	<key>nextTextfieldOffset</key>
+	<string>injectionBeyondJob</string>
+	<key>usecaseStateSaturation</key>
+	<string>resultStyleTransparency</string>
+	<key>usedDelegateInset</key>
+	<string>liteMobxHue</string>
+	<key>viewActionCoord</key>
+	<string>inactiveRouterTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleStructureAppearance</key>
+	<string>coordinatorByChain</string>
+	<key>gridviewIncludeFacade</key>
+	<string>cupertinoLikeProxy</string>
+	<key>hashBufferValidation</key>
+	<string>serviceThanVariable</string>
+	<key>textScopeFormat</key>
+	<string>resolverAboutForm</string>
+</dict>
+</plist>

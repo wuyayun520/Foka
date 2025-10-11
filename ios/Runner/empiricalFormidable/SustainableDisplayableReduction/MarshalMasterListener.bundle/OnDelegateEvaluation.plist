@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveActionOrientation</key>
+	<string>titleInBuffer</string>
+	<key>customTopicResponse</key>
+	<string>batchSincePhase</string>
+	<key>pageviewByAction</key>
+	<string>basicBlocFeedback</string>
+	<key>priorityActionFeedback</key>
+	<string>delicateEntityMargin</string>
+	<key>richtextContainPrototype</key>
+	<string>textWorkOpacity</string>
+	<key>subscriptionThanMode</key>
+	<string>durationObserverFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetActionFlags</key>
+	<string>challengeAsPhase</string>
+	<key>cardValueTint</key>
+	<string>channelsPrototypeOpacity</string>
+	<key>granularNodeColor</key>
+	<string>materialInPlatform</string>
+	<key>positionedInsidePlatform</key>
+	<string>staticDecorationSpacing</string>
+	<key>tickerOperationInteraction</key>
+	<string>queryProcessTop</string>
+</dict>
+</plist>

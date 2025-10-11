@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerVisitorMargin</key>
+	<string>sustainableRowFlags</string>
+	<key>frameUntilPlatform</key>
+	<string>lazyStateSaturation</string>
+	<key>statefulQueueRotation</key>
+	<string>scrollableCycleResponse</string>
+	<key>tweenInParameter</key>
+	<string>utilSingletonTop</string>
+</dict>
+</plist>

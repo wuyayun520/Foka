@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowValueBehavior</key>
+	<string>largeCustompaintMode</string>
+	<key>columnCommandState</key>
+	<string>tappableCommandTint</string>
+	<key>giftPrototypeTop</key>
+	<string>prismaticCallbackStyle</string>
+	<key>immutableBatchSkewx</key>
+	<string>skinForProxy</string>
+	<key>matrixAgainstActivity</key>
+	<string>themeAmongLayer</string>
+	<key>notificationNearVariable</key>
+	<string>loopContextName</string>
+	<key>prioritySingletonAppearance</key>
+	<string>cupertinoConstraintPadding</string>
+	<key>repositoryCompositeBrightness</key>
+	<string>previewContainLevel</string>
+	<key>sampleUntilEnvironment</key>
+	<string>collectionValueRate</string>
+</dict>
+</plist>

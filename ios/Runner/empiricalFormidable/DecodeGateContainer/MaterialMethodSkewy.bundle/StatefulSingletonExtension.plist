@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeDependencySkewy</key>
+	<string>themeAgainstAdapter</string>
+	<key>injectionDespiteParam</key>
+	<string>oldStoreTint</string>
+	<key>nibStageMode</key>
+	<string>descriptorPrototypeIndex</string>
+	<key>repositoryActivityTail</key>
+	<string>numericalCapacitiesFeedback</string>
+	<key>resourceStyleFeedback</key>
+	<string>mobxByStrategy</string>
+	<key>rowBufferDistance</key>
+	<string>routeBufferBound</string>
+	<key>seamlessResponseBehavior</key>
+	<string>mediocreBlocFrequency</string>
+	<key>spriteThroughAction</key>
+	<string>entityAsFacade</string>
+	<key>symmetricHashSaturation</key>
+	<string>gramAsPhase</string>
+</dict>
+</plist>

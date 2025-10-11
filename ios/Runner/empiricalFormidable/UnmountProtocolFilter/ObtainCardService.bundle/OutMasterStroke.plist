@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionZoneRotation</key>
+	<string>groupWithTask</string>
+	<key>gradientProxyInset</key>
+	<string>intermediateInterfacePadding</string>
+	<key>semanticsForSystem</key>
+	<string>uniqueDependencyShape</string>
+	<key>significantMovementOpacity</key>
+	<string>navigatorSystemSkewy</string>
+	<key>sortedGroupBehavior</key>
+	<string>multiGateBottom</string>
+	<key>streamAwayProxy</key>
+	<string>requiredCallbackBehavior</string>
+	<key>textureByComposite</key>
+	<string>elasticAssetTheme</string>
+	<key>transitionBufferMargin</key>
+	<string>cartesianCatalystValidation</string>
+</dict>
+</plist>

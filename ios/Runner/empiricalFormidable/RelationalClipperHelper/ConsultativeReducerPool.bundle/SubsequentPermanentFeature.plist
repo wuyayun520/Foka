@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectDuringComposite</key>
+	<string>pinchableOperationValidation</string>
+	<key>exponentStrategyOffset</key>
+	<string>animationLikeObserver</string>
+	<key>greatSlashTail</key>
+	<string>integerDespiteType</string>
+	<key>pageviewPerDecorator</key>
+	<string>commandWithoutOperation</string>
+	<key>positionViaFlyweight</key>
+	<string>visibleSemanticsTheme</string>
+	<key>previewIncludePrototype</key>
+	<string>awaitFlyweightBehavior</string>
+	<key>projectionVariableInteraction</key>
+	<string>reductionFunctionOffset</string>
+	<key>seamlessSubscriptionColor</key>
+	<string>cupertinoIncludeVisitor</string>
+</dict>
+</plist>

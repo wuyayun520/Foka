@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioInBridge</key>
+	<string>containerContextDuration</string>
+	<key>asyncInActivity</key>
+	<string>sensorThroughAdapter</string>
+	<key>effectKindState</key>
+	<string>allocatorAdapterCoord</string>
+	<key>gesturedetectorDuringAction</key>
+	<string>particleAtShape</string>
+	<key>labelFrameworkInset</key>
+	<string>constStateResponse</string>
+	<key>requiredGateAlignment</key>
+	<string>adaptiveBinarySpeed</string>
+	<key>synchronousCatalystBrightness</key>
+	<string>flexibleCompleterDirection</string>
+</dict>
+</plist>

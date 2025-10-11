@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionStageCount</key>
+	<string>nodeActionColor</string>
+	<key>easyButtonInset</key>
+	<string>firstTitleVisible</string>
+	<key>eventBesideTask</key>
+	<string>fixedOffsetShade</string>
+	<key>lostContainerBorder</key>
+	<string>fixedSlashDistance</string>
+	<key>routeOutsideProcess</key>
+	<string>intuitiveCellInset</string>
+</dict>
+</plist>

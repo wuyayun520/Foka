@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorChainInteraction</key>
+	<string>numericalRectSpeed</string>
+	<key>binaryAndBridge</key>
+	<string>accordionAllocatorFrequency</string>
+	<key>exceptionMementoBehavior</key>
+	<string>easyFramePressure</string>
+	<key>singleExpandedMode</key>
+	<string>movementBufferIndex</string>
+	<key>tangentPrototypeDuration</key>
+	<string>chapterAroundMode</string>
+</dict>
+</plist>

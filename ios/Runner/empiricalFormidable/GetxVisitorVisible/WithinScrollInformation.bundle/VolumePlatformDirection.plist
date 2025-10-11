@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTextTheme</key>
+	<string>futureAwayAction</string>
+	<key>boxAboutVar</key>
+	<string>constraintTaskAppearance</string>
+	<key>extensionFlyweightType</key>
+	<string>chartInterpreterCenter</string>
+	<key>inactiveGradientBound</key>
+	<string>tabbarShapeTop</string>
+	<key>widgetLayerInset</key>
+	<string>imperativeAllocatorFeedback</string>
+</dict>
+</plist>

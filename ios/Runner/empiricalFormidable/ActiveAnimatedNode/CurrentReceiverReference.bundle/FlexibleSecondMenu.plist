@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemModeState</key>
+	<string>animationUntilMode</string>
+	<key>hashWorkFeedback</key>
+	<string>greatOverlayVisible</string>
+	<key>interactorChainIndex</key>
+	<string>positionedPatternCenter</string>
+	<key>interactorUntilShape</key>
+	<string>prevCubitDistance</string>
+	<key>intuitiveTableVisible</key>
+	<string>effectStrategyShade</string>
+	<key>singleCaptionTransparency</key>
+	<string>interfaceProcessType</string>
+	<key>stateFromSystem</key>
+	<string>directlyResourceCoord</string>
+	<key>usageBeyondStyle</key>
+	<string>discardedToolFormat</string>
+</dict>
+</plist>

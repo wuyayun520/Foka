@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBeyondStrategy</key>
+	<string>similarAlphaState</string>
+	<key>buttonLikePattern</key>
+	<string>commandTierVelocity</string>
+	<key>dialogsVariableRight</key>
+	<string>intuitiveDescriptionCount</string>
+	<key>directlyDocumentDelay</key>
+	<string>movementWithoutShape</string>
+	<key>displayableAsyncSpacing</key>
+	<string>logarithmExceptKind</string>
+	<key>effectProcessAcceleration</key>
+	<string>menuLikeObserver</string>
+	<key>progressbarAlongContext</key>
+	<string>storeAroundWork</string>
+	<key>specifySliderDirection</key>
+	<string>priorEffectVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>persistentStoryboardTheme</key>
+	<string>independentTextValidation</string>
+	<key>positionCommandVisibility</key>
+	<string>transformerAgainstScope</string>
+	<key>positionDuringOperation</key>
+	<string>functionalBulletRate</string>
+	<key>referenceAroundParam</key>
+	<string>radiusMementoForce</string>
+	<key>spriteProcessBound</key>
+	<string>unaryNumberTint</string>
+	<key>storeFrameworkBehavior</key>
+	<string>binaryForVar</string>
+	<key>tabviewValueOpacity</key>
+	<string>sizeOutsideForm</string>
+	<key>textDespiteComposite</key>
+	<string>heroByState</string>
+	<key>webIconState</key>
+	<string>largeDialogsHue</string>
+</dict>
+</plist>

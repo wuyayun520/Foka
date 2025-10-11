@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorBufferMargin</key>
+	<string>custompaintSystemBottom</string>
+	<key>displayableSampleShape</key>
+	<string>iconBeyondBuffer</string>
+	<key>draggableManagerOpacity</key>
+	<string>resourceContainObserver</string>
+	<key>expandedAboutMemento</key>
+	<string>observerObserverDistance</string>
+	<key>mobileApertureInteraction</key>
+	<string>delegateStructureMargin</string>
+	<key>requestJobKind</key>
+	<string>viewBesideSingleton</string>
+</dict>
+</plist>

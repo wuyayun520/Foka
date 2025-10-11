@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerExceptWork</key>
+	<string>accordionRemainderTension</string>
+	<key>draggableRouteAlignment</key>
+	<string>tableMementoAcceleration</string>
+	<key>inheritedErrorName</key>
+	<string>stepScopeAlignment</string>
+	<key>listenerScopeBehavior</key>
+	<string>iconOrFlyweight</string>
+	<key>masterWithScope</key>
+	<string>particleSingletonHead</string>
+	<key>modelOutsidePrototype</key>
+	<string>queueParamDuration</string>
+	<key>previewScopeDistance</key>
+	<string>requestLevelTransparency</string>
+	<key>providerContextState</key>
+	<string>singletonDuringEnvironment</string>
+	<key>segmentFunctionVelocity</key>
+	<string>radiusCommandOrientation</string>
+	<key>sequentialHandlerDuration</key>
+	<string>reducerWithoutWork</string>
+</dict>
+</plist>

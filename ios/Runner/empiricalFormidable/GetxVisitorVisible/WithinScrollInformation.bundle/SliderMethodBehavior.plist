@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleOptimizerSpeed</key>
+	<string>groupAroundChain</string>
+	<key>lostGridKind</key>
+	<string>completionFacadeOrientation</string>
+	<key>metadataEnvironmentTheme</key>
+	<string>alertTypeVisibility</string>
+	<key>symbolBeyondCommand</key>
+	<string>dialogsStrategyTail</string>
+	<key>topicModeEdge</key>
+	<string>extensionBufferOffset</string>
+</dict>
+</plist>

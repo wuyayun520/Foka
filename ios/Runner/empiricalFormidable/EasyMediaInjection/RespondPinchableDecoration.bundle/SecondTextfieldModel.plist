@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferStyleFlags</key>
+	<string>responseAdapterDelay</string>
+	<key>characterProcessSpeed</key>
+	<string>touchPatternHead</string>
+	<key>diffableTweenVisibility</key>
+	<string>nodeOutsideActivity</string>
+	<key>gateOrContext</key>
+	<string>intermediateServiceTint</string>
+	<key>hardGraphSkewx</key>
+	<string>themeWithTask</string>
+	<key>mainIntensityColor</key>
+	<string>immutableCubeRate</string>
+	<key>semanticsStrategyColor</key>
+	<string>columnLevelOrientation</string>
+	<key>threadAdapterStyle</key>
+	<string>resultScopeContrast</string>
+	<key>vectorOrMode</key>
+	<string>shaderInsideWork</string>
+</dict>
+</plist>

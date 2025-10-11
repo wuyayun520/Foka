@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistWithoutComposite</key>
+	<string>appbarObserverTint</string>
+	<key>dropdownbuttonFrameworkTop</key>
+	<string>protectedSkirtRotation</string>
+	<key>inheritedCubitLocation</key>
+	<string>delegateActivityBound</string>
+	<key>radioViaState</key>
+	<string>tweenChainKind</string>
+	<key>statefulNumberFlags</key>
+	<string>basicFlexIndex</string>
+</dict>
+</plist>

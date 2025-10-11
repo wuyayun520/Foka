@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationAroundState</key>
+	<string>notificationBufferShade</string>
+	<key>resilientButtonRight</key>
+	<string>containerForActivity</string>
+	<key>scrollableCommandPadding</key>
+	<string>observerFormSkewx</string>
+	<key>stackDecoratorOffset</key>
+	<string>nextErrorIndex</string>
+	<key>subtleResultTag</key>
+	<string>localizationAroundVisitor</string>
+	<key>taskMediatorBottom</key>
+	<string>marginAndStage</string>
+	<key>variantBesideActivity</key>
+	<string>delegateCycleVelocity</string>
+</dict>
+</plist>

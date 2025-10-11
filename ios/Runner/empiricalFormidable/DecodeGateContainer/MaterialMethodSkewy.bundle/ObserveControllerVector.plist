@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineContextContrast</key>
+	<string>buttonAmongBuffer</string>
+	<key>customizedPlaybackBound</key>
+	<string>brushProxyVisible</string>
+	<key>durationInsideTask</key>
+	<string>globalObserverFrequency</string>
+	<key>listviewVariableOffset</key>
+	<string>cubitLikePlatform</string>
+	<key>metadataFromValue</key>
+	<string>missionModeStatus</string>
+	<key>prevCharacterDuration</key>
+	<string>apertureVersusMode</string>
+	<key>routeInActivity</key>
+	<string>asyncObserverState</string>
+	<key>webVectorContrast</key>
+	<string>immutableQueryValidation</string>
+</dict>
+</plist>

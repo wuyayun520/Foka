@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetVariableMode</key>
+	<string>builderByVariable</string>
+	<key>behaviorInStrategy</key>
+	<string>beginnerRouterLeft</string>
+	<key>dimensionPlatformTop</key>
+	<string>functionalOffsetTop</string>
+	<key>functionalQueryType</key>
+	<string>dependencyVarMode</string>
+	<key>momentumPerValue</key>
+	<string>mainFrameVelocity</string>
+	<key>progressbarActionBrightness</key>
+	<string>mobilePlatformValidation</string>
+	<key>riverpodOrPattern</key>
+	<string>configurationFormCenter</string>
+	<key>sortedStoryboardKind</key>
+	<string>assetLikeCycle</string>
+	<key>subscriptionWorkSpacing</key>
+	<string>sensorMediatorRight</string>
+</dict>
+</plist>

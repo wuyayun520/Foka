@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPhaseFormat</key>
+	<string>checklistOrStage</string>
+	<key>descriptorLikeDecorator</key>
+	<string>fragmentUntilActivity</string>
+	<key>gramCommandPosition</key>
+	<string>granularBuilderPressure</string>
+	<key>loopThroughComposite</key>
+	<string>metadataTempleMode</string>
+	<key>nativeSingletonOpacity</key>
+	<string>hierarchicalCosineDepth</string>
+	<key>protocolDecoratorKind</key>
+	<string>independentIsolateRight</string>
+	<key>reusableResolverFrequency</key>
+	<string>lossShapeEdge</string>
+	<key>skinObserverInset</key>
+	<string>effectBeyondFacade</string>
+	<key>storeJobHue</key>
+	<string>switchSystemDepth</string>
+</dict>
+</plist>

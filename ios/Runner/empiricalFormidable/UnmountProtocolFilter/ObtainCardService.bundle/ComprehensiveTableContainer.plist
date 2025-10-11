@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryInterpreterAcceleration</key>
+	<string>responsiveAxisTop</string>
+	<key>appbarCompositeTint</key>
+	<string>hashAsParam</string>
+	<key>baseNearActivity</key>
+	<string>navigatorVersusComposite</string>
+	<key>sinkPatternOffset</key>
+	<string>cycleEnvironmentPadding</string>
+	<key>sustainableOperationMargin</key>
+	<string>unactivatedGestureMomentum</string>
+	<key>topicVarLocation</key>
+	<string>resizableNibHue</string>
+</dict>
+</plist>

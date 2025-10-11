@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAgainstNumber</key>
+	<string>secondBlocInset</string>
+	<key>layoutAboutChain</key>
+	<string>fixedTickerCenter</string>
+	<key>referenceTypeKind</key>
+	<string>documentInterpreterSpeed</string>
+	<key>requiredReferenceRate</key>
+	<string>arithmeticDependencyIndex</string>
+	<key>routeWithStrategy</key>
+	<string>immutableTernaryOffset</string>
+	<key>specifyRouterTag</key>
+	<string>resizableLabelInterval</string>
+	<key>usecaseFormDelay</key>
+	<string>responseForObserver</string>
+</dict>
+</plist>

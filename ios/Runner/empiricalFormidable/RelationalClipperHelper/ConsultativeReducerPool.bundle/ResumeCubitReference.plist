@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorContainParameter</key>
+	<string>nibShapeSpacing</string>
+	<key>entropyViaEnvironment</key>
+	<string>animationThroughPlatform</string>
+	<key>extensionEnvironmentName</key>
+	<string>nextAlertFormat</string>
+	<key>radioJobIndex</key>
+	<string>priorNotificationDepth</string>
+</dict>
+</plist>

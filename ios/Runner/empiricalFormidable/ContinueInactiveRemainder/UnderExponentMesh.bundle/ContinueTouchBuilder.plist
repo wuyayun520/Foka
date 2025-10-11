@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFromSystem</key>
+	<string>logContextHead</string>
+	<key>extensionOutsideAction</key>
+	<string>directlyContainerOrigin</string>
+	<key>loopForStrategy</key>
+	<string>permissiveAwaitCenter</string>
+	<key>signSingletonFeedback</key>
+	<string>rectLikeMediator</string>
+	<key>smartCanvasVisible</key>
+	<string>unaryContextDensity</string>
+</dict>
+</plist>

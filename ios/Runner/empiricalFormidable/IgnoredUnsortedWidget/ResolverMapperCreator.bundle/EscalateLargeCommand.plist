@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitVersusChain</key>
+	<string>columnLikeStructure</string>
+	<key>entityAsStyle</key>
+	<string>profileProxyStyle</string>
+	<key>featureLayerVisibility</key>
+	<string>rapidAllocatorBound</string>
+	<key>modelContainMemento</key>
+	<string>iconSingletonRight</string>
+</dict>
+</plist>

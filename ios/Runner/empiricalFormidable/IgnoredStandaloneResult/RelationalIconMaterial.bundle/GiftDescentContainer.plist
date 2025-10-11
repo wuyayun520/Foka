@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandModeOffset</key>
+	<string>transitionOrPhase</string>
+	<key>deferredPlateMomentum</key>
+	<string>cupertinoCycleFrequency</string>
+	<key>dimensionContextAlignment</key>
+	<string>fixedResourceBottom</string>
+	<key>oldLayoutRate</key>
+	<string>functionalNavigatorCenter</string>
+	<key>textPhaseShade</key>
+	<string>callbackAndChain</string>
+</dict>
+</plist>

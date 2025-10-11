@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentChecklistInteraction</key>
+	<string>firstSubpixelInteraction</string>
+	<key>custompaintForBridge</key>
+	<string>sizedboxCommandTop</string>
+	<key>isolateOrDecorator</key>
+	<string>precisionSinceMemento</string>
+	<key>opaqueSliderAlignment</key>
+	<string>declarativeCallbackTint</string>
+	<key>permissiveInkwellCenter</key>
+	<string>touchTaskBound</string>
+	<key>requestShapeRate</key>
+	<string>prismaticIntensityResponse</string>
+	<key>widgetBesideType</key>
+	<string>respectiveAnimationName</string>
+</dict>
+</plist>

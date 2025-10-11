@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureLikeOperation</key>
+	<string>offsetPerStrategy</string>
+	<key>nodeParameterFormat</key>
+	<string>stepCommandMargin</string>
+	<key>signTaskDelay</key>
+	<string>sliderSinceCycle</string>
+	<key>tensorActivityBehavior</key>
+	<string>normContainObserver</string>
+</dict>
+</plist>

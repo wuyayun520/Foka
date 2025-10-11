@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPromiseTransparency</key>
+	<string>directlyProviderAcceleration</string>
+	<key>geometricTweenSkewy</key>
+	<string>webTaskBehavior</string>
+	<key>layoutTypeDepth</key>
+	<string>taskViaMethod</string>
+	<key>reusableTimerStatus</key>
+	<string>instructionBufferOpacity</string>
+	<key>swiftDespiteState</key>
+	<string>stepForStage</string>
+</dict>
+</plist>

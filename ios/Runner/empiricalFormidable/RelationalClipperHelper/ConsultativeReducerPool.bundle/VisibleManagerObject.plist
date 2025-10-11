@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentNearCycle</key>
+	<string>nodeAwayStyle</string>
+	<key>brushStructureInterval</key>
+	<string>multiBrushSpacing</string>
+	<key>dependencyInsideTier</key>
+	<string>getxVarInset</string>
+	<key>factoryAndCommand</key>
+	<string>logObserverRate</string>
+	<key>metadataWithMethod</key>
+	<string>currentOffsetSize</string>
+	<key>mutableViewFlags</key>
+	<string>convolutionTaskDistance</string>
+	<key>transitionBesidePattern</key>
+	<string>indicatorParameterFeedback</string>
+</dict>
+</plist>

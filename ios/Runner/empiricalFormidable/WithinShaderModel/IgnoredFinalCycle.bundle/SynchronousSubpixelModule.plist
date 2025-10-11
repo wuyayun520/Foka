@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCharacterSkewy</key>
+	<string>sinkViaObserver</string>
+	<key>chapterActionSkewx</key>
+	<string>storyboardDecoratorSkewx</string>
+	<key>constraintModeInteraction</key>
+	<string>statefulManagerDensity</string>
+	<key>criticalConfigurationVisibility</key>
+	<string>graphInsideOperation</string>
+	<key>draggableObserverBehavior</key>
+	<string>sortedBaseOffset</string>
+	<key>finalTaskBound</key>
+	<string>publicTabbarStatus</string>
+	<key>gridStrategyOrientation</key>
+	<string>documentValueLocation</string>
+	<key>smallSizedboxIndex</key>
+	<string>titlePatternKind</string>
+	<key>swiftBridgeDensity</key>
+	<string>modalStyleDelay</string>
+</dict>
+</plist>

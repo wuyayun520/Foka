@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerLikeActivity</key>
+	<string>routeVisitorTag</string>
+	<key>dedicatedCubeTransparency</key>
+	<string>gridAgainstSystem</string>
+	<key>dependencyStrategyDensity</key>
+	<string>listenerExceptMode</string>
+	<key>eventSingletonSpeed</key>
+	<string>integerFlyweightForce</string>
+	<key>expandedParamDepth</key>
+	<string>rectLikeKind</string>
+	<key>publicGrainFlags</key>
+	<string>providerScopeDepth</string>
+	<key>storeProcessDistance</key>
+	<string>sizeKindMode</string>
+	<key>storeValueShade</key>
+	<string>equipmentVarDepth</string>
+	<key>webCursorFeedback</key>
+	<string>keyFutureSaturation</string>
+</dict>
+</plist>

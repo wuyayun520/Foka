@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTickerPosition</key>
+	<string>spotSystemType</string>
+	<key>canvasSingletonIndex</key>
+	<string>smartAperturePadding</string>
+	<key>durationFormTransparency</key>
+	<string>finalScaffoldPadding</string>
+	<key>effectFunctionLocation</key>
+	<string>menuByTask</string>
+	<key>repositoryByFacade</key>
+	<string>layerNearAdapter</string>
+	<key>specifierLevelSkewy</key>
+	<string>ephemeralInterpolationBound</string>
+	<key>stateActionVelocity</key>
+	<string>graphAgainstKind</string>
+	<key>viewLikeMediator</key>
+	<string>navigatorMediatorPadding</string>
+</dict>
+</plist>

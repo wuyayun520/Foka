@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentScrollFrequency</key>
+	<string>scaleStructureScale</string>
+	<key>kernelMethodAlignment</key>
+	<string>hashFunctionAcceleration</string>
+	<key>nibInsideTask</key>
+	<string>lazyTabbarRight</string>
+	<key>observerFlyweightFeedback</key>
+	<string>assetBufferDepth</string>
+	<key>repositoryStyleAlignment</key>
+	<string>granularInterfaceShade</string>
+	<key>rowPhaseSpacing</key>
+	<string>switchViaVisitor</string>
+	<key>seamlessControllerHue</key>
+	<string>easyLabelPressure</string>
+	<key>sensorAwayStyle</key>
+	<string>directViewInset</string>
+	<key>tabviewContextColor</key>
+	<string>toolOfFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffablePopupDensity</key>
+	<string>statelessKindAppearance</string>
+	<key>dynamicInterpolationRate</key>
+	<string>tweenAsProxy</string>
+	<key>imperativeBlocAlignment</key>
+	<string>unsortedActionRight</string>
+	<key>loopAmongVariable</key>
+	<string>largePlaybackValidation</string>
+	<key>priorGraphBottom</key>
+	<string>specifyInkwellSpacing</string>
+	<key>reductionStructureForce</key>
+	<string>uniqueEqualizationSkewx</string>
+	<key>relationalTextfieldFlags</key>
+	<string>textureBeyondStage</string>
+	<key>segueIncludeVar</key>
+	<string>interpolationKindDensity</string>
+	<key>touchStateFormat</key>
+	<string>behaviorBesideMemento</string>
+	<key>uniqueQueueTop</key>
+	<string>zoneProcessName</string>
+</dict>
+</plist>

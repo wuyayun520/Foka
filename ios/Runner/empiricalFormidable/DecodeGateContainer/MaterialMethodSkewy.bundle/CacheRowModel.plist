@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>marginOutsideFacade</key>
+	<string>delegateObserverVisible</string>
+	<key>requiredConfigurationBrightness</key>
+	<string>sizeDuringInterpreter</string>
+	<key>synchronousGridviewOrigin</key>
+	<string>isolateProcessAcceleration</string>
+	<key>transformerMediatorIndex</key>
+	<string>gatePlatformOffset</string>
+</dict>
+</plist>

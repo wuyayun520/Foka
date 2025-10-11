@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAgainstComposite</key>
+	<string>parallelArithmeticVisibility</string>
+	<key>graphicTaskDistance</key>
+	<string>visibleNavigatorSkewy</string>
+	<key>handlerPhaseCoord</key>
+	<string>callbackAlongProxy</string>
+	<key>primaryAppbarFeedback</key>
+	<string>routeStateScale</string>
+	<key>publicPreviewSpeed</key>
+	<string>taskVersusFacade</string>
+	<key>respectiveRiverpodCenter</key>
+	<string>popupThanActivity</string>
+</dict>
+</plist>

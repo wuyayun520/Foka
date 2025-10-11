@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstWidgetStyle</key>
+	<string>animationWithShape</string>
+	<key>fixedIntensitySkewx</key>
+	<string>grayscaleByTask</string>
+	<key>greatProjectCoord</key>
+	<string>getxByObserver</string>
+	<key>modelBridgeSize</key>
+	<string>handlerByProxy</string>
+	<key>promiseOrProxy</key>
+	<string>operationNearStage</string>
+	<key>responseWithProcess</key>
+	<string>batchAndStage</string>
+	<key>shaderOrBridge</key>
+	<string>modalOrCommand</string>
+	<key>textureFormRotation</key>
+	<string>respectiveCatalystVisibility</string>
+	<key>uniformParticleAlignment</key>
+	<string>consumerDecoratorForce</string>
+</dict>
+</plist>

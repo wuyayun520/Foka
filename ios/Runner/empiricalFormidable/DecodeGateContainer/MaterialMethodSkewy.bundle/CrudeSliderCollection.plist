@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationByParam</key>
+	<string>fusedCommandHue</string>
+	<key>cupertinoCompositeOrigin</key>
+	<string>grayscaleJobCenter</string>
+	<key>entityStateSpeed</key>
+	<string>topicModeSpeed</string>
+	<key>ephemeralPlateResponse</key>
+	<string>chapterCompositeFrequency</string>
+	<key>materialFrameEdge</key>
+	<string>alertLayerSpacing</string>
+	<key>responsiveCapsuleResponse</key>
+	<string>beginnerInstructionFeedback</string>
+	<key>temporaryDescriptorTransparency</key>
+	<string>assetCompositeHue</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDecorationBottom</key>
+	<string>advancedSwiftCoord</string>
+	<key>currentDrawerOffset</key>
+	<string>positionedWithoutNumber</string>
+	<key>inheritedAllocatorFormat</key>
+	<string>menuParamSpacing</string>
+	<key>statelessWidgetVelocity</key>
+	<string>buttonStrategyRotation</string>
+	<key>unsortedResolverCenter</key>
+	<string>baseInterpreterDuration</string>
+</dict>
+</plist>

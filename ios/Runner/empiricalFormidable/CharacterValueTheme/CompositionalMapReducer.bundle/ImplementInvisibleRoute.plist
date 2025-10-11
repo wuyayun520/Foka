@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperProcessInterval</key>
+	<string>modelParameterTop</string>
+	<key>controllerViaValue</key>
+	<string>customLoopInteraction</string>
+	<key>extensionOrProcess</key>
+	<string>apertureActionStyle</string>
+	<key>granularTextTop</key>
+	<string>persistentParticleMomentum</string>
+	<key>rapidUtilInset</key>
+	<string>activatedErrorVelocity</string>
+	<key>scrollInsideOperation</key>
+	<string>constStepVelocity</string>
+	<key>storeWithoutComposite</key>
+	<string>subtlePresenterFormat</string>
+	<key>tickerAboutContext</key>
+	<string>alertSinceMediator</string>
+</dict>
+</plist>

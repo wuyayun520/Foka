@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorAtScope</key>
+	<string>providerTypeAcceleration</string>
+	<key>queuePrototypeTransparency</key>
+	<string>singletonOutsideFacade</string>
+	<key>repositoryIncludeObserver</key>
+	<string>builderPerFramework</string>
+	<key>taskInSystem</key>
+	<string>completerBesideProcess</string>
+	<key>variantStageDepth</key>
+	<string>statelessBeyondFacade</string>
+</dict>
+</plist>

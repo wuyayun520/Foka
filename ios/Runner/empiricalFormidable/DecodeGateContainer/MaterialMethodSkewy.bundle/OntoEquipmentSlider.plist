@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerPerEnvironment</key>
+	<string>factoryFromPrototype</string>
+	<key>cycleBridgeVisibility</key>
+	<string>characterLevelSize</string>
+	<key>loopAgainstMethod</key>
+	<string>configurationAndEnvironment</string>
+	<key>lossValueInterval</key>
+	<string>borderPrototypeResponse</string>
+	<key>scrollAtScope</key>
+	<string>nibAroundMethod</string>
+	<key>uniqueFeatureOrientation</key>
+	<string>ignoredSpineTop</string>
+</dict>
+</plist>

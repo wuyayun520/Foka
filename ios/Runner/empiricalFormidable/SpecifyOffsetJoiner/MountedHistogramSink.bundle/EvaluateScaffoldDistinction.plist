@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerHandlerResponse</key>
+	<string>rowInFlyweight</string>
+	<key>fixedButtonFrequency</key>
+	<string>buttonThroughShape</string>
+	<key>imageProxyTint</key>
+	<string>sharedCurveDuration</string>
+	<key>interactorMethodMomentum</key>
+	<string>activeMonsterResponse</string>
+	<key>interpolationIncludeFunction</key>
+	<string>commonUsecaseBorder</string>
+	<key>listviewObserverSize</key>
+	<string>chartAndBridge</string>
+	<key>loopParameterBehavior</key>
+	<string>publicBufferForce</string>
+	<key>mediumGraphicVisibility</key>
+	<string>modalByKind</string>
+	<key>mutableRouteResponse</key>
+	<string>desktopLayoutContrast</string>
+	<key>rapidEventColor</key>
+	<string>currentMapShade</string>
+</dict>
+</plist>

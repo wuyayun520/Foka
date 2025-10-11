@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMemberAppearance</key>
+	<string>cupertinoCellIndex</string>
+	<key>eventBesideStrategy</key>
+	<string>descriptorInState</string>
+	<key>interpolationStructureRotation</key>
+	<string>touchAgainstPattern</string>
+	<key>reductionOutsideMode</key>
+	<string>masterNearEnvironment</string>
+	<key>sensorStyleScale</key>
+	<string>nativeProjectOrientation</string>
+	<key>smallRadioDuration</key>
+	<string>effectOfPhase</string>
+	<key>staticRichtextDuration</key>
+	<string>axisPhaseVisible</string>
+</dict>
+</plist>

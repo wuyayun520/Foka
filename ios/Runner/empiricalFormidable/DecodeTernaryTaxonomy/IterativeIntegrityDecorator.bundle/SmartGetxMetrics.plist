@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryDespiteShape</key>
+	<string>sceneCommandSaturation</string>
+	<key>hyperbolicCurveVisible</key>
+	<string>mediocreQueueStyle</string>
+	<key>interactorSystemAcceleration</key>
+	<string>constMasterState</string>
+	<key>listenerExceptActivity</key>
+	<string>ignoredChapterEdge</string>
+	<key>notificationContainProxy</key>
+	<string>vectorTypeOrientation</string>
+	<key>reducerFrameworkRate</key>
+	<string>opaqueMobxMode</string>
+</dict>
+</plist>

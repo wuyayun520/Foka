@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardButtonIndex</key>
+	<string>chapterTypeTail</string>
+	<key>flexibleMethodVelocity</key>
+	<string>concurrentGramVelocity</string>
+	<key>functionalTaskDistance</key>
+	<string>dependencyNearValue</string>
+	<key>histogramStyleOpacity</key>
+	<string>checkboxAboutStructure</string>
+	<key>temporaryStatefulDelay</key>
+	<string>logarithmExceptShape</string>
+</dict>
+</plist>

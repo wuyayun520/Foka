@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletJobVisibility</key>
+	<string>radiusAdapterVisibility</string>
+	<key>layoutBeyondBridge</key>
+	<string>isolateInFlyweight</string>
+	<key>mediaqueryWorkDensity</key>
+	<string>elasticSpriteFormat</string>
+	<key>originalEventOpacity</key>
+	<string>futurePerInterpreter</string>
+	<key>stepSystemRight</key>
+	<string>entropyByVar</string>
+	<key>webTickerTint</key>
+	<string>statefulFactoryDepth</string>
+</dict>
+</plist>

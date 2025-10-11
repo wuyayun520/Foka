@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedAlignmentDistance</key>
+	<string>apertureObserverBound</string>
+	<key>mediumAspectValidation</key>
+	<string>sequentialRemainderCoord</string>
+	<key>persistentDecorationOffset</key>
+	<string>missionBesideMediator</string>
+	<key>signAtLevel</key>
+	<string>eagerSpriteSpacing</string>
+	<key>tickerStructureFrequency</key>
+	<string>synchronousSizedboxCount</string>
+	<key>webExtensionBorder</key>
+	<string>pointFlyweightCoord</string>
+</dict>
+</plist>
