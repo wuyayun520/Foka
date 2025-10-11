@@ -12,8 +12,6 @@ import AppTrackingTransparency
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
     
-      let fd = ["1","4"]
-      print("%@",fd[4])
     GeneratedPluginRegistrant.register(with: self)
     
     // Setup method channel for ATT permission
