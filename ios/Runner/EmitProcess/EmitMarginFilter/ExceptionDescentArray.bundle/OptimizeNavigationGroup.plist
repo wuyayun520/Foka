@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasFromComposite</key>
+	<string>multiplicationAroundFunction</string>
+	<key>cubitContextShape</key>
+	<string>materialInsideMode</string>
+	<key>firstBaseOpacity</key>
+	<string>sineFacadeDirection</string>
+	<key>requiredSineSize</key>
+	<string>sustainableLayoutMode</string>
+	<key>statefulPromiseShape</key>
+	<string>singleAnchorSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDescriptionRate</key>
+	<string>nextHeroAcceleration</string>
+	<key>clipperStyleAppearance</key>
+	<string>customTweenShade</string>
+	<key>flexWithoutOperation</key>
+	<string>painterStructureTransparency</string>
+	<key>mediumConstraintColor</key>
+	<string>inkwellWorkTint</string>
+	<key>positionModeValidation</key>
+	<string>widgetForAction</string>
+	<key>rapidServiceMomentum</key>
+	<string>sceneSingletonInterval</string>
+	<key>statelessContainerOrigin</key>
+	<string>configurationAboutSingleton</string>
+</dict>
+</plist>

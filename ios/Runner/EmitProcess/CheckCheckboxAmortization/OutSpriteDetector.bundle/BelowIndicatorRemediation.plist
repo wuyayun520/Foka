@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAlongTier</key>
+	<string>popupCycleDistance</string>
+	<key>dimensionObserverBehavior</key>
+	<string>cosinePhaseDensity</string>
+	<key>flexibleObserverBound</key>
+	<string>tickerFunctionMomentum</string>
+	<key>playbackNumberContrast</key>
+	<string>indicatorDuringScope</string>
+	<key>profileDuringShape</key>
+	<string>chapterStageOrigin</string>
+	<key>spriteExceptStyle</key>
+	<string>controllerOfMediator</string>
+</dict>
+</plist>

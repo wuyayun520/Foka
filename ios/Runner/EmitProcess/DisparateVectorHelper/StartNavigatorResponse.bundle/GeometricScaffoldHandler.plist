@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchWorkTheme</key>
+	<string>seamlessIconInteraction</string>
+	<key>exceptionInsideAction</key>
+	<string>factoryScopeRotation</string>
+	<key>granularSpecifierTransparency</key>
+	<string>stampModeType</string>
+	<key>managerForInterpreter</key>
+	<string>signLevelDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaBesideVariable</key>
+	<string>exponentPatternStatus</string>
+	<key>dropdownbuttonSystemStatus</key>
+	<string>ternaryBeyondCycle</string>
+	<key>entropyActivityFlags</key>
+	<string>storeParameterVisible</string>
+	<key>handlerEnvironmentSize</key>
+	<string>seamlessGraphicScale</string>
+	<key>interactiveCurveSpacing</key>
+	<string>secondAspectratioDelay</string>
+	<key>mediumDrawerBrightness</key>
+	<string>statefulVersusShape</string>
+	<key>routeInterpreterMode</key>
+	<string>eagerSwitchTransparency</string>
+	<key>specifierMethodOrigin</key>
+	<string>requestSinceProxy</string>
+	<key>touchLikeStage</key>
+	<string>delegateStrategyBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBufferDelay</key>
+	<string>segmentOfLayer</string>
+	<key>factoryAlongMethod</key>
+	<string>lastParticleDistance</string>
+	<key>logBeyondParam</key>
+	<string>textureStructureVisibility</string>
+	<key>mediumBuilderCenter</key>
+	<string>awaitDecoratorTail</string>
+	<key>specifyIntensityFeedback</key>
+	<string>robustStepSaturation</string>
+</dict>
+</plist>

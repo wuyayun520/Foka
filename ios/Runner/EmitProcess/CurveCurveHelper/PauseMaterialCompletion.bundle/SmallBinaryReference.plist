@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonKindTransparency</key>
+	<string>capacitiesCompositeBottom</string>
+	<key>curveStructureKind</key>
+	<string>pivotalResponseShade</string>
+	<key>factoryAsComposite</key>
+	<string>unsortedSubpixelHue</string>
+	<key>newestGroupTail</key>
+	<string>equipmentAwayValue</string>
+</dict>
+</plist>

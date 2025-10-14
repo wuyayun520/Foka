@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientValueRight</key>
+	<string>singletonForComposite</string>
+	<key>gridFromContext</key>
+	<string>reusableResourceRight</string>
+	<key>lossUntilLayer</key>
+	<string>easyCubitBrightness</string>
+	<key>pinchableSampleAcceleration</key>
+	<string>apertureParamStatus</string>
+	<key>richtextSystemDirection</key>
+	<string>enabledCustompaintDuration</string>
+	<key>segueOperationRight</key>
+	<string>observerViaMediator</string>
+	<key>spotInChain</key>
+	<string>granularInterfaceAlignment</string>
+	<key>staticInjectionSaturation</key>
+	<string>inheritedTextRotation</string>
+	<key>viewMementoName</key>
+	<string>standaloneRouterBottom</string>
+</dict>
+</plist>

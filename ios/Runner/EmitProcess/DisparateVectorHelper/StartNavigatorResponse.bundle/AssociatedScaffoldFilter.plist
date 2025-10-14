@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateActionMomentum</key>
+	<string>independentSymbolState</string>
+	<key>dropdownbuttonOutsideProxy</key>
+	<string>titleAndTemple</string>
+	<key>layoutActionFeedback</key>
+	<string>permanentNodeSize</string>
+	<key>mainProgressbarSkewx</key>
+	<string>viewDecoratorRight</string>
+	<key>optimizerMethodCount</key>
+	<string>navigatorStateSaturation</string>
+	<key>plateTierHue</key>
+	<string>activatedChannelsMode</string>
+	<key>topicByMode</key>
+	<string>hashCommandAppearance</string>
+	<key>webErrorCount</key>
+	<string>staticIsolateOpacity</string>
+</dict>
+</plist>

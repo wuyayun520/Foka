@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitValueKind</key>
+	<string>chapterChainFormat</string>
+	<key>curveAgainstPattern</key>
+	<string>rectShapeEdge</string>
+	<key>delegateAdapterMargin</key>
+	<string>protocolScopeBorder</string>
+	<key>indicatorKindBound</key>
+	<string>singleObserverAcceleration</string>
+	<key>missedDescriptorTag</key>
+	<string>exceptionVarBorder</string>
+	<key>nibValueMomentum</key>
+	<string>reusableResolverSize</string>
+	<key>promiseStageSpacing</key>
+	<string>metadataFormMargin</string>
+	<key>semanticConfigurationPressure</key>
+	<string>transformerExceptVariable</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBuilderFlags</key>
+	<string>listenerAwayAction</string>
+	<key>asyncDelegateVisibility</key>
+	<string>diffableResultResponse</string>
+	<key>imperativeRequestOrientation</key>
+	<string>queueSingletonAppearance</string>
+	<key>singleVectorLocation</key>
+	<string>requiredThemeTransparency</string>
+	<key>threadAndMethod</key>
+	<string>custompaintDecoratorOrigin</string>
+	<key>tweenIncludeBuffer</key>
+	<string>statePatternDepth</string>
+	<key>usageInsidePlatform</key>
+	<string>inactiveTextureFrequency</string>
+</dict>
+</plist>

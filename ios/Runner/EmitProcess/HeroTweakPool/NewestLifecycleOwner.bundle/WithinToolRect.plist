@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocContextVisible</key>
+	<string>richtextPatternSkewy</string>
+	<key>compositionStrategyRate</key>
+	<string>touchParamDensity</string>
+	<key>containerPlatformSkewy</key>
+	<string>coordinatorInterpreterBound</string>
+	<key>mainPainterTension</key>
+	<string>synchronousFragmentSaturation</string>
+	<key>offsetOperationShape</key>
+	<string>spotFacadeSize</string>
+	<key>permissiveLayerStyle</key>
+	<string>contractionStrategyOrientation</string>
+</dict>
+</plist>

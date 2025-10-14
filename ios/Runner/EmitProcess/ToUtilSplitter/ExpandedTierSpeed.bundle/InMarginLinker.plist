@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAwayStyle</key>
+	<string>builderCommandResponse</string>
+	<key>cellStyleRotation</key>
+	<string>basicConsumerKind</string>
+	<key>constraintVisitorEdge</key>
+	<string>kernelAboutComposite</string>
+	<key>diffableHashIndex</key>
+	<string>isolateStylePadding</string>
+	<key>finalServiceTint</key>
+	<string>observerAgainstKind</string>
+	<key>intensityTempleShade</key>
+	<string>handlerVersusMethod</string>
+	<key>oldPopupType</key>
+	<string>loopDespiteParameter</string>
+	<key>parallelConfigurationFrequency</key>
+	<string>unsortedAxisLocation</string>
+	<key>scaleActionLocation</key>
+	<string>callbackVarInterval</string>
+</dict>
+</plist>

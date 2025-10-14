@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperAgainstMediator</key>
+	<string>promiseMementoOrientation</string>
+	<key>composableUsecaseResponse</key>
+	<string>immutableActionValidation</string>
+	<key>equalizationOperationSpeed</key>
+	<string>baselineThroughAction</string>
+	<key>exceptionEnvironmentDensity</key>
+	<string>remainderFacadeTransparency</string>
+	<key>liteCurveCenter</key>
+	<string>diffableNavigatorIndex</string>
+	<key>offsetActivitySkewy</key>
+	<string>standaloneViewEdge</string>
+	<key>pivotalProgressbarAppearance</key>
+	<string>currentMenuForce</string>
+	<key>promiseWithShape</key>
+	<string>customIsolateAlignment</string>
+	<key>signIncludeContext</key>
+	<string>hyperbolicCallbackSpeed</string>
+	<key>zoneAboutForm</key>
+	<string>providerDespiteAction</string>
+</dict>
+</plist>

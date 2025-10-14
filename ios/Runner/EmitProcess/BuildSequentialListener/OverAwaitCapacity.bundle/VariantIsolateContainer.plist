@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystPatternContrast</key>
+	<string>numericalBuilderPadding</string>
+	<key>constraintContextTheme</key>
+	<string>toolValueOpacity</string>
+	<key>containerWorkEdge</key>
+	<string>fusedOptionValidation</string>
+	<key>largeAllocatorSize</key>
+	<string>sessionAtParam</string>
+	<key>managerAsBuffer</key>
+	<string>painterThroughActivity</string>
+	<key>navigationParameterTension</key>
+	<string>declarativeDialogsTint</string>
+</dict>
+</plist>

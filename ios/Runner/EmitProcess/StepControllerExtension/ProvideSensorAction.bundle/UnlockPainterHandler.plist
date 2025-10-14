@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertStrategyForce</key>
+	<string>directlyAnchorInterval</string>
+	<key>blocFlyweightDuration</key>
+	<string>staticResultCenter</string>
+	<key>fixedContainerShade</key>
+	<string>exceptionBufferTop</string>
+	<key>futureVersusAction</key>
+	<string>completerByObserver</string>
+	<key>immediateMetadataValidation</key>
+	<string>activatedConfigurationPressure</string>
+	<key>movementAwayState</key>
+	<string>tangentInsideMemento</string>
+	<key>offsetStageColor</key>
+	<string>delegateAndAdapter</string>
+	<key>tabbarShapeVisibility</key>
+	<string>taskTempleStyle</string>
+	<key>tabviewOfMode</key>
+	<string>localSineVisible</string>
+</dict>
+</plist>

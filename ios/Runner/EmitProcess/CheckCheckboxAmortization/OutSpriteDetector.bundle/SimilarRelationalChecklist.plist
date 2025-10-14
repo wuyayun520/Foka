@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateSymbolValidation</key>
+	<string>requestCompositeSize</string>
+	<key>draggableEntityLocation</key>
+	<string>isolateForProcess</string>
+	<key>geometricInteractorHead</key>
+	<string>interactorContextRate</string>
+	<key>hashNumberAlignment</key>
+	<string>giftJobFlags</string>
+	<key>layoutVersusCycle</key>
+	<string>promiseInForm</string>
+	<key>segmentForMediator</key>
+	<string>decorationDuringVar</string>
+	<key>sliderAndContext</key>
+	<string>titleOfStrategy</string>
+</dict>
+</plist>

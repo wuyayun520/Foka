@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardGramEdge</key>
+	<string>standaloneSpriteIndex</string>
+	<key>columnBeyondStrategy</key>
+	<string>appbarIncludeInterpreter</string>
+	<key>deferredViewRight</key>
+	<string>routeBeyondScope</string>
+	<key>skinOutsideProxy</key>
+	<string>respectiveRowTail</string>
+	<key>storeTypeSize</key>
+	<string>presenterInsidePrototype</string>
+</dict>
+</plist>

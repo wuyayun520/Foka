@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveCompositionTag</key>
+	<string>denseCubitType</string>
+	<key>listenerActionCenter</key>
+	<string>independentPopupRotation</string>
+	<key>resolverUntilKind</key>
+	<string>listenerViaTask</string>
+	<key>vectorStrategyOrientation</key>
+	<string>expandedCompositeDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferPerFramework</key>
+	<string>switchWithProcess</string>
+	<key>concreteHeapVisibility</key>
+	<string>bufferVarSkewy</string>
+	<key>currentModelStyle</key>
+	<string>sampleAgainstDecorator</string>
+	<key>euclideanRowRight</key>
+	<string>certificateByDecorator</string>
+	<key>streamBridgeAcceleration</key>
+	<string>rapidTextfieldOrigin</string>
+</dict>
+</plist>

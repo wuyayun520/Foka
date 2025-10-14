@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveNodeMomentum</key>
+	<string>nativeContainerScale</string>
+	<key>iterativeFlexType</key>
+	<string>flexParameterTint</string>
+	<key>layoutOperationContrast</key>
+	<string>currentAnimatedcontainerRate</string>
+	<key>publicCaptionBorder</key>
+	<string>richtextPhaseValidation</string>
+	<key>sizeChainHue</key>
+	<string>visibleRectFeedback</string>
+	<key>utilCompositeRate</key>
+	<string>transitionStageTint</string>
+	<key>visibleParticleSaturation</key>
+	<string>clipperScopeName</string>
+</dict>
+</plist>

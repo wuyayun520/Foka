@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintSystemDirection</key>
+	<string>sensorAdapterOffset</string>
+	<key>disparateResourceValidation</key>
+	<string>commonCompletionColor</string>
+	<key>durationExceptState</key>
+	<string>loopTierAcceleration</string>
+	<key>sceneDuringTier</key>
+	<string>coordinatorOperationScale</string>
+	<key>scrollDuringMethod</key>
+	<string>controllerBufferBehavior</string>
+</dict>
+</plist>

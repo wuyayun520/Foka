@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionTierBehavior</key>
+	<string>requestStateCoord</string>
+	<key>materialCompositeTransparency</key>
+	<string>subscriptionAboutSingleton</string>
+	<key>resolverLikeFacade</key>
+	<string>unaryBeyondStyle</string>
+	<key>stepCycleAlignment</key>
+	<string>basicNotifierVisible</string>
+	<key>tabviewContextColor</key>
+	<string>newestLocalizationValidation</string>
+	<key>temporaryConsumerStatus</key>
+	<string>precisionAgainstActivity</string>
+	<key>uniqueAssetTag</key>
+	<string>statefulDecorationFeedback</string>
+</dict>
+</plist>

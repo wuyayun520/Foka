@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationThroughLevel</key>
+	<string>signParameterColor</string>
+	<key>handlerAndContext</key>
+	<string>gesturedetectorWorkInterval</string>
+	<key>responseContainNumber</key>
+	<string>cubitParameterVisible</string>
+	<key>singletonPerBridge</key>
+	<string>drawerFunctionDelay</string>
+	<key>storageScopeBehavior</key>
+	<string>standaloneNavigationMode</string>
+</dict>
+</plist>

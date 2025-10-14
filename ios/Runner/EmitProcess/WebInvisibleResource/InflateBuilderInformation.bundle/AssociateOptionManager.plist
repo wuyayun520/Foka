@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocContextFeedback</key>
+	<string>histogramIncludeStyle</string>
+	<key>callbackScopeOrientation</key>
+	<string>taskVersusEnvironment</string>
+	<key>equipmentPerSingleton</key>
+	<string>capsuleLayerDensity</string>
+	<key>iconAtCommand</key>
+	<string>streamStyleSpacing</string>
+	<key>themeActivityMargin</key>
+	<string>nodeOutsideNumber</string>
+	<key>threadWithoutStage</key>
+	<string>listenerProcessOffset</string>
+</dict>
+</plist>

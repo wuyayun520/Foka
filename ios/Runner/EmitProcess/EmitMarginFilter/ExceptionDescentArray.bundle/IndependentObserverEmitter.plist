@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchFromStage</key>
+	<string>opaqueRowScale</string>
+	<key>finalSpotSkewy</key>
+	<string>gestureActionHue</string>
+	<key>navigatorOutsidePattern</key>
+	<string>retainedRadiusHue</string>
+	<key>pageviewInsideObserver</key>
+	<string>mobxAndProxy</string>
+	<key>pivotalSingletonOffset</key>
+	<string>checkboxMediatorSize</string>
+	<key>responsiveSegueVisible</key>
+	<string>tweenStrategyInterval</string>
+	<key>segueCycleState</key>
+	<string>synchronousGridFeedback</string>
+	<key>spriteBufferVisibility</key>
+	<string>constraintBesideOperation</string>
+	<key>sustainableDocumentInterval</key>
+	<string>notifierLikeFlyweight</string>
+	<key>ternaryFormDelay</key>
+	<string>configurationFromType</string>
+</dict>
+</plist>

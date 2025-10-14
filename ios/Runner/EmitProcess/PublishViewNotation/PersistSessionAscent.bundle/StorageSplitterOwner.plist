@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerExceptPrototype</key>
+	<string>lostTimerInteraction</string>
+	<key>baseTypeShade</key>
+	<string>referenceAmongPhase</string>
+	<key>futureMethodVisible</key>
+	<string>vectorAsPhase</string>
+	<key>semanticToolBrightness</key>
+	<string>basicSceneRotation</string>
+</dict>
+</plist>

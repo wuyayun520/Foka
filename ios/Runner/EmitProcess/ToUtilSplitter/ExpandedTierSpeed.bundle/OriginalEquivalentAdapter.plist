@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterInDecorator</key>
+	<string>iconFormPressure</string>
+	<key>ignoredWidgetTop</key>
+	<string>actionModeSize</string>
+	<key>intensityPatternSaturation</key>
+	<string>uniqueAllocatorCount</string>
+	<key>radiusAroundFacade</key>
+	<string>promiseCompositeBrightness</string>
+	<key>sharedCanvasPressure</key>
+	<string>remainderKindDelay</string>
+	<key>taskThroughVisitor</key>
+	<string>documentCycleInset</string>
+	<key>visibleFragmentVisibility</key>
+	<string>transitionStageMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferSystemMode</key>
+	<string>priorityCompositeHue</string>
+	<key>chartInNumber</key>
+	<string>tabbarAwayActivity</string>
+	<key>convolutionAgainstStage</key>
+	<string>parallelBlocBound</string>
+	<key>missedCommandColor</key>
+	<string>smartDecorationFeedback</string>
+	<key>swiftOutsideLayer</key>
+	<string>curveLayerTag</string>
+</dict>
+</plist>

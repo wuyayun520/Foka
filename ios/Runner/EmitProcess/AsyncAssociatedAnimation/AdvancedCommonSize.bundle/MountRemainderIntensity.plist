@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderWithoutShape</key>
+	<string>missedMusicHead</string>
+	<key>hashDecoratorBottom</key>
+	<string>gradientStateSkewx</string>
+	<key>interactorInsideMode</key>
+	<string>completionFromFunction</string>
+	<key>numericalRectOrientation</key>
+	<string>documentFormStatus</string>
+</dict>
+</plist>

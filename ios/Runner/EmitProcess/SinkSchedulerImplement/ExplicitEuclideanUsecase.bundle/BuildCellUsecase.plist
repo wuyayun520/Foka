@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedWidgetVisible</key>
+	<string>parallelCubitLeft</string>
+	<key>routeLevelDensity</key>
+	<string>intermediateChannelOffset</string>
+	<key>textfieldTempleAlignment</key>
+	<string>nodeByTask</string>
+	<key>transitionContextDistance</key>
+	<string>taskProxyAppearance</string>
+</dict>
+</plist>

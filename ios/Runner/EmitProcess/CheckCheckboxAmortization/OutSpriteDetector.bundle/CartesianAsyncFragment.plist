@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorProcessForce</key>
+	<string>precisionAlongNumber</string>
+	<key>commandFlyweightAcceleration</key>
+	<string>eventLikeStyle</string>
+	<key>mobileBrushBehavior</key>
+	<string>handlerTierVisible</string>
+	<key>multiNotificationType</key>
+	<string>unactivatedHashTransparency</string>
+	<key>numericalStackDepth</key>
+	<string>columnNearTier</string>
+	<key>pinchableEqualizationOffset</key>
+	<string>spotBufferFormat</string>
+	<key>storageThanFunction</key>
+	<string>specifierInsideCommand</string>
+</dict>
+</plist>

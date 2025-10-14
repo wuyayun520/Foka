@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionAtPattern</key>
+	<string>graphicOperationShade</string>
+	<key>draggableIsolateColor</key>
+	<string>kernelContextFlags</string>
+	<key>finalPreviewInteraction</key>
+	<string>radioAdapterMargin</string>
+	<key>gesturedetectorNumberFeedback</key>
+	<string>metadataScopeMode</string>
+	<key>handlerWithoutInterpreter</key>
+	<string>resultOperationPosition</string>
+	<key>heroActivityOffset</key>
+	<string>delegateFacadeOffset</string>
+	<key>interactorInterpreterSaturation</key>
+	<string>grainFormForce</string>
+	<key>navigatorBridgeResponse</key>
+	<string>completionAlongCycle</string>
+	<key>tableAboutContext</key>
+	<string>euclideanAlignmentForce</string>
+	<key>transformerWithoutComposite</key>
+	<string>timerModeTheme</string>
+</dict>
+</plist>

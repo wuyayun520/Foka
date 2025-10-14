@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveQueueType</key>
+	<string>animationShapeTop</string>
+	<key>completerParamFlags</key>
+	<string>geometricCatalystInteraction</string>
+	<key>curveLikeStrategy</key>
+	<string>cacheLevelStyle</string>
+	<key>labelViaTier</key>
+	<string>invisibleGraphPosition</string>
+	<key>pinchableBuilderMode</key>
+	<string>basicSampleDistance</string>
+	<key>retainedResultMomentum</key>
+	<string>sineViaStage</string>
+</dict>
+</plist>

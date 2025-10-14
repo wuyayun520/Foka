@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionModeOrientation</key>
+	<string>futureFunctionDirection</string>
+	<key>convolutionBeyondInterpreter</key>
+	<string>notifierWithoutForm</string>
+	<key>errorDecoratorAppearance</key>
+	<string>responsiveCapsuleRight</string>
+	<key>numericalPresenterInterval</key>
+	<string>controllerSystemDensity</string>
+	<key>shaderChainDistance</key>
+	<string>layoutContextOpacity</string>
+	<key>storageUntilLayer</key>
+	<string>compositionalCustompaintVisibility</string>
+	<key>textStageStatus</key>
+	<string>easyTextRight</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAgainstMode</key>
+	<string>fusedRectShade</string>
+	<key>alphaDuringStage</key>
+	<string>standaloneCallbackValidation</string>
+	<key>asyncAlongVariable</key>
+	<string>positionWithProxy</string>
+	<key>decorationValueRate</key>
+	<string>sustainableLayoutBehavior</string>
+	<key>entropyDuringMode</key>
+	<string>ternaryDuringVariable</string>
+	<key>movementScopeDepth</key>
+	<string>constEventDepth</string>
+	<key>painterOrWork</key>
+	<string>diffableContainerPosition</string>
+	<key>themeValueOffset</key>
+	<string>switchVersusObserver</string>
+</dict>
+</plist>

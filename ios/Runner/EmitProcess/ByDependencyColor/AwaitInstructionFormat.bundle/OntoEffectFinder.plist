@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loopBesideTier</key>
+	<string>sliderPerStage</string>
+	<key>signThanPhase</key>
+	<string>tensorGridOpacity</string>
+	<key>textViaScope</key>
+	<string>reusableSizeDepth</string>
+</dict>
+</plist>

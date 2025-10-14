@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveFeatureOffset</key>
+	<string>collectionExceptWork</string>
+	<key>decorationContextValidation</key>
+	<string>decorationSincePlatform</string>
+	<key>delegateStageScale</key>
+	<string>robustFlexScale</string>
+	<key>draggableCallbackMode</key>
+	<string>tweenModeType</string>
+	<key>gateDecoratorInset</key>
+	<string>substantialMovementHead</string>
+	<key>gradientSinceVariable</key>
+	<string>smallSizeTail</string>
+	<key>nextMapAppearance</key>
+	<string>statefulCallbackDepth</string>
+	<key>screenFlyweightBrightness</key>
+	<string>staticObserverFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorInsidePhase</key>
+	<string>optimizerProcessTransparency</string>
+	<key>blocAmongPlatform</key>
+	<string>constLogBehavior</string>
+	<key>criticalPlaybackCoord</key>
+	<string>shaderForStructure</string>
+	<key>serviceMediatorRotation</key>
+	<string>callbackLevelSkewx</string>
+	<key>specifyFutureSkewy</key>
+	<string>previewLayerShade</string>
+	<key>utilAwayStructure</key>
+	<string>usagePlatformAppearance</string>
+</dict>
+</plist>

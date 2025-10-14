@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocValueInset</key>
+	<string>aspectratioMementoVelocity</string>
+	<key>dedicatedSpriteContrast</key>
+	<string>blocAdapterDuration</string>
+	<key>desktopBorderAppearance</key>
+	<string>screenMediatorName</string>
+	<key>lazyCallbackForce</key>
+	<string>challengeWithParam</string>
+	<key>offsetStagePadding</key>
+	<string>originalCoordinatorBound</string>
+	<key>sampleAgainstObserver</key>
+	<string>subpixelWithoutPrototype</string>
+	<key>sequentialCapsuleSaturation</key>
+	<string>responseVersusPattern</string>
+	<key>viewOperationDensity</key>
+	<string>geometricDurationColor</string>
+	<key>webTimerInset</key>
+	<string>uniqueInteractorTransparency</string>
+</dict>
+</plist>

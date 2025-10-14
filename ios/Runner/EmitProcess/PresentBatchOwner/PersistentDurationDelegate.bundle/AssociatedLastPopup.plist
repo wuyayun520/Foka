@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationViaScope</key>
+	<string>certificateCommandOffset</string>
+	<key>eventFlyweightBound</key>
+	<string>flexBeyondFlyweight</string>
+	<key>iconScopeVisibility</key>
+	<string>specifyGridLocation</string>
+	<key>injectionUntilFacade</key>
+	<string>animationAdapterBehavior</string>
+	<key>singleLocalizationHead</key>
+	<string>profilePerBridge</string>
+	<key>subscriptionOrVar</key>
+	<string>crudeModalFormat</string>
+</dict>
+</plist>

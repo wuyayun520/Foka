@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteButtonLeft</key>
+	<string>tangentBufferShade</string>
+	<key>constTickerRotation</key>
+	<string>movementExceptPlatform</string>
+	<key>cubitObserverFrequency</key>
+	<string>errorBeyondShape</string>
+	<key>curveNumberKind</key>
+	<string>firstMaterialPressure</string>
+	<key>rapidSpecifierStatus</key>
+	<string>lastUsecaseKind</string>
+	<key>reducerAroundForm</key>
+	<string>utilAgainstState</string>
+	<key>seguePhaseDensity</key>
+	<string>spineNumberRotation</string>
+	<key>sinkVersusScope</key>
+	<string>subpixelUntilVar</string>
+	<key>themeAroundOperation</key>
+	<string>equipmentLevelAcceleration</string>
+</dict>
+</plist>

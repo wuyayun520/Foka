@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionQueueShade</key>
+	<string>blocTypeAcceleration</string>
+	<key>serviceWorkAcceleration</key>
+	<string>bufferAsProxy</string>
+	<key>storyboardActionTheme</key>
+	<string>scaleStageType</string>
+	<key>symmetricSizeVelocity</key>
+	<string>pinchableHeapCoord</string>
+</dict>
+</plist>

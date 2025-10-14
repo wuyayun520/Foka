@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCompositionLocation</key>
+	<string>accessibleGradientTop</string>
+	<key>completionBeyondTier</key>
+	<string>stepNumberAppearance</string>
+	<key>flexInsideBuffer</key>
+	<string>toolJobBottom</string>
+	<key>liteAwaitSaturation</key>
+	<string>substantialBufferSize</string>
+	<key>serviceCompositeVisible</key>
+	<string>specifySegueInset</string>
+	<key>smallNodeStyle</key>
+	<string>subtleSubpixelPadding</string>
+	<key>tabviewProxyOpacity</key>
+	<string>axisByVariable</string>
+	<key>unaryLevelCoord</key>
+	<string>stampScopeColor</string>
+</dict>
+</plist>

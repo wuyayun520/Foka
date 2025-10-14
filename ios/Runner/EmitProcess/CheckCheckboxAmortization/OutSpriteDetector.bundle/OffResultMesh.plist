@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyAlertValidation</key>
+	<string>cursorOrMediator</string>
+	<key>displayableBlocFrequency</key>
+	<string>rowByVariable</string>
+	<key>missionBufferSpacing</key>
+	<string>modalKindInset</string>
+	<key>sharedMetadataEdge</key>
+	<string>spriteWithoutAction</string>
+	<key>sophisticatedPositionPosition</key>
+	<string>entityFunctionInterval</string>
+	<key>taskActivityHue</key>
+	<string>rapidHashState</string>
+</dict>
+</plist>

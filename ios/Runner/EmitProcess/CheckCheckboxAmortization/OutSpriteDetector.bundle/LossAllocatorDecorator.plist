@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSinceBuffer</key>
+	<string>normalResourceVisible</string>
+	<key>concurrentBaselineFeedback</key>
+	<string>gateCommandInteraction</string>
+	<key>currentContainerSkewy</key>
+	<string>ternaryPlatformKind</string>
+	<key>inactiveAxisDepth</key>
+	<string>delegateMediatorOrientation</string>
+	<key>publicDelegatePressure</key>
+	<string>viewDuringDecorator</string>
+	<key>serviceCycleHead</key>
+	<string>disabledContainerPadding</string>
+	<key>touchStyleFrequency</key>
+	<string>singletonFromKind</string>
+</dict>
+</plist>

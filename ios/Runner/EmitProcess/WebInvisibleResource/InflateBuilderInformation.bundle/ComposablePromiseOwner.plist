@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchActivityColor</key>
+	<string>descriptionCompositeHue</string>
+	<key>composableHeroColor</key>
+	<string>sessionShapeContrast</string>
+	<key>containerActionOffset</key>
+	<string>callbackContainTier</string>
+	<key>documentOrChain</key>
+	<string>kernelVisitorOrientation</string>
+	<key>exceptionScopeDelay</key>
+	<string>storeAboutComposite</string>
+	<key>iterativeListenerStatus</key>
+	<string>rowParamVisible</string>
+	<key>providerShapeSpacing</key>
+	<string>mediocreCommandTop</string>
+	<key>spriteStageIndex</key>
+	<string>utilSystemAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledDimensionStyle</key>
+	<string>difficultLocalizationFormat</string>
+	<key>documentLayerVelocity</key>
+	<string>layoutFrameworkAcceleration</string>
+	<key>liteAnimationVisibility</key>
+	<string>mapPatternForce</string>
+	<key>nodePlatformTension</key>
+	<string>batchOrChain</string>
+	<key>oldObserverDirection</key>
+	<string>cubitOutsideStage</string>
+	<key>secondRiverpodCenter</key>
+	<string>radioAwayAction</string>
+	<key>transformerStructureCenter</key>
+	<string>keyCacheScale</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintInObserver</key>
+	<string>usedAssetMode</string>
+	<key>geometricTransitionPadding</key>
+	<string>queryValueOrientation</string>
+	<key>listenerAwayAdapter</key>
+	<string>displayableMediaScale</string>
+	<key>mediaForPhase</key>
+	<string>boxLayerColor</string>
+	<key>previewFormRotation</key>
+	<string>compositionProcessDirection</string>
+	<key>retainedAxisSize</key>
+	<string>builderPatternOpacity</string>
+	<key>stampThroughComposite</key>
+	<string>aspectFrameworkType</string>
+	<key>tweenScopeSkewy</key>
+	<string>compositionNumberEdge</string>
+</dict>
+</plist>

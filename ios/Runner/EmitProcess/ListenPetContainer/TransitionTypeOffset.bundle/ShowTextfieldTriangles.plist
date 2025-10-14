@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRequestBorder</key>
+	<string>disabledTernaryResponse</string>
+	<key>borderTypeMargin</key>
+	<string>accordionDelegateFormat</string>
+	<key>dedicatedSceneContrast</key>
+	<string>draggableStoreScale</string>
+	<key>delicateAsyncTail</key>
+	<string>visibleCoordinatorSpacing</string>
+	<key>documentStyleMargin</key>
+	<string>immediateBuilderKind</string>
+	<key>expandedFormTail</key>
+	<string>tabbarCompositeTop</string>
+	<key>immutableTransformerTop</key>
+	<string>borderFromFunction</string>
+	<key>iterativeFactoryFeedback</key>
+	<string>delicateDrawerTransparency</string>
+	<key>nibContextMargin</key>
+	<string>viewVarSpeed</string>
+</dict>
+</plist>

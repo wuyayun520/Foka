@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedOperationMode</key>
+	<string>effectObserverMode</string>
+	<key>asyncLabelAlignment</key>
+	<string>responsiveSlashBorder</string>
+	<key>convolutionAmongStrategy</key>
+	<string>petNumberBottom</string>
+	<key>hashBufferCount</key>
+	<string>interactiveBlocVelocity</string>
+	<key>lossVisitorPosition</key>
+	<string>semanticsThroughStructure</string>
+	<key>presenterProxyShape</key>
+	<string>dropdownbuttonNumberBound</string>
+	<key>vectorStageBottom</key>
+	<string>decorationLayerState</string>
+</dict>
+</plist>

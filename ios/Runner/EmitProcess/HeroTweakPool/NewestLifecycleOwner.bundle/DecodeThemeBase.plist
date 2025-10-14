@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerAmongAction</key>
+	<string>reducerProxyVelocity</string>
+	<key>marginStyleRotation</key>
+	<string>composableRemainderMargin</string>
+	<key>modelThroughObserver</key>
+	<string>exceptionAndEnvironment</string>
+	<key>statefulRowOpacity</key>
+	<string>rowBesideVar</string>
+</dict>
+</plist>

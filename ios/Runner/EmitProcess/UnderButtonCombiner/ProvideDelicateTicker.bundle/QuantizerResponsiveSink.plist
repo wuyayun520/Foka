@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnContextTint</key>
+	<string>currentCurveColor</string>
+	<key>dependencyUntilKind</key>
+	<string>movementBesideState</string>
+	<key>diffableGroupName</key>
+	<string>customCubitEdge</string>
+	<key>eagerMenuMode</key>
+	<string>timerPlatformRate</string>
+	<key>effectEnvironmentFlags</key>
+	<string>repositoryVersusPattern</string>
+	<key>labelPlatformStatus</key>
+	<string>resourceUntilCycle</string>
+	<key>statelessMemberLeft</key>
+	<string>sequentialStatefulMargin</string>
+	<key>techniqueAwayEnvironment</key>
+	<string>mediaqueryAsStructure</string>
+</dict>
+</plist>

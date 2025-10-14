@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectAroundMemento</key>
+	<string>providerOrState</string>
+	<key>heroFlyweightVisibility</key>
+	<string>metadataStageIndex</string>
+	<key>listenerExceptState</key>
+	<string>controllerViaFramework</string>
+	<key>metadataInterpreterStyle</key>
+	<string>heapForChain</string>
+	<key>metadataViaState</key>
+	<string>temporaryChallengeStyle</string>
+	<key>navigatorThanActivity</key>
+	<string>denseCursorBottom</string>
+	<key>newestTweenOffset</key>
+	<string>easyChannelsVelocity</string>
+	<key>persistentTitleFrequency</key>
+	<string>symmetricDurationAppearance</string>
+	<key>subtleSliderInterval</key>
+	<string>declarativeMenuAcceleration</string>
+</dict>
+</plist>

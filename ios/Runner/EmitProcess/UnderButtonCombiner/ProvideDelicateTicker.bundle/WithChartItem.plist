@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPrototypeVisibility</key>
+	<string>handlerLevelValidation</string>
+	<key>bufferLayerCount</key>
+	<string>fixedDimensionBound</string>
+	<key>cubitFunctionSkewy</key>
+	<string>usedStreamBorder</string>
+	<key>extensionPerAdapter</key>
+	<string>commandOperationTheme</string>
+	<key>graphicJobSkewx</key>
+	<string>sineProxyDuration</string>
+	<key>providerObserverDelay</key>
+	<string>diversifiedBuilderState</string>
+	<key>queueFlyweightOrigin</key>
+	<string>textureDecoratorInset</string>
+</dict>
+</plist>

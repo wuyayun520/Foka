@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentOfStrategy</key>
+	<string>inheritedCubitRate</string>
+	<key>chartUntilPrototype</key>
+	<string>textureStrategyFlags</string>
+	<key>entityFormDepth</key>
+	<string>controllerScopeOffset</string>
+	<key>progressbarVersusBuffer</key>
+	<string>graphMediatorSkewy</string>
+	<key>sizeWithBuffer</key>
+	<string>synchronousCommandStatus</string>
+	<key>subpixelProxyVisible</key>
+	<string>borderWithoutFunction</string>
+	<key>tappableIsolateCoord</key>
+	<string>uniqueNavigatorTag</string>
+	<key>tappableScreenValidation</key>
+	<string>customizedIntensityOrientation</string>
+	<key>temporaryPointMode</key>
+	<string>fusedConfigurationMargin</string>
+	<key>tensorHashDistance</key>
+	<string>tabviewAgainstSystem</string>
+</dict>
+</plist>

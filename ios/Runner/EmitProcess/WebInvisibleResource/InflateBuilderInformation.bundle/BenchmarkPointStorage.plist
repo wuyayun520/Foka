@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolateUntilParameter</key>
+	<string>enabledAxisDirection</string>
+	<key>matrixByValue</key>
+	<string>customSizeDuration</string>
+	<key>specifierDecoratorRotation</key>
+	<string>displayableTransitionFlags</string>
+</dict>
+</plist>

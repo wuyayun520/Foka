@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRouteCount</key>
+	<string>masterInBuffer</string>
+	<key>criticalChannelFeedback</key>
+	<string>serviceAwayTask</string>
+	<key>hashOutsideComposite</key>
+	<string>momentumAndParam</string>
+	<key>loopViaStyle</key>
+	<string>responseVarBound</string>
+	<key>nodeShapeTint</key>
+	<string>statelessDuringTask</string>
+	<key>requestModeDuration</key>
+	<string>sineObserverRotation</string>
+	<key>resourcePatternBound</key>
+	<string>declarativeButtonVisible</string>
+	<key>threadParamSize</key>
+	<string>stampMethodLeft</string>
+</dict>
+</plist>

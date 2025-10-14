@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectStateShade</key>
+	<string>alphaSingletonFlags</string>
+	<key>blocOperationOrientation</key>
+	<string>cellCycleCoord</string>
+	<key>columnAlongBuffer</key>
+	<string>activityValueStyle</string>
+	<key>constraintVisitorValidation</key>
+	<string>buttonFlyweightBorder</string>
+</dict>
+</plist>

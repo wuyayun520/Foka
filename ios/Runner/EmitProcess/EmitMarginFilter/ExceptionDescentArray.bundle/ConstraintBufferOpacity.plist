@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorInFramework</key>
+	<string>spineAmongPattern</string>
+	<key>cubitPlatformScale</key>
+	<string>easyTweenState</string>
+	<key>grainIncludeStructure</key>
+	<string>directStateInteraction</string>
+	<key>routeWithFramework</key>
+	<string>offsetVersusAdapter</string>
+	<key>scrollableAssetHue</key>
+	<string>draggableLocalizationTransparency</string>
+	<key>symbolOperationFrequency</key>
+	<string>expandedThanInterpreter</string>
+	<key>timerPrototypeCount</key>
+	<string>alphaTierOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAdapterInset</key>
+	<string>visibleCubeAppearance</string>
+	<key>offsetSinceFramework</key>
+	<string>missedInstructionDuration</string>
+	<key>textfieldCommandOffset</key>
+	<string>webNormCoord</string>
+	<key>toolFacadeFrequency</key>
+	<string>difficultStackSpeed</string>
+</dict>
+</plist>

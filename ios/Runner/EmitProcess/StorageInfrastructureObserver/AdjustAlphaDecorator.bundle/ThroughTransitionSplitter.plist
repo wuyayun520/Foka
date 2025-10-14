@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorDespiteSingleton</key>
+	<string>parallelExponentPosition</string>
+	<key>collectionLayerSpacing</key>
+	<string>temporaryIconVelocity</string>
+	<key>configurationStateStyle</key>
+	<string>cacheVisitorKind</string>
+	<key>iterativeProjectBehavior</key>
+	<string>tensorRouterInteraction</string>
+	<key>lazyProgressbarSize</key>
+	<string>timerVarOffset</string>
+	<key>publicRadiusBrightness</key>
+	<string>visibleNodeScale</string>
+	<key>staticCubitRight</key>
+	<string>originalControllerCenter</string>
+	<key>texturePerParam</key>
+	<string>viewKindVisibility</string>
+</dict>
+</plist>

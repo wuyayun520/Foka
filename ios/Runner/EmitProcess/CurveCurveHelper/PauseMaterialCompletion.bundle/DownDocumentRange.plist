@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRepositoryKind</key>
+	<string>taskForState</string>
+	<key>concurrentFrameFlags</key>
+	<string>elasticPageviewBorder</string>
+	<key>cupertinoRouterOrientation</key>
+	<string>hierarchicalSceneKind</string>
+	<key>handlerWithoutStructure</key>
+	<string>variantWithoutType</string>
+	<key>mobileSceneBorder</key>
+	<string>captionMethodSkewy</string>
+	<key>rowLayerPadding</key>
+	<string>priorityFrameworkHue</string>
+	<key>scrollKindStatus</key>
+	<string>asyncAwaitFeedback</string>
+	<key>standaloneSpecifierSpeed</key>
+	<string>priorityCompositeDensity</string>
+	<key>storageAgainstComposite</key>
+	<string>responseAroundFramework</string>
+</dict>
+</plist>

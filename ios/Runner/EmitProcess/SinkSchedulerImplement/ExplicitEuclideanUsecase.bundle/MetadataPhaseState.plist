@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsAgainstScope</key>
+	<string>statefulStyleShade</string>
+	<key>constSensorDelay</key>
+	<string>mobxOrState</string>
+	<key>coordinatorMementoOpacity</key>
+	<string>blocOfBuffer</string>
+	<key>currentFrameCoord</key>
+	<string>cartesianCheckboxTint</string>
+	<key>dependencyBufferOpacity</key>
+	<string>queryParamTransparency</string>
+	<key>groupContainPrototype</key>
+	<string>disabledSliderDepth</string>
+	<key>localInstructionScale</key>
+	<string>customizedLocalizationState</string>
+	<key>reducerAwayMemento</key>
+	<string>crucialRouteColor</string>
+</dict>
+</plist>

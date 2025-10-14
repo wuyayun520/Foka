@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerActivityBrightness</key>
+	<string>interactiveCompletionInterval</string>
+	<key>errorLevelDensity</key>
+	<string>durationAtContext</string>
+	<key>iterativeSwitchScale</key>
+	<string>sequentialTickerOffset</string>
+	<key>reusableAllocatorBound</key>
+	<string>capacitiesTemplePressure</string>
+</dict>
+</plist>

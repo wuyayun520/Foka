@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorForState</key>
+	<string>completerPerBuffer</string>
+	<key>descriptionInProxy</key>
+	<string>behaviorAboutFramework</string>
+	<key>intuitiveAllocatorVisible</key>
+	<string>immediateNotifierSpeed</string>
+	<key>mapUntilProxy</key>
+	<string>rowPatternShade</string>
+	<key>missionViaFramework</key>
+	<string>directlyRowBorder</string>
+	<key>queryAtVisitor</key>
+	<string>usedProjectTop</string>
+	<key>semanticAnchorName</key>
+	<string>enabledChapterOrientation</string>
+</dict>
+</plist>

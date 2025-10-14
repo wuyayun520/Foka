@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorDuringFlyweight</key>
+	<string>webSegueSpacing</string>
+	<key>diversifiedTaskInteraction</key>
+	<string>interactiveTextureRotation</string>
+	<key>draggableChartInteraction</key>
+	<string>cubitObserverFormat</string>
+	<key>dropdownbuttonVersusShape</key>
+	<string>screenUntilTask</string>
+	<key>gramWithoutStyle</key>
+	<string>coordinatorPrototypeSpacing</string>
+	<key>seamlessGateInset</key>
+	<string>queryChainOpacity</string>
+	<key>spineForPhase</key>
+	<string>fusedResourcePosition</string>
+</dict>
+</plist>

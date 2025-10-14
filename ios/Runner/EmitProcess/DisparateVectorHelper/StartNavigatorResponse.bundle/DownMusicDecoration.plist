@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveAgainstFramework</key>
+	<string>chartInCycle</string>
+	<key>dialogsNearStrategy</key>
+	<string>momentumActivityStatus</string>
+	<key>mediaqueryInterpreterResponse</key>
+	<string>sustainableLabelStyle</string>
+	<key>modelStateBehavior</key>
+	<string>missedModalBound</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMissionInteraction</key>
+	<string>specifyEventDepth</string>
+	<key>controllerInsideChain</key>
+	<string>challengeTierForce</string>
+	<key>durationByType</key>
+	<string>responseWithContext</string>
+	<key>interactorSincePattern</key>
+	<string>menuPlatformIndex</string>
+	<key>sharedScaffoldTransparency</key>
+	<string>scrollableSpriteShade</string>
+	<key>standaloneBrushSpeed</key>
+	<string>contractionPrototypeEdge</string>
+	<key>symbolContainTier</key>
+	<string>curveFrameworkSkewx</string>
+	<key>themeBridgeBehavior</key>
+	<string>displayableIconFlags</string>
+</dict>
+</plist>

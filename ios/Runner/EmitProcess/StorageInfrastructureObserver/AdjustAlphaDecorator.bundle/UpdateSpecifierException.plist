@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleWidgetInteraction</key>
+	<string>contractionStyleTail</string>
+	<key>composableStreamState</key>
+	<string>taskAtScope</string>
+	<key>rapidBaseName</key>
+	<string>draggableLayoutName</string>
+	<key>semanticAccessoryBottom</key>
+	<string>stateStageColor</string>
+	<key>signatureContextOpacity</key>
+	<string>materialCardColor</string>
+	<key>switchAtFlyweight</key>
+	<string>descriptionAdapterInset</string>
+</dict>
+</plist>

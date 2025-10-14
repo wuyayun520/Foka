@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchIncludeNumber</key>
+	<string>navigationLevelHead</string>
+	<key>constModalBorder</key>
+	<string>referenceVersusDecorator</string>
+	<key>cyclePerCommand</key>
+	<string>titleWithoutVariable</string>
+	<key>otherMenuDuration</key>
+	<string>interfacePerPattern</string>
+	<key>titleProcessOrigin</key>
+	<string>significantCapacitiesSkewy</string>
+</dict>
+</plist>

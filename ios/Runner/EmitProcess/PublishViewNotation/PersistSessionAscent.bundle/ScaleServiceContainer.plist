@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveDuringLevel</key>
+	<string>typicalLayerMode</string>
+	<key>decorationThroughFacade</key>
+	<string>paddingLikeComposite</string>
+	<key>effectLayerLeft</key>
+	<string>immutableAppbarOpacity</string>
+	<key>eventWithoutSystem</key>
+	<string>autoResolverCenter</string>
+	<key>imageInterpreterFlags</key>
+	<string>mobileStoreOrigin</string>
+	<key>nativeRadiusTag</key>
+	<string>graphicContainProcess</string>
+	<key>pointAsDecorator</key>
+	<string>particleAndVar</string>
+	<key>statelessActivityResponse</key>
+	<string>modalInsideStyle</string>
+</dict>
+</plist>

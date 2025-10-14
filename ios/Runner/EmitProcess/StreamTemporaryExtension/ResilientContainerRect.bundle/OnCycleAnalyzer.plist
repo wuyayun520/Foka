@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTempleBound</key>
+	<string>slashWorkBehavior</string>
+	<key>aspectWithParam</key>
+	<string>publicTextureStatus</string>
+	<key>controllerLikeLevel</key>
+	<string>mediaqueryFormVisible</string>
+	<key>interactorProcessBorder</key>
+	<string>ephemeralOffsetSpacing</string>
+	<key>listenerStageStyle</key>
+	<string>opaqueGraphForce</string>
+	<key>providerNumberState</key>
+	<string>nodeDecoratorSpacing</string>
+	<key>stepInContext</key>
+	<string>stateLayerResponse</string>
+	<key>textSinceFramework</key>
+	<string>resizableDialogsTension</string>
+</dict>
+</plist>

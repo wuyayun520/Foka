@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerMethodType</key>
+	<string>instructionProcessInteraction</string>
+	<key>discardedCustompaintShade</key>
+	<string>segueAtLayer</string>
+	<key>displayableBufferFormat</key>
+	<string>graphNumberShape</string>
+	<key>eventAgainstStrategy</key>
+	<string>singletonTempleSize</string>
+	<key>intensityKindOrientation</key>
+	<string>desktopProjectBrightness</string>
+	<key>missedResourceBrightness</key>
+	<string>compositionInterpreterBorder</string>
+	<key>routeThroughLevel</key>
+	<string>elasticTickerValidation</string>
+	<key>seamlessAxisIndex</key>
+	<string>normalInterpolationHue</string>
+	<key>sortedProviderOffset</key>
+	<string>textfieldLevelIndex</string>
+</dict>
+</plist>

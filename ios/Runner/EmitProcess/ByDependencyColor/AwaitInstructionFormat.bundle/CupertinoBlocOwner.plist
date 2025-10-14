@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAspectratioType</key>
+	<string>cellActionSkewy</string>
+	<key>curveDespiteLayer</key>
+	<string>concreteGridShape</string>
+	<key>riverpodObserverHead</key>
+	<string>routeVersusLayer</string>
+	<key>sensorBesideTemple</key>
+	<string>discardedHeapShape</string>
+	<key>unactivatedThreadAppearance</key>
+	<string>unactivatedStorageSkewy</string>
+</dict>
+</plist>

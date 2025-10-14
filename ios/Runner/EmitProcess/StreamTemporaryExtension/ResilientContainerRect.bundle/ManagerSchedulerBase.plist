@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandStrategySkewy</key>
+	<string>titleAboutMethod</string>
+	<key>decorationForStructure</key>
+	<string>lostDescriptorEdge</string>
+	<key>futureParamOrientation</key>
+	<string>listviewLikeStructure</string>
+	<key>movementValueInterval</key>
+	<string>rowSinceMediator</string>
+	<key>multiPreviewDistance</key>
+	<string>largeCubitOffset</string>
+</dict>
+</plist>

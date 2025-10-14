@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerLikeMediator</key>
+	<string>utilBeyondKind</string>
+	<key>mediaqueryOfObserver</key>
+	<string>eagerNavigatorFrequency</string>
+	<key>priorActivityMode</key>
+	<string>firstUnaryMargin</string>
+	<key>routeProcessVisibility</key>
+	<string>animationOfAdapter</string>
+	<key>singleRemainderShade</key>
+	<string>transformerChainScale</string>
+	<key>stateVisitorBehavior</key>
+	<string>viewNearProxy</string>
+</dict>
+</plist>

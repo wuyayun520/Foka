@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheAroundPrototype</key>
+	<string>menuOrOperation</string>
+	<key>effectDecoratorDensity</key>
+	<string>grainObserverStyle</string>
+	<key>heapAboutBridge</key>
+	<string>resultIncludeVisitor</string>
+	<key>respectiveUnaryBorder</key>
+	<string>offsetStructureVisible</string>
+</dict>
+</plist>

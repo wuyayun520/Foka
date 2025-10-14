@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAtEnvironment</key>
+	<string>uniqueBaselineContrast</string>
+	<key>constAllocatorOrientation</key>
+	<string>responsiveEntityScale</string>
+	<key>delegateBufferCenter</key>
+	<string>asynchronousTitleDuration</string>
+	<key>statefulTitleTop</key>
+	<string>menuForChain</string>
+	<key>tableDuringMemento</key>
+	<string>subpixelActionForce</string>
+	<key>textAlongType</key>
+	<string>coordinatorProxyDuration</string>
+</dict>
+</plist>

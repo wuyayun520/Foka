@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandIncludeType</key>
+	<string>usedSegueDistance</string>
+	<key>playbackMethodVisibility</key>
+	<string>tabviewFrameworkBehavior</string>
+	<key>storyboardNearMediator</key>
+	<string>resizableChannelsPosition</string>
+	<key>subscriptionBridgeAcceleration</key>
+	<string>originalSignKind</string>
+</dict>
+</plist>

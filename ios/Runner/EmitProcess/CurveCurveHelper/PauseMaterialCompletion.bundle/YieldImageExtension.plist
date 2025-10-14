@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineBeyondAction</key>
+	<string>statelessUntilObserver</string>
+	<key>boxAlongContext</key>
+	<string>parallelRouterInteraction</string>
+	<key>concurrentViewStatus</key>
+	<string>gridviewThanFlyweight</string>
+	<key>explicitBoxFeedback</key>
+	<string>kernelTaskFrequency</string>
+	<key>functionalGestureRotation</key>
+	<string>fusedListviewName</string>
+	<key>liteGrainLocation</key>
+	<string>taskAroundProxy</string>
+	<key>mobxMethodPressure</key>
+	<string>adaptiveChapterTransparency</string>
+	<key>stateSystemTension</key>
+	<string>diffableFlexSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,13 @@
+"NSUserTrackingUsageDescription" = "Cihaz tanımlayıcı bilgilerine erişim, hesap işlemlerinizi korumak ve kişiselleştirilmiş reklam hizmetleri sunmak için kullanılacaktır.";
+
+"NSPhotoLibraryUsageDescription" = "Albüme erişerek fotoğrafları alın ve kapak fotoğrafını güncelleyin. Yasaklanmışsa, kapak fotoğrafınızı güncelleyemezsiniz.";
+
+"NSLocationWhenInUseUsageDescription" = "Yakındaki kullanıcıları görüntülemek yasaklanmışsa, konumunuza erişerek yakınınızdaki kullanıcıları görüntüleyin.";
+
+"NSCameraUsageDescription" = "Fotoğraf çekmek ve kapak fotoğrafını güncellemek için kameraya erişin. Yasaklanmışsa, kapak fotoğrafınız güncellenmeyecektir.";
+
+"NSLocationAlwaysUsageDescription" = "Yakındaki kullanıcıları görüntülemek yasaklanmışsa, konumunuza erişerek yakınınızdaki kullanıcıları görüntüleyin.";
+
+"NSPhotoLibraryAddUsageDescription" = "Yeni fotoğraf eklemek için fotoğraf kitaplığına erişim";
+
+"NSMicrophoneUsageDescription" = "Sesli mesajları kaydetmek için mikrofona erişin, yasaklanmışsa ses kaydedilemez ve gönderilemez.";

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarySingletonBound</key>
+	<string>directPlaybackInset</string>
+	<key>borderPhaseTransparency</key>
+	<string>stackAsParameter</string>
+	<key>checklistAdapterBorder</key>
+	<string>prevListenerMomentum</string>
+	<key>currentConfigurationInset</key>
+	<string>intensityFromNumber</string>
+	<key>effectOfMediator</key>
+	<string>interactiveMobxPressure</string>
+	<key>enabledStatefulFormat</key>
+	<string>contractionIncludeState</string>
+	<key>metadataLikeMemento</key>
+	<string>flexLevelShape</string>
+	<key>modulusStrategyPosition</key>
+	<string>sustainableSemanticsMode</string>
+</dict>
+</plist>

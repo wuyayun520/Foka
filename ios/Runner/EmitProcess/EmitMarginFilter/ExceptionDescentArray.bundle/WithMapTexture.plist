@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackInterpreterCount</key>
+	<string>topicNearLevel</string>
+	<key>decorationActivityTransparency</key>
+	<string>activityCommandValidation</string>
+	<key>diffableStateTheme</key>
+	<string>significantControllerBorder</string>
+	<key>inkwellAtKind</key>
+	<string>awaitLikeFacade</string>
+	<key>notificationAgainstLevel</key>
+	<string>greatScaffoldSkewy</string>
+	<key>priorNodeCoord</key>
+	<string>sequentialPopupVisible</string>
+	<key>rectAmongLevel</key>
+	<string>serviceDuringShape</string>
+	<key>symmetricFragmentLeft</key>
+	<string>awaitCommandCount</string>
+</dict>
+</plist>

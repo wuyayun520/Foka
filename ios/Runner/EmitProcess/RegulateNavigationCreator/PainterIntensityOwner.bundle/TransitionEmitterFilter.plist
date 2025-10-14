@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackStyleHue</key>
+	<string>convolutionForMemento</string>
+	<key>channelBeyondBuffer</key>
+	<string>typicalViewSaturation</string>
+	<key>hardLabelScale</key>
+	<string>fixedObserverOrigin</string>
+	<key>notifierContextDuration</key>
+	<string>persistentCardOrigin</string>
+	<key>transitionWithShape</key>
+	<string>plateSingletonDepth</string>
+</dict>
+</plist>

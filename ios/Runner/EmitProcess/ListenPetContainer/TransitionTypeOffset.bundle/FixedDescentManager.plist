@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopLabelBehavior</key>
+	<string>missionIncludeObserver</string>
+	<key>intermediateMatrixSkewx</key>
+	<string>behaviorStrategyContrast</string>
+	<key>pivotalRowInset</key>
+	<string>scaffoldObserverName</string>
+	<key>reducerMethodDuration</key>
+	<string>methodContainMethod</string>
+	<key>threadKindType</key>
+	<string>sequentialReducerMode</string>
+</dict>
+</plist>

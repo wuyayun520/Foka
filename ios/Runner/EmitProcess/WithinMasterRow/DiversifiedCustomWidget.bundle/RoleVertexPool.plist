@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartSystemBorder</key>
+	<string>largeDimensionVisibility</string>
+	<key>checkboxProxyLocation</key>
+	<string>retainedHandlerValidation</string>
+	<key>directCompleterRate</key>
+	<string>activeProfileBound</string>
+	<key>directStateOrigin</key>
+	<string>singleAwaitScale</string>
+	<key>marginTypeDelay</key>
+	<string>normAlongDecorator</string>
+	<key>navigationOutsideChain</key>
+	<string>gridviewAsFlyweight</string>
+	<key>signObserverInteraction</key>
+	<string>injectionLayerStatus</string>
+	<key>uniqueLocalizationDelay</key>
+	<string>captionOutsideScope</string>
+	<key>widgetFlyweightAlignment</key>
+	<string>paddingAndStyle</string>
+</dict>
+</plist>

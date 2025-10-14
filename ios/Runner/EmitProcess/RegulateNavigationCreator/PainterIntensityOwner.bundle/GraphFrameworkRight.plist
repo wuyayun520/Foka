@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryPatternInteraction</key>
+	<string>scaleProxyPosition</string>
+	<key>eventAdapterColor</key>
+	<string>gesturedetectorSystemSkewx</string>
+	<key>scrollableMobileState</key>
+	<string>previewTaskTail</string>
+	<key>streamThroughMode</key>
+	<string>textActivityVisible</string>
+	<key>utilAwayFramework</key>
+	<string>radiusProcessTag</string>
+</dict>
+</plist>

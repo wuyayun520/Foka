@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDrawerMode</key>
+	<string>dependencyInterpreterStyle</string>
+	<key>animatedRadioVisibility</key>
+	<string>switchLevelSpacing</string>
+	<key>callbackFormBehavior</key>
+	<string>borderFromFunction</string>
+	<key>composableVectorContrast</key>
+	<string>originalMovementColor</string>
+	<key>rapidSceneTension</key>
+	<string>deferredInjectionResponse</string>
+	<key>relationalLogarithmLocation</key>
+	<string>segueFunctionOrientation</string>
+	<key>smallPositionedAcceleration</key>
+	<string>variantStrategyInset</string>
+	<key>subscriptionVarOffset</key>
+	<string>originalEqualizationPressure</string>
+	<key>subsequentGroupStatus</key>
+	<string>gridviewActivityStatus</string>
+</dict>
+</plist>

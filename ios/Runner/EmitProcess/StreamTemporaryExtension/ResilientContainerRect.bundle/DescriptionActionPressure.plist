@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeOverlaySize</key>
+	<string>declarativeZoneTop</string>
+	<key>elasticListenerTop</key>
+	<string>switchStateBound</string>
+	<key>imagePhaseBound</key>
+	<string>mutableServiceFlags</string>
+	<key>labelFormSpacing</key>
+	<string>mobileSceneRotation</string>
+	<key>slashStageForce</key>
+	<string>injectionMediatorPressure</string>
+</dict>
+</plist>

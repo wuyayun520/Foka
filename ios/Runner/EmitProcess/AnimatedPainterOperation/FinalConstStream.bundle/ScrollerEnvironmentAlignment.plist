@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonFromObserver</key>
+	<string>interactorWorkMode</string>
+	<key>constraintCompositeBrightness</key>
+	<string>heapFormColor</string>
+	<key>cupertinoShapeDistance</key>
+	<string>aspectratioSinceOperation</string>
+	<key>dependencyShapePadding</key>
+	<string>themeInLevel</string>
+	<key>giftLevelInset</key>
+	<string>animatedUsageCenter</string>
+	<key>lazyCurveSpacing</key>
+	<string>baseStrategyType</string>
+	<key>sharedDurationPosition</key>
+	<string>permissiveDelegateOffset</string>
+</dict>
+</plist>

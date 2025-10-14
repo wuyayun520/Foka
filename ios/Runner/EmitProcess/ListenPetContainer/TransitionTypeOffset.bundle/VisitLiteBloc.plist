@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constReducerLocation</key>
+	<string>staticGrayscaleOpacity</string>
+	<key>crudeServiceBorder</key>
+	<string>smartAppbarStyle</string>
+	<key>exponentUntilParam</key>
+	<string>tensorGridviewHue</string>
+	<key>invisibleCompleterInteraction</key>
+	<string>factoryEnvironmentRate</string>
+	<key>materialAlignmentInteraction</key>
+	<string>localizationThanWork</string>
+	<key>tableNearShape</key>
+	<string>interactorOperationPosition</string>
+</dict>
+</plist>

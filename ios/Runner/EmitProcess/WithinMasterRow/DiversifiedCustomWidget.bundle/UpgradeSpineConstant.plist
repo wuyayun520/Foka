@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystAsType</key>
+	<string>alignmentBufferTheme</string>
+	<key>commandSystemFormat</key>
+	<string>relationalInteractorFormat</string>
+	<key>controllerStyleInteraction</key>
+	<string>coordinatorVersusValue</string>
+	<key>dimensionForState</key>
+	<string>cubeOperationVelocity</string>
+	<key>lazySensorTag</key>
+	<string>titleValueDelay</string>
+	<key>methodDecoratorTint</key>
+	<string>entropyDespiteStrategy</string>
+	<key>prevErrorBound</key>
+	<string>autoChannelResponse</string>
+	<key>resolverMementoBrightness</key>
+	<string>independentDescriptionDuration</string>
+</dict>
+</plist>

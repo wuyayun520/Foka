@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAdapterPosition</key>
+	<string>beginnerQueryColor</string>
+	<key>baseBufferPressure</key>
+	<string>crucialProgressbarVisibility</string>
+	<key>nativeDropdownbuttonRight</key>
+	<string>sensorByAction</string>
+	<key>routerActionInset</key>
+	<string>requestActionInset</string>
+	<key>skinSinceTier</key>
+	<string>displayableContainerAlignment</string>
+</dict>
+</plist>

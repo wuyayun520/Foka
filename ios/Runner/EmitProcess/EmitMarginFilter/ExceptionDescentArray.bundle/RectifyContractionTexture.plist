@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupObserverCenter</key>
+	<string>dependencyVisitorAcceleration</string>
+	<key>handlerPatternTransparency</key>
+	<string>dimensionPerTier</string>
+	<key>hardFactoryBottom</key>
+	<string>cubitSingletonScale</string>
+	<key>parallelStreamSkewy</key>
+	<string>textOrJob</string>
+	<key>presenterOutsideFunction</key>
+	<string>alignmentWorkSpacing</string>
+</dict>
+</plist>

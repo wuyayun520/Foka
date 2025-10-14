@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAgainstLevel</key>
+	<string>textureVariableDirection</string>
+	<key>animationBufferEdge</key>
+	<string>deferredCubitResponse</string>
+	<key>awaitParamIndex</key>
+	<string>alignmentOfEnvironment</string>
+	<key>dedicatedCoordinatorAcceleration</key>
+	<string>containerVariableKind</string>
+	<key>graphPatternTint</key>
+	<string>loopParamBottom</string>
+	<key>opaqueDecorationCenter</key>
+	<string>titleIncludeVar</string>
+	<key>scrollAwayAdapter</key>
+	<string>builderByPrototype</string>
+	<key>smartRouteStyle</key>
+	<string>queryNearVisitor</string>
+	<key>staticGridviewBottom</key>
+	<string>extensionCompositeBound</string>
+</dict>
+</plist>

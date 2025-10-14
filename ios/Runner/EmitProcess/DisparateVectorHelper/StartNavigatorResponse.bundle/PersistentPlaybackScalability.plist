@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferUntilFunction</key>
+	<string>controllerOrForm</string>
+	<key>contractionOrProcess</key>
+	<string>tappableNavigatorTag</string>
+	<key>fusedProviderTop</key>
+	<string>constLayoutTransparency</string>
+	<key>gridAsObserver</key>
+	<string>temporaryBehaviorPadding</string>
+	<key>iconStructureDirection</key>
+	<string>loopAsLevel</string>
+	<key>lazySceneColor</key>
+	<string>specifierWithoutState</string>
+	<key>mobxBesidePrototype</key>
+	<string>specifierByMediator</string>
+	<key>playbackStrategyType</key>
+	<string>remainderScopeShape</string>
+	<key>themeVarVelocity</key>
+	<string>labelLikeOperation</string>
+</dict>
+</plist>

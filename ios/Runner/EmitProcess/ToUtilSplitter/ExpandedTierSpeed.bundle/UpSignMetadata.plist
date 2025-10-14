@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousUtilTint</key>
+	<string>eventOutsideContext</string>
+	<key>batchAroundStructure</key>
+	<string>intermediateAssetDelay</string>
+	<key>directlyProgressbarEdge</key>
+	<string>featureBesideInterpreter</string>
+	<key>frameAsObserver</key>
+	<string>rowCompositeLeft</string>
+	<key>interfaceAboutSingleton</key>
+	<string>storageParamTint</string>
+	<key>iterativeMarginMode</key>
+	<string>tappablePromiseTop</string>
+	<key>optionActivityColor</key>
+	<string>transitionIncludePhase</string>
+	<key>popupStrategySpacing</key>
+	<string>awaitStyleOrigin</string>
+	<key>standaloneInteractorSaturation</key>
+	<string>chartAwayStage</string>
+	<key>tabviewAroundState</key>
+	<string>buttonAroundInterpreter</string>
+</dict>
+</plist>

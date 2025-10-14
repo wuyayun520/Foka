@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorVarOffset</key>
+	<string>chapterStructureBorder</string>
+	<key>associatedResourceRate</key>
+	<string>collectionStageContrast</string>
+	<key>cubitThroughPattern</key>
+	<string>tangentOrAdapter</string>
+	<key>interactorValueBrightness</key>
+	<string>numericalGrainSkewx</string>
+	<key>newestChannelPadding</key>
+	<string>mediaqueryModeType</string>
+	<key>resourceStageBehavior</key>
+	<string>standaloneAllocatorDistance</string>
+	<key>textInPattern</key>
+	<string>interactorProcessContrast</string>
+	<key>tweenBesideStructure</key>
+	<string>accordionCallbackSize</string>
+	<key>utilSinceMethod</key>
+	<string>catalystAdapterVisibility</string>
+</dict>
+</plist>

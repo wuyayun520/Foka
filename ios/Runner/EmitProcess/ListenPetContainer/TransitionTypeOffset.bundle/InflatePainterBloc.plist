@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardLikeFramework</key>
+	<string>localizationAdapterCount</string>
+	<key>consultativeGridDelay</key>
+	<string>instructionStyleDensity</string>
+	<key>diffableSampleKind</key>
+	<string>interactivePreviewAcceleration</string>
+	<key>imperativeExpandedOrientation</key>
+	<string>delegatePrototypeOrigin</string>
+	<key>pointFlyweightPosition</key>
+	<string>widgetOfContext</string>
+	<key>unsortedNodeAppearance</key>
+	<string>switchInsidePrototype</string>
+</dict>
+</plist>

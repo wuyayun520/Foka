@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderContainVar</key>
+	<string>localizationBesideEnvironment</string>
+	<key>chartMementoSpacing</key>
+	<string>entityShapeContrast</string>
+	<key>factoryObserverTransparency</key>
+	<string>navigatorUntilAction</string>
+	<key>nibCompositeRotation</key>
+	<string>sequentialInterpolationVelocity</string>
+	<key>opaqueRowBorder</key>
+	<string>gridAdapterBehavior</string>
+	<key>overlayOutsideKind</key>
+	<string>keyApertureInset</string>
+	<key>semanticSliderDensity</key>
+	<string>agileEntityScale</string>
+	<key>serviceNearLevel</key>
+	<string>hardObserverAlignment</string>
+	<key>taskFlyweightBound</key>
+	<string>subscriptionOfActivity</string>
+	<key>topicDecoratorSize</key>
+	<string>signatureWithAdapter</string>
+</dict>
+</plist>

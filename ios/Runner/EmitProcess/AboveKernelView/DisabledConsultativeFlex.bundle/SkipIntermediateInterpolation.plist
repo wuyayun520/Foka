@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardGridFormat</key>
+	<string>blocNumberTail</string>
+	<key>hashScopePosition</key>
+	<string>chapterAwayStyle</string>
+	<key>indicatorCycleDensity</key>
+	<string>interactorPerContext</string>
+	<key>methodObserverRight</key>
+	<string>lazyDelegateStyle</string>
+	<key>optimizerContainFramework</key>
+	<string>taskActionFormat</string>
+	<key>synchronousAnimationShape</key>
+	<string>oldWorkflowInteraction</string>
+	<key>titleAlongStrategy</key>
+	<string>borderAboutWork</string>
+</dict>
+</plist>

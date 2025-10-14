@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerPatternValidation</key>
+	<string>stepDespiteType</string>
+	<key>easyUsageTop</key>
+	<string>utilInFunction</string>
+	<key>ignoredDelegateVisibility</key>
+	<string>channelPhaseSkewy</string>
+	<key>layerJobCenter</key>
+	<string>listviewUntilActivity</string>
+	<key>textValueScale</key>
+	<string>primaryCompositionSaturation</string>
+</dict>
+</plist>

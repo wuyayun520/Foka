@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectBridgeType</key>
+	<string>resolverAndParam</string>
+	<key>effectCycleTint</key>
+	<string>groupObserverPressure</string>
+	<key>elasticConsumerSkewx</key>
+	<string>queuePerFlyweight</string>
+	<key>frameDuringCycle</key>
+	<string>localCoordinatorRotation</string>
+	<key>publicRowSkewx</key>
+	<string>decorationShapeBehavior</string>
+	<key>skirtAwayStrategy</key>
+	<string>sliderAtForm</string>
+</dict>
+</plist>

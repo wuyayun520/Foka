@@ -1,0 +1,13 @@
+"NSUserTrackingUsageDescription" = "Mengakses informasi pengidentifikasi divais akan digunakan untuk melindungi transaksi account anda dan mendorong layanan iklan pribadi";
+
+"NSPhotoLibraryUsageDescription" = "Akses album untuk mendapatkan foto dan memperbarui foto sampul. Jika dilarang, cover foto anda tidak dapat diperbarui";
+
+"NSLocationWhenInUseUsageDescription" = "Akses lokasi untuk menampilkan pengguna di dekat anda, jika dilarang menampilkan pengguna di dekatnya";
+
+"NSCameraUsageDescription" = "Akses kamera untuk mengambil foto dan memperbarui foto sampul. Jika dilarang, cover foto anda tidak akan diperbarui";
+
+"NSLocationAlwaysUsageDescription" = "Akses lokasi untuk menampilkan pengguna di dekat anda, jika dilarang menampilkan pengguna di dekatnya";
+
+"NSPhotoLibraryAddUsageDescription" = "Akses ke perpustakaan foto untuk menambahkan foto-foto baru";
+
+"NSMicrophoneUsageDescription" = "Akses mikrofon untuk merekam pesan audio, jika dilarang, audio tidak dapat direkam dan dikirim";

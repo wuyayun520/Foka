@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticObserverVisibility</key>
+	<string>sinkAboutAction</string>
+	<key>beginnerKernelFormat</key>
+	<string>cupertinoLayerPressure</string>
+	<key>completerFunctionSpacing</key>
+	<string>interfaceTierVisible</string>
+	<key>isolateInsideInterpreter</key>
+	<string>statelessAllocatorRotation</string>
+	<key>scrollablePlaybackRight</key>
+	<string>labelVersusState</string>
+	<key>semanticsObserverTransparency</key>
+	<string>webCubitStatus</string>
+	<key>touchStyleFeedback</key>
+	<string>streamAmongKind</string>
+</dict>
+</plist>

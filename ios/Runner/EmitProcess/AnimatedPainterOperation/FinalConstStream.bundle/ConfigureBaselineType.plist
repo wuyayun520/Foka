@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorProxyFrequency</key>
+	<string>queueLevelForce</string>
+	<key>builderIncludeCommand</key>
+	<string>ignoredSpriteTheme</string>
+	<key>interactorLikeFunction</key>
+	<string>exponentIncludeComposite</string>
+	<key>numericalNotificationForce</key>
+	<string>segueAgainstLayer</string>
+	<key>publicIsolateName</key>
+	<string>singletonWithoutAdapter</string>
+	<key>usecaseAlongPlatform</key>
+	<string>resourceSinceBridge</string>
+</dict>
+</plist>

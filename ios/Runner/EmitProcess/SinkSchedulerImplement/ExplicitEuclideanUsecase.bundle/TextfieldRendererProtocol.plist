@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAlongPhase</key>
+	<string>behaviorBeyondLayer</string>
+	<key>declarativeStoryboardPadding</key>
+	<string>enabledTabviewVelocity</string>
+	<key>memberLevelStyle</key>
+	<string>integerProxyOpacity</string>
+	<key>relationalSizedboxTint</key>
+	<string>topicFunctionDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialMenuShade</key>
+	<string>queryMethodLeft</string>
+	<key>customDelegateFlags</key>
+	<string>numericalFutureBottom</string>
+	<key>keyMemberType</key>
+	<string>constBaselineInteraction</string>
+	<key>matrixOrStructure</key>
+	<string>multiCurveValidation</string>
+	<key>spotCommandState</key>
+	<string>previewMethodAlignment</string>
+	<key>viewStateInteraction</key>
+	<string>rectAndFlyweight</string>
+</dict>
+</plist>

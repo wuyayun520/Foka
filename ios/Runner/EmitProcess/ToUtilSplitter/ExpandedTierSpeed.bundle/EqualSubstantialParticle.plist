@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticIconResponse</key>
+	<string>methodFromCommand</string>
+	<key>backwardResolverScale</key>
+	<string>subpixelByBuffer</string>
+	<key>dependencySystemOpacity</key>
+	<string>smartMasterState</string>
+	<key>featureNearContext</key>
+	<string>builderWithoutKind</string>
+	<key>momentumLayerBrightness</key>
+	<string>allocatorPerFacade</string>
+	<key>routeFlyweightDirection</key>
+	<string>eventSystemFormat</string>
+</dict>
+</plist>

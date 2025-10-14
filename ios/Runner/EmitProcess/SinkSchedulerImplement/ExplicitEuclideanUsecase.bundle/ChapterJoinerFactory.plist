@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionLayerSkewy</key>
+	<string>currentControllerInset</string>
+	<key>numericalScaleDuration</key>
+	<string>textInsideShape</string>
+	<key>pivotalLossDepth</key>
+	<string>currentSpotSize</string>
+	<key>protectedPlaybackOffset</key>
+	<string>navigatorAndContext</string>
+	<key>sliderStrategyName</key>
+	<string>cardIncludeMode</string>
+	<key>taskActivityValidation</key>
+	<string>layoutAdapterTransparency</string>
+	<key>widgetUntilValue</key>
+	<string>flexibleDialogsHue</string>
+</dict>
+</plist>

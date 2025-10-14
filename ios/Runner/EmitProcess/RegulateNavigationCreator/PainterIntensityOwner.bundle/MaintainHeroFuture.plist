@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedFragmentAlignment</key>
+	<string>heroAdapterAcceleration</string>
+	<key>borderSingletonTransparency</key>
+	<string>loopDespitePlatform</string>
+	<key>expandedWithoutAdapter</key>
+	<string>gridviewMementoHead</string>
+	<key>positionNumberMode</key>
+	<string>tweenAlongStyle</string>
+	<key>remainderPerAction</key>
+	<string>gridviewContainType</string>
+	<key>smartTaskStyle</key>
+	<string>retainedStoryboardContrast</string>
+	<key>transitionPhaseLeft</key>
+	<string>observerAsShape</string>
+</dict>
+</plist>

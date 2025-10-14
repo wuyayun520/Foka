@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAdapterRight</key>
+	<string>themeCompositeLocation</string>
+	<key>basicVectorTop</key>
+	<string>retainedThreadPosition</string>
+	<key>liteSemanticsRate</key>
+	<string>parallelCellTail</string>
+	<key>positionFrameworkPadding</key>
+	<string>mediaqueryOrSystem</string>
+	<key>sustainableControllerScale</key>
+	<string>statefulChainShade</string>
+</dict>
+</plist>

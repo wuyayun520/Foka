@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateOutsideVariable</key>
+	<string>flexibleIntensityFormat</string>
+	<key>factorySingletonBrightness</key>
+	<string>intensityModeRight</string>
+	<key>interfaceAndCycle</key>
+	<string>immutableWidgetStyle</string>
+	<key>offsetPlatformOpacity</key>
+	<string>visibleBufferScale</string>
+	<key>pinchableOperationTop</key>
+	<string>priorityCommandEdge</string>
+	<key>protocolAdapterTop</key>
+	<string>effectDuringCycle</string>
+	<key>reactiveGestureHue</key>
+	<string>dimensionAndOperation</string>
+	<key>sharedHeroMode</key>
+	<string>mainInteractorCenter</string>
+	<key>streamStyleSpacing</key>
+	<string>nodeVariableDistance</string>
+	<key>utilDuringCommand</key>
+	<string>mediaqueryCompositeFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCubitAppearance</key>
+	<string>remainderBufferColor</string>
+	<key>catalystLevelResponse</key>
+	<string>opaqueTangentOrientation</string>
+	<key>mapOutsideVisitor</key>
+	<string>allocatorFrameworkCoord</string>
+	<key>pinchableRouteFlags</key>
+	<string>bulletForStyle</string>
+	<key>roleObserverSpacing</key>
+	<string>usedScaffoldOrientation</string>
+	<key>subtleNodeDistance</key>
+	<string>alertStyleOrigin</string>
+	<key>vectorPlatformInterval</key>
+	<string>normUntilPrototype</string>
+</dict>
+</plist>

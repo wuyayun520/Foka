@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionVariantTension</key>
+	<string>requiredErrorBottom</string>
+	<key>cubitAroundTemple</key>
+	<string>constSceneBottom</string>
+	<key>hashStateStyle</key>
+	<string>channelsPatternStyle</string>
+</dict>
+</plist>

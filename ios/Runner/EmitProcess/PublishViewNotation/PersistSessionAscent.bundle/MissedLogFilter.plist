@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetInterpreterBehavior</key>
+	<string>asynchronousRiverpodVisibility</string>
+	<key>bufferPlatformBorder</key>
+	<string>effectParamContrast</string>
+	<key>builderAsTask</key>
+	<string>metadataStageTint</string>
+	<key>reusableResponseFeedback</key>
+	<string>declarativeContainerAppearance</string>
+	<key>secondChannelsFlags</key>
+	<string>disabledTweenBehavior</string>
+	<key>singletonPerValue</key>
+	<string>materialHashTop</string>
+</dict>
+</plist>

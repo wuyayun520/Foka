@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitCycleOrigin</key>
+	<string>constraintCycleFeedback</string>
+	<key>blocModeMode</key>
+	<string>asynchronousResolverState</string>
+	<key>composableZoneRate</key>
+	<string>completionFacadeBehavior</string>
+	<key>missedChannelHue</key>
+	<string>menuParamSaturation</string>
+	<key>remainderFacadeDistance</key>
+	<string>positionWithoutObserver</string>
+	<key>stackSinceChain</key>
+	<string>dialogsAboutProcess</string>
+	<key>standalonePlaybackTheme</key>
+	<string>usedRequestTransparency</string>
+	<key>transitionPhaseDirection</key>
+	<string>dependencyVersusNumber</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedMonsterDuration</key>
+	<string>toolIncludeEnvironment</string>
+	<key>mediumSignName</key>
+	<string>sliderVariableSize</string>
+	<key>offsetPlatformAcceleration</key>
+	<string>vectorChainOffset</string>
+	<key>particleUntilSystem</key>
+	<string>marginStrategySpeed</string>
+	<key>temporaryBatchPadding</key>
+	<string>subtleBatchForce</string>
+	<key>tickerMediatorMode</key>
+	<string>tensorDependencyInterval</string>
+</dict>
+</plist>

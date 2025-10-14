@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directProtocolDensity</key>
+	<string>chapterPerTask</string>
+	<key>featureContextBottom</key>
+	<string>precisionContainFramework</string>
+	<key>hierarchicalDescriptionShape</key>
+	<string>interactorAtDecorator</string>
+	<key>ignoredFactoryTheme</key>
+	<string>boxshadowFormSkewy</string>
+	<key>metadataValueDuration</key>
+	<string>skirtShapeLocation</string>
+	<key>navigationCompositeKind</key>
+	<string>presenterMediatorMargin</string>
+	<key>relationalPaddingForce</key>
+	<string>symbolIncludeNumber</string>
+</dict>
+</plist>

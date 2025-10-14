@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperParamSkewx</key>
+	<string>stateCycleInset</string>
+	<key>consultativeSignBound</key>
+	<string>iterativeConvolutionRate</string>
+	<key>dimensionFlyweightShade</key>
+	<string>cubitExceptStrategy</string>
+	<key>functionalBufferFrequency</key>
+	<string>requestDecoratorFeedback</string>
+	<key>notifierShapeTheme</key>
+	<string>ephemeralStampRate</string>
+	<key>singleIsolateBottom</key>
+	<string>missedZoneOrigin</string>
+	<key>statefulTransformerName</key>
+	<string>localAlphaEdge</string>
+	<key>taskWithAction</key>
+	<string>significantResourceTop</string>
+</dict>
+</plist>

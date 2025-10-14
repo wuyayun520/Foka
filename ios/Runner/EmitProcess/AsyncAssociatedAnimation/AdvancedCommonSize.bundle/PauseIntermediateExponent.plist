@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionWithFlyweight</key>
+	<string>eventInsideBridge</string>
+	<key>constraintFromMemento</key>
+	<string>binaryStateBound</string>
+	<key>managerActivityType</key>
+	<string>reusableEffectSpacing</string>
+	<key>missionFacadeVelocity</key>
+	<string>concurrentObserverCenter</string>
+	<key>priorIntegerName</key>
+	<string>allocatorChainValidation</string>
+	<key>requiredPlaybackRight</key>
+	<string>anchorOrChain</string>
+	<key>scrollableSliderCount</key>
+	<string>exceptionAmongEnvironment</string>
+	<key>slashByShape</key>
+	<string>drawerAndChain</string>
+</dict>
+</plist>

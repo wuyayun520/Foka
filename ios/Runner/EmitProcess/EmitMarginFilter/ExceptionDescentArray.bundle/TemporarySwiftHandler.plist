@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAgainstOperation</key>
+	<string>hardCycleForce</string>
+	<key>currentCurveTint</key>
+	<string>awaitCycleVelocity</string>
+	<key>metadataCommandPosition</key>
+	<string>radiusActivityIndex</string>
+	<key>requiredSkinState</key>
+	<string>baseBridgeVisibility</string>
+</dict>
+</plist>

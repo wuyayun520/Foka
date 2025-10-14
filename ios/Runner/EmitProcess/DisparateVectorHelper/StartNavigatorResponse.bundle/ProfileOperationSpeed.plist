@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoWidgetShade</key>
+	<string>responsiveSymbolTop</string>
+	<key>brushFunctionBehavior</key>
+	<string>euclideanTopicHead</string>
+	<key>desktopRiverpodTheme</key>
+	<string>heroPatternRight</string>
+	<key>firstMobxOrientation</key>
+	<string>pointByVisitor</string>
+	<key>mobileLayerSkewy</key>
+	<string>spotWithVar</string>
+	<key>routeVersusMemento</key>
+	<string>smartCurveDensity</string>
+	<key>transitionViaProxy</key>
+	<string>collectionPatternLeft</string>
+</dict>
+</plist>

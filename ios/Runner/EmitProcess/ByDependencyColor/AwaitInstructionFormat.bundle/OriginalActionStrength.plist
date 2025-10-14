@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryDuringMethod</key>
+	<string>signatureStageBound</string>
+	<key>completionOperationTheme</key>
+	<string>consultativeCupertinoResponse</string>
+	<key>cubeActionDuration</key>
+	<string>heroStateTheme</string>
+	<key>interactorModeAppearance</key>
+	<string>pivotalSlashBehavior</string>
+	<key>mobileCommandBorder</key>
+	<string>aspectProxyCoord</string>
+	<key>shaderInPhase</key>
+	<string>permissiveMonsterMode</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyContextVisibility</key>
+	<string>inheritedMovementDuration</string>
+	<key>globalTextureAcceleration</key>
+	<string>lostInteractorPressure</string>
+	<key>missedSubscriptionDirection</key>
+	<string>multiStreamRate</string>
+	<key>tabbarPerNumber</key>
+	<string>timerTypeSpeed</string>
+</dict>
+</plist>

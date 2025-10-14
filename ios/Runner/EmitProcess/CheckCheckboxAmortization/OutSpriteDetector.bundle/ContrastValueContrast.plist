@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionIncludeAction</key>
+	<string>controllerAndAdapter</string>
+	<key>contractionScopeResponse</key>
+	<string>accessiblePopupMargin</string>
+	<key>customizedScreenContrast</key>
+	<string>customizedStatefulKind</string>
+	<key>newestBehaviorInset</key>
+	<string>segmentMementoTransparency</string>
+	<key>popupByPhase</key>
+	<string>mobileVariantDensity</string>
+	<key>providerContainScope</key>
+	<string>beginnerEquipmentRight</string>
+	<key>stackDuringFacade</key>
+	<string>mobileInstructionBrightness</string>
+	<key>staticSubpixelAlignment</key>
+	<string>sliderOutsideFacade</string>
+	<key>typicalStreamSize</key>
+	<string>groupOrTemple</string>
+</dict>
+</plist>

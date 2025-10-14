@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitJobSaturation</key>
+	<string>dedicatedEquipmentLeft</string>
+	<key>factoryScopeKind</key>
+	<string>multiOptionSaturation</string>
+	<key>mobileEnvironmentPressure</key>
+	<string>chartIncludeTask</string>
+	<key>nodeUntilBuffer</key>
+	<string>logarithmSinceFramework</string>
+	<key>playbackBeyondJob</key>
+	<string>tabbarStageIndex</string>
+	<key>singletonInterpreterFeedback</key>
+	<string>subtleErrorIndex</string>
+	<key>sliderFormTint</key>
+	<string>presenterVersusBuffer</string>
+	<key>uniformPopupPressure</key>
+	<string>batchActionDepth</string>
+	<key>vectorContainWork</key>
+	<string>cellAboutTemple</string>
+</dict>
+</plist>

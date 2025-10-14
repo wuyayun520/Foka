@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentProviderAcceleration</key>
+	<string>interfaceWorkBound</string>
+	<key>gridAlongFlyweight</key>
+	<string>inkwellMementoBehavior</string>
+	<key>interactiveRowTransparency</key>
+	<string>fixedEffectVisibility</string>
+	<key>modelPlatformPosition</key>
+	<string>captionLikeObserver</string>
+	<key>vectorOutsideMediator</key>
+	<string>usedNormSize</string>
+</dict>
+</plist>

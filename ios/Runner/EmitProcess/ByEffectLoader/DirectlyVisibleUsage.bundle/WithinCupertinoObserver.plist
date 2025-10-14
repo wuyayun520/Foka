@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanControllerStyle</key>
+	<string>marginContainNumber</string>
+	<key>heapBridgeRate</key>
+	<string>subpixelBufferTag</string>
+	<key>observerDespitePlatform</key>
+	<string>smallOperationValidation</string>
+	<key>respectiveTernaryOrientation</key>
+	<string>futureVersusOperation</string>
+	<key>typicalExpandedRight</key>
+	<string>statelessSizePressure</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorFlyweightInteraction</key>
+	<string>graphUntilActivity</string>
+	<key>animationDuringMethod</key>
+	<string>cupertinoJobState</string>
+	<key>batchLikeFlyweight</key>
+	<string>stateUntilObserver</string>
+	<key>interfaceOfChain</key>
+	<string>specifyIsolateAlignment</string>
+	<key>progressbarBeyondType</key>
+	<string>completerAmongFlyweight</string>
+	<key>sustainableEffectFeedback</key>
+	<string>roleKindCenter</string>
+	<key>usecaseOperationLeft</key>
+	<string>entityProxyMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedGridTag</key>
+	<string>heapFlyweightOrientation</string>
+	<key>iconJobInteraction</key>
+	<string>lossDuringBridge</string>
+	<key>indicatorNearOperation</key>
+	<string>projectInsidePhase</string>
+	<key>kernelWithoutVar</key>
+	<string>resourcePhaseTension</string>
+	<key>mainSineDelay</key>
+	<string>deferredNodeBound</string>
+	<key>requestBeyondOperation</key>
+	<string>handlerActivityOrigin</string>
+	<key>requestVersusFlyweight</key>
+	<string>switchFacadeEdge</string>
+	<key>standaloneResponseRate</key>
+	<string>baselineSingletonInteraction</string>
+	<key>tangentFacadeIndex</key>
+	<string>challengeKindTension</string>
+</dict>
+</plist>

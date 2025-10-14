@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBuilderStyle</key>
+	<string>iconOperationOffset</string>
+	<key>firstDocumentInterval</key>
+	<string>cubitVarDistance</string>
+	<key>interactorContextTint</key>
+	<string>modalCycleInterval</string>
+	<key>navigatorCommandSpeed</key>
+	<string>streamBufferBrightness</string>
+	<key>routeBufferRotation</key>
+	<string>symbolSystemTheme</string>
+	<key>taskAlongTask</key>
+	<string>queryTierInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveAsKind</key>
+	<string>gesturePerContext</string>
+	<key>denseMobileHue</key>
+	<string>scrollableDecorationName</string>
+	<key>otherDescriptionType</key>
+	<string>asyncAroundType</string>
+	<key>routeStageValidation</key>
+	<string>riverpodThroughType</string>
+</dict>
+</plist>

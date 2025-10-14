@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSpriteCoord</key>
+	<string>mobileForFramework</string>
+	<key>controllerParamDensity</key>
+	<string>navigatorScopeCenter</string>
+	<key>fusedPrecisionColor</key>
+	<string>lazyHistogramVelocity</string>
+	<key>notificationStateBottom</key>
+	<string>lastSpineStyle</string>
+	<key>popupPlatformMargin</key>
+	<string>futureModeAcceleration</string>
+	<key>referenceIncludeMediator</key>
+	<string>characterScopeCenter</string>
+	<key>routerFrameworkTheme</key>
+	<string>musicAroundDecorator</string>
+	<key>scaleViaInterpreter</key>
+	<string>routerAndActivity</string>
+	<key>topicDespiteOperation</key>
+	<string>chapterLevelForce</string>
+</dict>
+</plist>

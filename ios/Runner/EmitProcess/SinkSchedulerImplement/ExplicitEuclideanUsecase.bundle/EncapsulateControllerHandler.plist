@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAwayMediator</key>
+	<string>asynchronousStreamAlignment</string>
+	<key>assetStyleRate</key>
+	<string>collectionMementoDelay</string>
+	<key>clipperContainBridge</key>
+	<string>textStateRate</string>
+	<key>directDescriptionTag</key>
+	<string>titleTierValidation</string>
+	<key>directInstructionFeedback</key>
+	<string>inheritedObserverDistance</string>
+	<key>euclideanNodeBehavior</key>
+	<string>entityParamMomentum</string>
+	<key>fixedProviderSpacing</key>
+	<string>streamScopeOpacity</string>
+	<key>parallelPriorityBorder</key>
+	<string>firstPlaybackTheme</string>
+	<key>taskProxyHead</key>
+	<string>liteTechniqueTint</string>
+</dict>
+</plist>

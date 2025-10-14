@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopMasterFrequency</key>
+	<string>reactiveSingletonFeedback</string>
+	<key>fixedScrollBorder</key>
+	<string>gateContainFacade</string>
+	<key>intensityMediatorBehavior</key>
+	<string>semanticOffsetScale</string>
+	<key>mobileAllocatorBehavior</key>
+	<string>prevTransitionRate</string>
+	<key>routeTypePadding</key>
+	<string>titleViaPrototype</string>
+	<key>themeDuringPhase</key>
+	<string>resourceAwayPattern</string>
+</dict>
+</plist>

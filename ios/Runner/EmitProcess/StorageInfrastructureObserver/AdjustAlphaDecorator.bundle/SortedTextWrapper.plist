@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchActivityInterval</key>
+	<string>contractionPerFacade</string>
+	<key>commandPerActivity</key>
+	<string>collectionOfPhase</string>
+	<key>elasticBehaviorInterval</key>
+	<string>monsterBufferRotation</string>
+	<key>imperativeHistogramDuration</key>
+	<string>flexAlongForm</string>
+	<key>permissivePositionType</key>
+	<string>descriptorSingletonBottom</string>
+	<key>resourceLikeJob</key>
+	<string>marginAdapterStyle</string>
+	<key>textfieldForPlatform</key>
+	<string>reducerViaDecorator</string>
+</dict>
+</plist>

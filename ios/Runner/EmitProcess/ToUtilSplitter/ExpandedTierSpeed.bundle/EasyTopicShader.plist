@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardConstraintOpacity</key>
+	<string>transitionContainNumber</string>
+	<key>blocAdapterVisible</key>
+	<string>dynamicVariantKind</string>
+	<key>callbackModeLocation</key>
+	<string>alignmentWithoutVar</string>
+	<key>reducerDecoratorLeft</key>
+	<string>cupertinoExceptCycle</string>
+	<key>spriteThroughType</key>
+	<string>keyLayoutType</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAsProcess</key>
+	<string>descriptionModeInset</string>
+	<key>concurrentModelRight</key>
+	<string>parallelTransitionBottom</string>
+	<key>configurationStrategyDelay</key>
+	<string>activePreviewCenter</string>
+	<key>crucialSemanticsDelay</key>
+	<string>desktopGroupSize</string>
+	<key>fixedDecorationMode</key>
+	<string>concurrentExpandedDuration</string>
+	<key>particleAndScope</key>
+	<string>fragmentWorkStatus</string>
+	<key>sampleBesideStrategy</key>
+	<string>geometricKernelSaturation</string>
+	<key>scaffoldPerComposite</key>
+	<string>normalBoxPosition</string>
+	<key>sharedModelMargin</key>
+	<string>repositoryVersusPlatform</string>
+	<key>storyboardActivityBound</key>
+	<string>allocatorBesideCommand</string>
+</dict>
+</plist>

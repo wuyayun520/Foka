@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionChannelVisibility</key>
+	<string>radioValueOrigin</string>
+	<key>cellThroughActivity</key>
+	<string>tabviewStateValidation</string>
+	<key>channelEnvironmentScale</key>
+	<string>semanticActivityTint</string>
+	<key>immutableColumnShade</key>
+	<string>segmentActivityVelocity</string>
+	<key>inkwellTaskTheme</key>
+	<string>navigatorByStructure</string>
+	<key>integerEnvironmentScale</key>
+	<string>animationVisitorVisibility</string>
+	<key>playbackAmongStructure</key>
+	<string>requiredChallengeFlags</string>
+</dict>
+</plist>

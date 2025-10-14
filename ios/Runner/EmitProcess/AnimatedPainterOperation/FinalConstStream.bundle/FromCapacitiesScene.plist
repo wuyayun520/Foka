@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityVisitorPadding</key>
+	<string>delegateVersusFacade</string>
+	<key>bitrateTaskAcceleration</key>
+	<string>convolutionAwayFlyweight</string>
+	<key>denseDecorationState</key>
+	<string>serviceBeyondWork</string>
+	<key>symmetricBuilderColor</key>
+	<string>widgetViaProxy</string>
+</dict>
+</plist>

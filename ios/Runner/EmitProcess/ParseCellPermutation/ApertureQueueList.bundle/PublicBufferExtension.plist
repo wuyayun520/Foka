@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowFrameworkStyle</key>
+	<string>workflowAtAdapter</string>
+	<key>coordinatorBesideStage</key>
+	<string>webModelSpacing</string>
+	<key>cosineAndStrategy</key>
+	<string>layoutContextInset</string>
+	<key>groupPerBuffer</key>
+	<string>routeNearJob</string>
+	<key>listviewKindFlags</key>
+	<string>commandTypeInteraction</string>
+	<key>numericalMatrixContrast</key>
+	<string>scaleLevelEdge</string>
+	<key>rectDespiteFunction</key>
+	<string>getxDecoratorBrightness</string>
+	<key>serviceInValue</key>
+	<string>spriteDecoratorTag</string>
+	<key>synchronousPopupResponse</key>
+	<string>taskLayerName</string>
+</dict>
+</plist>

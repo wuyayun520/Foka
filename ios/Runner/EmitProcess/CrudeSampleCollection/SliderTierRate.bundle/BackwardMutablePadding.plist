@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteHeroVisible</key>
+	<string>inkwellOutsideParam</string>
+	<key>dependencyContainKind</key>
+	<string>segueInsideComposite</string>
+	<key>persistentIsolateCount</key>
+	<string>lazyResultStatus</string>
+	<key>scrollablePriorityStatus</key>
+	<string>hashTierHue</string>
+	<key>segueValueDelay</key>
+	<string>sliderMediatorFlags</string>
+	<key>sophisticatedConvolutionValidation</key>
+	<string>materialChannelsShade</string>
+</dict>
+</plist>

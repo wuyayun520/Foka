@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerContextTheme</key>
+	<string>masterActivityCenter</string>
+	<key>desktopExtensionDepth</key>
+	<string>materialControllerBehavior</string>
+	<key>extensionStrategyRate</key>
+	<string>cubitAroundParameter</string>
+	<key>inactiveCacheHead</key>
+	<string>routeActionInterval</string>
+	<key>monsterJobDistance</key>
+	<string>sizeWithJob</string>
+	<key>prevClipperVisible</key>
+	<string>storageTaskContrast</string>
+	<key>semanticsThroughVariable</key>
+	<string>iterativeStatefulTag</string>
+	<key>transitionAboutActivity</key>
+	<string>behaviorBridgeValidation</string>
+</dict>
+</plist>

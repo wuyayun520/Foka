@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reducerBufferBorder</key>
+	<string>primaryTweenCoord</string>
+	<key>resizableLayoutVelocity</key>
+	<string>displayableResourceAlignment</string>
+	<key>resourceShapeVisibility</key>
+	<string>eagerConstraintForce</string>
+	<key>spriteBeyondAction</key>
+	<string>commandVarLeft</string>
+	<key>stepObserverSaturation</key>
+	<string>nativeTextDensity</string>
+	<key>subscriptionFunctionVelocity</key>
+	<string>discardedCurveVelocity</string>
+	<key>textDuringStrategy</key>
+	<string>stateInterpreterCenter</string>
+	<key>typicalRowAlignment</key>
+	<string>secondPresenterMomentum</string>
+</dict>
+</plist>

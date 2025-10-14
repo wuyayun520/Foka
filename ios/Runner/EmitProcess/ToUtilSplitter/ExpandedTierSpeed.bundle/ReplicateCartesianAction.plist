@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCurveRotation</key>
+	<string>viewAsParam</string>
+	<key>mainPreviewRate</key>
+	<string>queueDuringContext</string>
+	<key>resourceFunctionRight</key>
+	<string>accordionCompletionState</string>
+	<key>typicalAwaitContrast</key>
+	<string>cursorAgainstForm</string>
+</dict>
+</plist>
