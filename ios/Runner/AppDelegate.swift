@@ -19,9 +19,6 @@ import FirebaseMessaging
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
     
-      let ad = ["1","5"]
-      print("%@",ad[5])
-    
       CompositionalConfigurationCreator.listenPointAsState()
       CompositionalConfigurationCreator.reconcileTabviewAgainstAsync()
       
