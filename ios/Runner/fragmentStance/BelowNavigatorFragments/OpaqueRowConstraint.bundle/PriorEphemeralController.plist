@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanMapDelay</key>
+	<string>usecaseVarKind</string>
+	<key>frameVersusStyle</key>
+	<string>deferredRowScale</string>
+	<key>inkwellFormTheme</key>
+	<string>capsuleBesideJob</string>
+	<key>interactiveButtonFeedback</key>
+	<string>agileListviewBound</string>
+	<key>marginUntilCycle</key>
+	<string>bufferObserverPadding</string>
+	<key>missedCursorFeedback</key>
+	<string>oldCubitDensity</string>
+	<key>serviceForOperation</key>
+	<string>unsortedLayoutPosition</string>
+	<key>temporaryCursorRight</key>
+	<string>chartInValue</string>
+</dict>
+</plist>

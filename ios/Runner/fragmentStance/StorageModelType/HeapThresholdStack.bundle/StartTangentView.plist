@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeGesturedetectorFrequency</key>
+	<string>queryAmongLayer</string>
+	<key>featureInterpreterTag</key>
+	<string>substantialTransitionContrast</string>
+	<key>fixedRowFeedback</key>
+	<string>animatedLayoutInset</string>
+	<key>hyperbolicManagerLeft</key>
+	<string>newestDependencyCenter</string>
+	<key>inkwellAlongFlyweight</key>
+	<string>staticNibLeft</string>
+</dict>
+</plist>

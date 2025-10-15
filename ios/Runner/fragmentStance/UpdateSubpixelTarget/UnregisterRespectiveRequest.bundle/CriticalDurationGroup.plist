@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerLevelFrequency</key>
+	<string>textBridgeSpeed</string>
+	<key>customizedObserverVisibility</key>
+	<string>chapterInsideTask</string>
+	<key>dynamicTransformerMode</key>
+	<string>rectCycleRotation</string>
+	<key>otherTextOrientation</key>
+	<string>customMultiplicationDirection</string>
+	<key>textfieldObserverSaturation</key>
+	<string>progressbarDespiteForm</string>
+</dict>
+</plist>

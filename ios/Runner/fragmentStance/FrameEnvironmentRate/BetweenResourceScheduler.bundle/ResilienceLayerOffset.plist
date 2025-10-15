@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystActivityDelay</key>
+	<string>multiCharacterStyle</string>
+	<key>clipperExceptTier</key>
+	<string>gridVersusStructure</string>
+	<key>fragmentExceptStructure</key>
+	<string>missionOperationAlignment</string>
+	<key>synchronousCubitVisibility</key>
+	<string>captionFromParameter</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPreviewTail</key>
+	<string>staticPreviewSaturation</string>
+	<key>enabledAccessoryDirection</key>
+	<string>standaloneChapterColor</string>
+	<key>futureCompositeSpeed</key>
+	<string>configurationVarInterval</string>
+	<key>inheritedObserverCenter</key>
+	<string>observerIncludeInterpreter</string>
+	<key>layoutCompositeCenter</key>
+	<string>columnInsideDecorator</string>
+	<key>particleExceptParam</key>
+	<string>delegateOrPrototype</string>
+	<key>queryFrameworkSaturation</key>
+	<string>tableWithPattern</string>
+	<key>rectAndPhase</key>
+	<string>euclideanCompositionType</string>
+	<key>segmentByMode</key>
+	<string>pinchableAssetOffset</string>
+	<key>widgetAlongMode</key>
+	<string>significantGridviewMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAdapterInset</key>
+	<string>intermediateRowLeft</string>
+	<key>completerForComposite</key>
+	<string>checkboxSinceParameter</string>
+	<key>completionInterpreterFrequency</key>
+	<string>standaloneGrainScale</string>
+	<key>constraintAtMethod</key>
+	<string>concurrentViewSpeed</string>
+	<key>gemParameterFormat</key>
+	<string>timerAmongVariable</string>
+	<key>liteAnchorLeft</key>
+	<string>sessionTierBehavior</string>
+	<key>permissiveResponseStatus</key>
+	<string>textAgainstParameter</string>
+	<key>providerAsMemento</key>
+	<string>euclideanFutureShade</string>
+	<key>themeInsideMemento</key>
+	<string>textVarBound</string>
+</dict>
+</plist>

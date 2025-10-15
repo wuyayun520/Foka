@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesPatternAppearance</key>
+	<string>pointAdapterFeedback</string>
+	<key>channelAsTask</key>
+	<string>callbackPlatformSaturation</string>
+	<key>navigatorAroundBuffer</key>
+	<string>adaptiveObserverPadding</string>
+	<key>popupCommandBound</key>
+	<string>statelessResourceMargin</string>
+	<key>similarNavigationBrightness</key>
+	<string>isolateVisitorTransparency</string>
+</dict>
+</plist>

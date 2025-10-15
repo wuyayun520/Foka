@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackVersusPattern</key>
+	<string>composableAwaitOrientation</string>
+	<key>cartesianMaterialOpacity</key>
+	<string>webSceneShape</string>
+	<key>compositionExceptStrategy</key>
+	<string>borderAdapterBottom</string>
+	<key>statelessDurationState</key>
+	<string>injectionEnvironmentType</string>
+</dict>
+</plist>

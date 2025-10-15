@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPlatformFlags</key>
+	<string>independentQueryFeedback</string>
+	<key>actionStageRotation</key>
+	<string>instructionLayerShade</string>
+	<key>constraintActivityDelay</key>
+	<string>isolateAroundState</string>
+	<key>pointOfMediator</key>
+	<string>baseAsInterpreter</string>
+	<key>protectedPresenterFeedback</key>
+	<string>associatedBitrateRight</string>
+	<key>smartDurationValidation</key>
+	<string>particleUntilLevel</string>
+	<key>storageAtMemento</key>
+	<string>geometricRiverpodSpacing</string>
+	<key>subpixelOfState</key>
+	<string>decorationWithoutMode</string>
+</dict>
+</plist>

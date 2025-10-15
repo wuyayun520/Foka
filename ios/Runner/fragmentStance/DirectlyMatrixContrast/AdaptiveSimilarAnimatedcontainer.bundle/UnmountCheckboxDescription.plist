@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSemanticsVisibility</key>
+	<string>petAroundStage</string>
+	<key>imageBesideFramework</key>
+	<string>buttonAroundCommand</string>
+	<key>nextMediaqueryBehavior</key>
+	<string>channelVersusPlatform</string>
+	<key>parallelBlocSkewy</key>
+	<string>queueScopeTag</string>
+	<key>presenterSystemRight</key>
+	<string>tableStrategyCenter</string>
+	<key>responseIncludeStrategy</key>
+	<string>heapParameterResponse</string>
+	<key>scaleDecoratorRate</key>
+	<string>popupStagePadding</string>
+	<key>specifierBesideType</key>
+	<string>semanticStateRate</string>
+</dict>
+</plist>

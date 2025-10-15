@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetNearTemple</key>
+	<string>accessibleRouteFeedback</string>
+	<key>brushPhaseFeedback</key>
+	<string>coordinatorInterpreterRate</string>
+	<key>extensionContextAppearance</key>
+	<string>precisionIncludeContext</string>
+	<key>matrixAndStrategy</key>
+	<string>builderInFacade</string>
+	<key>mobxSystemForce</key>
+	<string>remainderPlatformIndex</string>
+	<key>stateAdapterFeedback</key>
+	<string>controllerForFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleUntilFacade</key>
+	<string>sceneInterpreterDepth</string>
+	<key>constraintTypeShape</key>
+	<string>chartVisitorBottom</string>
+	<key>groupExceptContext</key>
+	<string>symbolInVar</string>
+	<key>hardZoneColor</key>
+	<string>largeFeatureDensity</string>
+	<key>labelAlongPrototype</key>
+	<string>menuViaFunction</string>
+	<key>pointOfFacade</key>
+	<string>intermediateStatefulDuration</string>
+</dict>
+</plist>

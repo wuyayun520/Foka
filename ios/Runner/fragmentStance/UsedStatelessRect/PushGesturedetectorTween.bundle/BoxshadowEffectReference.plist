@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystScopeBehavior</key>
+	<string>projectionDuringParameter</string>
+	<key>delegateOutsideProcess</key>
+	<string>heapExceptParam</string>
+	<key>equalizationWithStrategy</key>
+	<string>immutableErrorFlags</string>
+	<key>imageAlongParam</key>
+	<string>sizedboxStrategyPosition</string>
+	<key>imperativeAnimationTail</key>
+	<string>oldSizeName</string>
+	<key>inkwellPlatformFrequency</key>
+	<string>referenceAsEnvironment</string>
+	<key>queryWithPlatform</key>
+	<string>boxWithFunction</string>
+	<key>textfieldTempleInterval</key>
+	<string>aspectratioThroughType</string>
+	<key>transitionVersusState</key>
+	<string>blocOutsideParameter</string>
+</dict>
+</plist>

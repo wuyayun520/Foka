@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedImagePosition</key>
+	<string>batchShapeHue</string>
+	<key>explicitBatchSize</key>
+	<string>gridWithoutVariable</string>
+	<key>isolateAgainstStyle</key>
+	<string>compositionalChannelsAppearance</string>
+	<key>managerIncludeStructure</key>
+	<string>specifyEffectBrightness</string>
+	<key>monsterShapePressure</key>
+	<string>isolateKindMode</string>
+	<key>sineCycleFlags</key>
+	<string>navigatorWithAdapter</string>
+	<key>tangentBufferHue</key>
+	<string>singleBrushFormat</string>
+</dict>
+</plist>

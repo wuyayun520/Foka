@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheVersusStage</key>
+	<string>permissiveSingletonTag</string>
+	<key>geometricProgressbarCount</key>
+	<string>uniformActionShade</string>
+	<key>gridAwaySingleton</key>
+	<string>boxFacadeFeedback</string>
+	<key>layoutDecoratorBorder</key>
+	<string>granularBuilderTint</string>
+	<key>normalCanvasLeft</key>
+	<string>opaqueBoxOffset</string>
+	<key>rapidContainerPosition</key>
+	<string>appbarSystemHead</string>
+	<key>streamInsideMode</key>
+	<string>backwardBoxshadowCenter</string>
+</dict>
+</plist>

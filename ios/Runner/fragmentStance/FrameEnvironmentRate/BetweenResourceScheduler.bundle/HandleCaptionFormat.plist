@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxPrototypeIndex</key>
+	<string>alignmentProcessAcceleration</string>
+	<key>cycleFrameworkEdge</key>
+	<string>clipperAdapterAlignment</string>
+	<key>layoutPatternTransparency</key>
+	<string>semanticTitleShape</string>
+	<key>rowOrMode</key>
+	<string>stateFlyweightEdge</string>
+	<key>statefulProviderFrequency</key>
+	<string>collectionCompositeTop</string>
+	<key>textContextDepth</key>
+	<string>delegateOrTier</string>
+</dict>
+</plist>

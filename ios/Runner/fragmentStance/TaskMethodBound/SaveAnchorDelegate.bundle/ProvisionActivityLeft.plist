@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedPointBehavior</key>
+	<string>roleObserverSize</string>
+	<key>compositionalStateFlags</key>
+	<string>numericalSignColor</string>
+	<key>containerWithKind</key>
+	<string>cupertinoDependencyKind</string>
+	<key>geometricTitleOrigin</key>
+	<string>usedInjectionMode</string>
+	<key>mediaBesideMemento</key>
+	<string>decorationObserverOrigin</string>
+	<key>multiDurationOpacity</key>
+	<string>lastResolverFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>musicDecoratorVisible</key>
+	<string>spriteEnvironmentTail</string>
+	<key>otherAxisOrigin</key>
+	<string>gridviewThroughCommand</string>
+	<key>specifyTransitionAlignment</key>
+	<string>opaqueExtensionSaturation</string>
+	<key>unactivatedTransitionVelocity</key>
+	<string>popupChainPadding</string>
+</dict>
+</plist>

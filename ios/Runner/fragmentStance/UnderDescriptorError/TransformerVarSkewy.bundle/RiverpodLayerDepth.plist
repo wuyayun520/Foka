@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBorderAppearance</key>
+	<string>repositoryWithProcess</string>
+	<key>disabledObserverShape</key>
+	<string>frameByVar</string>
+	<key>framePrototypeContrast</key>
+	<string>vectorUntilParameter</string>
+	<key>screenOutsideBuffer</key>
+	<string>standaloneMetadataFlags</string>
+	<key>techniqueFlyweightScale</key>
+	<string>compositionFromLevel</string>
+</dict>
+</plist>

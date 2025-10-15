@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveProviderBottom</key>
+	<string>grayscaleAsParam</string>
+	<key>assetChainFormat</key>
+	<string>checkboxAlongVariable</string>
+	<key>geometricConstraintIndex</key>
+	<string>titleForStructure</string>
+	<key>interactiveParticleOrigin</key>
+	<string>stampAmongScope</string>
+	<key>textPerState</key>
+	<string>sortedHashVelocity</string>
+</dict>
+</plist>

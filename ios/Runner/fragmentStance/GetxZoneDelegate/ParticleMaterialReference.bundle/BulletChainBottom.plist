@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderStrategyFrequency</key>
+	<string>isolateBeyondPlatform</string>
+	<key>coordinatorNearVariable</key>
+	<string>sharedTweenOrientation</string>
+	<key>dedicatedGrayscalePadding</key>
+	<string>injectionDespiteCycle</string>
+	<key>gradientSingletonColor</key>
+	<string>gridviewParamPadding</string>
+	<key>layoutLayerShade</key>
+	<string>queueMediatorMomentum</string>
+	<key>menuMethodStyle</key>
+	<string>statefulIntegerTheme</string>
+</dict>
+</plist>

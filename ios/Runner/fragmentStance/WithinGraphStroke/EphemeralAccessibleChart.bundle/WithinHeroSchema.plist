@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectAdapterContrast</key>
+	<string>awaitAgainstContext</string>
+	<key>buttonWorkType</key>
+	<string>captionCommandEdge</string>
+	<key>cardPerPhase</key>
+	<string>activatedOptionTag</string>
+	<key>disabledMarginCenter</key>
+	<string>buttonShapeCenter</string>
+	<key>equalizationCommandLocation</key>
+	<string>methodJobStyle</string>
+	<key>gramAtFunction</key>
+	<string>streamThanSystem</string>
+	<key>gridviewOutsideVariable</key>
+	<string>descriptorStrategyOpacity</string>
+	<key>mobileMementoDensity</key>
+	<string>discardedOperationLocation</string>
+	<key>progressbarOutsideProcess</key>
+	<string>consultativeStorageFeedback</string>
+	<key>stackFacadeSkewy</key>
+	<string>permissiveSlashSpacing</string>
+</dict>
+</plist>

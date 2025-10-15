@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDecoratorDistance</key>
+	<string>controllerAtCommand</string>
+	<key>associatedUnaryOrientation</key>
+	<string>directlyAsyncDistance</string>
+	<key>keyTechniqueOrigin</key>
+	<string>configurationStyleDistance</string>
+	<key>layoutFacadeScale</key>
+	<string>radiusDespiteVariable</string>
+	<key>localizationTemplePosition</key>
+	<string>sizeThroughMethod</string>
+	<key>navigationSinceComposite</key>
+	<string>resolverCycleHead</string>
+	<key>primaryAnimationRate</key>
+	<string>swiftActivityOffset</string>
+</dict>
+</plist>

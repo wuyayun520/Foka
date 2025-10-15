@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAccessoryOpacity</key>
+	<string>widgetVarFeedback</string>
+	<key>constraintEnvironmentOffset</key>
+	<string>streamVarVelocity</string>
+	<key>consumerPatternVisible</key>
+	<string>dialogsDuringVisitor</string>
+	<key>eventSinceFacade</key>
+	<string>gestureAndComposite</string>
+	<key>interfacePhaseAppearance</key>
+	<string>dialogsSingletonFormat</string>
+	<key>overlayAmongSystem</key>
+	<string>backwardRiverpodLocation</string>
+	<key>persistentCosineHead</key>
+	<string>resourceTaskStatus</string>
+	<key>queueFromBuffer</key>
+	<string>apertureAdapterAcceleration</string>
+	<key>semanticTickerRotation</key>
+	<string>substantialCurveLeft</string>
+</dict>
+</plist>

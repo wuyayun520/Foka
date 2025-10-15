@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileBlocAcceleration</key>
+	<string>grayscaleTierOffset</string>
+	<key>bufferPrototypeCount</key>
+	<string>resultAsCommand</string>
+	<key>customTransitionSaturation</key>
+	<string>blocByKind</string>
+	<key>diversifiedBrushOffset</key>
+	<string>enabledAllocatorOrigin</string>
+	<key>originalSegmentState</key>
+	<string>radiusTierDepth</string>
+	<key>pointActionValidation</key>
+	<string>tappableCoordinatorFrequency</string>
+	<key>profileAboutFlyweight</key>
+	<string>gateUntilCommand</string>
+	<key>responsiveSubscriptionDensity</key>
+	<string>compositionMediatorVelocity</string>
+	<key>uniformSegmentFormat</key>
+	<string>sceneByComposite</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAdapterAcceleration</key>
+	<string>resourceSingletonPosition</string>
+	<key>desktopAnimationAcceleration</key>
+	<string>petChainTransparency</string>
+	<key>offsetPerOperation</key>
+	<string>animatedExceptionSpeed</string>
+	<key>storageAboutStrategy</key>
+	<string>controllerContainValue</string>
+	<key>themeJobInset</key>
+	<string>globalChallengeAcceleration</string>
+</dict>
+</plist>

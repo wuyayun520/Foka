@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableStoreSaturation</key>
+	<string>persistentCurveColor</string>
+	<key>durationFunctionFlags</key>
+	<string>heapParamFlags</string>
+	<key>equalizationWithoutTier</key>
+	<string>hashVariableResponse</string>
+	<key>interactiveDelegateCoord</key>
+	<string>webConfigurationForce</string>
+	<key>intermediateAccessoryDuration</key>
+	<string>concurrentAlertVelocity</string>
+	<key>staticTransitionSaturation</key>
+	<string>respectiveGesturedetectorOpacity</string>
+	<key>toolContextVisible</key>
+	<string>immediateDocumentBottom</string>
+	<key>transformerActivityDuration</key>
+	<string>animationDuringEnvironment</string>
+	<key>uniqueAnimationName</key>
+	<string>resizableWorkflowColor</string>
+</dict>
+</plist>

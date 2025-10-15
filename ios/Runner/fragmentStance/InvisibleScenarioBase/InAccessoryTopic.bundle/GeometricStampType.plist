@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonExceptFacade</key>
+	<string>axisDespiteState</string>
+	<key>chartPhaseState</key>
+	<string>temporaryBaseValidation</string>
+	<key>ignoredAxisBorder</key>
+	<string>graphFlyweightShade</string>
+	<key>matrixEnvironmentVelocity</key>
+	<string>blocForStage</string>
+	<key>petBesideShape</key>
+	<string>invisibleMobxRotation</string>
+	<key>titleJobCount</key>
+	<string>statefulModeType</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableGroupPadding</key>
+	<string>checkboxStageDensity</string>
+	<key>operationNumberBrightness</key>
+	<string>primaryResponseIndex</string>
+	<key>prevAnimationIndex</key>
+	<string>lazyOffsetVisibility</string>
+	<key>scaffoldOrBridge</key>
+	<string>nativeBufferAppearance</string>
+	<key>tabbarPlatformContrast</key>
+	<string>animatedcontainerValueTop</string>
+	<key>titleBesideChain</key>
+	<string>adaptiveBaselineType</string>
+</dict>
+</plist>

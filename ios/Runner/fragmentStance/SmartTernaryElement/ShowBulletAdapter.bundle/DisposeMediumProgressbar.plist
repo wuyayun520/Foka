@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionCommandCenter</key>
+	<string>curveOrEnvironment</string>
+	<key>desktopOffsetOrigin</key>
+	<string>subsequentFactoryPosition</string>
+	<key>exceptionLevelVisible</key>
+	<string>popupFrameworkPressure</string>
+	<key>frameAtContext</key>
+	<string>consumerMediatorSaturation</string>
+	<key>handlerOfNumber</key>
+	<string>gestureSystemInteraction</string>
+	<key>subscriptionEnvironmentOffset</key>
+	<string>decorationWithFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectAroundEnvironment</key>
+	<string>sharedNavigatorOrigin</string>
+	<key>buttonFromStrategy</key>
+	<string>methodVariableBrightness</string>
+	<key>elasticBlocTheme</key>
+	<string>repositoryAndTier</string>
+	<key>hardFutureOffset</key>
+	<string>seamlessTextSpacing</string>
+	<key>layoutSystemName</key>
+	<string>effectPerLevel</string>
+	<key>mapActionBrightness</key>
+	<string>spotViaFacade</string>
+	<key>pinchableToolCenter</key>
+	<string>criticalLoopLocation</string>
+	<key>segmentAdapterStatus</key>
+	<string>ephemeralTransformerAlignment</string>
+</dict>
+</plist>

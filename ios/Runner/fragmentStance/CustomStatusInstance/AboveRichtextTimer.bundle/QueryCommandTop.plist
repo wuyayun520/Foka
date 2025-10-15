@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferByFramework</key>
+	<string>batchDuringSingleton</string>
+	<key>dedicatedAlphaMargin</key>
+	<string>stackVariableFormat</string>
+	<key>frameByEnvironment</key>
+	<string>composableVariantDirection</string>
+	<key>fusedMethodValidation</key>
+	<string>rowPhaseMode</string>
+	<key>lastPopupVelocity</key>
+	<string>permissiveNibTop</string>
+	<key>lostControllerMargin</key>
+	<string>effectAboutLevel</string>
+	<key>momentumBufferSize</key>
+	<string>alertVariableBound</string>
+	<key>statelessDialogsRate</key>
+	<string>layoutNumberDirection</string>
+</dict>
+</plist>

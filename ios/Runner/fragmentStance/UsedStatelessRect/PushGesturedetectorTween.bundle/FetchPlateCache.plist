@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitTierSkewx</key>
+	<string>usageOutsideParameter</string>
+	<key>baselineEnvironmentAlignment</key>
+	<string>finalMapSpeed</string>
+	<key>configurationVersusKind</key>
+	<string>allocatorFrameworkName</string>
+	<key>delicateTimerForce</key>
+	<string>animationEnvironmentSpeed</string>
+	<key>scaffoldUntilMode</key>
+	<string>timerModeDepth</string>
+	<key>sizeContainKind</key>
+	<string>blocPlatformOpacity</string>
+	<key>visibleTextDensity</key>
+	<string>relationalPreviewInteraction</string>
+</dict>
+</plist>

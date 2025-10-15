@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAgainstWork</key>
+	<string>diffableCompletionTransparency</string>
+	<key>constraintAsStrategy</key>
+	<string>histogramContextCount</string>
+	<key>futureAtChain</key>
+	<string>firstResultInset</string>
+	<key>routeExceptMethod</key>
+	<string>controllerAroundParameter</string>
+	<key>streamSinceJob</key>
+	<string>tableDuringParam</string>
+</dict>
+</plist>

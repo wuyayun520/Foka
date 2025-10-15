@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredProviderValidation</key>
+	<string>permanentTaskVisibility</string>
+	<key>immediateScrollMargin</key>
+	<string>sineNearChain</string>
+	<key>rowBridgeStyle</key>
+	<string>spriteActivityTransparency</string>
+	<key>temporarySwiftTheme</key>
+	<string>accordionActivitySkewy</string>
+	<key>tweenUntilProxy</key>
+	<string>operationAlongEnvironment</string>
+</dict>
+</plist>

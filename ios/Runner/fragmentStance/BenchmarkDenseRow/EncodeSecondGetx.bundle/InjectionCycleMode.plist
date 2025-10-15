@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveWidgetPosition</key>
+	<string>gridviewPatternForce</string>
+	<key>asyncOptimizerContrast</key>
+	<string>sharedEventInteraction</string>
+	<key>basicCubitColor</key>
+	<string>interfaceByProxy</string>
+	<key>inactiveEntropyCount</key>
+	<string>prismaticHistogramStyle</string>
+	<key>lazyTextureResponse</key>
+	<string>managerTypeOpacity</string>
+	<key>momentumStrategyCenter</key>
+	<string>smartLocalizationSpeed</string>
+	<key>observerAwayContext</key>
+	<string>taskWorkSaturation</string>
+	<key>pivotalGraphicHue</key>
+	<string>intensityJobDuration</string>
+	<key>requiredBitrateTop</key>
+	<string>missedOffsetTension</string>
+</dict>
+</plist>

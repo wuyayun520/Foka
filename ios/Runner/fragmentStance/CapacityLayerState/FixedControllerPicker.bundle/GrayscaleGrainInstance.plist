@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticContainEnvironment</key>
+	<string>hardEffectInteraction</string>
+	<key>borderOutsideShape</key>
+	<string>staticSpriteName</string>
+	<key>controllerOrVar</key>
+	<string>assetNumberShade</string>
+	<key>diffableSampleContrast</key>
+	<string>queueOrWork</string>
+	<key>imperativeDecorationBound</key>
+	<string>heapAndTier</string>
+	<key>notificationAsLevel</key>
+	<string>concurrentModulusBound</string>
+	<key>particleAroundTemple</key>
+	<string>checkboxAboutTier</string>
+	<key>protectedExceptionDelay</key>
+	<string>directlyReducerForce</string>
+</dict>
+</plist>

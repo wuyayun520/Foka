@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackWorkPadding</key>
+	<string>isolateAndEnvironment</string>
+	<key>consultativeReferenceOffset</key>
+	<string>constraintVersusFramework</string>
+	<key>granularObserverKind</key>
+	<string>signatureStrategyBehavior</string>
+	<key>independentExceptionHead</key>
+	<string>histogramProxyColor</string>
+	<key>metadataSingletonTint</key>
+	<string>statelessFormOrientation</string>
+	<key>requiredOptionLeft</key>
+	<string>flexAwayObserver</string>
+	<key>screenOrSingleton</key>
+	<string>spineInChain</string>
+	<key>threadAgainstSingleton</key>
+	<string>localizationWorkPosition</string>
+</dict>
+</plist>

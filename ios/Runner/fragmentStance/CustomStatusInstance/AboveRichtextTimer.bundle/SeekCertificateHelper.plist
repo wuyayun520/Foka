@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerValueVelocity</key>
+	<string>accordionImageState</string>
+	<key>commonConstraintInterval</key>
+	<string>robustAnimationCenter</string>
+	<key>concurrentMatrixFeedback</key>
+	<string>sizeJobCenter</string>
+	<key>lossUntilProcess</key>
+	<string>petParameterInteraction</string>
+	<key>otherDelegateOrientation</key>
+	<string>commonResultTop</string>
+	<key>playbackStrategyOpacity</key>
+	<string>transformerActivityType</string>
+	<key>widgetAsStructure</key>
+	<string>drawerLikeTemple</string>
+</dict>
+</plist>

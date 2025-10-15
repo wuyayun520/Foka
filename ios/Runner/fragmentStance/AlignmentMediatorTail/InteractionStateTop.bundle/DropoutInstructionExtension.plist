@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderInsideParameter</key>
+	<string>flexibleZoneAcceleration</string>
+	<key>errorAroundComposite</key>
+	<string>sceneFacadeSkewx</string>
+	<key>nativeIndicatorAcceleration</key>
+	<string>callbackFrameworkAlignment</string>
+	<key>oldDialogsFormat</key>
+	<string>tensorAwaitOpacity</string>
+	<key>optionAndFlyweight</key>
+	<string>normFunctionInset</string>
+	<key>queryChainName</key>
+	<string>dimensionPlatformContrast</string>
+	<key>sceneFlyweightScale</key>
+	<string>unactivatedLogInset</string>
+	<key>symmetricCommandPosition</key>
+	<string>listenerPatternDistance</string>
+</dict>
+</plist>

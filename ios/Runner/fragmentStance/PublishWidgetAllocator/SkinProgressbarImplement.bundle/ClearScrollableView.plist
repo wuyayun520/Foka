@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachePhaseOpacity</key>
+	<string>alphaScopeVisible</string>
+	<key>flexibleEventVisible</key>
+	<string>entityShapeBorder</string>
+	<key>liteButtonInset</key>
+	<string>firstHistogramDensity</string>
+	<key>multiplicationOrPlatform</key>
+	<string>offsetDecoratorDuration</string>
+	<key>segueActionBorder</key>
+	<string>iterativeAlphaSpeed</string>
+</dict>
+</plist>

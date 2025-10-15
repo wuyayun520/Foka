@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constTaskScale</key>
+	<string>configurationFromPattern</string>
+	<key>granularViewRate</key>
+	<string>materialSizeTop</string>
+	<key>interactiveEffectLeft</key>
+	<string>managerBufferOrientation</string>
+	<key>lastMediaTension</key>
+	<string>enabledPlaybackDuration</string>
+	<key>metadataVarDensity</key>
+	<string>newestConfigurationBrightness</string>
+	<key>previewByEnvironment</key>
+	<string>bufferAmongScope</string>
+	<key>subscriptionAroundState</key>
+	<string>momentumPatternStyle</string>
+	<key>switchFromType</key>
+	<string>handlerVisitorState</string>
+</dict>
+</plist>

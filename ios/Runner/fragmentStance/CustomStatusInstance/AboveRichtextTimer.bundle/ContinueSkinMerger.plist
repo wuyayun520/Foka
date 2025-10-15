@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitWithChain</key>
+	<string>effectActionSkewy</string>
+	<key>documentInTask</key>
+	<string>constraintFrameworkLocation</string>
+	<key>firstAspectBound</key>
+	<string>callbackAtBuffer</string>
+	<key>normNearFacade</key>
+	<string>methodAlongPlatform</string>
+	<key>offsetThroughFunction</key>
+	<string>timerAtFramework</string>
+	<key>tabviewScopeHead</key>
+	<string>smallStackOrientation</string>
+</dict>
+</plist>

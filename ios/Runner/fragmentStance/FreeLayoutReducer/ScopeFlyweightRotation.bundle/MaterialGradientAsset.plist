@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorIncludeLevel</key>
+	<string>anchorShapePadding</string>
+	<key>queryScopeSpeed</key>
+	<string>customChannelSpacing</string>
+	<key>routeFromComposite</key>
+	<string>gestureSinceVisitor</string>
+	<key>scrollableColumnOffset</key>
+	<string>dimensionAsFunction</string>
+	<key>singleMenuType</key>
+	<string>sinkForShape</string>
+	<key>sizedboxNearShape</key>
+	<string>intermediatePlaybackOrigin</string>
+	<key>subtleBlocDensity</key>
+	<string>segueFlyweightBrightness</string>
+	<key>textSinceTask</key>
+	<string>oldDependencyAlignment</string>
+</dict>
+</plist>

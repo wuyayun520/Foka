@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOperationSpacing</key>
+	<string>nativeStoryboardAcceleration</string>
+	<key>concurrentIntensityOpacity</key>
+	<string>responseMethodInset</string>
+	<key>explicitDimensionShape</key>
+	<string>assetLevelValidation</string>
+	<key>gesturedetectorPerStyle</key>
+	<string>grayscaleAmongLevel</string>
+	<key>mediaVisitorSize</key>
+	<string>loopActivityPosition</string>
+	<key>prismaticCurveRotation</key>
+	<string>positionScopeDensity</string>
+	<key>projectByTier</key>
+	<string>movementWithLayer</string>
+</dict>
+</plist>

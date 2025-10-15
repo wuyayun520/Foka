@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateCommandInset</key>
+	<string>checkboxBufferMode</string>
+	<key>containerStateBehavior</key>
+	<string>titleAsSingleton</string>
+	<key>euclideanRoleRight</key>
+	<string>textureParamFormat</string>
+	<key>interfaceContextIndex</key>
+	<string>switchAboutDecorator</string>
+	<key>mediaqueryTaskVisibility</key>
+	<string>futurePrototypeDepth</string>
+	<key>resourceTaskFlags</key>
+	<string>resilientFeatureSaturation</string>
+	<key>tabviewCycleCoord</key>
+	<string>featureNearShape</string>
+	<key>textInsideWork</key>
+	<string>arithmeticActionShape</string>
+</dict>
+</plist>

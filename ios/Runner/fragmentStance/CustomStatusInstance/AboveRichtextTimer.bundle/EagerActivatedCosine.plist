@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAmongObserver</key>
+	<string>layoutCycleCenter</string>
+	<key>basicConvolutionVisibility</key>
+	<string>sequentialSubpixelResponse</string>
+	<key>blocActionFormat</key>
+	<string>dynamicSignFlags</string>
+	<key>cubeFlyweightOrientation</key>
+	<string>controllerChainMode</string>
+	<key>promiseJobBottom</key>
+	<string>queueCommandStatus</string>
+	<key>sineAtSingleton</key>
+	<string>constraintProcessAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorUntilFacade</key>
+	<string>serviceNearTier</string>
+	<key>entityFromParam</key>
+	<string>tickerMethodRight</string>
+	<key>instructionActivityBorder</key>
+	<string>advancedAnimationLeft</string>
+	<key>normalHashLeft</key>
+	<string>projectStyleCenter</string>
+</dict>
+</plist>

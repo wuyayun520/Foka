@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesForFacade</key>
+	<string>rowStateRate</string>
+	<key>completerTypePressure</key>
+	<string>pinchableChartEdge</string>
+	<key>compositionModeState</key>
+	<string>titleProxyHead</string>
+	<key>logEnvironmentFrequency</key>
+	<string>flexibleAnimationInterval</string>
+	<key>monsterMethodResponse</key>
+	<string>granularRequestIndex</string>
+	<key>nextMomentumDensity</key>
+	<string>custompaintFrameworkKind</string>
+	<key>otherScreenPressure</key>
+	<string>webStepMomentum</string>
+	<key>previewAlongEnvironment</key>
+	<string>chartInsideInterpreter</string>
+	<key>toolValueSize</key>
+	<string>fusedTimerOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedOverlayInterval</key>
+	<string>synchronousChannelPadding</string>
+	<key>autoCoordinatorForce</key>
+	<string>bitrateFacadeInset</string>
+	<key>crucialFragmentContrast</key>
+	<string>awaitExceptMethod</string>
+	<key>customSampleRotation</key>
+	<string>positionOperationTheme</string>
+	<key>deferredTickerOpacity</key>
+	<string>significantAxisSpeed</string>
+	<key>globalImageInset</key>
+	<string>matrixAtSingleton</string>
+	<key>richtextTypeBound</key>
+	<string>eventPlatformOffset</string>
+	<key>stackPrototypeName</key>
+	<string>transformerEnvironmentCenter</string>
+	<key>statelessSpecifierPressure</key>
+	<string>modelMementoShade</string>
+</dict>
+</plist>

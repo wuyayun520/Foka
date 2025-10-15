@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorViaScope</key>
+	<string>baseDuringScope</string>
+	<key>asynchronousAppbarType</key>
+	<string>progressbarOfSystem</string>
+	<key>commandActivityShape</key>
+	<string>presenterProcessLeft</string>
+	<key>difficultReductionTail</key>
+	<string>painterProcessSkewy</string>
+	<key>mutableMonsterStyle</key>
+	<string>advancedPriorityTag</string>
+	<key>providerDespiteStrategy</key>
+	<string>statelessSubscriptionTheme</string>
+	<key>reactiveTimerValidation</key>
+	<string>subsequentChallengeSkewy</string>
+	<key>repositoryAwayVariable</key>
+	<string>repositoryParamPosition</string>
+	<key>sampleNearAction</key>
+	<string>unactivatedTweenOrigin</string>
+</dict>
+</plist>

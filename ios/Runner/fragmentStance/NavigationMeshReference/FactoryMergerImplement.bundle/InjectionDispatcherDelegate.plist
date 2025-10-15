@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderStageInterval</key>
+	<string>modelFlyweightSkewy</string>
+	<key>disabledLayoutBorder</key>
+	<string>chartVersusPlatform</string>
+	<key>effectEnvironmentRate</key>
+	<string>modelInterpreterRate</string>
+	<key>monsterFlyweightDepth</key>
+	<string>textfieldPrototypeCount</string>
+	<key>routeOrDecorator</key>
+	<string>textureDespiteTask</string>
+	<key>screenAtPlatform</key>
+	<string>taskDecoratorBehavior</string>
+	<key>statefulGrainAppearance</key>
+	<string>multiCompositionDepth</string>
+	<key>tappableStateShape</key>
+	<string>secondPositionCoord</string>
+</dict>
+</plist>

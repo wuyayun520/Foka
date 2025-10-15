@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionScopeTag</key>
+	<string>repositoryTierPosition</string>
+	<key>assetInsideAction</key>
+	<string>backwardMetadataHue</string>
+	<key>concurrentSymbolOpacity</key>
+	<string>easyFramePosition</string>
+	<key>gradientPatternForce</key>
+	<string>draggableLayoutBrightness</string>
+	<key>missedColumnStatus</key>
+	<string>inactiveLabelInteraction</string>
+	<key>progressbarPrototypeOrigin</key>
+	<string>handlerOfFlyweight</string>
+	<key>serviceAboutMode</key>
+	<string>asyncPrecisionBound</string>
+	<key>uniformStateScale</key>
+	<string>heapFrameworkForce</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeIncludeParam</key>
+	<string>errorAsShape</string>
+	<key>descriptionBridgeAcceleration</key>
+	<string>activeConvolutionOrientation</string>
+	<key>ignoredModelFormat</key>
+	<string>crucialAlignmentType</string>
+	<key>providerCommandBrightness</key>
+	<string>managerStyleStatus</string>
+	<key>reductionSinceState</key>
+	<string>independentMapOffset</string>
+</dict>
+</plist>

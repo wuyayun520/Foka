@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasEnvironmentTheme</key>
+	<string>displayableServiceInterval</string>
+	<key>channelWithForm</key>
+	<string>gridviewMethodValidation</string>
+	<key>concurrentConsumerVelocity</key>
+	<string>textureValueTransparency</string>
+	<key>gridAndFlyweight</key>
+	<string>invisibleRequestInset</string>
+	<key>rapidStoreValidation</key>
+	<string>skirtForVariable</string>
+	<key>threadObserverSize</key>
+	<string>globalWidgetStatus</string>
+	<key>widgetAboutBridge</key>
+	<string>listenerVariableName</string>
+</dict>
+</plist>

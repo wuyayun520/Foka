@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionNearObserver</key>
+	<string>collectionStateRight</string>
+	<key>checklistOutsideFlyweight</key>
+	<string>resolverDecoratorSkewx</string>
+	<key>draggableWidgetForce</key>
+	<string>toolPerFlyweight</string>
+	<key>factoryAgainstJob</key>
+	<string>optimizerTempleSkewy</string>
+	<key>interactorFrameworkSpacing</key>
+	<string>skirtContainStructure</string>
+	<key>interactorObserverLeft</key>
+	<string>lossDecoratorHead</string>
+	<key>listviewIncludeKind</key>
+	<string>resizableIsolateCoord</string>
+	<key>methodStyleDensity</key>
+	<string>parallelInterpolationEdge</string>
+	<key>momentumStyleMomentum</key>
+	<string>substantialBehaviorPosition</string>
+	<key>tickerActivityHead</key>
+	<string>directlyNibPosition</string>
+</dict>
+</plist>

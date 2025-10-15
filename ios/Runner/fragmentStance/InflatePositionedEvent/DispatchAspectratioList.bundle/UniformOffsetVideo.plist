@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioCycleRotation</key>
+	<string>captionThroughPattern</string>
+	<key>baselineTempleRight</key>
+	<string>sinkThroughStage</string>
+	<key>cubitIncludeScope</key>
+	<string>characterAmongDecorator</string>
+	<key>opaqueCycleMode</key>
+	<string>constraintWorkVisibility</string>
+	<key>otherSessionSkewy</key>
+	<string>commandMementoBottom</string>
+	<key>providerWorkVisibility</key>
+	<string>advancedResolverOrigin</string>
+	<key>sinkBeyondActivity</key>
+	<string>singletonThroughMemento</string>
+</dict>
+</plist>

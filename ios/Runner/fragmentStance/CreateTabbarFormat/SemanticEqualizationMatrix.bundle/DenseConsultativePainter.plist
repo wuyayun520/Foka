@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistOrTier</key>
+	<string>directLayerSaturation</string>
+	<key>coordinatorExceptTier</key>
+	<string>coordinatorAsVisitor</string>
+	<key>euclideanAsyncRate</key>
+	<string>groupDuringBuffer</string>
+	<key>loopBridgeName</key>
+	<string>listenerAwayMethod</string>
+	<key>modulusPerSystem</key>
+	<string>skirtBesideMethod</string>
+	<key>paddingOfComposite</key>
+	<string>projectFunctionPressure</string>
+	<key>remainderProxyOrientation</key>
+	<string>promiseStageVisibility</string>
+	<key>skirtAmongLevel</key>
+	<string>otherQueueEdge</string>
+</dict>
+</plist>

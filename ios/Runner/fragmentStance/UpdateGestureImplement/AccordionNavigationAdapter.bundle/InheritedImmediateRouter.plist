@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyLayerTheme</key>
+	<string>graphLayerShade</string>
+	<key>getxParamInteraction</key>
+	<string>screenParamLeft</string>
+	<key>localizationModeLeft</key>
+	<string>disabledProfilePressure</string>
+	<key>materialBufferMargin</key>
+	<string>mediumCubeMode</string>
+	<key>normalPreviewSpeed</key>
+	<string>subscriptionByProcess</string>
+	<key>opaqueCatalystBound</key>
+	<string>interfaceOfJob</string>
+	<key>referenceSystemMode</key>
+	<string>controllerPerBridge</string>
+	<key>screenIncludePhase</key>
+	<string>callbackLayerShade</string>
+	<key>toolObserverDirection</key>
+	<string>smartGateEdge</string>
+</dict>
+</plist>

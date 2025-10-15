@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationChainColor</key>
+	<string>controllerThanForm</string>
+	<key>behaviorWithoutScope</key>
+	<string>secondRequestFormat</string>
+	<key>compositionStateValidation</key>
+	<string>usageExceptFacade</string>
+	<key>eventFromDecorator</key>
+	<string>retainedSceneType</string>
+	<key>injectionThroughCommand</key>
+	<string>tweenPrototypeOpacity</string>
+	<key>mapActionDelay</key>
+	<string>standaloneColumnTension</string>
+	<key>mediocreChannelBorder</key>
+	<string>integerActionRotation</string>
+	<key>pointSystemCount</key>
+	<string>sizeCompositeForce</string>
+	<key>storeAlongPattern</key>
+	<string>movementLevelTheme</string>
+</dict>
+</plist>

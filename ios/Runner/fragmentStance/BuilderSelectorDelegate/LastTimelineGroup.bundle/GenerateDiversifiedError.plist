@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertBridgeKind</key>
+	<string>queryDecoratorRight</string>
+	<key>boxBufferTag</key>
+	<string>textureStyleInteraction</string>
+	<key>graphViaFacade</key>
+	<string>cartesianCanvasBehavior</string>
+	<key>materialSegueTheme</key>
+	<string>tensorOptimizerTag</string>
+</dict>
+</plist>

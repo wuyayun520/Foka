@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryKindOffset</key>
+	<string>presenterTempleSkewy</string>
+	<key>asynchronousErrorMargin</key>
+	<string>originalCollectionResponse</string>
+	<key>brushSingletonVisible</key>
+	<string>disabledZoneMode</string>
+	<key>bufferContainSingleton</key>
+	<string>lossThroughPrototype</string>
+	<key>liteStoreState</key>
+	<string>persistentHashRotation</string>
+	<key>navigatorWithState</key>
+	<string>navigatorOutsideActivity</string>
+	<key>offsetBufferBorder</key>
+	<string>intensityFormVelocity</string>
+	<key>precisionSinceFramework</key>
+	<string>resolverStyleTail</string>
+	<key>respectiveBitrateBound</key>
+	<string>protocolModeVisible</string>
+	<key>symmetricCompleterMode</key>
+	<string>slashAwayInterpreter</string>
+</dict>
+</plist>

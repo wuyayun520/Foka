@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarByLayer</key>
+	<string>resizableCupertinoFormat</string>
+	<key>mobxPerSystem</key>
+	<string>reductionContainFunction</string>
+	<key>persistentVectorForce</key>
+	<string>delegateBridgeFlags</string>
+	<key>presenterWithTask</key>
+	<string>animationParameterVisible</string>
+	<key>protectedBuilderSize</key>
+	<string>responsiveTextfieldDensity</string>
+	<key>taskBeyondStrategy</key>
+	<string>explicitMenuVelocity</string>
+	<key>timerViaProcess</key>
+	<string>stampCommandState</string>
+</dict>
+</plist>

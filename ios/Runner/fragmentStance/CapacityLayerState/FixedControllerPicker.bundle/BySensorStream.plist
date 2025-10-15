@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationMethodDuration</key>
+	<string>euclideanQueueOffset</string>
+	<key>inheritedCellPadding</key>
+	<string>symmetricSubscriptionOrigin</string>
+	<key>nativeBorderIndex</key>
+	<string>switchPhaseOrigin</string>
+	<key>opaqueDependencyFlags</key>
+	<string>apertureFormSize</string>
+	<key>swiftViaTask</key>
+	<string>consultativeUtilDirection</string>
+</dict>
+</plist>

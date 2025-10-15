@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAdapterContrast</key>
+	<string>futureByFacade</string>
+	<key>challengeFlyweightSkewx</key>
+	<string>invisibleOffsetEdge</string>
+	<key>collectionAndProxy</key>
+	<string>similarSpotTop</string>
+	<key>integerStyleBorder</key>
+	<string>symbolShapeDistance</string>
+	<key>opaquePositionFormat</key>
+	<string>interfaceParamLocation</string>
+	<key>retainedFactoryInset</key>
+	<string>uniqueWidgetSpacing</string>
+	<key>staticMobxSpeed</key>
+	<string>functionalRiverpodAppearance</string>
+</dict>
+</plist>

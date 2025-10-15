@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionExceptParam</key>
+	<string>iconBridgeRight</string>
+	<key>allocatorSingletonFormat</key>
+	<string>stackThanAction</string>
+	<key>discardedQueryFrequency</key>
+	<string>buttonProcessOrigin</string>
+	<key>mobileStackSkewy</key>
+	<string>prevDelegateBottom</string>
+	<key>nativeFragmentInterval</key>
+	<string>progressbarAndTier</string>
+	<key>responseThroughBuffer</key>
+	<string>subsequentRichtextInteraction</string>
+	<key>usecaseShapeForce</key>
+	<string>dynamicPositionBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackParameterInterval</key>
+	<string>hardCoordinatorStyle</string>
+	<key>capacitiesSingletonMode</key>
+	<string>delegateAlongForm</string>
+	<key>cupertinoWithForm</key>
+	<string>sequentialStackState</string>
+	<key>immediateOffsetOffset</key>
+	<string>concurrentSymbolBehavior</string>
+	<key>oldRadiusDensity</key>
+	<string>pointPrototypeSpacing</string>
+	<key>relationalTouchInterval</key>
+	<string>mediocreMasterSpeed</string>
+	<key>sliderStateOpacity</key>
+	<string>primaryLayerBottom</string>
+	<key>timerFormOrigin</key>
+	<string>parallelAlertTransparency</string>
+	<key>utilMementoInterval</key>
+	<string>tableOrStrategy</string>
+</dict>
+</plist>

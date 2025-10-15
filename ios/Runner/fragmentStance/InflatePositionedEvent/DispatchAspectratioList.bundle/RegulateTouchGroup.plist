@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoHandlerDirection</key>
+	<string>hardListenerMode</string>
+	<key>currentApertureVelocity</key>
+	<string>secondMissionResponse</string>
+	<key>interactorAmongContext</key>
+	<string>viewInsideShape</string>
+	<key>mapInsideChain</key>
+	<string>batchNumberTop</string>
+	<key>tappableStoreTransparency</key>
+	<string>descriptorTierMode</string>
+</dict>
+</plist>

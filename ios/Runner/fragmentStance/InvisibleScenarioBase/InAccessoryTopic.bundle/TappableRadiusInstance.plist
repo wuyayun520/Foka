@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionOperationTag</key>
+	<string>kernelFromVariable</string>
+	<key>interactiveConstraintBound</key>
+	<string>subpixelThanLayer</string>
+	<key>pinchableBuilderInset</key>
+	<string>standaloneStatelessBound</string>
+	<key>singleSamplePressure</key>
+	<string>remainderExceptFramework</string>
+	<key>sizeProxyDuration</key>
+	<string>matrixWorkName</string>
+</dict>
+</plist>

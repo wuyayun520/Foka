@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertBeyondLayer</key>
+	<string>asynchronousParticleLocation</string>
+	<key>blocForPhase</key>
+	<string>chartContainVariable</string>
+	<key>effectMediatorKind</key>
+	<string>observerBesideJob</string>
+	<key>fragmentProcessMargin</key>
+	<string>progressbarPrototypeOffset</string>
+	<key>gestureOutsidePhase</key>
+	<string>vectorTempleOrigin</string>
+	<key>spriteObserverOffset</key>
+	<string>routeLayerLeft</string>
+</dict>
+</plist>

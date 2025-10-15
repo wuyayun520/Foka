@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directQueryLocation</key>
+	<string>permanentDialogsPressure</string>
+	<key>finalBlocKind</key>
+	<string>secondColumnTail</string>
+	<key>layoutDuringValue</key>
+	<string>reducerFromShape</string>
+	<key>protectedInteractorSize</key>
+	<string>serviceAgainstShape</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedDecorationTail</key>
+	<string>subpixelPhaseVisible</string>
+	<key>dependencyLevelFlags</key>
+	<string>gridviewMediatorMode</string>
+	<key>gestureInterpreterAlignment</key>
+	<string>appbarAgainstEnvironment</string>
+	<key>logarithmSinceOperation</key>
+	<string>giftFlyweightOpacity</string>
+	<key>presenterStyleDensity</key>
+	<string>builderContextVisibility</string>
+	<key>priorNodeSkewy</key>
+	<string>taskInPlatform</string>
+	<key>queryOrObserver</key>
+	<string>vectorCompositeForce</string>
+	<key>synchronousSignatureOrientation</key>
+	<string>cycleBesideMemento</string>
+	<key>tensorBlocCount</key>
+	<string>disparateMaterialTheme</string>
+</dict>
+</plist>

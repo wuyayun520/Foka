@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledDescriptionOrientation</key>
+	<string>swiftFlyweightOffset</string>
+	<key>hardTernaryBottom</key>
+	<string>sequentialPaddingAppearance</string>
+	<key>missedConvolutionRotation</key>
+	<string>behaviorBridgeFormat</string>
+	<key>pinchableDialogsKind</key>
+	<string>capsuleUntilMediator</string>
+	<key>popupMethodCoord</key>
+	<string>singletonActivityDirection</string>
+	<key>switchProcessVisible</key>
+	<string>tabbarAsVariable</string>
+	<key>tweenStyleVisibility</key>
+	<string>keyMobxEdge</string>
+</dict>
+</plist>

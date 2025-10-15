@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryStageRotation</key>
+	<string>semanticDrawerDistance</string>
+	<key>alignmentBeyondPrototype</key>
+	<string>mainInterfaceEdge</string>
+	<key>aspectAsPhase</key>
+	<string>sliderInsideStage</string>
+	<key>brushProxyVelocity</key>
+	<string>indicatorUntilPlatform</string>
+	<key>euclideanTableHue</key>
+	<string>prismaticCacheAppearance</string>
+	<key>materialHeapTail</key>
+	<string>appbarBridgeColor</string>
+	<key>prismaticGraphScale</key>
+	<string>topicThanComposite</string>
+	<key>rowUntilFramework</key>
+	<string>keyRiverpodInterval</string>
+	<key>tabbarIncludeMemento</key>
+	<string>alertBeyondPattern</string>
+	<key>threadOfBuffer</key>
+	<string>disparateLabelOpacity</string>
+</dict>
+</plist>

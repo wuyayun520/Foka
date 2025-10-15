@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsAwayChain</key>
+	<string>cupertinoSineContrast</string>
+	<key>firstCurveStyle</key>
+	<string>taskOperationFormat</string>
+	<key>radiusOperationSpacing</key>
+	<string>groupWithLayer</string>
+	<key>tweenContainTier</key>
+	<string>batchAwayNumber</string>
+</dict>
+</plist>

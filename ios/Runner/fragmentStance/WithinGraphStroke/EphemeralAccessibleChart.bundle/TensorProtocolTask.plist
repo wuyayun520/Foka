@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelViaLayer</key>
+	<string>priorResolverValidation</string>
+	<key>cycleFromTask</key>
+	<string>listviewAgainstKind</string>
+	<key>greatPaddingTransparency</key>
+	<string>accordionSkinFeedback</string>
+	<key>navigatorAlongTemple</key>
+	<string>sliderLevelSpeed</string>
+</dict>
+</plist>

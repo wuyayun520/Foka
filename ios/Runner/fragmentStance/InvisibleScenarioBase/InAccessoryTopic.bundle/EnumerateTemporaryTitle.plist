@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeCycleRotation</key>
+	<string>resolverPerState</string>
+	<key>durationAlongVar</key>
+	<string>secondShaderShape</string>
+	<key>exceptionPatternColor</key>
+	<string>asynchronousResultFeedback</string>
+	<key>mobxAtLevel</key>
+	<string>enabledButtonDuration</string>
+	<key>publicEffectContrast</key>
+	<string>immutableDescriptionDirection</string>
+	<key>queueFromParam</key>
+	<string>callbackObserverRight</string>
+	<key>routeIncludeSystem</key>
+	<string>tangentInEnvironment</string>
+	<key>smartRowVisible</key>
+	<string>webChannelsLocation</string>
+	<key>usageContextPressure</key>
+	<string>roleDecoratorDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationThroughVar</key>
+	<string>batchStageRate</string>
+	<key>basicTransformerDuration</key>
+	<string>singletonChainSpeed</string>
+	<key>permanentCubeSpacing</key>
+	<string>reducerCycleSpacing</string>
+	<key>progressbarNearVisitor</key>
+	<string>gridAboutStage</string>
+	<key>scrollableMethodTransparency</key>
+	<string>durationPrototypeType</string>
+	<key>tableValueSpeed</key>
+	<string>invisiblePositionTransparency</string>
+</dict>
+</plist>

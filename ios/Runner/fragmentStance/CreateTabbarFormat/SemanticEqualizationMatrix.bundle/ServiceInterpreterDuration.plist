@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableErrorRight</key>
+	<string>durationUntilWork</string>
+	<key>localizationFlyweightFlags</key>
+	<string>statelessOperationOrigin</string>
+	<key>nibAgainstOperation</key>
+	<string>transitionContainComposite</string>
+	<key>resultJobVisible</key>
+	<string>largeAlignmentBottom</string>
+	<key>statelessTaskTheme</key>
+	<string>desktopLabelLocation</string>
+	<key>tappableOptimizerColor</key>
+	<string>animatedcontainerVarColor</string>
+	<key>textureParamRate</key>
+	<string>grainInsideObserver</string>
+</dict>
+</plist>

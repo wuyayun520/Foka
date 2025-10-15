@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationAgainstActivity</key>
+	<string>directlyCubeInterval</string>
+	<key>futureStrategyShade</key>
+	<string>convolutionCompositeOffset</string>
+	<key>requiredBorderTension</key>
+	<string>accordionRowPadding</string>
+	<key>sortedGesturedetectorFlags</key>
+	<string>alertScopeOffset</string>
+	<key>staticInteractorOrientation</key>
+	<string>alertCompositeOrientation</string>
+</dict>
+</plist>

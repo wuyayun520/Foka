@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePopupTag</key>
+	<string>groupOutsideCommand</string>
+	<key>decorationExceptActivity</key>
+	<string>sliderBesideVar</string>
+	<key>entityTaskStatus</key>
+	<string>subpixelVersusMemento</string>
+	<key>frameActivitySize</key>
+	<string>webSceneSkewx</string>
+	<key>gemBufferBehavior</key>
+	<string>singletonAtSingleton</string>
+	<key>permanentAsyncFrequency</key>
+	<string>concreteGemOffset</string>
+	<key>playbackVarOffset</key>
+	<string>pointNumberHead</string>
+	<key>sustainableCallbackStyle</key>
+	<string>parallelHistogramTag</string>
+</dict>
+</plist>

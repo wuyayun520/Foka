@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>otherRowMargin</key>
+	<string>unaryCycleEdge</string>
+	<key>priorityWorkFrequency</key>
+	<string>handlerParameterRate</string>
+	<key>scrollableRadiusSkewy</key>
+	<string>uniformGridviewTension</string>
+	<key>statelessAgainstStrategy</key>
+	<string>sceneThroughValue</string>
+</dict>
+</plist>

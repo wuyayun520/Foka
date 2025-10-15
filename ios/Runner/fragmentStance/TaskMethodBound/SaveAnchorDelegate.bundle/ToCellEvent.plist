@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorPatternDirection</key>
+	<string>gridByParam</string>
+	<key>disparateConfigurationColor</key>
+	<string>respectiveAlignmentColor</string>
+	<key>prismaticSegmentRight</key>
+	<string>cartesianMovementAcceleration</string>
+	<key>tappableOffsetSkewy</key>
+	<string>difficultPresenterDelay</string>
+	<key>tickerTierEdge</key>
+	<string>arithmeticOutsideLayer</string>
+	<key>visibleTitleDirection</key>
+	<string>clipperSystemVelocity</string>
+</dict>
+</plist>

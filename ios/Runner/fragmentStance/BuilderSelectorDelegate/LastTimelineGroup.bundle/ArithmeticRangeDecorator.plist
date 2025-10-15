@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationContextAcceleration</key>
+	<string>granularHashSpacing</string>
+	<key>futureAgainstCycle</key>
+	<string>customizedSegmentFormat</string>
+	<key>materialStatefulType</key>
+	<string>retainedProjectionType</string>
+	<key>radioCommandCount</key>
+	<string>utilParameterVisible</string>
+	<key>spriteTierBorder</key>
+	<string>containerWithActivity</string>
+	<key>tabviewJobCount</key>
+	<string>graphicBeyondInterpreter</string>
+</dict>
+</plist>

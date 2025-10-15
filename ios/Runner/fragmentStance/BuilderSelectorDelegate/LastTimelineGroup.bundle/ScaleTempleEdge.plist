@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAndAction</key>
+	<string>giftInMemento</string>
+	<key>controllerTierInteraction</key>
+	<string>textByBuffer</string>
+	<key>curveProxyFeedback</key>
+	<string>projectionAgainstPlatform</string>
+	<key>gestureContextEdge</key>
+	<string>popupProcessInterval</string>
+	<key>groupDuringBuffer</key>
+	<string>buttonOfLayer</string>
+	<key>loopForLevel</key>
+	<string>instructionValueMargin</string>
+	<key>navigatorTaskStatus</key>
+	<string>completerFromLayer</string>
+	<key>webPositionInset</key>
+	<string>errorContainPrototype</string>
+</dict>
+</plist>

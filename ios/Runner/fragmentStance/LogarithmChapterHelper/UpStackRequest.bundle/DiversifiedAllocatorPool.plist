@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateWithoutStyle</key>
+	<string>dynamicAlignmentFormat</string>
+	<key>easyChapterCoord</key>
+	<string>loopOutsideContext</string>
+	<key>effectNearSingleton</key>
+	<string>timerBesideContext</string>
+	<key>exponentPerAction</key>
+	<string>resourceOfLevel</string>
+	<key>remainderStructureRate</key>
+	<string>brushStateScale</string>
+	<key>requestFrameworkKind</key>
+	<string>hardCertificateResponse</string>
+</dict>
+</plist>

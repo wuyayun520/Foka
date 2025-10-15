@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitVarFeedback</key>
+	<string>roleShapeTail</string>
+	<key>featureOrStyle</key>
+	<string>deferredAnchorDuration</string>
+	<key>functionalUsecaseVisibility</key>
+	<string>descriptorFromStyle</string>
+	<key>largeResolverCount</key>
+	<string>observerAndForm</string>
+	<key>navigatorAdapterAcceleration</key>
+	<string>discardedResourceDistance</string>
+	<key>storyboardParameterInset</key>
+	<string>textureAndPattern</string>
+</dict>
+</plist>

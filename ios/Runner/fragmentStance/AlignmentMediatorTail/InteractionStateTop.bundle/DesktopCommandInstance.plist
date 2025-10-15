@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowBufferStyle</key>
+	<string>granularSliderIndex</string>
+	<key>completerAtStage</key>
+	<string>threadWithoutFacade</string>
+	<key>heroChainTransparency</key>
+	<string>accordionEntityBrightness</string>
+	<key>subtleExceptionShape</key>
+	<string>radiusMementoVisible</string>
+</dict>
+</plist>

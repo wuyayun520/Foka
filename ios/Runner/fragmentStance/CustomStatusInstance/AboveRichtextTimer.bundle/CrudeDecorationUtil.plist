@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateFromProxy</key>
+	<string>commandInsideActivity</string>
+	<key>featureVersusVisitor</key>
+	<string>completionParamHead</string>
+	<key>fusedMarginTransparency</key>
+	<string>viewBesideCommand</string>
+	<key>memberActionContrast</key>
+	<string>themeAdapterDistance</string>
+	<key>overlayCycleLeft</key>
+	<string>lastSkirtDistance</string>
+	<key>overlayViaMode</key>
+	<string>requiredAlignmentAppearance</string>
+	<key>paddingMementoTransparency</key>
+	<string>prevContainerFlags</string>
+	<key>requestAmongLayer</key>
+	<string>lostOverlayHead</string>
+	<key>richtextShapeSkewy</key>
+	<string>entityExceptActivity</string>
+	<key>sessionPerWork</key>
+	<string>logProcessHue</string>
+</dict>
+</plist>

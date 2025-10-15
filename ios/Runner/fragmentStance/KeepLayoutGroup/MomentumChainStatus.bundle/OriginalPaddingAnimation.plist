@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConfigurationOrientation</key>
+	<string>otherSpineSaturation</string>
+	<key>advancedCompleterRight</key>
+	<string>mainBulletType</string>
+	<key>delicateAppbarForce</key>
+	<string>multiObserverVisible</string>
+	<key>directlySpineEdge</key>
+	<string>descriptionCycleContrast</string>
+	<key>logarithmTaskOffset</key>
+	<string>inactiveCupertinoOrigin</string>
+	<key>pinchableArithmeticSpacing</key>
+	<string>rowViaFacade</string>
+	<key>prevPopupLocation</key>
+	<string>exponentBridgeOrientation</string>
+	<key>semanticTopicInset</key>
+	<string>descriptionFrameworkMargin</string>
+</dict>
+</plist>

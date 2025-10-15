@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellPerLayer</key>
+	<string>tableAndSingleton</string>
+	<key>projectVariableResponse</key>
+	<string>associatedDrawerCount</string>
+	<key>radioNearActivity</key>
+	<string>storePrototypeBound</string>
+	<key>rowStrategyPadding</key>
+	<string>boxObserverAlignment</string>
+	<key>sortedTransformerTag</key>
+	<string>sliderAmongCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionAtKind</key>
+	<string>asyncOutsideInterpreter</string>
+	<key>discardedTimerResponse</key>
+	<string>comprehensiveVectorRate</string>
+	<key>ephemeralCollectionAppearance</key>
+	<string>significantHeapSkewy</string>
+	<key>slashMementoRotation</key>
+	<string>euclideanAnimatedcontainerCenter</string>
+</dict>
+</plist>

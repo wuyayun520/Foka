@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarPrototypeShape</key>
+	<string>particleIncludeShape</string>
+	<key>handlerExceptEnvironment</key>
+	<string>textAgainstDecorator</string>
+	<key>managerPatternRight</key>
+	<string>interactorAboutJob</string>
+	<key>routePerLayer</key>
+	<string>rectCycleTag</string>
+</dict>
+</plist>

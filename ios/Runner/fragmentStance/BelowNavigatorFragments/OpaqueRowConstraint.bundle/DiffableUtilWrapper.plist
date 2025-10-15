@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchScopeTop</key>
+	<string>flexibleKernelOrientation</string>
+	<key>beginnerAllocatorSpacing</key>
+	<string>layoutInBridge</string>
+	<key>eventPatternSkewy</key>
+	<string>taskNumberSkewy</string>
+	<key>globalPopupContrast</key>
+	<string>descriptionAboutFlyweight</string>
+	<key>mediocreBlocBehavior</key>
+	<string>robustManagerRate</string>
+</dict>
+</plist>

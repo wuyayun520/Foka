@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryChainVisibility</key>
+	<string>nextListviewPosition</string>
+	<key>exceptionCycleDepth</key>
+	<string>activeNibTag</string>
+	<key>futureAboutStyle</key>
+	<string>offsetPerStage</string>
+	<key>notificationDuringVariable</key>
+	<string>commandTierTension</string>
+	<key>resourceAsType</key>
+	<string>singletonBeyondStage</string>
+	<key>sliderAdapterVisibility</key>
+	<string>bitrateContextCenter</string>
+</dict>
+</plist>

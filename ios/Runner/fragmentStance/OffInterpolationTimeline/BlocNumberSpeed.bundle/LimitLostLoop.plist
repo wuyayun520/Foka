@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEffectForce</key>
+	<string>logVarKind</string>
+	<key>flexibleApertureOrientation</key>
+	<string>appbarThroughLevel</string>
+	<key>graphPhaseIndex</key>
+	<string>globalTimerSkewy</string>
+	<key>optimizerUntilPattern</key>
+	<string>optimizerThroughInterpreter</string>
+	<key>resourceOutsideOperation</key>
+	<string>independentDurationDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncInChain</key>
+	<string>arithmeticCompositeEdge</string>
+	<key>imageActivityHead</key>
+	<string>unaryStateName</string>
+	<key>injectionDuringFlyweight</key>
+	<string>baselineValueCenter</string>
+	<key>sampleVariableTail</key>
+	<string>constAsyncIndex</string>
+	<key>synchronousServiceBehavior</key>
+	<string>descriptorActionFrequency</string>
+	<key>tableBesideKind</key>
+	<string>sustainableHistogramIndex</string>
+	<key>variantOrOperation</key>
+	<string>nativeControllerType</string>
+</dict>
+</plist>

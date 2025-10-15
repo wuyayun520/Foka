@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRepositoryFormat</key>
+	<string>specifyFactoryShade</string>
+	<key>directStoryboardContrast</key>
+	<string>gesturePerActivity</string>
+	<key>plateFrameworkResponse</key>
+	<string>scrollForLevel</string>
+	<key>responsiveEquipmentForce</key>
+	<string>cartesianInterfaceRotation</string>
+	<key>retainedChecklistInterval</key>
+	<string>elasticSubscriptionShade</string>
+	<key>robustCurveAlignment</key>
+	<string>usecaseInLayer</string>
+	<key>significantWidgetBottom</key>
+	<string>liteGridFormat</string>
+</dict>
+</plist>

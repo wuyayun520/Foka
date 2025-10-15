@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardStageRight</key>
+	<string>completionForAdapter</string>
+	<key>materialRadioTheme</key>
+	<string>materialCanvasStatus</string>
+	<key>painterFromCommand</key>
+	<string>bitrateAtStage</string>
+	<key>pinchableStoryboardSkewx</key>
+	<string>integerParamFormat</string>
+	<key>reactiveCurveVisibility</key>
+	<string>gateContainAdapter</string>
+	<key>resolverValueOpacity</key>
+	<string>missionForVariable</string>
+	<key>responsiveSignatureHead</key>
+	<string>expandedBesideVariable</string>
+	<key>sequentialSemanticsDepth</key>
+	<string>tappableLayoutFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleDecoratorFormat</key>
+	<string>exceptionFacadeTransparency</string>
+	<key>delicatePageviewDensity</key>
+	<string>sensorPerAdapter</string>
+	<key>explicitStateCenter</key>
+	<string>diffableAnimationResponse</string>
+	<key>injectionPlatformFeedback</key>
+	<string>protocolBridgeStyle</string>
+	<key>metadataThroughOperation</key>
+	<string>titleAmongAction</string>
+	<key>queryAtMemento</key>
+	<string>agileTweenShape</string>
+	<key>signProcessFormat</key>
+	<string>flexFromSystem</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorIncludePhase</key>
+	<string>accessoryOrParam</string>
+	<key>blocBySingleton</key>
+	<string>workflowAgainstProcess</string>
+	<key>coordinatorStageTheme</key>
+	<string>memberAsComposite</string>
+	<key>cupertinoMethodTension</key>
+	<string>axisParameterAcceleration</string>
+	<key>managerKindTop</key>
+	<string>bufferJobOpacity</string>
+	<key>priorCompletionRate</key>
+	<string>buttonPhaseShape</string>
+	<key>projectionNearDecorator</key>
+	<string>cupertinoResponseAlignment</string>
+	<key>textureAndMode</key>
+	<string>alphaContainValue</string>
+</dict>
+</plist>

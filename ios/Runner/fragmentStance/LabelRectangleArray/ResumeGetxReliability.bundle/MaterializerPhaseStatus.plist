@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushOutsideCycle</key>
+	<string>advancedDecorationTag</string>
+	<key>cardOperationSkewy</key>
+	<string>compositionVariableDirection</string>
+	<key>hierarchicalDependencyTop</key>
+	<string>hyperbolicButtonDistance</string>
+	<key>iterativeCardScale</key>
+	<string>graphOrInterpreter</string>
+	<key>iterativePositionTransparency</key>
+	<string>newestKernelDepth</string>
+	<key>materialContainCycle</key>
+	<string>activityExceptStyle</string>
+	<key>tappableEntityOrientation</key>
+	<string>sliderInShape</string>
+	<key>widgetFromForm</key>
+	<string>sliderWithContext</string>
+</dict>
+</plist>

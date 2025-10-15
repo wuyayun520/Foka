@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderFunctionResponse</key>
+	<string>borderContainChain</string>
+	<key>controllerValueTag</key>
+	<string>menuProxyOrientation</string>
+	<key>modulusFunctionMode</key>
+	<string>coordinatorAmongAction</string>
+	<key>resourceActivityRate</key>
+	<string>custompaintSingletonInset</string>
+</dict>
+</plist>

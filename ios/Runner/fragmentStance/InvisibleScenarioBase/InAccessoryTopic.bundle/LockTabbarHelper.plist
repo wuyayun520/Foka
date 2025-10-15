@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>monsterWithBuffer</key>
+	<string>appbarViaPattern</string>
+	<key>segueStructureSkewx</key>
+	<string>cursorPerVariable</string>
+	<key>sizeByPattern</key>
+	<string>borderTierRotation</string>
+	<key>taskOrDecorator</key>
+	<string>primaryLocalizationType</string>
+</dict>
+</plist>

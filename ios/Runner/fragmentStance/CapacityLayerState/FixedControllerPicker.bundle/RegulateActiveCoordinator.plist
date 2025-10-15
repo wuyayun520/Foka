@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnWithValue</key>
+	<string>gateWithoutStage</string>
+	<key>composableCellRotation</key>
+	<string>ephemeralDependencyAppearance</string>
+	<key>featureFormRotation</key>
+	<string>customizedTangentIndex</string>
+	<key>nativeAssetSkewy</key>
+	<string>buttonAtActivity</string>
+	<key>resourceKindSkewx</key>
+	<string>curveThanProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferWithoutStyle</key>
+	<string>stepViaOperation</string>
+	<key>consultativeCheckboxInteraction</key>
+	<string>chapterFunctionDelay</string>
+	<key>promiseLevelContrast</key>
+	<string>animatedSwiftHead</string>
+	<key>seamlessReferenceColor</key>
+	<string>mediumDialogsTheme</string>
+	<key>tabbarInsidePattern</key>
+	<string>pinchableGateShape</string>
+</dict>
+</plist>

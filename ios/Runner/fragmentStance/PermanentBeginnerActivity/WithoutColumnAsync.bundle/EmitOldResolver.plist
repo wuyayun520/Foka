@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionIncludeVisitor</key>
+	<string>compositionalInkwellCoord</string>
+	<key>containerOrVariable</key>
+	<string>reactiveBoxPressure</string>
+	<key>decorationAsActivity</key>
+	<string>exceptionThroughParameter</string>
+	<key>ephemeralTopicDuration</key>
+	<string>customButtonCount</string>
+	<key>fixedSingletonOffset</key>
+	<string>directClipperDistance</string>
+	<key>hyperbolicProviderType</key>
+	<string>textfieldForLevel</string>
+	<key>isolateUntilBridge</key>
+	<string>significantIntensityVelocity</string>
+	<key>rectNumberOrigin</key>
+	<string>finalAccessoryBehavior</string>
+	<key>robustLayerRotation</key>
+	<string>dimensionVersusProxy</string>
+	<key>utilViaObserver</key>
+	<string>mediaqueryDuringFunction</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchContainType</key>
+	<string>marginBesideCycle</string>
+	<key>blocObserverFlags</key>
+	<string>monsterParamTint</string>
+	<key>discardedCompleterDensity</key>
+	<string>listviewKindRight</string>
+	<key>gridByPrototype</key>
+	<string>asyncEffectScale</string>
+	<key>gridWithStage</key>
+	<string>subtleCustompaintBound</string>
+	<key>histogramFacadeState</key>
+	<string>dedicatedMonsterAppearance</string>
+	<key>mobileInBridge</key>
+	<string>widgetFromMediator</string>
+	<key>particlePlatformInterval</key>
+	<string>statefulResponseKind</string>
+	<key>queueOrLayer</key>
+	<string>sliderTaskVisible</string>
+</dict>
+</plist>

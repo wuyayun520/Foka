@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonInterpreterBorder</key>
+	<string>completionCycleType</string>
+	<key>errorAtFunction</key>
+	<string>scaleActivityDistance</string>
+	<key>metadataForVar</key>
+	<string>activatedCubitOrientation</string>
+	<key>resolverStateScale</key>
+	<string>presenterFlyweightRotation</string>
+	<key>taskPerMediator</key>
+	<string>modalMediatorLocation</string>
+</dict>
+</plist>

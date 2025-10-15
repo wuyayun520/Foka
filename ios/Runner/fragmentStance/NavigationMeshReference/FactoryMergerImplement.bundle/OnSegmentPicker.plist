@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPriorityRate</key>
+	<string>robustLayoutAcceleration</string>
+	<key>dimensionOrForm</key>
+	<string>behaviorVariableSize</string>
+	<key>mediaqueryBufferRotation</key>
+	<string>unactivatedFeaturePadding</string>
+	<key>sampleAsJob</key>
+	<string>dependencyAwayDecorator</string>
+	<key>sinkWithoutDecorator</key>
+	<string>capsuleModeRotation</string>
+	<key>statelessBufferSpacing</key>
+	<string>textThanFlyweight</string>
+</dict>
+</plist>

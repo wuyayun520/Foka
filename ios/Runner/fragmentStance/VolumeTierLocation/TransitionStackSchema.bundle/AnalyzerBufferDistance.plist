@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileProjectSaturation</key>
+	<string>paddingAmongSingleton</string>
+	<key>builderProcessAppearance</key>
+	<string>asyncFromMediator</string>
+	<key>coordinatorThroughFramework</key>
+	<string>semanticsTierPosition</string>
+	<key>temporaryMapRotation</key>
+	<string>projectionContextMode</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncViaContext</key>
+	<string>uniformCycleOpacity</string>
+	<key>ignoredFrameStatus</key>
+	<string>declarativeCosineTop</string>
+	<key>managerBufferTransparency</key>
+	<string>retainedToolAlignment</string>
+	<key>persistentPageviewHead</key>
+	<string>mediaVarCount</string>
+	<key>pinchableRowDistance</key>
+	<string>decorationStateFormat</string>
+	<key>textfieldAlongMemento</key>
+	<string>cubitAroundStage</string>
+	<key>topicAgainstStage</key>
+	<string>localizationStateAlignment</string>
+</dict>
+</plist>

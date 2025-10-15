@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetViaContext</key>
+	<string>discardedModalOpacity</string>
+	<key>cursorIncludeAdapter</key>
+	<string>mobilePositionedFormat</string>
+	<key>deferredOffsetBound</key>
+	<string>stampTypeOffset</string>
+	<key>listenerMediatorDensity</key>
+	<string>lazyAlphaInset</string>
+	<key>navigatorPatternFormat</key>
+	<string>flexibleIsolateStatus</string>
+	<key>requestDespiteMethod</key>
+	<string>rowAndChain</string>
+	<key>segmentAroundSingleton</key>
+	<string>builderByStage</string>
+	<key>statefulBridgeSpacing</key>
+	<string>actionStateOrientation</string>
+	<key>subsequentCanvasSkewy</key>
+	<string>constAnimationIndex</string>
+	<key>vectorJobCenter</key>
+	<string>sizeAgainstPattern</string>
+</dict>
+</plist>

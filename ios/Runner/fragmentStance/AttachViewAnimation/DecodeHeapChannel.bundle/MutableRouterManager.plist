@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationJobTheme</key>
+	<string>utilPerCycle</string>
+	<key>entropyJobMode</key>
+	<string>usecaseThroughStrategy</string>
+	<key>grayscaleCyclePosition</key>
+	<string>profileBufferMargin</string>
+	<key>priorDependencyFrequency</key>
+	<string>imageAroundEnvironment</string>
+	<key>repositoryAsTask</key>
+	<string>zoneVisitorInterval</string>
+	<key>tappableCosineStyle</key>
+	<string>lazyDependencyColor</string>
+	<key>usagePatternScale</key>
+	<string>commonStatefulLeft</string>
+	<key>visibleGradientCenter</key>
+	<string>customGridDistance</string>
+</dict>
+</plist>

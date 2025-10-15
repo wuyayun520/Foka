@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedFragmentMode</key>
+	<string>protocolMediatorVisible</string>
+	<key>decorationPerCommand</key>
+	<string>finalPopupMargin</string>
+	<key>flexibleViewBottom</key>
+	<string>nodeBeyondKind</string>
+	<key>lastBufferBrightness</key>
+	<string>coordinatorStructureRight</string>
+	<key>primaryConstraintType</key>
+	<string>navigatorBridgeBorder</string>
+	<key>resourceDecoratorVisible</key>
+	<string>captionDecoratorMode</string>
+</dict>
+</plist>

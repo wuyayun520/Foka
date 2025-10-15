@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderOutsideType</key>
+	<string>activeWidgetPosition</string>
+	<key>metadataDuringCommand</key>
+	<string>previewActivityHead</string>
+	<key>notifierActionMargin</key>
+	<string>inactiveMenuFeedback</string>
+	<key>skirtDuringBridge</key>
+	<string>cartesianSceneOrientation</string>
+	<key>usedScaffoldSaturation</key>
+	<string>beginnerFactoryTail</string>
+</dict>
+</plist>

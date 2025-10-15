@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFrameworkInset</key>
+	<string>mapByObserver</string>
+	<key>delegateAmongScope</key>
+	<string>materialStrategyColor</string>
+	<key>managerChainAlignment</key>
+	<string>dedicatedCheckboxOrientation</string>
+	<key>sharedParticleSpeed</key>
+	<string>alignmentUntilAction</string>
+	<key>storeAsPlatform</key>
+	<string>queryVersusVar</string>
+</dict>
+</plist>

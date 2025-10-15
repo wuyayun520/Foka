@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorInSystem</key>
+	<string>tickerAsPlatform</string>
+	<key>directCubitVelocity</key>
+	<string>progressbarVarInteraction</string>
+	<key>documentMethodPadding</key>
+	<string>primaryButtonOffset</string>
+	<key>gridOrStyle</key>
+	<string>unaryAlongShape</string>
+	<key>notificationScopeDirection</key>
+	<string>radioWithFramework</string>
+	<key>positionedProxyOrientation</key>
+	<string>composableRouterVisibility</string>
+	<key>titleObserverLeft</key>
+	<string>routerInShape</string>
+</dict>
+</plist>

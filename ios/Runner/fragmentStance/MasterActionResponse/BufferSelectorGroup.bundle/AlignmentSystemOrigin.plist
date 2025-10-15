@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseShapeInset</key>
+	<string>adaptiveHandlerShape</string>
+	<key>memberOrJob</key>
+	<string>requestForMemento</string>
+	<key>metadataNumberForce</key>
+	<string>localizationEnvironmentSize</string>
+	<key>subscriptionStagePadding</key>
+	<string>originalDropdownbuttonDuration</string>
+</dict>
+</plist>

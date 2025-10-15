@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedTickerSpacing</key>
+	<string>greatActionFrequency</string>
+	<key>entityFormRotation</key>
+	<string>animatedStateFrequency</string>
+	<key>independentContainerCount</key>
+	<string>sortedProfileSpeed</string>
+	<key>normVarVisible</key>
+	<string>firstTabviewValidation</string>
+	<key>protectedCompletionRate</key>
+	<string>reactiveRouterRotation</string>
+	<key>scaleByMode</key>
+	<string>stackPerScope</string>
+	<key>similarDurationState</key>
+	<string>sizeStageFeedback</string>
+	<key>streamIncludeWork</key>
+	<string>specifierBesideAdapter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedEqualizationSkewx</key>
+	<string>optionVariableAppearance</string>
+	<key>callbackPatternKind</key>
+	<string>invisibleShaderShape</string>
+	<key>cursorActionValidation</key>
+	<string>textThanState</string>
+	<key>elasticConstraintVelocity</key>
+	<string>immediateInjectionDuration</string>
+	<key>layoutInterpreterInteraction</key>
+	<string>nativeLabelPressure</string>
+	<key>statefulInTier</key>
+	<string>interactorLayerBound</string>
+	<key>textureViaStage</key>
+	<string>bufferPerParameter</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSliderFlags</key>
+	<string>adaptivePresenterRate</string>
+	<key>commandForTemple</key>
+	<string>storyboardVisitorHead</string>
+	<key>extensionEnvironmentMode</key>
+	<string>cupertinoBufferStyle</string>
+	<key>gridPhaseOffset</key>
+	<string>previewMementoFeedback</string>
+	<key>groupAlongFunction</key>
+	<string>inkwellSingletonOffset</string>
+	<key>hyperbolicPositionedOrientation</key>
+	<string>variantAsStructure</string>
+	<key>responsiveAlignmentValidation</key>
+	<string>containerCommandDistance</string>
+	<key>screenModeSaturation</key>
+	<string>mediaBesideStyle</string>
+</dict>
+</plist>

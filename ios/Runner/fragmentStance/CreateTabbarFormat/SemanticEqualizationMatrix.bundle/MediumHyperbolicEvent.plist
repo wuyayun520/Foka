@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousNavigationFormat</key>
+	<string>challengeVersusNumber</string>
+	<key>awaitAwayComposite</key>
+	<string>alignmentAwayStrategy</string>
+	<key>delegateFlyweightFeedback</key>
+	<string>crudeRiverpodBrightness</string>
+	<key>globalScrollPadding</key>
+	<string>buttonOperationBehavior</string>
+	<key>injectionStageTint</key>
+	<string>challengeMementoVelocity</string>
+	<key>mobileUsageSkewy</key>
+	<string>consultativeKernelName</string>
+	<key>mobxAmongAdapter</key>
+	<string>anchorJobTint</string>
+	<key>providerAlongTemple</key>
+	<string>priorityVarValidation</string>
+	<key>uniformFutureName</key>
+	<string>radiusAtTask</string>
+</dict>
+</plist>

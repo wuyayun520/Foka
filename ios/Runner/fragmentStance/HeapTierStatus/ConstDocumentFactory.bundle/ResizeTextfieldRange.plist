@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitWithoutParameter</key>
+	<string>missedCellShape</string>
+	<key>gemLikeDecorator</key>
+	<string>intensityBesideActivity</string>
+	<key>greatAppbarOffset</key>
+	<string>tickerPerProcess</string>
+	<key>greatFrameInset</key>
+	<string>mobileRequestTag</string>
+	<key>prevTickerInteraction</key>
+	<string>bufferPatternName</string>
+	<key>ternaryFormAlignment</key>
+	<string>symbolNearStage</string>
+	<key>tickerOutsidePhase</key>
+	<string>collectionStructureInterval</string>
+</dict>
+</plist>

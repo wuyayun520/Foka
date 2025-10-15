@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelOfValue</key>
+	<string>observerFrameworkRight</string>
+	<key>disabledFutureVisibility</key>
+	<string>controllerOutsideLayer</string>
+	<key>resultVarName</key>
+	<string>projectThroughMediator</string>
+	<key>smartGestureSkewy</key>
+	<string>containerAtParameter</string>
+</dict>
+</plist>

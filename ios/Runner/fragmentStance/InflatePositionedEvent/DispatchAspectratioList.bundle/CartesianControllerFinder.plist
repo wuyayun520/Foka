@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteSkirtInterval</key>
+	<string>storeVariableTop</string>
+	<key>permanentStateCoord</key>
+	<string>imperativeRouteVisible</string>
+	<key>queryAtJob</key>
+	<string>buttonInEnvironment</string>
+	<key>widgetTaskKind</key>
+	<string>staticPageviewTop</string>
+</dict>
+</plist>

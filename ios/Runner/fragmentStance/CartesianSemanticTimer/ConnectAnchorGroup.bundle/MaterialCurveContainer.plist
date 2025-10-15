@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGrainShape</key>
+	<string>ephemeralImageValidation</string>
+	<key>cardFunctionInteraction</key>
+	<string>scaleIncludeForm</string>
+	<key>elasticHeapVelocity</key>
+	<string>navigatorDuringPrototype</string>
+	<key>mapSystemSpeed</key>
+	<string>bufferStyleBehavior</string>
+	<key>persistentWidgetEdge</key>
+	<string>effectStrategyShape</string>
+	<key>resizableResponseDepth</key>
+	<string>clipperMementoSkewy</string>
+	<key>storeSinceFramework</key>
+	<string>singletonWithoutSystem</string>
+</dict>
+</plist>

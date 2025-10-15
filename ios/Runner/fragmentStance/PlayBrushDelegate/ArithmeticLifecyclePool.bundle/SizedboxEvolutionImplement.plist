@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileEntityPressure</key>
+	<string>agileEffectName</string>
+	<key>bitrateThroughMode</key>
+	<string>scrollableUsecaseTail</string>
+	<key>descriptionCommandRotation</key>
+	<string>equalizationChainType</string>
+	<key>entropyIncludeEnvironment</key>
+	<string>layerPatternMode</string>
+	<key>ephemeralThreadMomentum</key>
+	<string>painterFormCoord</string>
+	<key>instructionProxyContrast</key>
+	<string>durationBesideValue</string>
+	<key>sequentialCommandCoord</key>
+	<string>pinchableTangentCount</string>
+</dict>
+</plist>

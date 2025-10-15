@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTimerHue</key>
+	<string>labelStrategyCenter</string>
+	<key>catalystActivitySkewy</key>
+	<string>appbarObserverResponse</string>
+	<key>delegateValueValidation</key>
+	<string>resourceWorkOpacity</string>
+	<key>lossTypeBrightness</key>
+	<string>skinModeDistance</string>
+	<key>otherExpandedRate</key>
+	<string>easyRouterResponse</string>
+	<key>sequentialPreviewBehavior</key>
+	<string>associatedAsyncTag</string>
+</dict>
+</plist>

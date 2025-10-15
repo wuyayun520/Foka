@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFutureStyle</key>
+	<string>storageAndInterpreter</string>
+	<key>bufferMediatorInteraction</key>
+	<string>spineStructureDuration</string>
+	<key>custompaintAtFlyweight</key>
+	<string>musicFlyweightMode</string>
+	<key>graphicContainAction</key>
+	<string>descriptorFrameworkDelay</string>
+	<key>injectionCompositeFrequency</key>
+	<string>interactorScopeResponse</string>
+	<key>storeFlyweightOffset</key>
+	<string>custompaintOutsideFramework</string>
+	<key>toolWithCycle</key>
+	<string>repositoryTaskMomentum</string>
+	<key>viewWithDecorator</key>
+	<string>mediaqueryValueScale</string>
+</dict>
+</plist>

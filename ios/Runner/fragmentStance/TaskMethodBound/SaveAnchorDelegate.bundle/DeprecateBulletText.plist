@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedErrorDensity</key>
+	<string>sliderAsComposite</string>
+	<key>clipperChainOpacity</key>
+	<string>sliderAndType</string>
+	<key>delegateBridgeBottom</key>
+	<string>agileSizedboxStyle</string>
+	<key>extensionFormOpacity</key>
+	<string>cupertinoFromAdapter</string>
+	<key>navigatorBeyondEnvironment</key>
+	<string>cupertinoOrValue</string>
+	<key>pointAndFlyweight</key>
+	<string>unsortedMobileState</string>
+	<key>prevSignatureSkewx</key>
+	<string>greatBufferBehavior</string>
+	<key>sessionKindTransparency</key>
+	<string>immutableCompleterDelay</string>
+</dict>
+</plist>

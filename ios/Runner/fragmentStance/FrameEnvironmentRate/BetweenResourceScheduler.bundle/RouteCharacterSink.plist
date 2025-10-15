@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorContainMemento</key>
+	<string>desktopSinkSaturation</string>
+	<key>channelExceptStyle</key>
+	<string>positionVarRate</string>
+	<key>hierarchicalSessionBrightness</key>
+	<string>canvasStrategyKind</string>
+	<key>independentCubitAppearance</key>
+	<string>ephemeralRectInteraction</string>
+</dict>
+</plist>

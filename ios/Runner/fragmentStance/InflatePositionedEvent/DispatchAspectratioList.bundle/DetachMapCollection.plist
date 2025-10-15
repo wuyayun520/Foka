@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystCommandFrequency</key>
+	<string>animatedResponsePressure</string>
+	<key>challengeEnvironmentBrightness</key>
+	<string>normalProjectionValidation</string>
+	<key>featureDecoratorInteraction</key>
+	<string>effectStageTransparency</string>
+	<key>fixedCubitVelocity</key>
+	<string>globalHandlerOrientation</string>
+	<key>geometricLayoutInteraction</key>
+	<string>curveFlyweightRate</string>
+	<key>giftTypeBehavior</key>
+	<string>injectionStageRotation</string>
+	<key>largeSceneBorder</key>
+	<string>responsiveApertureFormat</string>
+	<key>layerAwayForm</key>
+	<string>semanticDocumentSpeed</string>
+	<key>mediaFlyweightMomentum</key>
+	<string>scrollMethodTail</string>
+</dict>
+</plist>

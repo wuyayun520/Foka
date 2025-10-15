@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisDuringEnvironment</key>
+	<string>completerMethodFeedback</string>
+	<key>buttonOutsideFlyweight</key>
+	<string>animationViaMethod</string>
+	<key>completerEnvironmentName</key>
+	<string>managerMediatorDistance</string>
+	<key>constEntropySkewy</key>
+	<string>resourceSingletonTension</string>
+	<key>ephemeralEffectAlignment</key>
+	<string>numericalSensorStyle</string>
+	<key>factoryAdapterFlags</key>
+	<string>builderAboutVar</string>
+	<key>invisibleInteractorVisibility</key>
+	<string>oldGraphFlags</string>
+</dict>
+</plist>

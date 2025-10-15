@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationScopeRate</key>
+	<string>advancedObserverTop</string>
+	<key>decorationThroughComposite</key>
+	<string>reusableTweenFeedback</string>
+	<key>prevCupertinoTop</key>
+	<string>localizationKindHue</string>
+	<key>slashInsideOperation</key>
+	<string>memberThanSingleton</string>
+</dict>
+</plist>

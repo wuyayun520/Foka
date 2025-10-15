@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushTempleRate</key>
+	<string>requiredAspectSkewy</string>
+	<key>curveTypeFeedback</key>
+	<string>mobilePositionedBehavior</string>
+	<key>flexSystemColor</key>
+	<string>sceneCompositeShade</string>
+	<key>layerExceptMethod</key>
+	<string>documentFlyweightVelocity</string>
+	<key>navigatorDecoratorPressure</key>
+	<string>containerMediatorCount</string>
+</dict>
+</plist>

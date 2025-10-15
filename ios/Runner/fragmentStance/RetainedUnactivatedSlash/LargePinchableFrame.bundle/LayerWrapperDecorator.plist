@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePetTheme</key>
+	<string>inheritedStatelessCenter</string>
+	<key>fusedTextfieldOffset</key>
+	<string>basicConfigurationPadding</string>
+	<key>gramModeState</key>
+	<string>integerVersusLevel</string>
+	<key>resourceCompositeTransparency</key>
+	<string>mediaValueAlignment</string>
+	<key>slashStageResponse</key>
+	<string>sophisticatedBitrateAlignment</string>
+</dict>
+</plist>

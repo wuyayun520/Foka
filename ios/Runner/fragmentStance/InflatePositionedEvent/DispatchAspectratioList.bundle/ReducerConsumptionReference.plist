@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocThroughType</key>
+	<string>flexCycleBehavior</string>
+	<key>chapterExceptScope</key>
+	<string>bufferForSingleton</string>
+	<key>secondSinkState</key>
+	<string>symmetricSizeDuration</string>
+	<key>tickerContainPlatform</key>
+	<string>overlayBesideNumber</string>
+</dict>
+</plist>

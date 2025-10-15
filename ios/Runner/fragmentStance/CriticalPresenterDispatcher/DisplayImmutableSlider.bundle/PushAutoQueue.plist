@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRadiusOffset</key>
+	<string>oldCacheStyle</string>
+	<key>delegateStateVelocity</key>
+	<string>methodAtEnvironment</string>
+	<key>gridviewBeyondScope</key>
+	<string>viewThanContext</string>
+	<key>textureEnvironmentFlags</key>
+	<string>columnParamResponse</string>
+</dict>
+</plist>

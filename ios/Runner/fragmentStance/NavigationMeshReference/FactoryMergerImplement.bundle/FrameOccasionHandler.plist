@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedStateSize</key>
+	<string>axisJobInset</string>
+	<key>cycleWithSingleton</key>
+	<string>firstGrayscaleSpacing</string>
+	<key>gridObserverInterval</key>
+	<string>allocatorDuringOperation</string>
+	<key>prismaticDecorationDuration</key>
+	<string>effectInterpreterLocation</string>
+	<key>semanticGestureRate</key>
+	<string>fragmentMethodBrightness</string>
+	<key>staticGateValidation</key>
+	<string>protocolParamVisible</string>
+	<key>utilBeyondPattern</key>
+	<string>asyncBesideFacade</string>
+</dict>
+</plist>

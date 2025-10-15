@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityForBridge</key>
+	<string>radioBeyondTemple</string>
+	<key>compositionalPlaybackBound</key>
+	<string>precisionFlyweightMode</string>
+	<key>granularCommandBehavior</key>
+	<string>nibAtStyle</string>
+	<key>independentSegmentFlags</key>
+	<string>tickerWithState</string>
+	<key>iterativeMarginScale</key>
+	<string>sizeTypeBehavior</string>
+	<key>kernelThroughAction</key>
+	<string>fragmentInShape</string>
+	<key>sliderCycleTag</key>
+	<string>inactiveAnimationVelocity</string>
+</dict>
+</plist>

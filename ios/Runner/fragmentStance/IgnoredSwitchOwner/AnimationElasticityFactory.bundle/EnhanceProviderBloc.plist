@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticActionStyle</key>
+	<string>statePhasePosition</string>
+	<key>channelsLevelValidation</key>
+	<string>symmetricCompleterBrightness</string>
+	<key>errorOutsideCommand</key>
+	<string>disabledStorageTransparency</string>
+	<key>grayscaleAroundStage</key>
+	<string>listviewProcessDepth</string>
+	<key>interactorUntilTemple</key>
+	<string>persistentOffsetCoord</string>
+	<key>mutableAccessoryShade</key>
+	<string>chartSinceVisitor</string>
+</dict>
+</plist>

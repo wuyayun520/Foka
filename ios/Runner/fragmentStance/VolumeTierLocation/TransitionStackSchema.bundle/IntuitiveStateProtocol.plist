@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseStrategyForce</key>
+	<string>smartParticleShape</string>
+	<key>curveFacadeDepth</key>
+	<string>overlayBeyondCycle</string>
+	<key>disabledSegueState</key>
+	<string>tabviewIncludeSystem</string>
+	<key>hierarchicalOptionFlags</key>
+	<string>exceptionAboutVisitor</string>
+	<key>positionActionMode</key>
+	<string>containerPhaseBottom</string>
+	<key>topicInsideFlyweight</key>
+	<string>alignmentAndParameter</string>
+	<key>typicalIntensityTheme</key>
+	<string>stepThanBridge</string>
+	<key>unaryTempleInteraction</key>
+	<string>reducerFacadeEdge</string>
+</dict>
+</plist>

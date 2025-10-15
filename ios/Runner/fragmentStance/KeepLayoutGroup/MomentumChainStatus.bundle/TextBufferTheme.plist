@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBufferKind</key>
+	<string>entropyParamSpacing</string>
+	<key>cardAtPrototype</key>
+	<string>sampleLikeMemento</string>
+	<key>chartVisitorBehavior</key>
+	<string>streamTierOrientation</string>
+	<key>interactorTypeBehavior</key>
+	<string>scrollFrameworkCenter</string>
+	<key>transitionWithoutOperation</key>
+	<string>specifyAppbarPosition</string>
+</dict>
+</plist>

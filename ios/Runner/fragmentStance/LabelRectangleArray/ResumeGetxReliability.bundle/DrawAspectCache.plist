@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSliderBehavior</key>
+	<string>adaptiveSineBrightness</string>
+	<key>cosineNumberForce</key>
+	<string>multiplicationBeyondLevel</string>
+	<key>cupertinoAppbarAppearance</key>
+	<string>controllerFunctionVisible</string>
+	<key>descriptionExceptForm</key>
+	<string>alphaLayerRight</string>
+	<key>keyDescriptorOffset</key>
+	<string>activityPerEnvironment</string>
+	<key>priorIntegerBottom</key>
+	<string>vectorStateTransparency</string>
+	<key>specifierLayerOrientation</key>
+	<string>viewTempleStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateDocumentBrightness</key>
+	<string>textFormFeedback</string>
+	<key>errorFunctionSpacing</key>
+	<string>checkboxObserverAppearance</string>
+	<key>handlerThroughSingleton</key>
+	<string>pinchableResourceRight</string>
+	<key>layoutModeInterval</key>
+	<string>discardedCoordinatorValidation</string>
+	<key>mapOrTask</key>
+	<string>activityBeyondActivity</string>
+	<key>momentumFormBottom</key>
+	<string>primaryPositionedVisible</string>
+	<key>prismaticPositionAppearance</key>
+	<string>sineWithoutInterpreter</string>
+	<key>scrollableEntropyShape</key>
+	<string>rowBeyondMediator</string>
+</dict>
+</plist>

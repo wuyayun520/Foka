@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedTopicTheme</key>
+	<string>awaitSingletonSpeed</string>
+	<key>disabledCellEdge</key>
+	<string>semanticSensorTag</string>
+	<key>enabledUtilTop</key>
+	<string>cacheInVariable</string>
+	<key>eventActionBound</key>
+	<string>modelFlyweightFlags</string>
+	<key>fixedChallengeBehavior</key>
+	<string>listenerScopeDirection</string>
+	<key>managerTierMargin</key>
+	<string>sinkAndInterpreter</string>
+	<key>memberPerCycle</key>
+	<string>sceneStrategyCount</string>
+	<key>particleAwayLayer</key>
+	<string>prevGridviewVelocity</string>
+	<key>pinchablePlateCoord</key>
+	<string>directlyCurveOrientation</string>
+	<key>sizeProxyFlags</key>
+	<string>denseConfigurationCount</string>
+</dict>
+</plist>

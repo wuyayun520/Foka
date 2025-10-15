@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCurveDirection</key>
+	<string>extensionStrategyLeft</string>
+	<key>containerMementoAcceleration</key>
+	<string>adaptiveFeatureResponse</string>
+	<key>extensionOperationFormat</key>
+	<string>allocatorPrototypeBehavior</string>
+	<key>giftObserverBottom</key>
+	<string>instructionScopePadding</string>
+	<key>heapFacadeOrigin</key>
+	<string>lastUnarySpeed</string>
+	<key>localizationFlyweightMargin</key>
+	<string>sequentialAlphaInterval</string>
+	<key>mobxWithStyle</key>
+	<string>sustainableRectTheme</string>
+	<key>repositoryPrototypeValidation</key>
+	<string>intermediateLocalizationFrequency</string>
+	<key>stackWithType</key>
+	<string>sequentialScrollVisibility</string>
+</dict>
+</plist>

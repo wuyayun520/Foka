@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProfileFlags</key>
+	<string>interpolationVersusPattern</string>
+	<key>assetAndAdapter</key>
+	<string>rapidBufferTransparency</string>
+	<key>constBufferInteraction</key>
+	<string>asyncLogRotation</string>
+	<key>controllerOrCommand</key>
+	<string>capacitiesNearActivity</string>
+	<key>coordinatorThroughFramework</key>
+	<string>matrixVisitorForce</string>
+	<key>discardedActivityOrigin</key>
+	<string>constraintStateSkewy</string>
+	<key>observerStateScale</key>
+	<string>lazyUsecaseSpeed</string>
+	<key>parallelAnimationDelay</key>
+	<string>sliderNumberFlags</string>
+	<key>pointContextContrast</key>
+	<string>finalStoryboardFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedBrushDuration</key>
+	<string>textExceptFlyweight</string>
+	<key>interpolationValueVisible</key>
+	<string>nodeForKind</string>
+	<key>lossOfCycle</key>
+	<string>hashContainDecorator</string>
+	<key>segueDecoratorOpacity</key>
+	<string>pinchableSegmentTint</string>
+	<key>standaloneSpriteOffset</key>
+	<string>heapFromAction</string>
+	<key>statelessCubitTint</key>
+	<string>providerObserverMode</string>
+	<key>subscriptionContainFramework</key>
+	<string>entityDespiteAdapter</string>
+	<key>timerDuringContext</key>
+	<string>bufferStyleStatus</string>
+</dict>
+</plist>

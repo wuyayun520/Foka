@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateCanvasFeedback</key>
+	<string>gesturedetectorByValue</string>
+	<key>geometricParticleStyle</key>
+	<string>explicitGateSize</string>
+	<key>masterNearBuffer</key>
+	<string>menuDuringProcess</string>
+	<key>repositoryAndOperation</key>
+	<string>seamlessLogCoord</string>
+	<key>rowThroughLevel</key>
+	<string>mobileAndFramework</string>
+	<key>sizeStructureName</key>
+	<string>ephemeralConfigurationRate</string>
+	<key>switchBridgeCoord</key>
+	<string>logInterpreterDirection</string>
+	<key>textAsBridge</key>
+	<string>directlyOffsetFrequency</string>
+</dict>
+</plist>

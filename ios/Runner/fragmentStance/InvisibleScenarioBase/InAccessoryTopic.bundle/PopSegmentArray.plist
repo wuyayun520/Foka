@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTabviewInteraction</key>
+	<string>routerSinceFlyweight</string>
+	<key>chapterLevelScale</key>
+	<string>gramLevelName</string>
+	<key>futureParamDelay</key>
+	<string>blocFlyweightCoord</string>
+	<key>grayscaleDuringFunction</key>
+	<string>prismaticMonsterRate</string>
+	<key>mobileDocumentInteraction</key>
+	<string>completerFrameworkHead</string>
+	<key>progressbarFlyweightTheme</key>
+	<string>ternaryBesideStyle</string>
+	<key>subtleVectorContrast</key>
+	<string>staticTopicHead</string>
+</dict>
+</plist>

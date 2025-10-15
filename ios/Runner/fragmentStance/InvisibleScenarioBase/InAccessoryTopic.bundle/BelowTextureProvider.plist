@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentInterpreterContrast</key>
+	<string>globalIntensityLeft</string>
+	<key>commandScopeCount</key>
+	<string>tensorSymbolDepth</string>
+	<key>effectInterpreterSpeed</key>
+	<string>cellBesideVar</string>
+	<key>granularCubitMode</key>
+	<string>notificationUntilJob</string>
+	<key>iterativeEventCoord</key>
+	<string>animatedcontainerContainStructure</string>
+	<key>labelAboutLayer</key>
+	<string>displayableMediaStatus</string>
+	<key>modalParamDensity</key>
+	<string>mediumGraphPosition</string>
+	<key>riverpodLayerTop</key>
+	<string>usageInPhase</string>
+	<key>uniformSegueBottom</key>
+	<string>challengeLayerAlignment</string>
+	<key>usecaseAndStage</key>
+	<string>symmetricPositionedDirection</string>
+</dict>
+</plist>

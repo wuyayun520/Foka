@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSubpixelFrequency</key>
+	<string>concurrentMetadataOrientation</string>
+	<key>gradientFormCoord</key>
+	<string>apertureProxyFeedback</string>
+	<key>hardAllocatorMomentum</key>
+	<string>awaitAboutLayer</string>
+	<key>hyperbolicSubscriptionMomentum</key>
+	<string>eagerMobileRate</string>
+	<key>injectionProcessVisible</key>
+	<string>swiftPrototypeShape</string>
+</dict>
+</plist>

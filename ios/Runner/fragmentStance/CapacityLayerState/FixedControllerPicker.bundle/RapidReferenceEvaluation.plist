@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionSystemFeedback</key>
+	<string>flexibleResponseSkewx</string>
+	<key>coordinatorNearScope</key>
+	<string>commonEventInteraction</string>
+	<key>draggableRepositoryStyle</key>
+	<string>entropyIncludeActivity</string>
+	<key>immediateCustompaintIndex</key>
+	<string>directStampBehavior</string>
+	<key>localizationStrategySkewx</key>
+	<string>singleRadiusShape</string>
+	<key>persistentNavigationSkewy</key>
+	<string>widgetOutsideTier</string>
+	<key>radioActionVisible</key>
+	<string>threadCompositeDirection</string>
+</dict>
+</plist>

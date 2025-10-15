@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAroundFacade</key>
+	<string>unaryModeBound</string>
+	<key>crudeControllerTop</key>
+	<string>behaviorInSystem</string>
+	<key>factoryBufferInset</key>
+	<string>variantWithoutFacade</string>
+	<key>gemContainStyle</key>
+	<string>dropdownbuttonAsStyle</string>
+	<key>matrixInsideSingleton</key>
+	<string>constDocumentTheme</string>
+	<key>mobileGiftScale</key>
+	<string>greatCupertinoMargin</string>
+	<key>specifyAsyncInterval</key>
+	<string>notificationSingletonSpeed</string>
+</dict>
+</plist>

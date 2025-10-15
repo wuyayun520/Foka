@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchBeyondWork</key>
+	<string>unsortedBuilderRate</string>
+	<key>curveOutsideMediator</key>
+	<string>intuitiveResultDelay</string>
+	<key>navigatorWithoutJob</key>
+	<string>mediocreMenuFrequency</string>
+	<key>particleEnvironmentFrequency</key>
+	<string>awaitContainMethod</string>
+	<key>protocolDespiteFramework</key>
+	<string>positionedAndState</string>
+	<key>significantBitrateCoord</key>
+	<string>cubeMediatorSkewy</string>
+</dict>
+</plist>

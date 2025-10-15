@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorExceptFunction</key>
+	<string>animationChainContrast</string>
+	<key>featureMementoOffset</key>
+	<string>canvasIncludeMemento</string>
+	<key>lastCompleterBound</key>
+	<string>flexibleViewMargin</string>
+	<key>mediumEventOrigin</key>
+	<string>subtleGesturedetectorTension</string>
+	<key>memberStyleDirection</key>
+	<string>channelsTierVelocity</string>
+	<key>otherRouterPadding</key>
+	<string>accessibleLabelTop</string>
+	<key>painterVersusPlatform</key>
+	<string>timerFromMethod</string>
+	<key>permissiveLayerForce</key>
+	<string>ternaryIncludeKind</string>
+	<key>sceneOutsideCommand</key>
+	<string>controllerInScope</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProgressbarTail</key>
+	<string>dedicatedTextStatus</string>
+	<key>contractionSinceStyle</key>
+	<string>curveVarRight</string>
+	<key>enabledCubitKind</key>
+	<string>directUtilEdge</string>
+	<key>iterativeTransitionPressure</key>
+	<string>referenceAndShape</string>
+	<key>navigatorAsPattern</key>
+	<string>metadataTierHue</string>
+	<key>petFacadeBorder</key>
+	<string>prismaticSingletonInteraction</string>
+	<key>scrollableMultiplicationResponse</key>
+	<string>activatedActionMomentum</string>
+	<key>spriteThroughAdapter</key>
+	<string>timerPerScope</string>
+	<key>viewActivityPressure</key>
+	<string>primaryResolverSaturation</string>
+</dict>
+</plist>

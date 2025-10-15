@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionIncludeCommand</key>
+	<string>animationMementoRate</string>
+	<key>constraintAgainstNumber</key>
+	<string>adaptivePrecisionDuration</string>
+	<key>controllerTaskSkewx</key>
+	<string>singletonBufferOrientation</string>
+	<key>ignoredRouterMargin</key>
+	<string>singletonIncludeStrategy</string>
+	<key>methodAgainstEnvironment</key>
+	<string>hyperbolicScaffoldScale</string>
+	<key>playbackPatternScale</key>
+	<string>draggableReducerValidation</string>
+	<key>previewShapeIndex</key>
+	<string>storeDecoratorSize</string>
+	<key>requestStyleBound</key>
+	<string>statefulTypeMargin</string>
+	<key>statelessVarEdge</key>
+	<string>coordinatorBridgeMode</string>
+	<key>typicalGestureVelocity</key>
+	<string>isolateLikeAction</string>
+</dict>
+</plist>

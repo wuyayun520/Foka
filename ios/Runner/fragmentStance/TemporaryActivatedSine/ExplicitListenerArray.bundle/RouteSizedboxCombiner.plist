@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousResponseFeedback</key>
+	<string>reactiveResultCenter</string>
+	<key>curveWorkVisibility</key>
+	<string>specifierStructureMode</string>
+	<key>dialogsIncludePhase</key>
+	<string>queuePerTask</string>
+	<key>flexibleUsageName</key>
+	<string>consumerFrameworkScale</string>
+	<key>largeHandlerVelocity</key>
+	<string>integerOutsidePattern</string>
+	<key>mediaqueryInBridge</key>
+	<string>symmetricEquipmentSize</string>
+	<key>methodAgainstPrototype</key>
+	<string>smallCallbackPadding</string>
+	<key>prevLabelMode</key>
+	<string>sessionBeyondStage</string>
+	<key>signatureTemplePadding</key>
+	<string>viewBeyondStrategy</string>
+	<key>storeKindTop</key>
+	<string>mutableQueueShade</string>
+</dict>
+</plist>

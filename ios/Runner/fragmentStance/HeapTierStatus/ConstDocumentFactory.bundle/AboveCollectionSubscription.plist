@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateShapePadding</key>
+	<string>commandAsKind</string>
+	<key>channelWithLevel</key>
+	<string>heapByMethod</string>
+	<key>enabledEffectDistance</key>
+	<string>animatedcontainerEnvironmentDepth</string>
+	<key>functionalFragmentSize</key>
+	<string>navigatorFunctionPadding</string>
+	<key>textValueSize</key>
+	<string>configurationCompositeShape</string>
+</dict>
+</plist>

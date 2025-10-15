@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOrOperation</key>
+	<string>ignoredFragmentTag</string>
+	<key>resourceAtType</key>
+	<string>activeButtonName</string>
+	<key>routeForTask</key>
+	<string>intuitiveContainerCoord</string>
+	<key>semanticModulusVisibility</key>
+	<string>specifierUntilStrategy</string>
+	<key>statefulUntilMemento</key>
+	<string>listenerViaPattern</string>
+	<key>subscriptionPlatformInteraction</key>
+	<string>exceptionOutsidePlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalSkinSaturation</key>
+	<string>viewAsMediator</string>
+	<key>inactiveGridContrast</key>
+	<string>eventContextShade</string>
+	<key>navigatorFrameworkBrightness</key>
+	<string>titleContextBehavior</string>
+	<key>navigatorInsideVar</key>
+	<string>accordionModelSpacing</string>
+	<key>reducerTaskLocation</key>
+	<string>popupAboutSystem</string>
+	<key>scrollBesideStage</key>
+	<string>semanticColumnShape</string>
+	<key>sessionChainSize</key>
+	<string>compositionalQueueDirection</string>
+	<key>sharedChartTheme</key>
+	<string>grayscaleIncludeKind</string>
+	<key>spotVersusProcess</key>
+	<string>sessionTierSaturation</string>
+	<key>swiftWithSingleton</key>
+	<string>transitionVariableTint</string>
+</dict>
+</plist>

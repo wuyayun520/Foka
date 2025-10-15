@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineCycleVisibility</key>
+	<string>consumerAlongStrategy</string>
+	<key>isolateOrStyle</key>
+	<string>catalystOutsideDecorator</string>
+	<key>navigatorShapeLocation</key>
+	<string>providerFromStyle</string>
+	<key>painterViaFacade</key>
+	<string>arithmeticNumberCount</string>
+</dict>
+</plist>

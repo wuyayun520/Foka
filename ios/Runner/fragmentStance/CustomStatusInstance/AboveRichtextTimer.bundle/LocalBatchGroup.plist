@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionStateBorder</key>
+	<string>smallRectShade</string>
+	<key>activityChainAlignment</key>
+	<string>graphLevelDepth</string>
+	<key>clipperAndOperation</key>
+	<string>newestLabelInteraction</string>
+	<key>disabledAwaitAppearance</key>
+	<string>repositoryFacadeBehavior</string>
+	<key>diversifiedTechniqueName</key>
+	<string>segmentObserverContrast</string>
+	<key>immediateMenuLocation</key>
+	<string>disparateRouteResponse</string>
+	<key>nodeValueVisibility</key>
+	<string>protectedCheckboxDirection</string>
+	<key>viewAtKind</key>
+	<string>segueTypeInset</string>
+</dict>
+</plist>

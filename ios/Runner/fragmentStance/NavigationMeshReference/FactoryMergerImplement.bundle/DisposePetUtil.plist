@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertForOperation</key>
+	<string>routeSystemStatus</string>
+	<key>alertTierBound</key>
+	<string>transitionTierTheme</string>
+	<key>characterObserverState</key>
+	<string>asyncByStage</string>
+	<key>columnOrMode</key>
+	<string>semanticBrushTension</string>
+	<key>gateObserverContrast</key>
+	<string>cubeInProxy</string>
+	<key>lastDescriptionRate</key>
+	<string>publicLabelVisible</string>
+	<key>paddingAroundVisitor</key>
+	<string>referenceMethodLocation</string>
+	<key>storageFromState</key>
+	<string>resultAsNumber</string>
+</dict>
+</plist>

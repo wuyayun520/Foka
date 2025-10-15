@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAspectFeedback</key>
+	<string>batchActivityRotation</string>
+	<key>advancedConvolutionVisibility</key>
+	<string>persistentMomentumSkewy</string>
+	<key>arithmeticCurveRotation</key>
+	<string>unsortedMediaqueryTransparency</string>
+	<key>crucialDecorationSize</key>
+	<string>builderMementoDirection</string>
+	<key>cubitDuringChain</key>
+	<string>usedCapacitiesSaturation</string>
+	<key>subscriptionMethodAcceleration</key>
+	<string>listenerTaskSpacing</string>
+</dict>
+</plist>

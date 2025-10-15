@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAnimationMode</key>
+	<string>touchWithMode</string>
+	<key>configurationDespiteContext</key>
+	<string>providerForLevel</string>
+	<key>deferredReferenceIndex</key>
+	<string>transformerAwayComposite</string>
+	<key>enabledScreenOrigin</key>
+	<string>labelAlongBridge</string>
+	<key>firstConstraintLeft</key>
+	<string>progressbarBesideStage</string>
+	<key>normalReducerPressure</key>
+	<string>directActivityTint</string>
+	<key>rowAsStage</key>
+	<string>significantQueueType</string>
+	<key>storageSystemAlignment</key>
+	<string>providerAboutLevel</string>
+</dict>
+</plist>

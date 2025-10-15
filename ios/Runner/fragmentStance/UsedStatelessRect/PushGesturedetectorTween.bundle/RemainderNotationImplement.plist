@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMomentumHead</key>
+	<string>segmentByProcess</string>
+	<key>flexBeyondBuffer</key>
+	<string>missedActionMode</string>
+	<key>normalSliderShape</key>
+	<string>profileWithProcess</string>
+	<key>resilientMasterContrast</key>
+	<string>resultParamBehavior</string>
+	<key>textAdapterName</key>
+	<string>segueOrScope</string>
+	<key>visiblePetFrequency</key>
+	<string>paddingMementoInset</string>
+</dict>
+</plist>

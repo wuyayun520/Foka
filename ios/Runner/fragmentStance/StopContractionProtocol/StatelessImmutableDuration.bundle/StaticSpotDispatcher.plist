@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveBuilderMargin</key>
+	<string>imagePerFunction</string>
+	<key>nodeAwayAction</key>
+	<string>pinchableVariantLocation</string>
+	<key>scaffoldContextTension</key>
+	<string>resilientAlignmentBound</string>
+	<key>semanticSliderKind</key>
+	<string>binarySinceStyle</string>
+</dict>
+</plist>

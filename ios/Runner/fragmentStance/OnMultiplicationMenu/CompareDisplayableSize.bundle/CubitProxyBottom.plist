@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarObserverDuration</key>
+	<string>gestureStrategyCenter</string>
+	<key>autoObserverSpacing</key>
+	<string>smartPositionedFeedback</string>
+	<key>bulletModeCoord</key>
+	<string>overlayAsVar</string>
+	<key>chapterUntilForm</key>
+	<string>graphNumberContrast</string>
+	<key>pivotalCapsuleSaturation</key>
+	<string>sharedParticleColor</string>
+	<key>repositoryLevelBehavior</key>
+	<string>sliderActivityHue</string>
+	<key>topicDecoratorBehavior</key>
+	<string>visibleMenuSpacing</string>
+	<key>viewStateFormat</key>
+	<string>transitionWithPrototype</string>
+</dict>
+</plist>

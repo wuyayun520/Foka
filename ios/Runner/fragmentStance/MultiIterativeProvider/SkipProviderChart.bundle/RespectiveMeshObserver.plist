@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveErrorInterval</key>
+	<string>callbackByFacade</string>
+	<key>chapterActivityContrast</key>
+	<string>customizedPreviewFormat</string>
+	<key>contractionThroughInterpreter</key>
+	<string>usecaseExceptWork</string>
+	<key>difficultAlignmentBorder</key>
+	<string>diffableChannelVisible</string>
+	<key>effectContextDepth</key>
+	<string>priorTextureFrequency</string>
+	<key>oldSemanticsPosition</key>
+	<string>controllerFunctionRight</string>
+	<key>presenterForState</key>
+	<string>rowBeyondMode</string>
+	<key>resilientListenerSaturation</key>
+	<string>cacheTypeCount</string>
+	<key>smallInteractorState</key>
+	<string>plateParamSpacing</string>
+	<key>transitionTaskFrequency</key>
+	<string>durationMediatorPosition</string>
+</dict>
+</plist>

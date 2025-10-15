@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeAnimationState</key>
+	<string>routeThroughVar</string>
+	<key>customAnimationTransparency</key>
+	<string>musicAdapterTint</string>
+	<key>equipmentWithPhase</key>
+	<string>missionExceptEnvironment</string>
+	<key>errorPhaseAcceleration</key>
+	<string>agileLoopSkewy</string>
+	<key>immediateAlertFeedback</key>
+	<string>graphShapeContrast</string>
+	<key>kernelMediatorContrast</key>
+	<string>delegateMethodHue</string>
+	<key>lostStateStyle</key>
+	<string>gradientJobMomentum</string>
+	<key>statelessViaLayer</key>
+	<string>modulusOperationTheme</string>
+	<key>textPhaseDuration</key>
+	<string>modelChainSaturation</string>
+</dict>
+</plist>

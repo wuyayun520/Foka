@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyIncludeLayer</key>
+	<string>gestureViaShape</string>
+	<key>futureAtStage</key>
+	<string>animationAsSystem</string>
+	<key>geometricCurveFlags</key>
+	<string>callbackStrategyValidation</string>
+	<key>reusableBlocTheme</key>
+	<string>parallelBinaryRate</string>
+	<key>serviceByFramework</key>
+	<string>mediumSingletonIndex</string>
+	<key>subtleGridRate</key>
+	<string>animationAmongObserver</string>
+	<key>timerInKind</key>
+	<string>resolverVariableSkewy</string>
+</dict>
+</plist>

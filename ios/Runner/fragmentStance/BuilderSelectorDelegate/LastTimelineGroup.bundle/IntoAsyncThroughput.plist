@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerValueSpacing</key>
+	<string>usedControllerColor</string>
+	<key>descriptionCycleLocation</key>
+	<string>resourceDecoratorHead</string>
+	<key>intensityContextContrast</key>
+	<string>independentUsageSkewx</string>
+	<key>kernelAlongStyle</key>
+	<string>equalizationParamFormat</string>
+	<key>sizeBesideDecorator</key>
+	<string>requestOrMemento</string>
+</dict>
+</plist>

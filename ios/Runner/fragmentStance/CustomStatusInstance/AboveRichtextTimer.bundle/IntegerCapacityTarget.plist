@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSlashState</key>
+	<string>parallelStorageForce</string>
+	<key>asyncAmongBridge</key>
+	<string>coordinatorTierFeedback</string>
+	<key>compositionAwayScope</key>
+	<string>currentBlocPressure</string>
+	<key>offsetAgainstLayer</key>
+	<string>documentPlatformCoord</string>
+	<key>timerCommandOrigin</key>
+	<string>operationDecoratorResponse</string>
+</dict>
+</plist>

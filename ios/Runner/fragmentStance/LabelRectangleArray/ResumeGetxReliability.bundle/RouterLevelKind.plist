@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchJobName</key>
+	<string>entityAroundAdapter</string>
+	<key>previewParameterOffset</key>
+	<string>consultativeBatchDelay</string>
+	<key>scrollUntilJob</key>
+	<string>sizeFromProxy</string>
+	<key>significantSpineValidation</key>
+	<string>managerContainLevel</string>
+	<key>unactivatedNavigationInterval</key>
+	<string>specifyCoordinatorLocation</string>
+</dict>
+</plist>

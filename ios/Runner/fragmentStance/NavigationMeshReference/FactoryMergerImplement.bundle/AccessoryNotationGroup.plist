@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reactiveFutureState</key>
+	<string>liteHandlerFeedback</string>
+	<key>reducerStageBrightness</key>
+	<string>usageVarHue</string>
+	<key>responseAdapterScale</key>
+	<string>mutableSizeCount</string>
+	<key>resultContextDirection</key>
+	<string>statefulSwiftBehavior</string>
+	<key>subsequentBaselineName</key>
+	<string>metadataVariableMargin</string>
+</dict>
+</plist>

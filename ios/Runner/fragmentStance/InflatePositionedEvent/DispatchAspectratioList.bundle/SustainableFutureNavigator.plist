@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationFromScope</key>
+	<string>particleVersusMediator</string>
+	<key>fixedPainterFlags</key>
+	<string>textAtComposite</string>
+	<key>gesturedetectorContextVisible</key>
+	<string>dedicatedSwitchCenter</string>
+	<key>scrollableCaptionVelocity</key>
+	<string>methodStyleName</string>
+	<key>statelessMobileDensity</key>
+	<string>transitionBufferPosition</string>
+	<key>themeActivityRate</key>
+	<string>taskStyleTension</string>
+	<key>usageStateMomentum</key>
+	<string>comprehensiveCallbackDelay</string>
+	<key>variantAsSingleton</key>
+	<string>challengeLevelState</string>
+</dict>
+</plist>

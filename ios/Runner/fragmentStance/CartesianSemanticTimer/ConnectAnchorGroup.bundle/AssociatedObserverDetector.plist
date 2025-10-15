@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardInterpreterBrightness</key>
+	<string>bufferChainHue</string>
+	<key>cellPerParameter</key>
+	<string>standaloneSkinDirection</string>
+	<key>disabledSpotLocation</key>
+	<string>musicThroughComposite</string>
+	<key>handlerViaVar</key>
+	<string>accessibleGroupShape</string>
+	<key>offsetContextPadding</key>
+	<string>listenerAsEnvironment</string>
+	<key>priorInjectionStyle</key>
+	<string>usedErrorCount</string>
+	<key>semanticZoneValidation</key>
+	<string>customizedSingletonFlags</string>
+	<key>serviceModeInset</key>
+	<string>adaptiveGesturedetectorDelay</string>
+</dict>
+</plist>

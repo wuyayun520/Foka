@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseChallengeTheme</key>
+	<string>alertAsDecorator</string>
+	<key>entropyProcessShape</key>
+	<string>smartCurveMode</string>
+	<key>intensityPhaseBehavior</key>
+	<string>interpolationTierShape</string>
+	<key>notificationAmongFlyweight</key>
+	<string>painterModeTransparency</string>
+	<key>resultVersusStructure</key>
+	<string>permanentTweenTag</string>
+	<key>spotProxyShade</key>
+	<string>alphaIncludeFunction</string>
+	<key>staticEntropyTint</key>
+	<string>observerActivityOrientation</string>
+	<key>textAboutMode</key>
+	<string>firstCellFeedback</string>
+	<key>textureOrStructure</key>
+	<string>deferredCompositionDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionTierBehavior</key>
+	<string>positionShapeTag</string>
+	<key>cubeOfPhase</key>
+	<string>cubitOutsideShape</string>
+	<key>dimensionLayerRotation</key>
+	<string>cubitLevelShape</string>
+	<key>futureCycleOrigin</key>
+	<string>blocMementoMomentum</string>
+	<key>promiseMethodBottom</key>
+	<string>gemSingletonFeedback</string>
+	<key>sliderMethodState</key>
+	<string>visibleNodeOpacity</string>
+	<key>subscriptionActionDuration</key>
+	<string>textPatternStyle</string>
+	<key>tensorHashBehavior</key>
+	<string>widgetAgainstVisitor</string>
+</dict>
+</plist>

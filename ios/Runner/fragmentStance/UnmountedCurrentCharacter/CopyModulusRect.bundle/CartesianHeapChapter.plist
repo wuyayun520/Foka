@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyScopeDuration</key>
+	<string>tangentPlatformHue</string>
+	<key>ignoredRouteShape</key>
+	<string>multiChartPadding</string>
+	<key>routeContainMode</key>
+	<string>presenterActivityAlignment</string>
+	<key>touchExceptValue</key>
+	<string>queryWithCommand</string>
+</dict>
+</plist>

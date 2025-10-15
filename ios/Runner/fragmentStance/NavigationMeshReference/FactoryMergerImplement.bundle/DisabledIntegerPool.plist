@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finalKernelAlignment</key>
+	<string>cosineVariableOrientation</string>
+	<key>injectionInterpreterHue</key>
+	<string>offsetScopeSaturation</string>
+	<key>intensityAgainstCommand</key>
+	<string>resilientPointTransparency</string>
+	<key>matrixPhaseSkewy</key>
+	<string>sensorVersusFlyweight</string>
+	<key>mediumDelegateSize</key>
+	<string>composableGraphicFormat</string>
+	<key>overlayContainStage</key>
+	<string>localizationChainContrast</string>
+	<key>publicFutureStatus</key>
+	<string>custompaintKindStyle</string>
+	<key>publicRowAcceleration</key>
+	<string>mediumSubscriptionDirection</string>
+	<key>zoneEnvironmentBottom</key>
+	<string>hashWithoutMediator</string>
+</dict>
+</plist>

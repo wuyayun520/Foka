@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridOutsideType</key>
+	<string>kernelThroughState</string>
+	<key>handlerForKind</key>
+	<string>tappableStorageTag</string>
+	<key>hardConstraintTag</key>
+	<string>cubitScopeMode</string>
+	<key>inheritedToolSkewy</key>
+	<string>offsetAmongPlatform</string>
+	<key>interactorVariableRate</key>
+	<string>buttonBridgeKind</string>
+	<key>lostBuilderTail</key>
+	<string>dedicatedGridviewAcceleration</string>
+	<key>optimizerDuringProxy</key>
+	<string>durationAtAdapter</string>
+	<key>pivotalIntegerDuration</key>
+	<string>integerPatternType</string>
+	<key>techniqueChainSaturation</key>
+	<string>parallelNotifierSaturation</string>
+	<key>utilAmongFramework</key>
+	<string>marginAtOperation</string>
+</dict>
+</plist>

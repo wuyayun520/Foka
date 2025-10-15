@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerSliderState</key>
+	<string>storeBufferCount</string>
+	<key>granularSymbolState</key>
+	<string>borderMediatorLocation</string>
+	<key>heapObserverLocation</key>
+	<string>normCommandOrigin</string>
+	<key>spotBridgeVelocity</key>
+	<string>smartExceptionStatus</string>
+	<key>streamLayerInteraction</key>
+	<string>blocExceptOperation</string>
+	<key>tweenViaWork</key>
+	<string>factoryPatternVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncViaActivity</key>
+	<string>matrixFormBorder</string>
+	<key>elasticTransitionOrientation</key>
+	<string>tickerNearSingleton</string>
+	<key>expandedStateShade</key>
+	<string>storyboardActionDirection</string>
+	<key>imageObserverStatus</key>
+	<string>intermediateStatelessSaturation</string>
+	<key>mediaqueryStrategyCenter</key>
+	<string>oldLoopTransparency</string>
+	<key>popupThanAction</key>
+	<string>prismaticSpriteBottom</string>
+	<key>reactiveGraphOrigin</key>
+	<string>priorityStyleHue</string>
+</dict>
+</plist>

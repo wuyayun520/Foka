@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorNumberVisible</key>
+	<string>particleBesideFramework</string>
+	<key>cubitPerCommand</key>
+	<string>brushContainCycle</string>
+	<key>errorKindIndex</key>
+	<string>boxshadowEnvironmentSpacing</string>
+	<key>masterAndFlyweight</key>
+	<string>transformerDuringStyle</string>
+	<key>modelInCommand</key>
+	<string>modelAboutFunction</string>
+	<key>numericalRouteTheme</key>
+	<string>providerStyleCount</string>
+	<key>textureTypeIndex</key>
+	<string>isolateShapeCoord</string>
+</dict>
+</plist>

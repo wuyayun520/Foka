@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitTypeBorder</key>
+	<string>commandOutsideContext</string>
+	<key>cubitStrategyName</key>
+	<string>advancedChartType</string>
+	<key>entityDecoratorFormat</key>
+	<string>techniqueCompositeIndex</string>
+	<key>monsterByValue</key>
+	<string>localEquipmentType</string>
+	<key>spriteShapeSkewy</key>
+	<string>layoutTierPosition</string>
+</dict>
+</plist>

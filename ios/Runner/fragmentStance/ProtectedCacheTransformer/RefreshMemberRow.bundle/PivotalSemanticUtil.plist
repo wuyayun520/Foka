@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderLikeProxy</key>
+	<string>opaqueBehaviorCenter</string>
+	<key>capsuleModeState</key>
+	<string>normWithStructure</string>
+	<key>customMetadataAlignment</key>
+	<string>mobileStylePadding</string>
+	<key>decorationScopeTail</key>
+	<string>activatedTimerTag</string>
+	<key>sampleFlyweightHead</key>
+	<string>presenterMementoTransparency</string>
+	<key>utilAboutContext</key>
+	<string>displayableModulusTail</string>
+</dict>
+</plist>

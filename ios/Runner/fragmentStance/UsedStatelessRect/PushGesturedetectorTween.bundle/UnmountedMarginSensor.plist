@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletCommandDensity</key>
+	<string>stateUntilAction</string>
+	<key>decorationPhaseDirection</key>
+	<string>reactiveCubeMomentum</string>
+	<key>elasticContractionResponse</key>
+	<string>heapTierDepth</string>
+	<key>labelVersusVar</key>
+	<string>baselineMethodBottom</string>
+	<key>unsortedToolLocation</key>
+	<string>sizeVersusLayer</string>
+</dict>
+</plist>

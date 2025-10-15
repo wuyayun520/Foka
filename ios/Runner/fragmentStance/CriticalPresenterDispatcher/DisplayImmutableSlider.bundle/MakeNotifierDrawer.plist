@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationShapeKind</key>
+	<string>autoThemeBound</string>
+	<key>indicatorScopeTag</key>
+	<string>gestureWithPhase</string>
+	<key>originalLossSkewy</key>
+	<string>effectActivityPadding</string>
+	<key>subsequentPrecisionDepth</key>
+	<string>animationDuringComposite</string>
+</dict>
+</plist>

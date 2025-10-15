@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSwiftDelay</key>
+	<string>displayableOptionOffset</string>
+	<key>eagerCompleterVelocity</key>
+	<string>loopLayerBound</string>
+	<key>gemProxyAppearance</key>
+	<string>lossLayerAppearance</string>
+	<key>hashExceptStrategy</key>
+	<string>graphicKindCount</string>
+	<key>integerMementoDirection</key>
+	<string>skirtStructureName</string>
+	<key>managerOfObserver</key>
+	<string>baselineMementoFlags</string>
+	<key>menuAgainstBridge</key>
+	<string>spineProxyStatus</string>
+	<key>overlayInPhase</key>
+	<string>entropyTypeCount</string>
+	<key>primaryEffectAppearance</key>
+	<string>utilObserverDistance</string>
+	<key>visibleTimerMargin</key>
+	<string>customizedAllocatorPadding</string>
+</dict>
+</plist>

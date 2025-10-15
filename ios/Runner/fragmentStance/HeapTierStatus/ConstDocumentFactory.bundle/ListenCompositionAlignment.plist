@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletProcessValidation</key>
+	<string>associatedManagerTransparency</string>
+	<key>composableConfigurationDuration</key>
+	<string>compositionPerCycle</string>
+	<key>statelessSceneAppearance</key>
+	<string>streamAtMethod</string>
+	<key>storagePlatformSaturation</key>
+	<string>heapChainFrequency</string>
+</dict>
+</plist>

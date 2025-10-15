@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedProviderAppearance</key>
+	<string>standaloneBehaviorTheme</string>
+	<key>baseStrategyVelocity</key>
+	<string>stateWithoutPhase</string>
+	<key>largeNotificationAlignment</key>
+	<string>serviceBufferAcceleration</string>
+	<key>mobileRectHead</key>
+	<string>retainedInjectionOrientation</string>
+	<key>nextGradientBrightness</key>
+	<string>curveMediatorColor</string>
+	<key>presenterContextMomentum</key>
+	<string>pageviewLevelShade</string>
+	<key>publicControllerOpacity</key>
+	<string>stateTypeType</string>
+	<key>radioLevelBound</key>
+	<string>basicSensorMargin</string>
+	<key>stepBufferDistance</key>
+	<string>builderExceptTask</string>
+</dict>
+</plist>

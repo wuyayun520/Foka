@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectAboutStrategy</key>
+	<string>progressbarAtTask</string>
+	<key>immediateCycleMode</key>
+	<string>draggableConstraintPadding</string>
+	<key>transformerStyleCount</key>
+	<string>reactiveParticleMomentum</string>
+</dict>
+</plist>

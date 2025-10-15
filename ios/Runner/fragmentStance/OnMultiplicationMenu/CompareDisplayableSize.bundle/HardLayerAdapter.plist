@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchAdapterSpeed</key>
+	<string>titleOrJob</string>
+	<key>buttonDecoratorFlags</key>
+	<string>widgetCycleHead</string>
+	<key>criticalStepTheme</key>
+	<string>titleTierSpeed</string>
+	<key>disparateNibFormat</key>
+	<string>cycleCompositeAcceleration</string>
+	<key>ephemeralPresenterDuration</key>
+	<string>intuitiveCompleterDepth</string>
+	<key>interpolationInCycle</key>
+	<string>activeRouteVisibility</string>
+	<key>newestClipperSpeed</key>
+	<string>channelBridgeStyle</string>
+	<key>nextResultCount</key>
+	<string>logarithmIncludeVar</string>
+	<key>storageWithoutEnvironment</key>
+	<string>entropyViaSingleton</string>
+	<key>textureOperationType</key>
+	<string>tappableBatchTension</string>
+</dict>
+</plist>

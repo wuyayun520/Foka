@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredDependencyFrequency</key>
+	<string>lostRadioStatus</string>
+	<key>interfaceAndStyle</key>
+	<string>buttonInterpreterPosition</string>
+	<key>plateDuringPhase</key>
+	<string>vectorBufferMode</string>
+	<key>popupDespiteObserver</key>
+	<string>substantialErrorAcceleration</string>
+	<key>providerOrOperation</key>
+	<string>batchProxyAcceleration</string>
+	<key>sharedSkirtTint</key>
+	<string>rectModeDuration</string>
+	<key>streamStyleCount</key>
+	<string>decorationAboutLevel</string>
+</dict>
+</plist>

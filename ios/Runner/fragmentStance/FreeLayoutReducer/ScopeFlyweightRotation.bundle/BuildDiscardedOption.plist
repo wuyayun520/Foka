@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitContainMode</key>
+	<string>axisIncludeStructure</string>
+	<key>builderAdapterForce</key>
+	<string>storageAmongSystem</string>
+	<key>flexAdapterCenter</key>
+	<string>flexibleKernelDistance</string>
+	<key>particleOrFramework</key>
+	<string>baseLayerCount</string>
+	<key>transitionStateInset</key>
+	<string>storyboardDespiteState</string>
+</dict>
+</plist>

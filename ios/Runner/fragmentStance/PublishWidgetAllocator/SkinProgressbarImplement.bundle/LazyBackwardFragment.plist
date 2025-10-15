@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerVarTheme</key>
+	<string>cardIncludeVariable</string>
+	<key>cupertinoSwitchValidation</key>
+	<string>querySinceFacade</string>
+	<key>eagerSliderFeedback</key>
+	<string>secondProjectMargin</string>
+	<key>exceptionInStyle</key>
+	<string>directlyCurveRotation</string>
+	<key>fixedQueueSkewx</key>
+	<string>memberAboutProcess</string>
+	<key>notifierAwayAdapter</key>
+	<string>particleCommandIndex</string>
+	<key>queryVarVisible</key>
+	<string>ignoredTextDepth</string>
+	<key>spineByVisitor</key>
+	<string>usedIntensityVisible</string>
+	<key>switchAboutEnvironment</key>
+	<string>interfaceChainFrequency</string>
+</dict>
+</plist>

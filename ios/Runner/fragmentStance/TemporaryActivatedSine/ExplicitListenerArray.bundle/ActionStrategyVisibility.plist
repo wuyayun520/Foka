@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintIncludeTier</key>
+	<string>resultForFacade</string>
+	<key>interactiveFlexSkewy</key>
+	<string>widgetAroundForm</string>
+	<key>interpolationActionResponse</key>
+	<string>rowDespitePlatform</string>
+	<key>providerViaFunction</key>
+	<string>touchOperationRotation</string>
+	<key>rectForSingleton</key>
+	<string>allocatorCompositeDirection</string>
+	<key>routeSinceCommand</key>
+	<string>errorTaskOrigin</string>
+	<key>stampParamPosition</key>
+	<string>documentActionDelay</string>
+	<key>threadPerContext</key>
+	<string>taskProxySpeed</string>
+	<key>tickerViaStructure</key>
+	<string>missedTweenTail</string>
+	<key>vectorPrototypeSpeed</key>
+	<string>integerVersusBuffer</string>
+</dict>
+</plist>

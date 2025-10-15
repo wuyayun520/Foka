@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardBuilderShade</key>
+	<string>stampForValue</string>
+	<key>columnTaskBound</key>
+	<string>layoutFromFunction</string>
+	<key>directlyGesturedetectorDelay</key>
+	<string>imageProcessBehavior</string>
+	<key>observerAtStructure</key>
+	<string>allocatorByMemento</string>
+	<key>subtleIsolateDepth</key>
+	<string>prevCoordinatorTail</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicKernelTop</key>
+	<string>equalizationBufferTension</string>
+	<key>binaryWithoutParameter</key>
+	<string>effectMethodDirection</string>
+	<key>controllerModeTint</key>
+	<string>diffableHistogramBorder</string>
+	<key>denseMomentumTension</key>
+	<string>heapStagePadding</string>
+	<key>gridSystemCount</key>
+	<string>handlerPrototypeLocation</string>
+	<key>observerPhaseStyle</key>
+	<string>vectorInStrategy</string>
+	<key>positionOfFlyweight</key>
+	<string>listenerCompositeAppearance</string>
+	<key>sharedCursorShade</key>
+	<string>layerAroundVar</string>
+	<key>symbolMediatorIndex</key>
+	<string>taskThanBuffer</string>
+</dict>
+</plist>

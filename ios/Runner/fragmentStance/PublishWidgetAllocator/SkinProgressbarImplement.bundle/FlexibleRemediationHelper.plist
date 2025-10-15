@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedDecorationTop</key>
+	<string>protectedArithmeticKind</string>
+	<key>denseCubitValidation</key>
+	<string>popupParamLeft</string>
+	<key>gradientNumberLeft</key>
+	<string>storyboardVariableInset</string>
+	<key>gramModeBehavior</key>
+	<string>timerDespiteVar</string>
+	<key>lostVectorCenter</key>
+	<string>boxNumberBound</string>
+	<key>requestBeyondMode</key>
+	<string>routerInsideEnvironment</string>
+	<key>scrollableLossSkewy</key>
+	<string>protectedFutureBorder</string>
+	<key>statelessCommandTint</key>
+	<string>characterObserverOffset</string>
+	<key>zoneChainRotation</key>
+	<string>declarativeCellCoord</string>
+</dict>
+</plist>

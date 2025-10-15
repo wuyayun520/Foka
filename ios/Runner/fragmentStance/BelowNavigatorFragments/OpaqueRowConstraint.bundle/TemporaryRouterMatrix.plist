@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackWithoutPrototype</key>
+	<string>basicEventVisible</string>
+	<key>cardInterpreterStyle</key>
+	<string>delicateTransitionOpacity</string>
+	<key>constMomentumStatus</key>
+	<string>temporaryCurveStatus</string>
+	<key>newestBuilderDuration</key>
+	<string>elasticResponseMargin</string>
+	<key>sessionViaKind</key>
+	<string>mobileModeStyle</string>
+	<key>sortedListenerIndex</key>
+	<string>reusableChannelsSize</string>
+	<key>symbolChainFormat</key>
+	<string>stateOrStage</string>
+</dict>
+</plist>

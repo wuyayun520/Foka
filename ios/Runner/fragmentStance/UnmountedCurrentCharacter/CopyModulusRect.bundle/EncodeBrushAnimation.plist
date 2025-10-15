@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerPerChain</key>
+	<string>handlerCompositePadding</string>
+	<key>logOperationFeedback</key>
+	<string>channelStageLeft</string>
+	<key>sizeEnvironmentTag</key>
+	<string>newestGridMargin</string>
+	<key>smartEffectDensity</key>
+	<string>activeChannelOrientation</string>
+</dict>
+</plist>

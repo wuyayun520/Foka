@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryOutsideEnvironment</key>
+	<string>viewDespiteBuffer</string>
+	<key>callbackBesideStyle</key>
+	<string>rowMethodAppearance</string>
+	<key>controllerContextSkewy</key>
+	<string>baselineContainComposite</string>
+	<key>fusedEffectOrigin</key>
+	<string>subscriptionStrategyStatus</string>
+	<key>popupAtAction</key>
+	<string>operationThroughState</string>
+	<key>sensorAlongLevel</key>
+	<string>greatResultRate</string>
+	<key>utilWorkDistance</key>
+	<string>convolutionVersusLayer</string>
+</dict>
+</plist>

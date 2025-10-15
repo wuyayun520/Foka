@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>taskSinceVisitor</key>
+	<string>adaptiveDrawerOffset</string>
+	<key>temporaryModalMomentum</key>
+	<string>cursorBesideMemento</string>
+	<key>transitionUntilFacade</key>
+	<string>ignoredStampTheme</string>
+</dict>
+</plist>

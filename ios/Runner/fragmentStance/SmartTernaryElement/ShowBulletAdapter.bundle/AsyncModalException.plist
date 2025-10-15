@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleWidgetShade</key>
+	<string>cursorMethodRotation</string>
+	<key>animatedAppbarMargin</key>
+	<string>scaleObserverInterval</string>
+	<key>flexibleStampVisible</key>
+	<string>responsiveLayerInterval</string>
+	<key>imageObserverFormat</key>
+	<string>mainDelegateOffset</string>
+	<key>normalTextPadding</key>
+	<string>framePerSystem</string>
+	<key>standaloneGramScale</key>
+	<string>musicStageOffset</string>
+</dict>
+</plist>

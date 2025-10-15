@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionPerPlatform</key>
+	<string>unsortedMultiplicationBorder</string>
+	<key>imageInsideMethod</key>
+	<string>persistentSizedboxContrast</string>
+	<key>largeGesturedetectorForce</key>
+	<string>signLikeShape</string>
+	<key>touchActionPadding</key>
+	<string>curveFacadeFormat</string>
+	<key>usedFactoryFeedback</key>
+	<string>storageWithMode</string>
+</dict>
+</plist>

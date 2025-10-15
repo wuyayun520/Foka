@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedEventSpeed</key>
+	<string>viewAndStrategy</string>
+	<key>contractionBesideOperation</key>
+	<string>dedicatedDescriptionAcceleration</string>
+	<key>dependencyContextPressure</key>
+	<string>localizationTaskOrientation</string>
+	<key>descriptionAroundStage</key>
+	<string>threadWorkFeedback</string>
+	<key>particlePatternVisible</key>
+	<string>allocatorProxyVisibility</string>
+	<key>scaleStageTension</key>
+	<string>streamActivityCoord</string>
+	<key>sharedStoreState</key>
+	<string>builderWorkDistance</string>
+	<key>usecasePatternVelocity</key>
+	<string>lostIntensityDirection</string>
+</dict>
+</plist>

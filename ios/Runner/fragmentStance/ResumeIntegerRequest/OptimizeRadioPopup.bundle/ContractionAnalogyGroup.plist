@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorThanProxy</key>
+	<string>autoConfigurationShade</string>
+	<key>effectFlyweightDuration</key>
+	<string>compositionalCellCoord</string>
+	<key>normalProgressbarVelocity</key>
+	<string>scrollableDescriptionFeedback</string>
+	<key>routeAsComposite</key>
+	<string>tableLikeActivity</string>
+	<key>scrollChainAlignment</key>
+	<string>callbackProcessPadding</string>
+	<key>threadNearProxy</key>
+	<string>smallTitleHue</string>
+</dict>
+</plist>

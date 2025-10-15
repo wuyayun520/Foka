@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedErrorVisibility</key>
+	<string>modelFrameworkVisibility</string>
+	<key>baselineAsStage</key>
+	<string>nibInFramework</string>
+	<key>descriptionAlongComposite</key>
+	<string>sineExceptDecorator</string>
+	<key>notifierNumberTint</key>
+	<string>priorDecorationDelay</string>
+	<key>persistentOffsetOrientation</key>
+	<string>labelLayerSpeed</string>
+	<key>petAwayStrategy</key>
+	<string>tweenBufferValidation</string>
+	<key>profileViaLayer</key>
+	<string>localizationStyleTheme</string>
+	<key>widgetPatternColor</key>
+	<string>sinkPhaseStyle</string>
+</dict>
+</plist>

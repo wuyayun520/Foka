@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeThreadFormat</key>
+	<string>transitionFlyweightLeft</string>
+	<key>nibFacadeIndex</key>
+	<string>responseByActivity</string>
+	<key>pivotalContainerAlignment</key>
+	<string>queryFlyweightBound</string>
+	<key>storeInterpreterFeedback</key>
+	<string>reactivePopupOffset</string>
+	<key>timerOperationMargin</key>
+	<string>buttonUntilState</string>
+</dict>
+</plist>

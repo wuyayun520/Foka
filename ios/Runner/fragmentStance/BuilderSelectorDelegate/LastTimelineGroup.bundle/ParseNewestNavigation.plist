@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEntityScale</key>
+	<string>storageCommandTop</string>
+	<key>chapterVersusStage</key>
+	<string>associatedAnchorState</string>
+	<key>greatActionStyle</key>
+	<string>animationFromOperation</string>
+	<key>mediaCycleFlags</key>
+	<string>draggableEventAppearance</string>
+	<key>notificationViaCommand</key>
+	<string>tweenWithKind</string>
+	<key>titleAlongDecorator</key>
+	<string>graphObserverForce</string>
+</dict>
+</plist>

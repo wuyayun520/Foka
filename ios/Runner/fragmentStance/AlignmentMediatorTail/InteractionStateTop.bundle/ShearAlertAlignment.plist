@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerChainPressure</key>
+	<string>effectStateIndex</string>
+	<key>routerViaState</key>
+	<string>vectorAndInterpreter</string>
+	<key>significantOptimizerDuration</key>
+	<string>instructionObserverDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstClipperTransparency</key>
+	<string>chapterIncludeVariable</string>
+	<key>sessionInVisitor</key>
+	<string>invisibleControllerHue</string>
+	<key>usedManagerRotation</key>
+	<string>scaffoldProxyCount</string>
+	<key>viewContextInteraction</key>
+	<string>apertureFacadeVisibility</string>
+</dict>
+</plist>

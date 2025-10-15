@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAmongPlatform</key>
+	<string>controllerPlatformBorder</string>
+	<key>frameOrSingleton</key>
+	<string>tweenWithProxy</string>
+	<key>futureVariableHue</key>
+	<string>handlerParamColor</string>
+	<key>independentSensorMomentum</key>
+	<string>accessibleBufferMode</string>
+	<key>lastRequestSize</key>
+	<string>factoryAsState</string>
+	<key>methodAmongDecorator</key>
+	<string>discardedContainerBrightness</string>
+	<key>segueWithCommand</key>
+	<string>imageSincePlatform</string>
+	<key>tickerAmongType</key>
+	<string>sizedboxAroundParam</string>
+</dict>
+</plist>

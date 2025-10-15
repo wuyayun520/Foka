@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxBesideMode</key>
+	<string>sortedCoordinatorShade</string>
+	<key>frameCompositeOpacity</key>
+	<string>metadataVersusEnvironment</string>
+	<key>heroActivityDuration</key>
+	<string>standaloneModelBrightness</string>
+	<key>opaqueTextfieldColor</key>
+	<string>histogramSystemFlags</string>
+	<key>progressbarPhaseScale</key>
+	<string>accordionRiverpodCoord</string>
+</dict>
+</plist>

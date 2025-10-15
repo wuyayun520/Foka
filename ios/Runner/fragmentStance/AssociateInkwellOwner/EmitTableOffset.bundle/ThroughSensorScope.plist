@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAlongMemento</key>
+	<string>sharedQueueMargin</string>
+	<key>equalizationValueMode</key>
+	<string>featureVersusLevel</string>
+	<key>handlerMediatorHead</key>
+	<string>masterKindBrightness</string>
+	<key>inheritedDurationFeedback</key>
+	<string>referenceTypeState</string>
+	<key>normWithWork</key>
+	<string>paddingAdapterIndex</string>
+	<key>sinePhaseMargin</key>
+	<string>robustCoordinatorScale</string>
+	<key>transformerBufferBorder</key>
+	<string>singleCurveSkewy</string>
+</dict>
+</plist>

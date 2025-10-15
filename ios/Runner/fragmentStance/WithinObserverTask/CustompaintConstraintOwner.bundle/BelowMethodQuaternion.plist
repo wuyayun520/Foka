@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContainStyle</key>
+	<string>mediumResolverOrientation</string>
+	<key>durationInsideAdapter</key>
+	<string>durationOfChain</string>
+	<key>elasticGrainOrientation</key>
+	<string>resolverActionTag</string>
+	<key>grayscaleTaskBorder</key>
+	<string>sequentialSemanticsFormat</string>
+	<key>opaqueMarginRotation</key>
+	<string>optimizerJobStyle</string>
+	<key>sortedCardLocation</key>
+	<string>menuParameterAppearance</string>
+	<key>specifierOutsideMethod</key>
+	<string>immutableExpandedMargin</string>
+	<key>statelessAroundFramework</key>
+	<string>tabviewAndInterpreter</string>
+	<key>streamNumberPadding</key>
+	<string>cubitProxyBrightness</string>
+</dict>
+</plist>

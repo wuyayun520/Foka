@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerTempleBehavior</key>
+	<string>resizableOptimizerPadding</string>
+	<key>blocJobCoord</key>
+	<string>mutableReductionCenter</string>
+	<key>concurrentObserverSaturation</key>
+	<string>groupActivityColor</string>
+	<key>custompaintSinceComposite</key>
+	<string>providerSingletonBottom</string>
+	<key>indicatorInVariable</key>
+	<string>synchronousProviderTransparency</string>
+	<key>signatureAroundTier</key>
+	<string>transitionViaKind</string>
+</dict>
+</plist>

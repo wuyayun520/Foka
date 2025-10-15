@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPrototypeContrast</key>
+	<string>nativeCommandMargin</string>
+	<key>euclideanDecorationInterval</key>
+	<string>indicatorOutsideType</string>
+	<key>mediocreNibDensity</key>
+	<string>kernelParamStatus</string>
+	<key>modelProxyAppearance</key>
+	<string>explicitCoordinatorFormat</string>
+	<key>modulusChainOrigin</key>
+	<string>sequentialQueryMargin</string>
+	<key>precisionIncludeLayer</key>
+	<string>directAxisAppearance</string>
+	<key>responsivePositionFrequency</key>
+	<string>subscriptionSinceProxy</string>
+	<key>scrollValueVelocity</key>
+	<string>captionFacadeEdge</string>
+	<key>stackJobSpeed</key>
+	<string>statefulJobForce</string>
+	<key>usedEquipmentResponse</key>
+	<string>tableOutsideAdapter</string>
+</dict>
+</plist>

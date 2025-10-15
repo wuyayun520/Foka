@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateFrameSaturation</key>
+	<string>popupAroundScope</string>
+	<key>pageviewViaObserver</key>
+	<string>documentAroundCycle</string>
+	<key>rectContainStage</key>
+	<string>cubitAmongDecorator</string>
+	<key>reusableSampleOffset</key>
+	<string>previewOrForm</string>
+	<key>serviceForFramework</key>
+	<string>keyPositionValidation</string>
+	<key>storyboardCycleTop</key>
+	<string>stateValueIndex</string>
+	<key>textureExceptFramework</key>
+	<string>stateParameterRate</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorAndOperation</key>
+	<string>isolateInterpreterCenter</string>
+	<key>ephemeralNormAcceleration</key>
+	<string>resizableCustompaintMomentum</string>
+	<key>fusedHeapTransparency</key>
+	<string>positionProxyInset</string>
+	<key>paddingFacadeContrast</key>
+	<string>previewFlyweightRotation</string>
+	<key>priorityFromBridge</key>
+	<string>capacitiesPlatformOpacity</string>
+	<key>transformerByContext</key>
+	<string>methodOutsideContext</string>
+	<key>transitionWithEnvironment</key>
+	<string>delegateSinceBuffer</string>
+	<key>usedTimerMomentum</key>
+	<string>normalCubitMargin</string>
+</dict>
+</plist>

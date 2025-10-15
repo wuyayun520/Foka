@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basePatternBehavior</key>
+	<string>curveIncludeJob</string>
+	<key>extensionValueAppearance</key>
+	<string>chapterLayerSkewx</string>
+	<key>finalHandlerFeedback</key>
+	<string>invisibleChapterLocation</string>
+	<key>musicSinceParam</key>
+	<string>menuParamPosition</string>
+	<key>observerDespiteComposite</key>
+	<string>sizeFormPadding</string>
+</dict>
+</plist>

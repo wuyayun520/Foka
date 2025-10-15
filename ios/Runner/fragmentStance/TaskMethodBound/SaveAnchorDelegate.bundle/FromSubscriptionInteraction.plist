@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateProtocolTint</key>
+	<string>richtextWithActivity</string>
+	<key>effectIncludeKind</key>
+	<string>cupertinoHistogramValidation</string>
+	<key>layoutByLayer</key>
+	<string>modelLevelRight</string>
+	<key>mobileSpotInset</key>
+	<string>concurrentModelRotation</string>
+	<key>seamlessSensorShape</key>
+	<string>uniqueStoragePadding</string>
+	<key>visibleChartEdge</key>
+	<string>navigatorSinceOperation</string>
+</dict>
+</plist>

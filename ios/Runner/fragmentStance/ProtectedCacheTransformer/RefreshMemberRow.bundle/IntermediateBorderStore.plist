@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonTypeContrast</key>
+	<string>activatedCurveFeedback</string>
+	<key>configurationOrNumber</key>
+	<string>durationStrategyDepth</string>
+	<key>crudeCaptionStyle</key>
+	<string>alphaAsBuffer</string>
+	<key>currentNodeDelay</key>
+	<string>newestReductionColor</string>
+	<key>functionalHandlerDelay</key>
+	<string>commonTweenShade</string>
+	<key>ignoredAwaitColor</key>
+	<string>resultCommandOffset</string>
+	<key>interactorIncludeShape</key>
+	<string>providerInFunction</string>
+	<key>projectLikeVariable</key>
+	<string>pageviewLikeContext</string>
+	<key>projectionForChain</key>
+	<string>oldSkirtDirection</string>
+	<key>serviceEnvironmentHead</key>
+	<string>kernelActivityOffset</string>
+</dict>
+</plist>

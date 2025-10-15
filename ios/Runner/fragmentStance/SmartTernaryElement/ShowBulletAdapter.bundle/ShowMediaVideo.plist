@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorLikeTask</key>
+	<string>anchorAsTemple</string>
+	<key>batchContextSize</key>
+	<string>menuOrMediator</string>
+	<key>builderAboutMode</key>
+	<string>usageBeyondMediator</string>
+	<key>futureAgainstPlatform</key>
+	<string>sequentialProgressbarVelocity</string>
+	<key>hashTaskMode</key>
+	<string>layoutEnvironmentVelocity</string>
+	<key>notifierAroundAction</key>
+	<string>tickerAwayDecorator</string>
+	<key>seamlessFragmentCoord</key>
+	<string>channelsIncludeProxy</string>
+	<key>swiftStageBound</key>
+	<string>textureTierTint</string>
+	<key>unaryAndMemento</key>
+	<string>coordinatorUntilStrategy</string>
+</dict>
+</plist>

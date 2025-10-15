@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonGradientAlignment</key>
+	<string>precisionTypeRotation</string>
+	<key>consumerLevelDepth</key>
+	<string>precisionAndInterpreter</string>
+	<key>difficultChallengeVelocity</key>
+	<string>normalResourceKind</string>
+	<key>primaryPopupInteraction</key>
+	<string>sizedboxDuringCycle</string>
+	<key>responsiveBaseSkewy</key>
+	<string>cupertinoProviderType</string>
+	<key>vectorThroughChain</key>
+	<string>customizedConfigurationOrientation</string>
+	<key>webCoordinatorSkewx</key>
+	<string>typicalWidgetRotation</string>
+</dict>
+</plist>

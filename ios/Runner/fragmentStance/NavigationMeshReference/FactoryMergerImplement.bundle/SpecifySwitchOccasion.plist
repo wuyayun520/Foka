@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphOrDecorator</key>
+	<string>logarithmLikeFunction</string>
+	<key>ignoredObserverShape</key>
+	<string>titleLayerContrast</string>
+	<key>largeRowStatus</key>
+	<string>symmetricTabbarPressure</string>
+	<key>layoutBeyondLayer</key>
+	<string>protectedCompositionDelay</string>
+	<key>resolverContainJob</key>
+	<string>aspectParamTag</string>
+	<key>statelessResultOffset</key>
+	<string>newestServiceTransparency</string>
+	<key>subsequentFrameSkewy</key>
+	<string>captionSinceFacade</string>
+</dict>
+</plist>

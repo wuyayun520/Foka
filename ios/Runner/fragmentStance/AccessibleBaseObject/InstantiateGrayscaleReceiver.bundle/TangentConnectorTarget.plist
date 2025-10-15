@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseAlongForm</key>
+	<string>containerLevelHead</string>
+	<key>draggableChecklistTop</key>
+	<string>independentKernelCenter</string>
+	<key>multiMediaCenter</key>
+	<string>textLayerBrightness</string>
+	<key>scaleForEnvironment</key>
+	<string>firstTextBottom</string>
+	<key>statefulCardVelocity</key>
+	<string>behaviorDuringPhase</string>
+</dict>
+</plist>

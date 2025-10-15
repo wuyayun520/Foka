@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicAnimationFlags</key>
+	<string>listenerBridgeDirection</string>
+	<key>functionalFrameFrequency</key>
+	<string>radiusFromSingleton</string>
+	<key>gramLevelOrientation</key>
+	<string>statefulProgressbarOpacity</string>
+	<key>popupAlongFacade</key>
+	<string>eventThanKind</string>
+	<key>textureAndSystem</key>
+	<string>utilInType</string>
+	<key>variantDuringValue</key>
+	<string>durationModeSize</string>
+	<key>visibleInteractorTop</key>
+	<string>transitionParamBound</string>
+</dict>
+</plist>

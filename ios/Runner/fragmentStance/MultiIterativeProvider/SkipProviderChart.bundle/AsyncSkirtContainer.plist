@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFromParameter</key>
+	<string>desktopAssetColor</string>
+	<key>curveStructureStatus</key>
+	<string>queueVisitorDepth</string>
+	<key>discardedDecorationAppearance</key>
+	<string>responsiveAnimatedcontainerHead</string>
+	<key>equalizationParameterColor</key>
+	<string>captionContainScope</string>
+	<key>listenerDespiteAction</key>
+	<string>intermediateErrorState</string>
+	<key>managerFacadeType</key>
+	<string>dynamicDialogsMargin</string>
+	<key>movementSingletonSpeed</key>
+	<string>grainBeyondFacade</string>
+	<key>optionScopeMargin</key>
+	<string>statelessProviderCount</string>
+	<key>responseBufferEdge</key>
+	<string>tabviewWithJob</string>
+	<key>tweenUntilFramework</key>
+	<string>frameBufferFormat</string>
+</dict>
+</plist>

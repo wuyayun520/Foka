@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertParamLocation</key>
+	<string>displayableTitleValidation</string>
+	<key>allocatorInterpreterScale</key>
+	<string>statelessProcessPosition</string>
+	<key>capsulePerAction</key>
+	<string>switchAndCommand</string>
+	<key>commandAlongComposite</key>
+	<string>webCompositionValidation</string>
+	<key>cubitModeSkewy</key>
+	<string>paddingCompositeTransparency</string>
+	<key>durationScopeEdge</key>
+	<string>spriteWithStyle</string>
+	<key>injectionFlyweightDepth</key>
+	<string>storeVisitorDirection</string>
+	<key>listenerLikeWork</key>
+	<string>factoryVariableCount</string>
+	<key>zonePrototypeCount</key>
+	<string>delicateFrameAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionEnvironmentMode</key>
+	<string>nodeViaScope</string>
+	<key>constraintContextMode</key>
+	<string>toolBeyondDecorator</string>
+	<key>heapForPhase</key>
+	<string>storeDuringBuffer</string>
+	<key>iterativeTickerCount</key>
+	<string>sensorBesideChain</string>
+	<key>observerOperationSaturation</key>
+	<string>vectorOutsideComposite</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureStructureAlignment</key>
+	<string>curveFacadeStyle</string>
+	<key>hierarchicalStoreRotation</key>
+	<string>commandNumberDistance</string>
+	<key>injectionAboutJob</key>
+	<string>storyboardDespiteStrategy</string>
+	<key>layerOrSingleton</key>
+	<string>builderLayerSkewx</string>
+	<key>priorFragmentEdge</key>
+	<string>rectFromMethod</string>
+	<key>skinVariableAppearance</key>
+	<string>temporaryIntegerPosition</string>
+	<key>stateObserverCoord</key>
+	<string>listenerScopeValidation</string>
+	<key>tickerUntilFlyweight</key>
+	<string>factoryPerCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainReferenceDistance</key>
+	<string>injectionByMethod</string>
+	<key>missionByInterpreter</key>
+	<string>metadataVersusVisitor</string>
+	<key>monsterKindCount</key>
+	<string>progressbarWithPrototype</string>
+	<key>semanticBuilderDirection</key>
+	<string>disparateInterfaceVisibility</string>
+	<key>synchronousPrecisionBrightness</key>
+	<string>persistentPositionTension</string>
+</dict>
+</plist>

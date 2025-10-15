@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectEnvironmentSkewx</key>
+	<string>interactivePreviewDensity</string>
+	<key>handlerChainRate</key>
+	<string>effectInsideComposite</string>
+	<key>oldControllerSpacing</key>
+	<string>loopAgainstBridge</string>
+	<key>opaqueGradientResponse</key>
+	<string>mapFunctionBound</string>
+	<key>playbackContextFlags</key>
+	<string>resultAgainstMode</string>
+	<key>requiredTransitionPressure</key>
+	<string>hierarchicalTextureRight</string>
+	<key>sequentialPresenterAlignment</key>
+	<string>popupUntilBuffer</string>
+	<key>specifierEnvironmentIndex</key>
+	<string>zoneFrameworkInteraction</string>
+	<key>streamPatternCount</key>
+	<string>baseViaBuffer</string>
+</dict>
+</plist>

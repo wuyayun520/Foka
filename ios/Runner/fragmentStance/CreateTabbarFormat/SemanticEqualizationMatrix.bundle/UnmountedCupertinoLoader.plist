@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityMethodPressure</key>
+	<string>descriptorThroughTier</string>
+	<key>binaryForMode</key>
+	<string>zoneTierDepth</string>
+	<key>constStreamSaturation</key>
+	<string>dialogsStageLocation</string>
+	<key>containerAgainstSystem</key>
+	<string>resizableHistogramMargin</string>
+	<key>errorAlongPlatform</key>
+	<string>iterativeBoxInset</string>
+	<key>groupPatternInterval</key>
+	<string>eagerCertificateColor</string>
+	<key>relationalReducerName</key>
+	<string>activeObserverEdge</string>
+	<key>storageStateStatus</key>
+	<string>gemDecoratorMode</string>
+	<key>threadTierDistance</key>
+	<string>spotInsideActivity</string>
+</dict>
+</plist>

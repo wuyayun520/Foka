@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistInterpreterSize</key>
+	<string>rectAroundSingleton</string>
+	<key>eagerPositionedFrequency</key>
+	<string>rowAdapterPadding</string>
+	<key>scrollFunctionRight</key>
+	<string>awaitAdapterSpacing</string>
+	<key>tickerLikeJob</key>
+	<string>requiredQueryShape</string>
+</dict>
+</plist>

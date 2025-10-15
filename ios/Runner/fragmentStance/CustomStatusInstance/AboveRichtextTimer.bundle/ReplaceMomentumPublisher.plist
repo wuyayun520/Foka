@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAboutPattern</key>
+	<string>exponentFormVisibility</string>
+	<key>consultativeDelegateAppearance</key>
+	<string>oldConstraintVelocity</string>
+	<key>coordinatorFrameworkStyle</key>
+	<string>providerThroughPrototype</string>
+	<key>coordinatorViaAdapter</key>
+	<string>curveInterpreterScale</string>
+	<key>observerWithParam</key>
+	<string>chartThroughBridge</string>
+	<key>threadDuringComposite</key>
+	<string>activeScrollVisible</string>
+</dict>
+</plist>

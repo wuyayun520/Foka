@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAboutFunction</key>
+	<string>keyPreviewPadding</string>
+	<key>kernelParamBrightness</key>
+	<string>descriptorProcessScale</string>
+	<key>metadataWithDecorator</key>
+	<string>ignoredGrainFlags</string>
+	<key>presenterFromFunction</key>
+	<string>taskPrototypePressure</string>
+	<key>queueStrategyRotation</key>
+	<string>profileModeLocation</string>
+	<key>rowBeyondFacade</key>
+	<string>titleAmongFacade</string>
+	<key>smallProviderStatus</key>
+	<string>collectionVersusMode</string>
+	<key>subpixelObserverFrequency</key>
+	<string>visibleLayoutMomentum</string>
+</dict>
+</plist>

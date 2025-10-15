@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOutsideWork</key>
+	<string>statefulOfShape</string>
+	<key>commandExceptParam</key>
+	<string>enabledScaleLocation</string>
+	<key>displayableZoneInset</key>
+	<string>scrollableStatefulInset</string>
+	<key>imperativeProgressbarPressure</key>
+	<string>typicalNodeTag</string>
+	<key>oldChannelBrightness</key>
+	<string>comprehensiveCharacterVisible</string>
+	<key>permissiveCubeName</key>
+	<string>assetContextPosition</string>
+	<key>resultMementoValidation</key>
+	<string>specifierMediatorDirection</string>
+	<key>topicNumberSpacing</key>
+	<string>iterativeGrainMode</string>
+	<key>vectorLayerOffset</key>
+	<string>lostTaskShape</string>
+</dict>
+</plist>

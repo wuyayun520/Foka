@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteDelegateOffset</key>
+	<string>checkboxUntilPrototype</string>
+	<key>futureCommandRight</key>
+	<string>descriptionIncludeStage</string>
+	<key>matrixCommandTheme</key>
+	<string>managerAndLevel</string>
+	<key>positionStyleSpacing</key>
+	<string>utilMediatorDuration</string>
+	<key>sortedAnchorBorder</key>
+	<string>anchorValueInteraction</string>
+	<key>widgetTierEdge</key>
+	<string>asyncContainStructure</string>
+</dict>
+</plist>

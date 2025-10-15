@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorVariableSpeed</key>
+	<string>eagerAnimationBehavior</string>
+	<key>eventProcessSkewy</key>
+	<string>secondContainerAlignment</string>
+	<key>progressbarLikeCommand</key>
+	<string>effectByMediator</string>
+	<key>sceneAwayShape</key>
+	<string>usecaseMediatorDistance</string>
+	<key>widgetFromLevel</key>
+	<string>delegateWithoutFlyweight</string>
+</dict>
+</plist>

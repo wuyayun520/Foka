@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSystemInset</key>
+	<string>boxshadowVarFeedback</string>
+	<key>globalCapacitiesOpacity</key>
+	<string>gradientStyleContrast</string>
+	<key>managerAgainstState</key>
+	<string>visibleCoordinatorType</string>
+	<key>nextTernarySkewy</key>
+	<string>keySwiftBottom</string>
+	<key>textOutsideType</key>
+	<string>displayableAssetInterval</string>
+</dict>
+</plist>

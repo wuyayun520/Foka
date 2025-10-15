@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMemberFeedback</key>
+	<string>navigationScopeDistance</string>
+	<key>capsuleWorkOrigin</key>
+	<string>directLocalizationContrast</string>
+	<key>ephemeralActionRight</key>
+	<string>interfaceActionContrast</string>
+	<key>logInsideBridge</key>
+	<string>descriptorEnvironmentFrequency</string>
+	<key>nodeOutsidePlatform</key>
+	<string>skirtAmongFlyweight</string>
+	<key>queueSinceParameter</key>
+	<string>modelSinceFunction</string>
+	<key>relationalTransitionShape</key>
+	<string>scrollableStepRight</string>
+	<key>tweenAsCommand</key>
+	<string>mediocrePlaybackOrigin</string>
+	<key>usageStrategyBrightness</key>
+	<string>handlerInterpreterBrightness</string>
+</dict>
+</plist>

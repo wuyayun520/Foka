@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsLayerColor</key>
+	<string>stepBesideLayer</string>
+	<key>cursorActivityBrightness</key>
+	<string>textNearStage</string>
+	<key>declarativeGroupInteraction</key>
+	<string>previewVersusChain</string>
+	<key>featureProxyOrientation</key>
+	<string>statelessAlongBridge</string>
+	<key>histogramScopePadding</key>
+	<string>constRoleMomentum</string>
+	<key>mediocrePriorityHue</key>
+	<string>tensorReductionBrightness</string>
+	<key>primaryTimerFlags</key>
+	<string>normalProviderVelocity</string>
+	<key>resilientMissionBrightness</key>
+	<string>tappableTweenTop</string>
+	<key>segmentOutsideCycle</key>
+	<string>bufferUntilObserver</string>
+	<key>viewFromCycle</key>
+	<string>hyperbolicNodeFeedback</string>
+</dict>
+</plist>

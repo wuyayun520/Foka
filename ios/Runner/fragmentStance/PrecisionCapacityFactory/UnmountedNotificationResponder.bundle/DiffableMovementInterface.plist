@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDespiteBuffer</key>
+	<string>immutableRouteOffset</string>
+	<key>configurationAtVariable</key>
+	<string>denseGrainDistance</string>
+	<key>heroShapeRight</key>
+	<string>positionPhaseFrequency</string>
+	<key>intensityWithoutJob</key>
+	<string>textureWithFacade</string>
+	<key>loopInsideEnvironment</key>
+	<string>metadataBesideBuffer</string>
+	<key>navigatorScopeVisible</key>
+	<string>extensionWorkPosition</string>
+	<key>progressbarNearProxy</key>
+	<string>deferredSubpixelDistance</string>
+	<key>providerWithSingleton</key>
+	<string>finalDecorationPressure</string>
+</dict>
+</plist>

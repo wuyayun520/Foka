@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalEquipmentMargin</key>
+	<string>publicTouchScale</string>
+	<key>compositionalSliderTop</key>
+	<string>allocatorBesideLevel</string>
+	<key>layoutAlongEnvironment</key>
+	<string>taskContainLevel</string>
+	<key>sortedModalMargin</key>
+	<string>observerOutsideActivity</string>
+	<key>viewPerProxy</key>
+	<string>adaptiveChapterOpacity</string>
+</dict>
+</plist>

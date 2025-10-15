@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderCommandBehavior</key>
+	<string>bulletPatternKind</string>
+	<key>bulletActivityType</key>
+	<string>awaitTierBound</string>
+	<key>modelJobCenter</key>
+	<string>subpixelExceptValue</string>
+	<key>musicEnvironmentCoord</key>
+	<string>adaptiveProviderSpeed</string>
+	<key>significantRouterInset</key>
+	<string>completionStructurePosition</string>
+	<key>tabbarTypeShape</key>
+	<string>accordionAlignmentVelocity</string>
+	<key>timerParameterTag</key>
+	<string>consumerContextSaturation</string>
+</dict>
+</plist>

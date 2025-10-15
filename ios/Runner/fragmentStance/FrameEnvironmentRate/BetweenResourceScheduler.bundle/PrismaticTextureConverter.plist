@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileProviderShape</key>
+	<string>resilientCatalystShade</string>
+	<key>baselineOperationLocation</key>
+	<string>referenceSingletonOffset</string>
+	<key>handlerPerMethod</key>
+	<string>sceneExceptDecorator</string>
+	<key>imageLayerCount</key>
+	<string>textureVarAppearance</string>
+	<key>prismaticGramContrast</key>
+	<string>utilProcessDelay</string>
+	<key>respectiveChallengeSkewy</key>
+	<string>workflowProxyPosition</string>
+	<key>retainedGramHead</key>
+	<string>standaloneSpriteAppearance</string>
+	<key>rowCompositeAcceleration</key>
+	<string>gridAtValue</string>
+</dict>
+</plist>

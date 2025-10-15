@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureActivityFeedback</key>
+	<string>cursorPerObserver</string>
+	<key>containerUntilStrategy</key>
+	<string>queryVariableDuration</string>
+	<key>futureIncludeMode</key>
+	<string>entityPhaseContrast</string>
+	<key>gestureFacadeDistance</key>
+	<string>disparateBulletBottom</string>
+	<key>gesturedetectorTempleFeedback</key>
+	<string>asyncFunctionLocation</string>
+	<key>localizationCycleBehavior</key>
+	<string>finalAwaitStatus</string>
+	<key>menuBesideAdapter</key>
+	<string>newestScaffoldResponse</string>
+	<key>streamValueOrigin</key>
+	<string>popupDespiteLayer</string>
+</dict>
+</plist>

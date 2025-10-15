@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackWithoutStructure</key>
+	<string>checkboxStrategyKind</string>
+	<key>customizedServiceOrigin</key>
+	<string>agileLabelHue</string>
+	<key>errorAtShape</key>
+	<string>errorAlongStructure</string>
+	<key>promiseOperationSaturation</key>
+	<string>eagerOperationState</string>
+	<key>smallAllocatorTension</key>
+	<string>diversifiedCycleDensity</string>
+</dict>
+</plist>

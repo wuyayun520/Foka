@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredTweenStyle</key>
+	<string>usecaseWithoutAdapter</string>
+	<key>immediateAllocatorFrequency</key>
+	<string>customizedDropdownbuttonForce</string>
+	<key>interactorParameterPadding</key>
+	<string>delegateBufferName</string>
+	<key>interactorStageLeft</key>
+	<string>animationOutsideMode</string>
+	<key>nodeTypeMargin</key>
+	<string>diversifiedPriorityOrigin</string>
+</dict>
+</plist>

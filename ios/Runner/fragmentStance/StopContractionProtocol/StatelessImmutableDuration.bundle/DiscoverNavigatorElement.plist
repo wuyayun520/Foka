@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintFromMemento</key>
+	<string>skirtFrameworkTint</string>
+	<key>delegateCycleResponse</key>
+	<string>mainCallbackHue</string>
+	<key>heroInPrototype</key>
+	<string>cycleOperationBrightness</string>
+	<key>reducerNearPattern</key>
+	<string>blocFrameworkFrequency</string>
+	<key>storageAtType</key>
+	<string>decorationFrameworkMode</string>
+	<key>themeDespiteEnvironment</key>
+	<string>menuCommandSize</string>
+	<key>viewIncludePlatform</key>
+	<string>synchronousContainerVisible</string>
+</dict>
+</plist>

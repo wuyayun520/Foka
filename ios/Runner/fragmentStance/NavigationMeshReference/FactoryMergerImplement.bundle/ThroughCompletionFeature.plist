@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStateOrientation</key>
+	<string>interactorAmongTemple</string>
+	<key>controllerSystemLeft</key>
+	<string>statefulUnaryInset</string>
+	<key>handlerNearInterpreter</key>
+	<string>alphaWithFlyweight</string>
+	<key>logVersusCycle</key>
+	<string>directlyGrayscaleDelay</string>
+	<key>protectedTextInteraction</key>
+	<string>modulusWithoutSystem</string>
+	<key>providerIncludeTemple</key>
+	<string>stepAwayCycle</string>
+	<key>queueParamPosition</key>
+	<string>gramBufferCenter</string>
+	<key>similarCapsuleTransparency</key>
+	<string>cupertinoIsolateOpacity</string>
+</dict>
+</plist>

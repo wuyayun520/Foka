@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveObserverRotation</key>
+	<string>crucialImageLeft</string>
+	<key>metadataSingletonForce</key>
+	<string>protocolDecoratorColor</string>
+	<key>persistentProgressbarStyle</key>
+	<string>unsortedResponseScale</string>
+	<key>previewShapeShape</key>
+	<string>easyEffectVisibility</string>
+	<key>transformerTierSkewy</key>
+	<string>curveVariableOrigin</string>
+	<key>visibleChapterTransparency</key>
+	<string>activatedFeatureOrientation</string>
+	<key>zoneOrPrototype</key>
+	<string>sessionFromValue</string>
+</dict>
+</plist>

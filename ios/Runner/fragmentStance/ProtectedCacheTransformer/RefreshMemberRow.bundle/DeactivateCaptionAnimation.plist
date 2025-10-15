@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellWithoutStrategy</key>
+	<string>transitionDespiteStrategy</string>
+	<key>chartLikeKind</key>
+	<string>chartPerFunction</string>
+	<key>completerPerBuffer</key>
+	<string>entityLayerAcceleration</string>
+	<key>customizedBoxOpacity</key>
+	<string>fragmentVarScale</string>
+	<key>dialogsAsEnvironment</key>
+	<string>largeInstructionSkewx</string>
+	<key>optionPrototypeFormat</key>
+	<string>injectionProcessScale</string>
+	<key>paddingWithNumber</key>
+	<string>groupViaProcess</string>
+	<key>reusableTimerDelay</key>
+	<string>protocolPatternMode</string>
+	<key>workflowChainTag</key>
+	<string>invisibleAnchorVisible</string>
+</dict>
+</plist>

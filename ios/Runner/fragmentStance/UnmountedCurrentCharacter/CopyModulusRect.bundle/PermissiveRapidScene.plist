@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalRouteFormat</key>
+	<string>notificationParameterHue</string>
+	<key>denseNormBorder</key>
+	<string>protectedViewDelay</string>
+	<key>normPerType</key>
+	<string>autoBaseResponse</string>
+	<key>sizeVersusCommand</key>
+	<string>layoutPatternSize</string>
+	<key>transitionPlatformOpacity</key>
+	<string>dependencyPlatformInteraction</string>
+	<key>vectorFromPattern</key>
+	<string>heroMediatorVisibility</string>
+	<key>workflowFunctionInteraction</key>
+	<string>boxOperationBrightness</string>
+</dict>
+</plist>

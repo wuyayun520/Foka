@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoRouteValidation</key>
+	<string>inactiveLoopSize</string>
+	<key>instructionMediatorFormat</key>
+	<string>alignmentOfParam</string>
+	<key>intuitiveSubscriptionLeft</key>
+	<string>ephemeralImageOrientation</string>
+	<key>labelWithoutProcess</key>
+	<string>ignoredButtonAlignment</string>
+	<key>menuPlatformDirection</key>
+	<string>inheritedAspectratioTail</string>
+	<key>observerTypeFlags</key>
+	<string>prevTextRate</string>
+	<key>sliderFlyweightSpacing</key>
+	<string>rowBridgeScale</string>
+	<key>smallRowLocation</key>
+	<string>grainStrategyName</string>
+</dict>
+</plist>

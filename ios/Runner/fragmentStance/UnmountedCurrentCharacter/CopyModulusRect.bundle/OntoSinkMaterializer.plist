@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationParameterSpeed</key>
+	<string>nativeChapterTint</string>
+	<key>factoryWithoutStyle</key>
+	<string>accessoryInsideLevel</string>
+	<key>originalCoordinatorOpacity</key>
+	<string>normDuringCommand</string>
+	<key>responseFromFacade</key>
+	<string>constLayoutOffset</string>
+	<key>topicModeOrientation</key>
+	<string>resolverFunctionHead</string>
+</dict>
+</plist>

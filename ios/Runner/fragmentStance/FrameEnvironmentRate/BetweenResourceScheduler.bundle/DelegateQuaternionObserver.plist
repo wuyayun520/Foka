@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDialogsScale</key>
+	<string>storageVersusWork</string>
+	<key>challengeValueResponse</key>
+	<string>immutableScrollBehavior</string>
+	<key>criticalQueryDuration</key>
+	<string>entropyWithoutJob</string>
+	<key>heapObserverOpacity</key>
+	<string>optimizerLevelDuration</string>
+	<key>layoutWithoutValue</key>
+	<string>reactiveImageDelay</string>
+	<key>parallelGridContrast</key>
+	<string>resolverUntilForm</string>
+	<key>responsiveLossDensity</key>
+	<string>uniqueSizedboxBehavior</string>
+	<key>riverpodBufferDuration</key>
+	<string>sequentialGraphScale</string>
+	<key>textureProxySkewx</key>
+	<string>completerParameterMomentum</string>
+	<key>threadAndBuffer</key>
+	<string>touchMethodResponse</string>
+</dict>
+</plist>

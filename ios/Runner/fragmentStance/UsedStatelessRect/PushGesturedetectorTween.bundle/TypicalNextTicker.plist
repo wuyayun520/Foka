@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAsFacade</key>
+	<string>stepUntilCycle</string>
+	<key>concurrentEquipmentSkewx</key>
+	<string>sharedCallbackValidation</string>
+	<key>deferredCommandOpacity</key>
+	<string>interpolationDuringForm</string>
+	<key>eventFlyweightTheme</key>
+	<string>respectiveDialogsShade</string>
+	<key>hashLikeProxy</key>
+	<string>metadataTaskForce</string>
+	<key>lastPreviewResponse</key>
+	<string>pointProxyStatus</string>
+	<key>presenterLikeStrategy</key>
+	<string>asyncLikeAction</string>
+	<key>sharedGroupDelay</key>
+	<string>descriptorCompositeSaturation</string>
+</dict>
+</plist>

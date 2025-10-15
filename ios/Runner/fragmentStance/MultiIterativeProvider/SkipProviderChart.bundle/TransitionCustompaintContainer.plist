@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineActivityPosition</key>
+	<string>optimizerTaskBound</string>
+	<key>graphicVisitorSkewy</key>
+	<string>tappableEffectOrientation</string>
+	<key>imperativePopupForce</key>
+	<string>previewBesideStyle</string>
+	<key>localizationInsideVisitor</key>
+	<string>stateActionBottom</string>
+	<key>resolverInterpreterFormat</key>
+	<string>reducerShapeScale</string>
+	<key>smallActionType</key>
+	<string>immutablePetSize</string>
+	<key>sophisticatedButtonTop</key>
+	<string>observerAboutJob</string>
+	<key>unaryTaskFlags</key>
+	<string>mediaContextBound</string>
+</dict>
+</plist>

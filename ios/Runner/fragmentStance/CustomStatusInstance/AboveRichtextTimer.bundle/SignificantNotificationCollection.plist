@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterInterpreterKind</key>
+	<string>uniformWidgetStyle</string>
+	<key>concurrentGestureFlags</key>
+	<string>usedResourceDuration</string>
+	<key>decorationPlatformInset</key>
+	<string>pointMethodSaturation</string>
+	<key>discardedDecorationAppearance</key>
+	<string>logarithmInValue</string>
+	<key>requiredThreadDensity</key>
+	<string>previewOperationDepth</string>
+</dict>
+</plist>

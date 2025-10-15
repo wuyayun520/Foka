@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderTempleBottom</key>
+	<string>animatedStoreTint</string>
+	<key>delicateButtonFlags</key>
+	<string>sharedDecorationCoord</string>
+	<key>finalCoordinatorDistance</key>
+	<string>actionThroughDecorator</string>
+	<key>notifierStateSkewy</key>
+	<string>normalActionAcceleration</string>
+	<key>singletonViaMode</key>
+	<string>autoServiceOrigin</string>
+	<key>taskWithTier</key>
+	<string>queuePhaseDirection</string>
+</dict>
+</plist>

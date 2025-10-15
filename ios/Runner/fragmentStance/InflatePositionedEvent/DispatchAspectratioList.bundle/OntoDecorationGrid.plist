@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoCommandAppearance</key>
+	<string>resourceLayerLeft</string>
+	<key>ephemeralSizeBorder</key>
+	<string>viewDuringFacade</string>
+	<key>factoryPlatformVisible</key>
+	<string>observerUntilFramework</string>
+	<key>geometricMaterialColor</key>
+	<string>captionStrategyBehavior</string>
+	<key>gridviewThanCycle</key>
+	<string>alphaDespiteVariable</string>
+	<key>listenerNearStrategy</key>
+	<string>ephemeralCapacitiesSaturation</string>
+</dict>
+</plist>

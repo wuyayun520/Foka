@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>methodInJob</key>
+	<string>currentConsumerDelay</string>
+	<key>offsetAwayInterpreter</key>
+	<string>mainInterpolationOpacity</string>
+	<key>relationalTextfieldBrightness</key>
+	<string>containerValueDensity</string>
+	<key>resizableMenuBehavior</key>
+	<string>completerInterpreterSkewy</string>
+</dict>
+</plist>

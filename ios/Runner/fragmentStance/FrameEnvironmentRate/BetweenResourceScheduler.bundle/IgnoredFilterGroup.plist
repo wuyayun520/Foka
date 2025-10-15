@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorThroughParam</key>
+	<string>functionalNavigationState</string>
+	<key>interpolationVisitorPressure</key>
+	<string>cardOfTemple</string>
+	<key>listviewObserverName</key>
+	<string>memberOfTier</string>
+	<key>menuWithoutPhase</key>
+	<string>hashParameterFlags</string>
+	<key>secondManagerState</key>
+	<string>scaffoldStateKind</string>
+	<key>sortedLocalizationAppearance</key>
+	<string>ternaryAdapterTop</string>
+	<key>tabviewLevelFeedback</key>
+	<string>protocolModeOpacity</string>
+	<key>uniformMarginValidation</key>
+	<string>agileInterfaceTension</string>
+	<key>utilInVariable</key>
+	<string>tableFrameworkForce</string>
+</dict>
+</plist>

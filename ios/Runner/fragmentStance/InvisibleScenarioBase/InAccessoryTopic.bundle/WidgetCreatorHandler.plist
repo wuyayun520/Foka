@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitModeInset</key>
+	<string>sophisticatedGestureTop</string>
+	<key>curveParamFormat</key>
+	<string>resourceAndLevel</string>
+	<key>expandedFromWork</key>
+	<string>accessibleOffsetDensity</string>
+	<key>intermediateDescriptorBorder</key>
+	<string>semanticCustompaintInset</string>
+	<key>nodeNearStrategy</key>
+	<string>scaleUntilCommand</string>
+	<key>reducerVariableDelay</key>
+	<string>uniformNodeBrightness</string>
+	<key>routeMediatorCenter</key>
+	<string>directAlertSaturation</string>
+	<key>sineStyleContrast</key>
+	<string>visibleMusicTail</string>
+	<key>specifierCycleFormat</key>
+	<string>offsetActionOffset</string>
+</dict>
+</plist>

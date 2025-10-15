@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackCommandSize</key>
+	<string>gesturedetectorCycleOrigin</string>
+	<key>customizedMovementState</key>
+	<string>storageLevelTail</string>
+	<key>timerCompositeAcceleration</key>
+	<string>requiredContainerOrigin</string>
+	<key>transitionByContext</key>
+	<string>greatAspectName</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityFromObserver</key>
+	<string>draggablePopupAcceleration</string>
+	<key>behaviorInMediator</key>
+	<string>paddingStateVelocity</string>
+	<key>cubeChainMomentum</key>
+	<string>permissiveProgressbarMomentum</string>
+	<key>graphicSingletonCount</key>
+	<string>utilAlongProcess</string>
+	<key>gridKindDistance</key>
+	<string>prevCupertinoAppearance</string>
+	<key>injectionVisitorFrequency</key>
+	<string>temporaryIsolateMargin</string>
+	<key>metadataAsPattern</key>
+	<string>histogramTaskDelay</string>
+	<key>publicTitleTail</key>
+	<string>callbackStageShape</string>
+</dict>
+</plist>

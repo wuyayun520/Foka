@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeListenerSaturation</key>
+	<string>textStateRight</string>
+	<key>drawerByValue</key>
+	<string>accordionConsumerPadding</string>
+	<key>layoutShapeVelocity</key>
+	<string>iterativeHandlerAcceleration</string>
+	<key>offsetOutsideParameter</key>
+	<string>checklistViaJob</string>
+	<key>persistentRadioSkewx</key>
+	<string>mediaqueryVersusOperation</string>
+	<key>taskBesideFramework</key>
+	<string>decorationDuringFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackExceptParam</key>
+	<string>builderProcessDirection</string>
+	<key>controllerContextAcceleration</key>
+	<string>mediaquerySingletonShade</string>
+	<key>delicateTickerOpacity</key>
+	<string>associatedRadioDuration</string>
+	<key>durationLikeFunction</key>
+	<string>stateUntilPlatform</string>
+	<key>indicatorPlatformDepth</key>
+	<string>ephemeralPopupDepth</string>
+	<key>navigationTaskPressure</key>
+	<string>sinkCycleInteraction</string>
+	<key>workflowCommandValidation</key>
+	<string>specifyCheckboxOrientation</string>
+</dict>
+</plist>

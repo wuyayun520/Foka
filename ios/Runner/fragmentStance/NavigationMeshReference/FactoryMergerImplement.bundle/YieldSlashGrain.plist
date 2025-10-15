@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsCycleTint</key>
+	<string>sizedboxMediatorResponse</string>
+	<key>flexibleAlertVisible</key>
+	<string>difficultModalMargin</string>
+	<key>intermediateWorkflowContrast</key>
+	<string>lostLogarithmTag</string>
+	<key>labelFrameworkBehavior</key>
+	<string>constPlaybackResponse</string>
+	<key>mobxAmongPlatform</key>
+	<string>stackExceptFacade</string>
+	<key>promiseCompositeDensity</key>
+	<string>promiseCompositeMode</string>
+</dict>
+</plist>

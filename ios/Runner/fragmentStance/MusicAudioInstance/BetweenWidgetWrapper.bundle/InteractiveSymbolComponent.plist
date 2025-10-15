@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeResolverForce</key>
+	<string>grayscaleModeDistance</string>
+	<key>draggableControllerVisibility</key>
+	<string>customMasterPadding</string>
+	<key>mainBlocDelay</key>
+	<string>composableDurationRate</string>
+	<key>modelLevelEdge</key>
+	<string>oldAlertOrigin</string>
+	<key>stackBeyondMemento</key>
+	<string>decorationViaNumber</string>
+</dict>
+</plist>

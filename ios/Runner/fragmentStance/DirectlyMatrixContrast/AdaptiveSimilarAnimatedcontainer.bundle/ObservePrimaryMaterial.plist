@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRowTint</key>
+	<string>seamlessObserverShade</string>
+	<key>animatedOptionBound</key>
+	<string>allocatorViaFlyweight</string>
+	<key>completerBeyondLayer</key>
+	<string>richtextOperationTransparency</string>
+	<key>easyMediaqueryTag</key>
+	<string>extensionOperationTransparency</string>
+	<key>errorCommandName</key>
+	<string>synchronousProjectionRight</string>
+	<key>globalSinkTop</key>
+	<string>dependencyCommandTop</string>
+	<key>listviewTaskInteraction</key>
+	<string>graphLevelLeft</string>
+	<key>sophisticatedPreviewStatus</key>
+	<string>resourceThanAction</string>
+	<key>ternaryAwaySingleton</key>
+	<string>sequentialTimerTag</string>
+</dict>
+</plist>

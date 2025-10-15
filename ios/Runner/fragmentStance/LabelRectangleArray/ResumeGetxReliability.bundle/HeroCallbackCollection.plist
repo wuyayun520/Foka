@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetChainTint</key>
+	<string>queryValueState</string>
+	<key>asyncBeyondEnvironment</key>
+	<string>delegateAtEnvironment</string>
+	<key>cardMementoForce</key>
+	<string>ephemeralTabviewTransparency</string>
+	<key>concurrentCellOffset</key>
+	<string>effectParameterBound</string>
+	<key>grainEnvironmentPosition</key>
+	<string>basicMobxTheme</string>
+	<key>graphBesidePattern</key>
+	<string>diversifiedManagerName</string>
+	<key>logTypeFlags</key>
+	<string>interactiveConstraintAcceleration</string>
+	<key>subsequentCycleAcceleration</key>
+	<string>desktopStorageVelocity</string>
+	<key>zoneInterpreterHue</key>
+	<string>relationalInteractorMode</string>
+</dict>
+</plist>

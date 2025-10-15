@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTypePadding</key>
+	<string>subscriptionEnvironmentOrigin</string>
+	<key>buttonAboutCommand</key>
+	<string>sharedTextSize</string>
+	<key>customUsecaseScale</key>
+	<string>multiInstructionOffset</string>
+	<key>declarativeLoopBehavior</key>
+	<string>entityPerState</string>
+	<key>enabledAwaitColor</key>
+	<string>mutableEventDensity</string>
+	<key>profilePatternFlags</key>
+	<string>alphaPrototypeSaturation</string>
+	<key>resultOperationTail</key>
+	<string>vectorThroughDecorator</string>
+	<key>streamFacadeStyle</key>
+	<string>resizableLayoutFormat</string>
+</dict>
+</plist>

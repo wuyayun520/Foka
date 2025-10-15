@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerModeOrientation</key>
+	<string>criticalSpriteFormat</string>
+	<key>inkwellPerTemple</key>
+	<string>primaryBorderSaturation</string>
+	<key>missedHandlerName</key>
+	<string>intuitiveAwaitRight</string>
+	<key>sinkBufferLeft</key>
+	<string>themeViaSystem</string>
+	<key>workflowAtFlyweight</key>
+	<string>tickerAtFramework</string>
+</dict>
+</plist>

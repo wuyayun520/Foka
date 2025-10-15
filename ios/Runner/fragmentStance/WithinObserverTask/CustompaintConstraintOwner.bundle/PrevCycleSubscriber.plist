@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentByTask</key>
+	<string>semanticDelegateSize</string>
+	<key>beginnerTransitionVelocity</key>
+	<string>commandLayerInset</string>
+	<key>callbackByObserver</key>
+	<string>uniqueBulletSpeed</string>
+	<key>featureViaVisitor</key>
+	<string>lastSliderTransparency</string>
+	<key>missedThemeTint</key>
+	<string>substantialStorageRate</string>
+	<key>observerLevelAlignment</key>
+	<string>errorActivityKind</string>
+	<key>permanentCubitSpacing</key>
+	<string>sliderFunctionRotation</string>
+</dict>
+</plist>

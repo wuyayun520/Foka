@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCellOrientation</key>
+	<string>frameLevelTail</string>
+	<key>durationShapeHue</key>
+	<string>spriteParameterDepth</string>
+	<key>navigatorSingletonBrightness</key>
+	<string>baseNearScope</string>
+	<key>responseVersusComposite</key>
+	<string>immediateTextfieldIndex</string>
+	<key>routeInsideMethod</key>
+	<string>storeScopeMargin</string>
+	<key>segueContainObserver</key>
+	<string>activityLevelCoord</string>
+	<key>tabbarOfFramework</key>
+	<string>beginnerDescriptionTransparency</string>
+	<key>topicAmongAction</key>
+	<string>collectionAboutDecorator</string>
+</dict>
+</plist>

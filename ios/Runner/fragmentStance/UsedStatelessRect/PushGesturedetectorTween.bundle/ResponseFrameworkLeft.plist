@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAdapterVelocity</key>
+	<string>concreteTextfieldSpeed</string>
+	<key>descriptionSingletonSaturation</key>
+	<string>storyboardContextRotation</string>
+	<key>inactiveChartInterval</key>
+	<string>factoryLikePlatform</string>
+	<key>largeAssetHue</key>
+	<string>crudeCosineColor</string>
+	<key>newestQueryLocation</key>
+	<string>musicFromStyle</string>
+</dict>
+</plist>

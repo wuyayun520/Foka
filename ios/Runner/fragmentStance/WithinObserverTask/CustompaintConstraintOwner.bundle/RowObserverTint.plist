@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionVersusEnvironment</key>
+	<string>gateDecoratorInset</string>
+	<key>bitrateStrategyLeft</key>
+	<string>discardedSensorDistance</string>
+	<key>fragmentNearShape</key>
+	<string>bufferCommandTop</string>
+	<key>histogramBufferDensity</key>
+	<string>lostSineCount</string>
+	<key>overlayTaskLocation</key>
+	<string>fixedInteractorMomentum</string>
+	<key>progressbarTempleDepth</key>
+	<string>customTouchColor</string>
+</dict>
+</plist>

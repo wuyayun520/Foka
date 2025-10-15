@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionIncludeMediator</key>
+	<string>appbarUntilAdapter</string>
+	<key>gestureTaskSpeed</key>
+	<string>directDurationSkewy</string>
+	<key>immutableAsyncResponse</key>
+	<string>cycleContextCoord</string>
+	<key>interactiveErrorSpacing</key>
+	<string>dropdownbuttonUntilStage</string>
+	<key>nativeDelegateShape</key>
+	<string>publicMetadataContrast</string>
+</dict>
+</plist>

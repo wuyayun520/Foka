@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPopupResponse</key>
+	<string>protectedFutureAcceleration</string>
+	<key>actionAsDecorator</key>
+	<string>descriptionAtTask</string>
+	<key>activeOverlayColor</key>
+	<string>profileAroundVariable</string>
+	<key>clipperByNumber</key>
+	<string>spineCycleFeedback</string>
+	<key>dedicatedGrainShape</key>
+	<string>textChainVisibility</string>
+	<key>difficultSliderDepth</key>
+	<string>rectViaMethod</string>
+	<key>discardedFactoryPosition</key>
+	<string>criticalRadiusSpacing</string>
+	<key>smartTweenSpeed</key>
+	<string>injectionContextSpacing</string>
+	<key>viewContainVisitor</key>
+	<string>specifyNodePosition</string>
+</dict>
+</plist>

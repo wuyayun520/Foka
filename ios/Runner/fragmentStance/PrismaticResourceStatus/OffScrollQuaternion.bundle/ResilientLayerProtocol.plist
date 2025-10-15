@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectStyleBehavior</key>
+	<string>advancedSpecifierSkewy</string>
+	<key>customCellFrequency</key>
+	<string>reusableFrameState</string>
+	<key>imperativeFlexStyle</key>
+	<string>errorAmongPrototype</string>
+	<key>intensityStageState</key>
+	<string>priorLabelForce</string>
+	<key>momentumUntilPrototype</key>
+	<string>configurationLevelOpacity</string>
+	<key>temporaryNibShade</key>
+	<string>dialogsTaskInset</string>
+</dict>
+</plist>

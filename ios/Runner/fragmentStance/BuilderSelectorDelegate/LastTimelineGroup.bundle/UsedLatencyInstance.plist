@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionWithoutBridge</key>
+	<string>reducerAboutWork</string>
+	<key>autoRectMargin</key>
+	<string>characterStateName</string>
+	<key>chartActionVisibility</key>
+	<string>compositionalProgressbarFrequency</string>
+	<key>commandStageTheme</key>
+	<string>gramFacadePressure</string>
+	<key>finalDrawerShade</key>
+	<string>errorValueBottom</string>
+	<key>isolatePlatformContrast</key>
+	<string>resourcePlatformPressure</string>
+	<key>resultLevelHue</key>
+	<string>graphFormTension</string>
+	<key>singletonAmongKind</key>
+	<string>commonStoreDistance</string>
+</dict>
+</plist>

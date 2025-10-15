@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAdapterKind</key>
+	<string>interpolationByPattern</string>
+	<key>compositionActivitySpeed</key>
+	<string>futureActionSpacing</string>
+	<key>concurrentChannelsCoord</key>
+	<string>progressbarForJob</string>
+	<key>delegateMementoName</key>
+	<string>rectFlyweightSpacing</string>
+	<key>gateIncludeCommand</key>
+	<string>intermediateMediaqueryTop</string>
+	<key>queueByLevel</key>
+	<string>completerBufferBottom</string>
+</dict>
+</plist>

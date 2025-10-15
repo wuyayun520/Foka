@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAlongProxy</key>
+	<string>gateOrVariable</string>
+	<key>fusedViewEdge</key>
+	<string>providerAgainstVisitor</string>
+	<key>globalQueueTransparency</key>
+	<string>displayableInterfaceFlags</string>
+	<key>inactiveErrorOrigin</key>
+	<string>deferredRichtextInset</string>
+	<key>nativePopupInteraction</key>
+	<string>synchronousDescriptionHead</string>
+</dict>
+</plist>

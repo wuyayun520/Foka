@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonNearWork</key>
+	<string>sceneTaskTransparency</string>
+	<key>cachePerStructure</key>
+	<string>futureObserverBrightness</string>
+	<key>explicitRowPadding</key>
+	<string>allocatorFromState</string>
+	<key>injectionAsKind</key>
+	<string>finalGroupTint</string>
+	<key>materialAtInterpreter</key>
+	<string>diffableBufferMargin</string>
+	<key>resilientMethodFormat</key>
+	<string>arithmeticOffsetFormat</string>
+	<key>shaderInAction</key>
+	<string>movementMementoMode</string>
+	<key>sinkFromAction</key>
+	<string>requestContextStatus</string>
+</dict>
+</plist>

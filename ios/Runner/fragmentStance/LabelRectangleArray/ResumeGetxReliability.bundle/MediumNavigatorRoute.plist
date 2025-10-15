@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAsOperation</key>
+	<string>equipmentForStage</string>
+	<key>controllerScopeRate</key>
+	<string>concreteBinaryTransparency</string>
+	<key>disabledMediaqueryCount</key>
+	<string>permissiveWidgetTint</string>
+	<key>documentActionDuration</key>
+	<string>protectedCompletionSize</string>
+	<key>intuitiveScrollTint</key>
+	<string>standaloneButtonForce</string>
+	<key>primaryChannelBound</key>
+	<string>disparateModalEdge</string>
+	<key>rapidCollectionSkewx</key>
+	<string>responsiveHistogramSpacing</string>
+	<key>significantCupertinoIndex</key>
+	<string>secondGesturedetectorTint</string>
+</dict>
+</plist>

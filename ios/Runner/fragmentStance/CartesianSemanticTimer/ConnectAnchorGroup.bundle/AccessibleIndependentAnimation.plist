@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletBesideFlyweight</key>
+	<string>documentAsLayer</string>
+	<key>factoryByChain</key>
+	<string>navigatorFrameworkCoord</string>
+	<key>flexibleCubeFlags</key>
+	<string>statefulLayoutDepth</string>
+	<key>techniqueIncludeAction</key>
+	<string>modulusByLevel</string>
+</dict>
+</plist>

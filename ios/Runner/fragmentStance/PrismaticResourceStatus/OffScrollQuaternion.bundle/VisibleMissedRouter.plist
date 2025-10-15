@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphStrategyTop</key>
+	<string>enabledPreviewTint</string>
+	<key>inheritedOverlaySpeed</key>
+	<string>fixedInstructionSkewx</string>
+	<key>positionAroundProxy</key>
+	<string>tensorReducerPadding</string>
+	<key>resizableTopicBrightness</key>
+	<string>delegateAroundParameter</string>
+	<key>resolverAroundObserver</key>
+	<string>semanticsParamMargin</string>
+	<key>sceneFlyweightVisibility</key>
+	<string>remainderBeyondMemento</string>
+	<key>slashSinceParameter</key>
+	<string>associatedStatefulTag</string>
+</dict>
+</plist>

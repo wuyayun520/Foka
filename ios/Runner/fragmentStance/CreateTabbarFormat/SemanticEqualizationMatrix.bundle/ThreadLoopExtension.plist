@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderObserverContrast</key>
+	<string>intermediateTransitionTheme</string>
+	<key>cupertinoOutsideJob</key>
+	<string>semanticsAdapterSkewx</string>
+	<key>retainedResolverPadding</key>
+	<string>richtextNearBuffer</string>
+	<key>storeVersusPattern</key>
+	<string>observerBeyondActivity</string>
+</dict>
+</plist>

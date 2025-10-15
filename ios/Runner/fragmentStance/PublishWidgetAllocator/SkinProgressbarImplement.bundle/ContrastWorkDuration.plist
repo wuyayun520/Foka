@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonInjectionTail</key>
+	<string>effectPerValue</string>
+	<key>dynamicEquipmentTop</key>
+	<string>futureTaskTail</string>
+	<key>geometricScaleInteraction</key>
+	<string>requestCompositeValidation</string>
+	<key>projectionPerJob</key>
+	<string>hardDurationStyle</string>
+</dict>
+</plist>

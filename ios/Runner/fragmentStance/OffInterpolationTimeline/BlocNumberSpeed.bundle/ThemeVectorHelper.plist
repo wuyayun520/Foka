@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsPerPhase</key>
+	<string>beginnerEventRotation</string>
+	<key>entitySinceSingleton</key>
+	<string>localNavigatorPressure</string>
+	<key>originalAlertTheme</key>
+	<string>customTabviewLeft</string>
+	<key>responseVisitorIndex</key>
+	<string>flexibleExceptionResponse</string>
+	<key>scaleOperationTheme</key>
+	<string>semanticDurationHead</string>
+</dict>
+</plist>

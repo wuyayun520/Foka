@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationNearType</key>
+	<string>curveFormOrientation</string>
+	<key>ephemeralCommandAlignment</key>
+	<string>screenForObserver</string>
+	<key>observerFrameworkDuration</key>
+	<string>rowOrStyle</string>
+	<key>resilientIconRotation</key>
+	<string>effectFunctionState</string>
+	<key>signatureTaskInset</key>
+	<string>intensityInsideFunction</string>
+</dict>
+</plist>

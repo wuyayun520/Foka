@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisDuringMode</key>
+	<string>alignmentExceptTask</string>
+	<key>documentFromStage</key>
+	<string>sceneForStyle</string>
+	<key>equipmentLevelState</key>
+	<string>richtextLikeComposite</string>
+	<key>graphOutsideValue</key>
+	<string>sliderParameterOpacity</string>
+	<key>inkwellMementoAppearance</key>
+	<string>rectTaskBottom</string>
+	<key>metadataParameterForce</key>
+	<string>subsequentMultiplicationIndex</string>
+	<key>scrollLikePhase</key>
+	<string>inactiveRectState</string>
+	<key>spriteInsideEnvironment</key>
+	<string>customizedTextureShape</string>
+</dict>
+</plist>

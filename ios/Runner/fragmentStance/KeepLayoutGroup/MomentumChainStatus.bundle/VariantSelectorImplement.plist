@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAndEnvironment</key>
+	<string>asyncBeyondMemento</string>
+	<key>containerWithoutCommand</key>
+	<string>imageNumberInteraction</string>
+	<key>keyRequestVisible</key>
+	<string>providerDecoratorVelocity</string>
+	<key>loopByAdapter</key>
+	<string>accessibleControllerCount</string>
+	<key>robustEffectDelay</key>
+	<string>resourceActionFeedback</string>
+	<key>scrollableDependencyBound</key>
+	<string>scrollableToolScale</string>
+	<key>webViewValidation</key>
+	<string>methodActivityStyle</string>
+</dict>
+</plist>

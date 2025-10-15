@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatePhaseTint</key>
+	<string>positionAgainstEnvironment</string>
+	<key>groupLikeBuffer</key>
+	<string>grayscaleTierEdge</string>
+	<key>intermediateDelegateBottom</key>
+	<string>dimensionAsPhase</string>
+	<key>menuForFunction</key>
+	<string>accordionSemanticsRotation</string>
+	<key>projectionStageVisible</key>
+	<string>animatedChapterMargin</string>
+	<key>serviceOperationType</key>
+	<string>semanticsTypeFeedback</string>
+</dict>
+</plist>

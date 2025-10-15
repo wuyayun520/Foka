@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousGrainTransparency</key>
+	<string>tabbarSinceAction</string>
+	<key>bufferAboutKind</key>
+	<string>resilientSymbolType</string>
+	<key>labelStateKind</key>
+	<string>gestureAndActivity</string>
+	<key>largeCurveKind</key>
+	<string>usecaseVisitorShape</string>
+	<key>lastSpinePressure</key>
+	<string>resultInsideValue</string>
+	<key>newestAssetCoord</key>
+	<string>rapidObserverBottom</string>
+	<key>projectMediatorSpeed</key>
+	<string>scaleNearTask</string>
+	<key>semanticStreamInteraction</key>
+	<string>stepValueScale</string>
+	<key>subscriptionUntilEnvironment</key>
+	<string>observerNearComposite</string>
+</dict>
+</plist>

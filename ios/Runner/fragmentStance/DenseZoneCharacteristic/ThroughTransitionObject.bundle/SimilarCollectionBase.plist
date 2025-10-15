@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardAroundFramework</key>
+	<string>containerModeMargin</string>
+	<key>featureTaskSize</key>
+	<string>multiplicationActionState</string>
+	<key>immediateGrayscaleDistance</key>
+	<string>composableSliderSpeed</string>
+	<key>offsetSystemInterval</key>
+	<string>commandCycleBehavior</string>
+	<key>resizableCubeBorder</key>
+	<string>inkwellAgainstVisitor</string>
+	<key>screenLayerRate</key>
+	<string>cubitCycleDuration</string>
+	<key>widgetInsideStyle</key>
+	<string>sortedStreamMode</string>
+</dict>
+</plist>

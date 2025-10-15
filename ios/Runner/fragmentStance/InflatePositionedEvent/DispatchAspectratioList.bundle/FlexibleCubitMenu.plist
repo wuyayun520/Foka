@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeShapeStatus</key>
+	<string>widgetInEnvironment</string>
+	<key>entityLevelDepth</key>
+	<string>completerWithoutStage</string>
+	<key>nativeIndicatorVelocity</key>
+	<string>flexShapeSpeed</string>
+	<key>resourceFunctionBound</key>
+	<string>semanticRequestLocation</string>
+	<key>widgetExceptVar</key>
+	<string>intermediateSubscriptionValidation</string>
+</dict>
+</plist>

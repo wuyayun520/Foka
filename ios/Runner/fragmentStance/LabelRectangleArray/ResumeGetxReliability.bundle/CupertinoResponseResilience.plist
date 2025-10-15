@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarProcessInset</key>
+	<string>eagerRemainderBound</string>
+	<key>consumerThroughPattern</key>
+	<string>layoutInSystem</string>
+	<key>dropdownbuttonFromStage</key>
+	<string>lostSpineAcceleration</string>
+	<key>loopOperationInset</key>
+	<string>positionAmongChain</string>
+	<key>multiplicationProxyShade</key>
+	<string>listviewObserverTag</string>
+	<key>sustainableExponentDelay</key>
+	<string>missionWithActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionFormValidation</key>
+	<string>baselineThroughAdapter</string>
+	<key>effectJobStatus</key>
+	<string>synchronousAspectAppearance</string>
+	<key>indicatorProcessTheme</key>
+	<string>vectorAroundScope</string>
+	<key>progressbarForProxy</key>
+	<string>standaloneProjectPressure</string>
+	<key>textAwayEnvironment</key>
+	<string>dialogsWithoutValue</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaWithoutSystem</key>
+	<string>custompaintFormContrast</string>
+	<key>descriptorFrameworkTransparency</key>
+	<string>borderExceptScope</string>
+	<key>errorSingletonInset</key>
+	<string>navigatorAndForm</string>
+	<key>listenerFunctionAppearance</key>
+	<string>animationShapeTension</string>
+	<key>loopCycleOffset</key>
+	<string>firstServicePadding</string>
+	<key>permissiveStorageSpeed</key>
+	<string>unactivatedAsyncRate</string>
+	<key>sizeAndForm</key>
+	<string>captionAboutBuffer</string>
+	<key>smartMultiplicationDuration</key>
+	<string>widgetWithTier</string>
+	<key>storyboardJobPressure</key>
+	<string>elasticHeroAcceleration</string>
+</dict>
+</plist>

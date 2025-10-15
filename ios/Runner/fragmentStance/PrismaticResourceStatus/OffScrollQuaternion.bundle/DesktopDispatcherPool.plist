@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAndCycle</key>
+	<string>lastControllerBehavior</string>
+	<key>captionChainStatus</key>
+	<string>statelessResponseFormat</string>
+	<key>commandDecoratorBrightness</key>
+	<string>decorationFlyweightVisibility</string>
+	<key>hardIsolateDirection</key>
+	<string>blocBufferIndex</string>
+	<key>scrollableStateMomentum</key>
+	<string>mediocreTextOpacity</string>
+	<key>temporaryCaptionType</key>
+	<string>timerDespiteLevel</string>
+	<key>vectorStateCoord</key>
+	<string>commonSkirtInterval</string>
+	<key>webTernaryDistance</key>
+	<string>mobileAdapterCenter</string>
+</dict>
+</plist>

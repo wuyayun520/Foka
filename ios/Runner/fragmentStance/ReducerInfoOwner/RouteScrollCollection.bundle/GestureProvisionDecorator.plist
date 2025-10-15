@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateOutsidePrototype</key>
+	<string>futureAdapterMode</string>
+	<key>coordinatorWithoutVar</key>
+	<string>exceptionViaBridge</string>
+	<key>diffableTaskContrast</key>
+	<string>futureWorkBound</string>
+	<key>missedApertureFeedback</key>
+	<string>synchronousInteractorIndex</string>
+	<key>momentumFrameworkRate</key>
+	<string>boxshadowInsideLevel</string>
+	<key>requiredNavigationBorder</key>
+	<string>intuitiveResponseFrequency</string>
+	<key>serviceTierSpeed</key>
+	<string>statelessSinkBehavior</string>
+</dict>
+</plist>

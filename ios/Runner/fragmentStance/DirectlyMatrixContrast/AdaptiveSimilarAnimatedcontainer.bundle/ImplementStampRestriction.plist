@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedResultIndex</key>
+	<string>behaviorInsideParameter</string>
+	<key>blocOrFramework</key>
+	<string>concurrentClipperShade</string>
+	<key>getxMediatorInset</key>
+	<string>requestOrNumber</string>
+	<key>observerAsFlyweight</key>
+	<string>swiftDuringTier</string>
+	<key>singletonStageOrigin</key>
+	<string>cubitInParameter</string>
+</dict>
+</plist>

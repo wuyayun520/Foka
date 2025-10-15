@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationViaCommand</key>
+	<string>frameInPhase</string>
+	<key>directlyObserverPadding</key>
+	<string>catalystPlatformMargin</string>
+	<key>hardAnimationEdge</key>
+	<string>displayableTabbarContrast</string>
+	<key>integerProcessInterval</key>
+	<string>optimizerParameterFormat</string>
+	<key>layerActionKind</key>
+	<string>easySubscriptionDensity</string>
+	<key>lostRequestInterval</key>
+	<string>unactivatedStoryboardPadding</string>
+	<key>queryInType</key>
+	<string>histogramAwayVisitor</string>
+	<key>spotAtForm</key>
+	<string>chartStyleState</string>
+</dict>
+</plist>

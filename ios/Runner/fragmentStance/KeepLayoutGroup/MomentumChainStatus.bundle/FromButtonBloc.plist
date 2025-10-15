@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedExceptionIndex</key>
+	<string>lazyRichtextDistance</string>
+	<key>anchorValueVisibility</key>
+	<string>managerStructurePosition</string>
+	<key>concreteParticleIndex</key>
+	<string>pinchableContainerSpeed</string>
+	<key>semanticStatefulLeft</key>
+	<string>invisibleNavigatorInterval</string>
+</dict>
+</plist>

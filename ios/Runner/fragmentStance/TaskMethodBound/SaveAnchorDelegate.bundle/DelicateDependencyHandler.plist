@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectAroundVariable</key>
+	<string>containerUntilWork</string>
+	<key>respectiveLayoutName</key>
+	<string>layerTypeTransparency</string>
+	<key>segueSinceCycle</key>
+	<string>oldSkinAlignment</string>
+</dict>
+</plist>

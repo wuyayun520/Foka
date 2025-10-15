@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetOperationType</key>
+	<string>inactivePreviewBrightness</string>
+	<key>giftNumberSpacing</key>
+	<string>stateFormCenter</string>
+	<key>granularResourceContrast</key>
+	<string>momentumChainLeft</string>
+	<key>intensityAlongBuffer</key>
+	<string>desktopLayoutEdge</string>
+	<key>interactorPatternRate</key>
+	<string>rowOutsideTask</string>
+</dict>
+</plist>

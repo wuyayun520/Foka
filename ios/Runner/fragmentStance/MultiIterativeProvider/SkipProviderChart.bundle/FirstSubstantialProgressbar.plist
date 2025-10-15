@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerContainParam</key>
+	<string>segmentOrTier</string>
+	<key>ephemeralCharacterContrast</key>
+	<string>chapterStageCenter</string>
+	<key>liteGraphType</key>
+	<string>channelBesideTier</string>
+	<key>responsiveProtocolDuration</key>
+	<string>difficultAnimationBehavior</string>
+	<key>sinkActivityAcceleration</key>
+	<string>tickerAboutStructure</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryShapeVisibility</key>
+	<string>statefulAndStructure</string>
+	<key>intermediateListenerPressure</key>
+	<string>reactiveCheckboxVisible</string>
+	<key>keyScreenLocation</key>
+	<string>gestureMethodInteraction</string>
+	<key>marginAroundLayer</key>
+	<string>keyIntensityBrightness</string>
+	<key>requiredBoxOrientation</key>
+	<string>tabbarDuringLayer</string>
+	<key>seamlessNibPosition</key>
+	<string>zoneContextIndex</string>
+	<key>specifierLayerLeft</key>
+	<string>richtextDespiteProxy</string>
+	<key>spriteBridgeTension</key>
+	<string>grayscaleAmongValue</string>
+</dict>
+</plist>

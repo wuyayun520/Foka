@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramLayerState</key>
+	<string>originalRequestOrientation</string>
+	<key>iterativeAsyncTint</key>
+	<string>composableQueueBrightness</string>
+	<key>offsetDecoratorKind</key>
+	<string>viewMethodTag</string>
+	<key>riverpodAtMode</key>
+	<string>localizationAtMediator</string>
+	<key>smartCollectionBehavior</key>
+	<string>transitionOutsideComposite</string>
+	<key>threadAwayForm</key>
+	<string>isolateViaMemento</string>
+</dict>
+</plist>

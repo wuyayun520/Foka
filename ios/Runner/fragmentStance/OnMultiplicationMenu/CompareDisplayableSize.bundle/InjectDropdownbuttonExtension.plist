@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationEnvironmentFeedback</key>
+	<string>keyMovementVelocity</string>
+	<key>cursorAlongParameter</key>
+	<string>typicalBrushColor</string>
+	<key>dependencyOutsideFlyweight</key>
+	<string>resultBesideParameter</string>
+	<key>durationMediatorRotation</key>
+	<string>progressbarKindEdge</string>
+	<key>eventFormDistance</key>
+	<string>positionedDespiteFacade</string>
+	<key>gridSingletonCenter</key>
+	<string>baseInsideComposite</string>
+	<key>robustStoryboardRate</key>
+	<string>modulusWithPrototype</string>
+	<key>titleThroughInterpreter</key>
+	<string>painterVarDepth</string>
+	<key>typicalBrushDepth</key>
+	<string>dependencyChainCount</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackScopeMode</key>
+	<string>dependencyFrameworkBorder</string>
+	<key>durationTierLocation</key>
+	<string>fixedRowMode</string>
+	<key>elasticGraphTransparency</key>
+	<string>listviewStructureDistance</string>
+	<key>entityKindDensity</key>
+	<string>usecaseObserverState</string>
+	<key>resizableGestureRate</key>
+	<string>routerShapeRotation</string>
+</dict>
+</plist>

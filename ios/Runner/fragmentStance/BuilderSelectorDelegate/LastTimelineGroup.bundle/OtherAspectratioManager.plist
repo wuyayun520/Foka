@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCurvePressure</key>
+	<string>offsetAsProcess</string>
+	<key>activeMapIndex</key>
+	<string>queueOfTask</string>
+	<key>arithmeticRoutePosition</key>
+	<string>interpolationVarCoord</string>
+	<key>callbackSingletonDensity</key>
+	<string>accessibleBorderInteraction</string>
+	<key>catalystPhaseOrientation</key>
+	<string>awaitMediatorVisible</string>
+	<key>constConstraintTransparency</key>
+	<string>granularBufferFrequency</string>
+	<key>priorityWithoutAdapter</key>
+	<string>multiStreamFeedback</string>
+	<key>sortedProviderFlags</key>
+	<string>liteAwaitInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedFactoryStyle</key>
+	<string>lastIsolateInteraction</string>
+	<key>dialogsStrategyName</key>
+	<string>fixedDecorationVelocity</string>
+	<key>lazyChannelFrequency</key>
+	<string>workflowStrategyValidation</string>
+	<key>navigatorPlatformMomentum</key>
+	<string>storeAwayAction</string>
+	<key>queryAdapterPosition</key>
+	<string>variantUntilMemento</string>
+</dict>
+</plist>

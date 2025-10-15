@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonLikeStrategy</key>
+	<string>publicActivityTint</string>
+	<key>exceptionAdapterValidation</key>
+	<string>spineForStyle</string>
+	<key>exceptionForPrototype</key>
+	<string>threadViaObserver</string>
+	<key>materialPerNumber</key>
+	<string>asyncAlongChain</string>
+	<key>nativeInkwellDuration</key>
+	<string>normalUsecaseRotation</string>
+	<key>requestAsChain</key>
+	<string>nodeInObserver</string>
+	<key>routerFlyweightBound</key>
+	<string>tableCycleDensity</string>
+	<key>tabviewTaskTop</key>
+	<string>cartesianConsumerTag</string>
+	<key>timerMethodStatus</key>
+	<string>unaryAndLayer</string>
+</dict>
+</plist>

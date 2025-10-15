@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDependencyValidation</key>
+	<string>dedicatedSkirtDistance</string>
+	<key>asynchronousInjectionValidation</key>
+	<string>globalBlocBound</string>
+	<key>injectionAdapterStyle</key>
+	<string>sizeStrategyStyle</string>
+	<key>layerPerCycle</key>
+	<string>particleFormVelocity</string>
+	<key>taskContainStyle</key>
+	<string>synchronousClipperContrast</string>
+</dict>
+</plist>

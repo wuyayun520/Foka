@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionCycleTransparency</key>
+	<string>visibleDependencyRight</string>
+	<key>managerDecoratorState</key>
+	<string>cardModeBorder</string>
+	<key>mediaqueryIncludeActivity</key>
+	<string>functionalHandlerSkewx</string>
+	<key>mutablePopupLocation</key>
+	<string>mediumReductionTheme</string>
+	<key>priorityObserverMode</key>
+	<string>bitrateDecoratorPosition</string>
+</dict>
+</plist>

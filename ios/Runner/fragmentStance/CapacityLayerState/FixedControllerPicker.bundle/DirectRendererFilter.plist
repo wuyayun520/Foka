@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorPhaseDirection</key>
+	<string>sharedBaselineSaturation</string>
+	<key>hierarchicalGridviewFrequency</key>
+	<string>resizableChannelKind</string>
+	<key>notifierPerInterpreter</key>
+	<string>arithmeticTransformerFeedback</string>
+	<key>toolPlatformBrightness</key>
+	<string>tangentAdapterTheme</string>
+</dict>
+</plist>

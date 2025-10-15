@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyFacadeAcceleration</key>
+	<string>observerPerTask</string>
+	<key>ephemeralAwaitVisible</key>
+	<string>deferredStreamRate</string>
+	<key>litePointSkewy</key>
+	<string>overlayOperationVelocity</string>
+	<key>lostIntensityTint</key>
+	<string>semanticRowLocation</string>
+	<key>textWorkForce</key>
+	<string>criticalAxisVisibility</string>
+	<key>transformerNumberFrequency</key>
+	<string>seamlessNavigatorTop</string>
+</dict>
+</plist>

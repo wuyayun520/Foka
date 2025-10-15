@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeErrorOrientation</key>
+	<string>stampCycleShape</string>
+	<key>futureTierDistance</key>
+	<string>ignoredEffectShape</string>
+	<key>geometricCompleterMode</key>
+	<string>decorationNumberType</string>
+	<key>hierarchicalCapsuleFrequency</key>
+	<string>capsuleValuePressure</string>
+	<key>integerAmongNumber</key>
+	<string>transformerBufferLocation</string>
+	<key>modulusViaForm</key>
+	<string>plateInPrototype</string>
+	<key>nodeInsideValue</key>
+	<string>textFlyweightVelocity</string>
+</dict>
+</plist>

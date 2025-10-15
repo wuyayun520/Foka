@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaNumberBehavior</key>
+	<string>hierarchicalAlertCount</string>
+	<key>bufferShapeCount</key>
+	<string>typicalGraphResponse</string>
+	<key>cursorProxyStyle</key>
+	<string>behaviorBesideVar</string>
+	<key>lastTouchOrientation</key>
+	<string>coordinatorTierContrast</string>
+	<key>originalSinkAppearance</key>
+	<string>optionStrategyAppearance</string>
+	<key>progressbarStateSkewx</key>
+	<string>signatureSingletonSkewx</string>
+	<key>scrollablePositionTag</key>
+	<string>labelFromStage</string>
+	<key>textfieldBeyondWork</key>
+	<string>zoneByMethod</string>
+</dict>
+</plist>

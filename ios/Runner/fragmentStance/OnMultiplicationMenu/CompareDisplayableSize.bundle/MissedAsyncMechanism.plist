@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileLocalizationBehavior</key>
+	<string>sceneVarDuration</string>
+	<key>agileMatrixKind</key>
+	<string>crucialPositionSkewx</string>
+	<key>immutableAssetFormat</key>
+	<string>intuitiveInjectionHue</string>
+	<key>reductionJobScale</key>
+	<string>marginIncludeLayer</string>
+</dict>
+</plist>

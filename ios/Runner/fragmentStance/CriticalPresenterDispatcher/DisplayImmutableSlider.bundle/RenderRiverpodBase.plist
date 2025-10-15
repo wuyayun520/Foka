@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaProxyStyle</key>
+	<string>taskPlatformVisible</string>
+	<key>animationBesideComposite</key>
+	<string>respectiveZoneBrightness</string>
+	<key>enabledSliderSkewx</key>
+	<string>oldCursorSkewx</string>
+	<key>interactorObserverOffset</key>
+	<string>zoneWorkStatus</string>
+	<key>mediocreTransitionRight</key>
+	<string>bitrateTaskFlags</string>
+</dict>
+</plist>

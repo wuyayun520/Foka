@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushUntilPattern</key>
+	<string>appbarScopeShade</string>
+	<key>configurationStageShape</key>
+	<string>intuitiveTitleTension</string>
+	<key>overlayAsFlyweight</key>
+	<string>momentumShapeDelay</string>
+	<key>reusableGemPressure</key>
+	<string>advancedDecorationSaturation</string>
+</dict>
+</plist>

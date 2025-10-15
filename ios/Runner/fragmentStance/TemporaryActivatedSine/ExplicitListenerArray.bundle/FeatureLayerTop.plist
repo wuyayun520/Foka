@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectBesideLevel</key>
+	<string>multiReducerSkewx</string>
+	<key>collectionMementoBound</key>
+	<string>standaloneGetxVisibility</string>
+	<key>nibChainPosition</key>
+	<string>queueTierSkewx</string>
+	<key>reducerProxyFeedback</key>
+	<string>asynchronousTitleSkewy</string>
+	<key>sceneJobBehavior</key>
+	<string>textAtMediator</string>
+	<key>semanticsOperationOrigin</key>
+	<string>observerWorkCoord</string>
+</dict>
+</plist>

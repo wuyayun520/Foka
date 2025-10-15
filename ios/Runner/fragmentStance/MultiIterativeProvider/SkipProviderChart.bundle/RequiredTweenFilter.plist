@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryLevelCount</key>
+	<string>unarySinceInterpreter</string>
+	<key>delegateStageLocation</key>
+	<string>projectVisitorBottom</string>
+	<key>effectOfAdapter</key>
+	<string>anchorOutsideFacade</string>
+	<key>futureActionTransparency</key>
+	<string>missedLayerFormat</string>
+	<key>interactorPrototypeOffset</key>
+	<string>granularSampleTop</string>
+	<key>presenterStrategyPressure</key>
+	<string>scrollSinceBuffer</string>
+	<key>routeThroughContext</key>
+	<string>smartDependencySpacing</string>
+	<key>textAlongComposite</key>
+	<string>observerPhaseCoord</string>
+</dict>
+</plist>

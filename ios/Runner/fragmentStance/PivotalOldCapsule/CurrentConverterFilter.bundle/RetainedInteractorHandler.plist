@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackStrategyInterval</key>
+	<string>lastCursorHead</string>
+	<key>curveAdapterFrequency</key>
+	<string>injectionDecoratorDistance</string>
+	<key>denseSignatureStyle</key>
+	<string>fusedSizedboxHue</string>
+	<key>iconMementoCount</key>
+	<string>navigatorInComposite</string>
+	<key>titleAboutPlatform</key>
+	<string>delegateStateDirection</string>
+	<key>unactivatedCupertinoAppearance</key>
+	<string>repositoryOutsideSystem</string>
+</dict>
+</plist>

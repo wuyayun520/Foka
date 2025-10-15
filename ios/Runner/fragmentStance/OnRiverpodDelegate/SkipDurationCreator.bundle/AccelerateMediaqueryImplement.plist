@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonDecoratorFlags</key>
+	<string>hardScrollSize</string>
+	<key>curveOutsideCommand</key>
+	<string>pageviewTypeBound</string>
+	<key>frameAroundForm</key>
+	<string>eventTaskDuration</string>
+	<key>injectionMediatorState</key>
+	<string>nativeSubscriptionScale</string>
+	<key>numericalTweenMode</key>
+	<string>geometricApertureIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaContainStage</key>
+	<string>handlerVersusMediator</string>
+	<key>declarativeZoneMargin</key>
+	<string>popupOrPrototype</string>
+	<key>interfaceAgainstDecorator</key>
+	<string>sequentialTabbarSaturation</string>
+	<key>managerInLayer</key>
+	<string>animatedMediaquerySkewy</string>
+	<key>materialTweenTension</key>
+	<string>viewWithoutObserver</string>
+	<key>particlePatternType</key>
+	<string>customSpinePadding</string>
+	<key>pivotalNavigatorDensity</key>
+	<string>asynchronousTransitionShape</string>
+	<key>subtleCompositionIndex</key>
+	<string>borderScopeBottom</string>
+</dict>
+</plist>

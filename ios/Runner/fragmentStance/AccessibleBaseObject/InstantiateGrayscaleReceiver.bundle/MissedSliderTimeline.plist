@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableFactoryTint</key>
+	<string>interactiveCursorPadding</string>
+	<key>loopObserverFormat</key>
+	<string>displayableInteractorInset</string>
+	<key>nextChallengeFrequency</key>
+	<string>titleWorkTheme</string>
+	<key>streamKindCount</key>
+	<string>queryScopeTop</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerContainerForce</key>
+	<string>assetActionAlignment</string>
+	<key>mediumSemanticsType</key>
+	<string>positionAroundBuffer</string>
+	<key>popupForMediator</key>
+	<string>channelWithPattern</string>
+	<key>reusableLoopBehavior</key>
+	<string>interfaceMediatorShade</string>
+	<key>utilLevelTag</key>
+	<string>originalSkinTransparency</string>
+</dict>
+</plist>

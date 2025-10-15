@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>menuVisitorDirection</key>
+	<string>particleWithVar</string>
+	<key>resultEnvironmentPosition</key>
+	<string>dropdownbuttonPatternHue</string>
+	<key>specifierSingletonDelay</key>
+	<string>keyGramDistance</string>
+</dict>
+</plist>

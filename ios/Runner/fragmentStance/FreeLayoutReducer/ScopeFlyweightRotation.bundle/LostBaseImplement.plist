@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNavigationInteraction</key>
+	<string>cubitWorkColor</string>
+	<key>callbackFlyweightRight</key>
+	<string>directlyCallbackSpeed</string>
+	<key>challengeWithChain</key>
+	<string>blocAlongStyle</string>
+	<key>cycleLayerFlags</key>
+	<string>blocValueTheme</string>
+	<key>flexibleContainerResponse</key>
+	<string>layoutAsVisitor</string>
+	<key>mediaSingletonSpacing</key>
+	<string>statefulAgainstNumber</string>
+	<key>singletonForActivity</key>
+	<string>directlyServiceMargin</string>
+	<key>skirtActivityTransparency</key>
+	<string>layoutBesideNumber</string>
+	<key>staticAlignmentValidation</key>
+	<string>batchPrototypeVelocity</string>
+</dict>
+</plist>

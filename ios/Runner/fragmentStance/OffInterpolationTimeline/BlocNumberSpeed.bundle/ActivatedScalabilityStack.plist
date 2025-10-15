@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionParameterColor</key>
+	<string>missedEventOrigin</string>
+	<key>keyStateTail</key>
+	<string>zoneTaskRight</string>
+	<key>listviewFlyweightForce</key>
+	<string>transitionWorkVisible</string>
+	<key>localIndicatorScale</key>
+	<string>hashAndState</string>
+	<key>resizableConstraintInset</key>
+	<string>gridViaAdapter</string>
+	<key>responsiveServiceInterval</key>
+	<string>invisibleExceptionOrientation</string>
+	<key>scaleContextBorder</key>
+	<string>axisSinceVisitor</string>
+	<key>segueOfFramework</key>
+	<string>symmetricTouchDuration</string>
+	<key>tickerPlatformDuration</key>
+	<string>paddingLevelRotation</string>
+</dict>
+</plist>

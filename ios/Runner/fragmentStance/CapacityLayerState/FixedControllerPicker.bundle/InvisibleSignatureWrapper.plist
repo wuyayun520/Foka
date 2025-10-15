@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSliderShape</key>
+	<string>advancedQueueShade</string>
+	<key>boxParamLeft</key>
+	<string>sizeParamName</string>
+	<key>concurrentInteractorMargin</key>
+	<string>eventDespiteBridge</string>
+	<key>errorObserverDensity</key>
+	<string>firstStackStyle</string>
+	<key>gesturedetectorFlyweightTransparency</key>
+	<string>touchFromVariable</string>
+	<key>hardTransformerTag</key>
+	<string>liteSemanticsAppearance</string>
+	<key>layerByEnvironment</key>
+	<string>statelessObserverBound</string>
+</dict>
+</plist>

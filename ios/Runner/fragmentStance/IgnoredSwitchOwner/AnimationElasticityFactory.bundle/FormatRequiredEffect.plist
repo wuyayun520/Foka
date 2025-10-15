@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackIncludeVisitor</key>
+	<string>canvasDuringState</string>
+	<key>deferredTextureVelocity</key>
+	<string>tweenThanParam</string>
+	<key>denseEntityOrientation</key>
+	<string>mobileResultAppearance</string>
+	<key>gridviewWithBridge</key>
+	<string>isolateChainDensity</string>
+	<key>handlerOrSystem</key>
+	<string>arithmeticPainterSpeed</string>
+	<key>hashInsideFlyweight</key>
+	<string>otherDependencyDepth</string>
+	<key>remainderActionShape</key>
+	<string>sharedFeatureContrast</string>
+	<key>staticRouteDuration</key>
+	<string>spineTypePadding</string>
+	<key>titleAroundDecorator</key>
+	<string>queueWithAction</string>
+</dict>
+</plist>

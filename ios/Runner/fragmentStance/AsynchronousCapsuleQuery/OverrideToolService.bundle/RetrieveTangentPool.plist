@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderProxyTint</key>
+	<string>sceneActionValidation</string>
+	<key>criticalStateSaturation</key>
+	<string>autoProgressbarTheme</string>
+	<key>injectionWithoutMediator</key>
+	<string>eventByContext</string>
+	<key>interactiveCosineState</key>
+	<string>characterValueFormat</string>
+	<key>modulusExceptStructure</key>
+	<string>accordionCubitSize</string>
+	<key>persistentDrawerContrast</key>
+	<string>easyTweenSaturation</string>
+	<key>tickerWithProcess</key>
+	<string>featureCompositeMargin</string>
+</dict>
+</plist>

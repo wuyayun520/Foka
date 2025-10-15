@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMediaqueryBrightness</key>
+	<string>imageActivityFormat</string>
+	<key>consumerNearAction</key>
+	<string>giftBesideCommand</string>
+	<key>cubeBySingleton</key>
+	<string>currentSliderLocation</string>
+	<key>gesturedetectorStyleOrientation</key>
+	<string>listviewMethodHue</string>
+	<key>granularAllocatorInset</key>
+	<string>controllerAwayMode</string>
+	<key>graphOrVisitor</key>
+	<string>ternaryFunctionOpacity</string>
+	<key>opaqueWidgetDelay</key>
+	<string>secondChannelAlignment</string>
+	<key>resilientSceneLeft</key>
+	<string>mainRiverpodInterval</string>
+	<key>retainedChannelsRight</key>
+	<string>consultativeEffectState</string>
+</dict>
+</plist>

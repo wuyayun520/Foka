@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnModeShape</key>
+	<string>durationSinceCommand</string>
+	<key>diversifiedFeatureTransparency</key>
+	<string>intensityOutsideComposite</string>
+	<key>pointTierContrast</key>
+	<string>substantialBaselineTop</string>
+	<key>seamlessCustompaintBottom</key>
+	<string>checkboxAndMethod</string>
+	<key>tangentActivityCount</key>
+	<string>currentDelegateInterval</string>
+</dict>
+</plist>

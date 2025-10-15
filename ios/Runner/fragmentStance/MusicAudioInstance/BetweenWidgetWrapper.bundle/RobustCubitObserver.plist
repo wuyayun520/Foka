@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAwayCycle</key>
+	<string>isolateInCommand</string>
+	<key>cursorShapeSize</key>
+	<string>tableActionAcceleration</string>
+	<key>nextEventOpacity</key>
+	<string>explicitSubscriptionEdge</string>
+	<key>observerOfTier</key>
+	<string>swiftActivityCoord</string>
+	<key>pageviewStyleBehavior</key>
+	<string>permissiveGemCount</string>
+	<key>sliderNearObserver</key>
+	<string>titleAwayPrototype</string>
+	<key>symmetricResourceVisibility</key>
+	<string>routerThroughStrategy</string>
+</dict>
+</plist>

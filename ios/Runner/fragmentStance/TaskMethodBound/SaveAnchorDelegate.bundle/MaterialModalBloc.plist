@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopStoreKind</key>
+	<string>graphInterpreterIndex</string>
+	<key>easyUsecaseOrientation</key>
+	<string>intuitiveCursorIndex</string>
+	<key>greatResolverOrientation</key>
+	<string>comprehensivePlaybackState</string>
+	<key>hierarchicalCompleterBrightness</key>
+	<string>tabviewFormMargin</string>
+	<key>sequentialDescriptionRate</key>
+	<string>entropyCompositeBehavior</string>
+	<key>sortedIntensityDirection</key>
+	<string>dropdownbuttonBeyondState</string>
+	<key>zoneStyleBottom</key>
+	<string>statefulMapOpacity</string>
+</dict>
+</plist>

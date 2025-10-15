@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBesideInterpreter</key>
+	<string>inactiveResourceLocation</string>
+	<key>buttonBufferOrientation</key>
+	<string>featureOrComposite</string>
+	<key>lastBufferTag</key>
+	<string>subscriptionViaStage</string>
+	<key>playbackActivityFeedback</key>
+	<string>petStructureDelay</string>
+	<key>statefulAsyncSize</key>
+	<string>subsequentTechniquePadding</string>
+	<key>transitionMethodInset</key>
+	<string>themePlatformOrigin</string>
+</dict>
+</plist>

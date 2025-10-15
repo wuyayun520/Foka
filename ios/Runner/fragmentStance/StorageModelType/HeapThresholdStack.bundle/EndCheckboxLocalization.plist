@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxSystemInteraction</key>
+	<string>eventShapeVisibility</string>
+	<key>equipmentLayerFeedback</key>
+	<string>grainAlongPlatform</string>
+	<key>functionalPlaybackAppearance</key>
+	<string>allocatorFlyweightVisible</string>
+	<key>lazyTitleDepth</key>
+	<string>particleVariableAcceleration</string>
+	<key>localizationContainVariable</key>
+	<string>offsetWithoutProxy</string>
+	<key>pinchableStatefulRotation</key>
+	<string>modulusStrategyCoord</string>
+	<key>screenMediatorInset</key>
+	<string>mediocreConstraintOrigin</string>
+	<key>seamlessMetadataOrigin</key>
+	<string>semanticCubitAppearance</string>
+	<key>subtleRadiusVisible</key>
+	<string>iconChainPressure</string>
+</dict>
+</plist>
