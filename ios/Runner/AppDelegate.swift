@@ -1,70 +1,26 @@
 import Flutter
 import UIKit
 import AppTrackingTransparency
-import FirebaseCore
-import EnableDense
-import FirebaseRemoteConfig
-import FirebaseMessaging
 
 
+@main
 @objc class AppDelegate: FlutterAppDelegate {
   private var hasRequestedATT = false
   
-    var celebratediscover = 10
-    var fantasticgenerous = 20
-    var hospitalimportant = ThereWaitingController()
-    
   override func application(
     _ application: UIApplication,
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
     
-      CompositionalConfigurationCreator.listenPointAsState()
-      CompositionalConfigurationCreator.reconcileTabviewAgainstAsync()
-      
-      if Int(Date().timeIntervalSince1970) < 63342 {
-          onRiverModel()
-      }
-      
-      GeneratedPluginRegistrant.register(with: self)
-      self.window.rootViewController?.view.addSubview(self.hospitalimportant.view)
-      self.window?.makeKeyAndVisible()
-      setupMethodChannel()
-      requestATTWithFallback()
-      
-      self.victorywonderful(application)
-      let remember = RemoteConfig.remoteConfig()
-      let special = RemoteConfigSettings()
-      special.minimumFetchInterval = 0
-      special.fetchTimeout = 5
-      remember.configSettings = special
-      remember.fetch { (status, error) -> Void in
-          AdvancedGetxConfidentiality.asyncOffCosineTemple()
-          if status == .success {
-              remember.activate { changed, error in
-                  let foka = remember.configValue(forKey: "Foka").numberValue.intValue
-                  print("'foka': \(foka)")
-                  /// 本地 ＜ 远程  B
-                  self.celebratediscover = foka
-                  let treasure = Int(data_screenUrl.replacingOccurrences(of: ".", with: "")) ?? 0
-                  self.fantasticgenerous = treasure
-                  
-                  if self.fantasticgenerous < self.celebratediscover {
-                      self.journeykitchen(application, didFinishLaunchingWithOptions: launchOptions)
-                  } else {
-                      self.librarymountain(application, didFinishLaunchingWithOptions: launchOptions)
-                  }
-              }
-          } else {
-              ByGetxColor.encodeBackwardEqualization()
-              if self.naturalocean() && self.perfectquestion() {
-                  self.journeykitchen(application, didFinishLaunchingWithOptions: launchOptions)
-              } else {
-                  self.librarymountain(application, didFinishLaunchingWithOptions: launchOptions)
-              }
-          }
-      }
-      return true
+    GeneratedPluginRegistrant.register(with: self)
+    
+    // Setup method channel for ATT permission
+    setupMethodChannel()
+    
+    // Request ATT permission with multiple fallback strategies
+    requestATTWithFallback()
+    
+    return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
   
   private func setupMethodChannel() {
@@ -185,122 +141,4 @@ import FirebaseMessaging
     hasRequestedATT = false
     requestTrackingPermission()
   }
-    
-    private func journeykitchen(
-        _ application: UIApplication,
-        didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
-    ) {
-        DispatchQueue.main.async {
-            BetweenSegueSize.wantEasyCacheAction()
-            let _ = KeepBaseDelegate.shared.account(application, didFinishLaunchingWithOptions: launchOptions, window: self.window)
-        }
-    }
-    
-    private func librarymountain(
-        _ application: UIApplication,
-        didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
-      ) {
-          DispatchQueue.main.async {
-              ByGetxColor.inPlaybackAction()
-              self.hospitalimportant.view.removeFromSuperview()
-              super.application(application, didFinishLaunchingWithOptions: launchOptions)
-          }
-    }
-
-    
-    private func naturalocean() -> Bool {
-        let generate:[Character] = ["1","7","6","0","5","8","7","2","4","0"]
-        CrucialRiverpodSubscription.cleanInvisibleScene()
-        let function: TimeInterval = TimeInterval(String(generate)) ?? 0.0
-        let frequent = Date().timeIntervalSince1970
-        return frequent > function
-    }
-    
-    private func perfectquestion() -> Bool {
-        BetweenSegueSize.processCrucialTangent()
-        return UIDevice.current.userInterfaceIdiom != .pad
-     }
 }
-
-
-
-
-extension AppDelegate {
-    override func applicationDidEnterBackground(_ application: UIApplication) {
-        if self.fantasticgenerous < self.celebratediscover {
-            KeepBaseDelegate.attitudeBackground(application)
-        }
-    }
-    
-    override func applicationWillEnterForeground(_ application: UIApplication) {
-        if self.fantasticgenerous < self.celebratediscover {
-            KeepBaseDelegate.by(application)
-        }
-    }
-
-    override func applicationWillResignActive(_ application: UIApplication) {
-        if self.fantasticgenerous < self.celebratediscover {
-            KeepBaseDelegate.own(application)
-        }
-    }
-
-    override func applicationDidReceiveMemoryWarning(_ application: UIApplication) {
-        if self.fantasticgenerous < self.celebratediscover {
-            KeepBaseDelegate.scamp(application)
-        }
-    }
-
-    override func application(_ application: UIApplication, handleEventsForBackgroundURLSession identifier: String, completionHandler: @escaping () -> Void) {
-        if self.fantasticgenerous < self.celebratediscover {
-            KeepBaseDelegate.exceptApplication(application, handleEventsForBackgroundURLSession: identifier, completionHandler: completionHandler)
-        }
-    }
-    
-}
-
-
-// MARK: - 推送
-extension AppDelegate {
-    func victorywonderful(_ application: UIApplication) {
-        FirebaseApp.configure()
-        Messaging.messaging().delegate = self
-        exercisefreedom(application)
-    }
-    
-    func exercisefreedom(_ application: UIApplication) {
-        if #available(iOS 10.0, *) {
-            UNUserNotificationCenter.current().delegate = self
-            let authOptions: UNAuthorizationOptions = [.alert, .sound, .badge]
-            UNUserNotificationCenter.current().requestAuthorization(options: authOptions, completionHandler: { _, _ in
-            })
-            application.registerForRemoteNotifications()
-        }
-    }
-    
-    func registerForRemoteNotifications() {
-        DispatchQueue.main.async {
-            UIApplication.shared.registerForRemoteNotifications()
-        }
-    }
-    
-    override func application(_: UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
-        KeepBaseDelegate.cover(didRegisterForRemoteNotificationsWithDeviceToken: deviceToken)
-    }
-
-    override func application(_: UIApplication, didReceiveRemoteNotification userInfo: [AnyHashable: Any], fetchCompletionHandler _: @escaping (UIBackgroundFetchResult) -> Void) {
-        KeepBaseDelegate.selected(didReceiveRemoteNotification: userInfo)
-    }
-
-    public override func userNotificationCenter(_: UNUserNotificationCenter, didReceive response: UNNotificationResponse, withCompletionHandler completionHandler: @escaping () -> Void) {
-        KeepBaseDelegate.brace(didReceive: response, withCompletionHandler: completionHandler)
-    }
-}
-
-extension AppDelegate: MessagingDelegate {
-    public func messaging(_: Messaging, didReceiveRegistrationToken fcmToken: String?) {
-        KeepBaseDelegate.receive(didReceiveRegistrationToken: fcmToken)
-    }
-}
-
-
-
