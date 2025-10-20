@@ -1072,6 +1072,5 @@ func stageScrollview() {
     ProtectedHeapDependency.asyncFromAppbarBridge();
     ProtectedHeapDependency.mixinWithoutHandlerMode();
 
-    ————————
 
 }

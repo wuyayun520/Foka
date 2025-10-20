@@ -250,15 +250,14 @@
 		//NSLog(@"sets= bussiness3 gen_set %@", bussiness3);
 		int convolutionSinceActivity=0;
 		//NSLog(@"sets= bussiness5 gen_int %@", bussiness5);
-		NSInteger projectExceptParam =  [resourceWithoutObserver count];
+		NSInteger projectExceptParam =  12;
 		int configurationActivityDelay=0;
 		int getxLikeSystem=0;
 		for (int i = 0; i < 1; i++) {
 			if (i > 12) {
 				return;
 			}
-			configurationActivityDelay = projectExceptParam + getxLikeSystem;
-			getxLikeSystem = configurationActivityDelay + projectExceptParam;
+			
 		}
 		UIBezierPath * asyncModelIndex = [[UIBezierPath alloc]init];
 		[asyncModelIndex moveToPoint:CGPointMake(10, 10)];
