@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateNearFramework</key>
+	<string>particleCommandDuration</string>
+	<key>entityIncludeVar</key>
+	<string>granularSceneMode</string>
+	<key>grainVarSize</key>
+	<string>customContainerLocation</string>
+	<key>originalTableSaturation</key>
+	<string>brushInterpreterDistance</string>
+	<key>profileObserverBound</key>
+	<string>paddingThroughPhase</string>
+	<key>projectionAsContext</key>
+	<string>dropdownbuttonWithParameter</string>
+	<key>seamlessSpriteOrigin</key>
+	<string>routerValueRotation</string>
+	<key>sizeOrCommand</key>
+	<string>stackWorkOrigin</string>
+	<key>textureSinceFlyweight</key>
+	<string>animationParamInset</string>
+</dict>
+</plist>

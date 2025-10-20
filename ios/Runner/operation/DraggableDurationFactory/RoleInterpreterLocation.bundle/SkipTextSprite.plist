@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorParameterFeedback</key>
+	<string>intensityForPhase</string>
+	<key>diversifiedAwaitMode</key>
+	<string>resilientSignValidation</string>
+	<key>granularContainerStatus</key>
+	<string>toolVersusNumber</string>
+	<key>resultDuringOperation</key>
+	<string>localizationFunctionFeedback</string>
+	<key>retainedModulusAlignment</key>
+	<string>menuWithPattern</string>
+	<key>specifyBufferKind</key>
+	<string>explicitSpriteLocation</string>
+	<key>temporaryCompletionSkewx</key>
+	<string>descriptionAroundStyle</string>
+	<key>tweenStylePadding</key>
+	<string>discardedPainterVisible</string>
+</dict>
+</plist>

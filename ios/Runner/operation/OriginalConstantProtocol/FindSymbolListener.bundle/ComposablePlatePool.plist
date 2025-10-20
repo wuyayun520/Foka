@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentInkwellKind</key>
+	<string>accordionChannelTag</string>
+	<key>giftBufferOrientation</key>
+	<string>mediaAtScope</string>
+	<key>iconVarIndex</key>
+	<string>featureCompositeType</string>
+	<key>inkwellContextVisible</key>
+	<string>decorationAdapterStyle</string>
+	<key>publicScaffoldValidation</key>
+	<string>cursorAndKind</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterUntilStyle</key>
+	<string>statelessColumnShade</string>
+	<key>easyOperationVisible</key>
+	<string>rectAroundVariable</string>
+	<key>euclideanPainterBound</key>
+	<string>standaloneConstraintVisibility</string>
+	<key>instructionNearPrototype</key>
+	<string>subsequentTaskHue</string>
+	<key>navigatorActionFeedback</key>
+	<string>menuFunctionDirection</string>
+	<key>progressbarDuringTier</key>
+	<string>characterAlongLayer</string>
+	<key>queueFromShape</key>
+	<string>injectionThroughObserver</string>
+	<key>relationalMatrixCoord</key>
+	<string>smallAsyncBehavior</string>
+	<key>reusableHandlerTail</key>
+	<string>metadataStateTag</string>
+</dict>
+</plist>

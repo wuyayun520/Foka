@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAwayType</key>
+	<string>nodeViaStructure</string>
+	<key>animationSingletonLeft</key>
+	<string>promiseDespiteLayer</string>
+	<key>capsuleWithoutComposite</key>
+	<string>fusedChannelEdge</string>
+	<key>completerStyleTransparency</key>
+	<string>effectIncludeTask</string>
+	<key>memberDuringState</key>
+	<string>scrollActionAcceleration</string>
+	<key>menuBesideCommand</key>
+	<string>cartesianInteractorLeft</string>
+	<key>queueObserverType</key>
+	<string>spriteOutsideVar</string>
+	<key>routeTempleSkewy</key>
+	<string>animationOfSystem</string>
+	<key>secondChecklistIndex</key>
+	<string>previewJobType</string>
+	<key>standalonePreviewTint</key>
+	<string>nodeChainSpeed</string>
+</dict>
+</plist>

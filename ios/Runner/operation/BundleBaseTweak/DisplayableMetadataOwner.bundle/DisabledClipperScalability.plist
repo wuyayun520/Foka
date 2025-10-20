@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandWorkSaturation</key>
+	<string>sinkMediatorSaturation</string>
+	<key>functionalGramStatus</key>
+	<string>otherUtilFeedback</string>
+	<key>intuitiveContainerVelocity</key>
+	<string>statefulEventVisibility</string>
+	<key>normChainSkewx</key>
+	<string>finalLoopContrast</string>
+	<key>petLayerHead</key>
+	<string>optimizerVariableSize</string>
+	<key>pointObserverTheme</key>
+	<string>lastListenerTint</string>
+	<key>positionedContextHue</key>
+	<string>routeDecoratorContrast</string>
+	<key>reactiveTickerLeft</key>
+	<string>layerVisitorCenter</string>
+	<key>unaryProxyLocation</key>
+	<string>presenterChainValidation</string>
+</dict>
+</plist>

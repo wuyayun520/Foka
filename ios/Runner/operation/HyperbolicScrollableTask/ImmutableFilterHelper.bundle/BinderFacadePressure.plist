@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBeyondLayer</key>
+	<string>menuSystemBound</string>
+	<key>channelAmongStrategy</key>
+	<string>cubitAndParameter</string>
+	<key>cubitFunctionColor</key>
+	<string>controllerBufferTop</string>
+	<key>handlerLikeParam</key>
+	<string>diffableDelegateInteraction</string>
+	<key>modelContainState</key>
+	<string>custompaintBridgeSkewx</string>
+	<key>previewViaShape</key>
+	<string>featureVariableOpacity</string>
+	<key>screenUntilFlyweight</key>
+	<string>stackInDecorator</string>
+	<key>storageInLevel</key>
+	<string>riverpodDuringAdapter</string>
+	<key>tangentThroughAdapter</key>
+	<string>storeAsEnvironment</string>
+</dict>
+</plist>

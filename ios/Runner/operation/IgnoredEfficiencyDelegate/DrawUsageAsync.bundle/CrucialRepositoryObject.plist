@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateSpotOpacity</key>
+	<string>sizedboxCompositeFeedback</string>
+	<key>fusedSeguePosition</key>
+	<string>permanentGesturedetectorSkewx</string>
+	<key>metadataCycleOffset</key>
+	<string>tappableBufferOpacity</string>
+	<key>permanentChartSpacing</key>
+	<string>mediaqueryProxyOrigin</string>
+	<key>reducerPlatformSaturation</key>
+	<string>builderDespiteMediator</string>
+	<key>sinkBridgeRight</key>
+	<string>advancedExceptionDensity</string>
+	<key>symbolChainSize</key>
+	<string>queueStyleValidation</string>
+	<key>transitionCycleVelocity</key>
+	<string>logActivityTop</string>
+</dict>
+</plist>

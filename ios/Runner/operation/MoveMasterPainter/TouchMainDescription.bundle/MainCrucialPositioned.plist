@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFrameworkDirection</key>
+	<string>eventWithoutComposite</string>
+	<key>containerAndKind</key>
+	<string>statelessAwayMediator</string>
+	<key>histogramVarName</key>
+	<string>flexAndEnvironment</string>
+	<key>keyUsecaseBottom</key>
+	<string>reducerPhaseFlags</string>
+	<key>similarTransitionInterval</key>
+	<string>delegateExceptChain</string>
+	<key>stackStageBrightness</key>
+	<string>precisionProxyState</string>
+	<key>usedOffsetStyle</key>
+	<string>advancedLayerScale</string>
+	<key>usedTickerAppearance</key>
+	<string>permissiveSizePosition</string>
+</dict>
+</plist>

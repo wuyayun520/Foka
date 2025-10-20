@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonDecoratorBound</key>
+	<string>checkboxAgainstPattern</string>
+	<key>elasticMissionStatus</key>
+	<string>compositionalTextContrast</string>
+	<key>globalDecorationHue</key>
+	<string>shaderShapeCount</string>
+	<key>isolateSingletonMode</key>
+	<string>pointFrameworkFrequency</string>
+	<key>sortedDrawerSaturation</key>
+	<string>positionStrategyCoord</string>
+	<key>textfieldStyleContrast</key>
+	<string>disabledMobileSize</string>
+	<key>viewProcessBound</key>
+	<string>chartValueDistance</string>
+</dict>
+</plist>

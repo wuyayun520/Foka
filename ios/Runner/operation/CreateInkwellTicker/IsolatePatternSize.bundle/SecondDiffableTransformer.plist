@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveStyleMode</key>
+	<string>routeInShape</string>
+	<key>deferredStampShape</key>
+	<string>metadataVersusProxy</string>
+	<key>durationVersusTask</key>
+	<string>containerInBridge</string>
+	<key>hierarchicalObserverVelocity</key>
+	<string>richtextChainHead</string>
+	<key>inactiveLoopAcceleration</key>
+	<string>parallelLogarithmHue</string>
+	<key>missedConstraintSpacing</key>
+	<string>permanentRowRight</string>
+	<key>routeExceptCommand</key>
+	<string>progressbarActivityDuration</string>
+</dict>
+</plist>

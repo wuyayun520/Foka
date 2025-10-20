@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectFrameworkPadding</key>
+	<string>factoryFunctionAppearance</string>
+	<key>gridVariableMargin</key>
+	<string>screenAmongAdapter</string>
+	<key>metadataTempleSkewy</key>
+	<string>decorationAtComposite</string>
+	<key>reducerInterpreterBrightness</key>
+	<string>bufferParamBorder</string>
+	<key>spriteEnvironmentAlignment</key>
+	<string>sceneJobKind</string>
+	<key>widgetThroughCommand</key>
+	<string>constIsolateDistance</string>
+</dict>
+</plist>

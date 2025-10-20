@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperForTask</key>
+	<string>modalOutsidePhase</string>
+	<key>containerAndParameter</key>
+	<string>activatedExceptionVisibility</string>
+	<key>coordinatorFormShade</key>
+	<string>decorationNearStrategy</string>
+	<key>disabledCubeVelocity</key>
+	<string>fusedInkwellCoord</string>
+	<key>featureVariableShape</key>
+	<string>semanticQueueLeft</string>
+	<key>graphJobType</key>
+	<string>consumerFromActivity</string>
+	<key>indicatorParameterType</key>
+	<string>responseSinceEnvironment</string>
+	<key>numericalConstraintHue</key>
+	<string>globalGridFlags</string>
+	<key>switchContextSkewy</key>
+	<string>managerLevelForce</string>
+</dict>
+</plist>

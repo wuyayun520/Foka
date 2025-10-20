@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDecorationMargin</key>
+	<string>dependencyOrAction</string>
+	<key>compositionOutsideVariable</key>
+	<string>beginnerObserverCount</string>
+	<key>crudeGridviewOffset</key>
+	<string>cupertinoContextOrientation</string>
+	<key>factoryAdapterValidation</key>
+	<string>similarCharacterBound</string>
+	<key>subscriptionTierResponse</key>
+	<string>visiblePreviewIndex</string>
+</dict>
+</plist>

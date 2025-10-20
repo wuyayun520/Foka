@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAsPrototype</key>
+	<string>isolateFromSingleton</string>
+	<key>concreteGroupValidation</key>
+	<string>nodeContextVisibility</string>
+	<key>labelParameterOrigin</key>
+	<string>frameFormVisible</string>
+	<key>standaloneRadioType</key>
+	<string>animatedSizeCoord</string>
+</dict>
+</plist>

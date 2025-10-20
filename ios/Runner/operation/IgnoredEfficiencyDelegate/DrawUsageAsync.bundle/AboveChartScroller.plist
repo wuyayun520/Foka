@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSingletonShade</key>
+	<string>commandDuringStage</string>
+	<key>builderBesideProcess</key>
+	<string>imageThanFlyweight</string>
+	<key>gridviewBufferShade</key>
+	<string>cupertinoAtFacade</string>
+	<key>listenerVersusPattern</key>
+	<string>compositionProxySaturation</string>
+	<key>localizationForMemento</key>
+	<string>diffableMetadataDelay</string>
+</dict>
+</plist>

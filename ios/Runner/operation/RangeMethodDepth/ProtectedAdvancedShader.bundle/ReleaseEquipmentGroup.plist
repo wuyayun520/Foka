@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineVersusPlatform</key>
+	<string>mediumOptimizerAcceleration</string>
+	<key>blocModeTail</key>
+	<string>similarFuturePosition</string>
+	<key>displayableCollectionDelay</key>
+	<string>shaderAboutFramework</string>
+	<key>inheritedRequestVelocity</key>
+	<string>vectorInterpreterAcceleration</string>
+	<key>petMediatorFrequency</key>
+	<string>viewBesideEnvironment</string>
+	<key>positionCompositeTag</key>
+	<string>immediatePriorityVisible</string>
+	<key>semanticProgressbarAppearance</key>
+	<string>intensityActivityInset</string>
+	<key>sustainableProjectPressure</key>
+	<string>persistentTransitionLocation</string>
+	<key>transformerParameterIndex</key>
+	<string>entropyCompositeAlignment</string>
+</dict>
+</plist>

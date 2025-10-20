@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prevSymbolLocation</key>
+	<string>interfacePlatformCoord</string>
+	<key>rapidCurveContrast</key>
+	<string>imageBridgeDuration</string>
+	<key>resizableScreenVisible</key>
+	<string>accessibleCapacitiesKind</string>
+	<key>semanticGateSaturation</key>
+	<string>asyncInjectionOffset</string>
+	<key>semanticSpotInset</key>
+	<string>cubitStateSpeed</string>
+	<key>tappableNibSpeed</key>
+	<string>materialProxyInteraction</string>
+	<key>viewBufferHue</key>
+	<string>providerModeDistance</string>
+</dict>
+</plist>

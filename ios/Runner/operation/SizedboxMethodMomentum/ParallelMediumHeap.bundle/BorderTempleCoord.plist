@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianStorageStyle</key>
+	<string>richtextWithoutPlatform</string>
+	<key>controllerPerTier</key>
+	<string>spritePatternTheme</string>
+	<key>cubitCommandCenter</key>
+	<string>mobxAdapterBrightness</string>
+	<key>nodeIncludeTemple</key>
+	<string>staticCacheBound</string>
+	<key>riverpodLayerFeedback</key>
+	<string>indicatorVisitorCenter</string>
+</dict>
+</plist>

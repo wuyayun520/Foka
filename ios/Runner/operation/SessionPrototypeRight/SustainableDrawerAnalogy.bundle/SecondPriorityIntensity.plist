@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryDecoratorVisibility</key>
+	<string>granularSpriteDelay</string>
+	<key>entityValueForce</key>
+	<string>directlyMasterRotation</string>
+	<key>factoryJobShape</key>
+	<string>metadataModePadding</string>
+	<key>interactorStructureSpacing</key>
+	<string>coordinatorAtPrototype</string>
+	<key>petProxyResponse</key>
+	<string>menuAboutBuffer</string>
+	<key>requiredCellDelay</key>
+	<string>textInsideAdapter</string>
+	<key>resourceThanObserver</key>
+	<string>eventModeAcceleration</string>
+	<key>secondNavigationMode</key>
+	<string>cartesianCallbackMargin</string>
+</dict>
+</plist>

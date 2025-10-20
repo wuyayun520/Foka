@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushFlyweightBorder</key>
+	<string>toolAtComposite</string>
+	<key>concurrentDrawerType</key>
+	<string>menuTaskAppearance</string>
+	<key>navigatorOperationShade</key>
+	<string>immutableNavigationBrightness</string>
+	<key>scrollableLossDelay</key>
+	<string>constraintPhaseContrast</string>
+	<key>viewChainBorder</key>
+	<string>vectorAgainstVariable</string>
+</dict>
+</plist>

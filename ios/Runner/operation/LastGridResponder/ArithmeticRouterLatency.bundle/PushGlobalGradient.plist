@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintPhaseRight</key>
+	<string>draggableResultValidation</string>
+	<key>elasticAsyncRate</key>
+	<string>diffableResourceValidation</string>
+	<key>eventFormKind</key>
+	<string>logOutsideMode</string>
+	<key>interfaceMementoFrequency</key>
+	<string>progressbarWithObserver</string>
+	<key>painterExceptMode</key>
+	<string>curveOutsideFramework</string>
+	<key>resourcePatternVisible</key>
+	<string>declarativeMediaOpacity</string>
+	<key>storageInProcess</key>
+	<string>durationAwayBuffer</string>
+	<key>tangentStateHead</key>
+	<string>disabledNotificationDirection</string>
+	<key>uniqueIntensityMomentum</key>
+	<string>screenTaskVelocity</string>
+</dict>
+</plist>

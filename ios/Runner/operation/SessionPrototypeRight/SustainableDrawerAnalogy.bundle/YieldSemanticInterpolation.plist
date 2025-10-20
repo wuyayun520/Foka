@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorContainInterpreter</key>
+	<string>textureMementoVisible</string>
+	<key>localTaskDelay</key>
+	<string>presenterProxyMargin</string>
+	<key>menuLevelSize</key>
+	<string>textBeyondSystem</string>
+	<key>pointStateOffset</key>
+	<string>multiplicationValueMode</string>
+</dict>
+</plist>

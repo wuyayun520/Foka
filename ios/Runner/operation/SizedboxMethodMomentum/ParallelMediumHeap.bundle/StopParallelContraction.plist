@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncIntensityRotation</key>
+	<string>loopExceptContext</string>
+	<key>flexibleContainerDepth</key>
+	<string>resilientPageviewColor</string>
+	<key>intensityActivityHead</key>
+	<string>viewInterpreterFeedback</string>
+	<key>previewFromPlatform</key>
+	<string>layoutFromAdapter</string>
+	<key>rapidManagerAcceleration</key>
+	<string>alignmentLevelVisible</string>
+	<key>scaleTypeStatus</key>
+	<string>layoutLevelTag</string>
+</dict>
+</plist>

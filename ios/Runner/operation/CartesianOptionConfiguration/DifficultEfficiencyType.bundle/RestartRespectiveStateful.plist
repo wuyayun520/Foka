@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonTypeSpeed</key>
+	<string>currentTickerMargin</string>
+	<key>cursorAtStyle</key>
+	<string>widgetTempleScale</string>
+	<key>equalizationOrInterpreter</key>
+	<string>notificationParameterSkewy</string>
+	<key>offsetStrategyRotation</key>
+	<string>projectionFlyweightColor</string>
+	<key>promiseLikeStructure</key>
+	<string>dimensionIncludeComposite</string>
+	<key>resourceFlyweightBehavior</key>
+	<string>singletonParameterResponse</string>
+	<key>sceneFrameworkOpacity</key>
+	<string>concreteRouteFlags</string>
+	<key>tablePerPhase</key>
+	<string>multiCompositionColor</string>
+	<key>widgetOutsideChain</key>
+	<string>mutableFutureTag</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncExceptProcess</key>
+	<string>largeProfileEdge</string>
+	<key>bulletPerMethod</key>
+	<string>sampleObserverContrast</string>
+	<key>declarativeInterpolationAppearance</key>
+	<string>interfaceFrameworkRight</string>
+	<key>mediumNotifierAcceleration</key>
+	<string>streamOrTask</string>
+	<key>parallelResponsePressure</key>
+	<string>roleTaskShape</string>
+</dict>
+</plist>

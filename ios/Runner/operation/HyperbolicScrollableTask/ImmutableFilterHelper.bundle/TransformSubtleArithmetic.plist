@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocVarDelay</key>
+	<string>cosineMethodSaturation</string>
+	<key>deferredPositionResponse</key>
+	<string>consultativeMemberEdge</string>
+	<key>discardedDurationFrequency</key>
+	<string>cycleIncludeLayer</string>
+	<key>entityPlatformDuration</key>
+	<string>inheritedCoordinatorBehavior</string>
+	<key>otherPrioritySkewy</key>
+	<string>reusableMissionTop</string>
+	<key>singleMediaqueryEdge</key>
+	<string>directCaptionFeedback</string>
+	<key>sliderTempleRotation</key>
+	<string>zoneAgainstState</string>
+</dict>
+</plist>

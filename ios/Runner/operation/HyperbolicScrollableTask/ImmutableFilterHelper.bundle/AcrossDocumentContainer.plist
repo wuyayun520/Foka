@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAdapterFormat</key>
+	<string>themeFlyweightScale</string>
+	<key>chartFromTask</key>
+	<string>optionAgainstFacade</string>
+	<key>mediumDrawerBorder</key>
+	<string>richtextAgainstForm</string>
+	<key>multiProviderAppearance</key>
+	<string>easySkirtInset</string>
+	<key>observerTierRight</key>
+	<string>eagerWidgetSize</string>
+	<key>operationChainRotation</key>
+	<string>queueBesideProxy</string>
+	<key>prevViewCoord</key>
+	<string>decorationActionColor</string>
+	<key>resourceAtProcess</key>
+	<string>beginnerSignatureDuration</string>
+	<key>sharedExponentIndex</key>
+	<string>indicatorVarDuration</string>
+</dict>
+</plist>

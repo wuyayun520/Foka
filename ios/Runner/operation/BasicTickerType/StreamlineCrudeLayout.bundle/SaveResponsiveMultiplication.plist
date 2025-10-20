@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveAlignmentDirection</key>
+	<string>adaptiveNavigatorForce</string>
+	<key>intermediateGroupCount</key>
+	<string>greatSampleRotation</string>
+	<key>marginBufferTint</key>
+	<string>listenerPlatformTint</string>
+	<key>pivotalSingletonPosition</key>
+	<string>crudeMetadataOrigin</string>
+	<key>tappablePreviewBehavior</key>
+	<string>observerAwayCommand</string>
+	<key>viewLayerCoord</key>
+	<string>resolverNumberLeft</string>
+</dict>
+</plist>

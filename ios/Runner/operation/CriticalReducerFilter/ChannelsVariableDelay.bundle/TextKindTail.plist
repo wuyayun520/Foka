@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetProcessCenter</key>
+	<string>globalSingletonBottom</string>
+	<key>asynchronousMobxDensity</key>
+	<string>gridviewUntilPhase</string>
+	<key>globalAsyncPosition</key>
+	<string>immediateFlexDelay</string>
+	<key>handlerOutsideBuffer</key>
+	<string>usedRouteValidation</string>
+	<key>techniqueDespiteStructure</key>
+	<string>dynamicCharacterTension</string>
+</dict>
+</plist>

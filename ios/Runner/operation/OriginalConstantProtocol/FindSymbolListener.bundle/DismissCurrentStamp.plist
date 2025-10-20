@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentAnimationShade</key>
+	<string>tickerScopeColor</string>
+	<key>materialAdapterDensity</key>
+	<string>richtextContextMargin</string>
+	<key>segmentPerVisitor</key>
+	<string>publicConstraintState</string>
+	<key>storePhaseContrast</key>
+	<string>resolverPlatformDirection</string>
+	<key>symbolContainType</key>
+	<string>optimizerNearPlatform</string>
+	<key>transitionAdapterPadding</key>
+	<string>euclideanFrameDensity</string>
+</dict>
+</plist>

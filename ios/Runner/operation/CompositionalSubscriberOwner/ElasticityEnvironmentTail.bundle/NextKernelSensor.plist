@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioIncludeComposite</key>
+	<string>channelsExceptAdapter</string>
+	<key>draggableSinkCoord</key>
+	<string>interactorByScope</string>
+	<key>factoryScopeEdge</key>
+	<string>touchOrFramework</string>
+	<key>fragmentPlatformDensity</key>
+	<string>grayscaleParamBehavior</string>
+	<key>lossForType</key>
+	<string>transitionOutsideLayer</string>
+	<key>marginDecoratorColor</key>
+	<string>scaffoldPhaseState</string>
+	<key>materialSpineFrequency</key>
+	<string>subscriptionNearParam</string>
+	<key>prevEqualizationShade</key>
+	<string>constraintAsOperation</string>
+</dict>
+</plist>

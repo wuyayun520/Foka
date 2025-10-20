@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitStrategyFormat</key>
+	<string>appbarOperationName</string>
+	<key>exceptionWithStyle</key>
+	<string>builderAsVariable</string>
+	<key>heroAtVar</key>
+	<string>musicAgainstOperation</string>
+	<key>prismaticBoxshadowTheme</key>
+	<string>durationThroughStyle</string>
+	<key>rapidPopupOffset</key>
+	<string>mainResultDirection</string>
+	<key>responseUntilStructure</key>
+	<string>largeTableMargin</string>
+	<key>synchronousSkinLocation</key>
+	<string>listenerByActivity</string>
+	<key>textureAtShape</key>
+	<string>finalGrayscaleFormat</string>
+</dict>
+</plist>

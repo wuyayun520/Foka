@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorContainPhase</key>
+	<string>mainWidgetAppearance</string>
+	<key>inheritedRiverpodLeft</key>
+	<string>accordionTransitionDuration</string>
+	<key>nativeConstraintDuration</key>
+	<string>positionAgainstJob</string>
+	<key>normDuringStructure</key>
+	<string>visibleObserverSize</string>
+	<key>segueValueMargin</key>
+	<string>decorationDuringShape</string>
+	<key>stampAwayValue</key>
+	<string>baselineAndSystem</string>
+	<key>storeVersusTask</key>
+	<string>positionedChainSize</string>
+	<key>textPerSystem</key>
+	<string>gestureOrLayer</string>
+	<key>zoneBeyondScope</key>
+	<string>brushContainStrategy</string>
+</dict>
+</plist>

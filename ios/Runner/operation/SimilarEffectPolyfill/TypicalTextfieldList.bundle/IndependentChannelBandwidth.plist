@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAlignmentResponse</key>
+	<string>geometricGraphCoord</string>
+	<key>constraintVariableTag</key>
+	<string>basicResolverInterval</string>
+	<key>ignoredStoreLeft</key>
+	<string>cupertinoThroughOperation</string>
+	<key>semanticDescriptorTail</key>
+	<string>priorStatelessOrientation</string>
+	<key>spotLikeFacade</key>
+	<string>animatedcontainerDuringVar</string>
+	<key>tappableLayoutEdge</key>
+	<string>gateInsideValue</string>
+</dict>
+</plist>

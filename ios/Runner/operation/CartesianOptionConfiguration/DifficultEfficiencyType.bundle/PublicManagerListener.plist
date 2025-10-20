@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerActivityInset</key>
+	<string>functionalAxisBrightness</string>
+	<key>customizedLabelDelay</key>
+	<string>channelsScopePadding</string>
+	<key>entityInEnvironment</key>
+	<string>precisionChainEdge</string>
+	<key>liteAnimationVisibility</key>
+	<string>switchShapeDuration</string>
+	<key>mediumSpriteDensity</key>
+	<string>certificatePhasePadding</string>
+	<key>statefulCanvasMomentum</key>
+	<string>granularMethodTag</string>
+</dict>
+</plist>

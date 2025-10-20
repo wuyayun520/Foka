@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderObserverMode</key>
+	<string>compositionalListviewCoord</string>
+	<key>controllerFacadeCount</key>
+	<string>firstIconCenter</string>
+	<key>cupertinoPrototypeTheme</key>
+	<string>segmentParamPressure</string>
+	<key>mobxCycleOffset</key>
+	<string>easyPrecisionSpeed</string>
+	<key>storageScopeType</key>
+	<string>queryDecoratorCenter</string>
+	<key>tableDecoratorVisibility</key>
+	<string>allocatorFromActivity</string>
+</dict>
+</plist>

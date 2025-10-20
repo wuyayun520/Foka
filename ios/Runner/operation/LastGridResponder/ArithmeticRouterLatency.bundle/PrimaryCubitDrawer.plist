@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoInPrototype</key>
+	<string>mainTransitionEdge</string>
+	<key>multiZoneSkewx</key>
+	<string>effectUntilTask</string>
+	<key>notifierOutsideEnvironment</key>
+	<string>customizedRowHue</string>
+	<key>previewLayerMode</key>
+	<string>progressbarFlyweightDelay</string>
+</dict>
+</plist>

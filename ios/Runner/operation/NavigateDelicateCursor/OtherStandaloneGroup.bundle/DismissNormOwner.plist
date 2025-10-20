@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerBuilderEdge</key>
+	<string>transformerModeAppearance</string>
+	<key>managerContextOffset</key>
+	<string>usecaseOfMediator</string>
+	<key>modelAsState</key>
+	<string>normalHeapKind</string>
+	<key>positionNearChain</key>
+	<string>denseTaskIndex</string>
+	<key>previewAlongContext</key>
+	<string>immediateCommandOffset</string>
+	<key>requiredTransitionStatus</key>
+	<string>profileWithMode</string>
+	<key>subsequentThemeBorder</key>
+	<string>grainOperationAlignment</string>
+</dict>
+</plist>

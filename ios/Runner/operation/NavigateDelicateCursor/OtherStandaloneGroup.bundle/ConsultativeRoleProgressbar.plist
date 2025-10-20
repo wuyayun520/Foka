@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyKindAlignment</key>
+	<string>plateAndParameter</string>
+	<key>featureAsKind</key>
+	<string>widgetPlatformTag</string>
+	<key>mediocreReductionRotation</key>
+	<string>effectVersusSystem</string>
+	<key>progressbarVersusFramework</key>
+	<string>axisOperationHead</string>
+	<key>responsiveRequestType</key>
+	<string>prismaticKernelDirection</string>
+	<key>rowVersusParam</key>
+	<string>accordionFeatureAlignment</string>
+	<key>signPrototypeMomentum</key>
+	<string>transformerTierStatus</string>
+	<key>sustainableEntityDuration</key>
+	<string>actionLikeParam</string>
+</dict>
+</plist>

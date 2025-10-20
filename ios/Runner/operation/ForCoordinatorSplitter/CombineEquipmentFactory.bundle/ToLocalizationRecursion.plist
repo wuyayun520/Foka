@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAmongBuffer</key>
+	<string>transformerContextPressure</string>
+	<key>canvasDespiteFacade</key>
+	<string>resourceScopePressure</string>
+	<key>eagerProviderOpacity</key>
+	<string>asyncRemainderFlags</string>
+	<key>effectStageSaturation</key>
+	<string>sophisticatedWidgetOrigin</string>
+	<key>imageTaskOrientation</key>
+	<string>serviceIncludeMode</string>
+	<key>inkwellAroundSingleton</key>
+	<string>hyperbolicGrainInset</string>
+	<key>menuCompositeSpeed</key>
+	<string>binaryAwayNumber</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonTypeOrientation</key>
+	<string>cardEnvironmentType</string>
+	<key>criticalSingletonTag</key>
+	<string>assetFacadeColor</string>
+	<key>observerEnvironmentBrightness</key>
+	<string>usecaseVisitorScale</string>
+	<key>progressbarCycleStyle</key>
+	<string>subpixelActivitySkewy</string>
+	<key>projectionPlatformLeft</key>
+	<string>autoDescriptionRight</string>
+	<key>providerOutsideStructure</key>
+	<string>aspectratioStructureLocation</string>
+	<key>tangentInMemento</key>
+	<string>bufferIncludeForm</string>
+	<key>textTypeTransparency</key>
+	<string>rowAgainstParam</string>
+</dict>
+</plist>

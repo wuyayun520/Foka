@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedErrorValidation</key>
+	<string>normAsMode</string>
+	<key>heapCommandPressure</key>
+	<string>methodPlatformEdge</string>
+	<key>injectionVariableContrast</key>
+	<string>animationLikeCommand</string>
+	<key>otherAlignmentFrequency</key>
+	<string>menuWithType</string>
+	<key>rectExceptTask</key>
+	<string>taskThroughFlyweight</string>
+	<key>robustButtonResponse</key>
+	<string>reducerContextPosition</string>
+	<key>sortedActivityMargin</key>
+	<string>requestMediatorCount</string>
+	<key>textIncludeActivity</key>
+	<string>logLikeScope</string>
+</dict>
+</plist>

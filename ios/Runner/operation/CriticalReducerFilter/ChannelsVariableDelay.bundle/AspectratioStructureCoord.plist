@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerByVariable</key>
+	<string>modalSincePattern</string>
+	<key>animationWorkBrightness</key>
+	<string>resizableGiftOpacity</string>
+	<key>fixedServiceLocation</key>
+	<string>sharedScreenStatus</string>
+	<key>fusedIndicatorVelocity</key>
+	<string>elasticNotifierShade</string>
+	<key>graphTypeFormat</key>
+	<string>observerUntilEnvironment</string>
+	<key>loopSingletonDensity</key>
+	<string>providerVersusVar</string>
+	<key>pivotalAsyncTint</key>
+	<string>statefulAllocatorSkewy</string>
+	<key>sophisticatedChapterAcceleration</key>
+	<string>bitrateBeyondPlatform</string>
+	<key>subpixelWithAction</key>
+	<string>factoryAlongCommand</string>
+</dict>
+</plist>

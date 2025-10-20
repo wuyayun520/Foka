@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorMediatorDelay</key>
+	<string>fusedStampCount</string>
+	<key>canvasWithoutAdapter</key>
+	<string>fusedWidgetState</string>
+	<key>custompaintPrototypeContrast</key>
+	<string>similarBrushLocation</string>
+	<key>interactorAtScope</key>
+	<string>euclideanInjectionDuration</string>
+	<key>nodeThanStage</key>
+	<string>subsequentReferenceDirection</string>
+	<key>specifierSingletonSpeed</key>
+	<string>responseDuringStage</string>
+	<key>spineContextSpeed</key>
+	<string>standaloneKernelLocation</string>
+</dict>
+</plist>

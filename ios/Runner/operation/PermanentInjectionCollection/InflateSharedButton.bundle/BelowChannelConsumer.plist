@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaModeValidation</key>
+	<string>assetIncludeCommand</string>
+	<key>cubitOfNumber</key>
+	<string>cubitPatternVisibility</string>
+	<key>elasticBulletRotation</key>
+	<string>mobileInjectionOffset</string>
+	<key>extensionObserverDensity</key>
+	<string>heroEnvironmentAlignment</string>
+	<key>parallelQueueColor</key>
+	<string>interactiveProviderInset</string>
+	<key>symmetricCapsuleInset</key>
+	<string>projectStyleDistance</string>
+	<key>textExceptCycle</key>
+	<string>transitionPerWork</string>
+	<key>touchAtPhase</key>
+	<string>animatedcontainerJobSaturation</string>
+</dict>
+</plist>

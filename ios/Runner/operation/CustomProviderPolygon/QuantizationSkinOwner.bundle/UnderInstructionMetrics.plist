@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchUntilType</key>
+	<string>prevRouterOrientation</string>
+	<key>composableExceptionStyle</key>
+	<string>injectionWithVar</string>
+	<key>compositionalTextName</key>
+	<string>unsortedStoreTint</string>
+	<key>controllerModeTheme</key>
+	<string>singlePainterTheme</string>
+	<key>finalPreviewPosition</key>
+	<string>resultStructureHead</string>
+	<key>transitionForTier</key>
+	<string>responseParamBorder</string>
+</dict>
+</plist>

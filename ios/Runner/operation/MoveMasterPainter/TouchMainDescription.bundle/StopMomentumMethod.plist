@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardExtensionBehavior</key>
+	<string>positionedContainBuffer</string>
+	<key>blocNearFunction</key>
+	<string>bufferPerDecorator</string>
+	<key>interfaceIncludeTask</key>
+	<string>entropyParameterLeft</string>
+	<key>precisionVariableDelay</key>
+	<string>directTextVelocity</string>
+	<key>singleInteractorState</key>
+	<string>sizeBesideVariable</string>
+	<key>tappableChannelBehavior</key>
+	<string>spotThroughAction</string>
+	<key>usecasePerInterpreter</key>
+	<string>signatureCycleDelay</string>
+</dict>
+</plist>

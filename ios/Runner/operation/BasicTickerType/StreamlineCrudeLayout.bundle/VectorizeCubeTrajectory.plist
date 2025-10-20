@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramContextLeft</key>
+	<string>threadPatternCoord</string>
+	<key>invisibleQueueDensity</key>
+	<string>loopAndVar</string>
+	<key>queryInStrategy</key>
+	<string>dynamicParticlePressure</string>
+	<key>scrollFormBehavior</key>
+	<string>gridJobAppearance</string>
+	<key>uniformOperationPressure</key>
+	<string>notifierInCycle</string>
+</dict>
+</plist>

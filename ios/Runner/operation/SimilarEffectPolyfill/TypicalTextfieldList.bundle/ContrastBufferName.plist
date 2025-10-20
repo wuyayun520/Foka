@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionAgainstActivity</key>
+	<string>standaloneCustompaintBottom</string>
+	<key>featureInComposite</key>
+	<string>constEffectFlags</string>
+	<key>ignoredButtonColor</key>
+	<string>navigatorAndCycle</string>
+	<key>switchVarVisibility</key>
+	<string>semanticsObserverOrientation</string>
+	<key>transformerOperationLeft</key>
+	<string>sceneVarDensity</string>
+</dict>
+</plist>

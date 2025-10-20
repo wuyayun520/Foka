@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetVisitorRate</key>
+	<string>nibActivityInteraction</string>
+	<key>axisInsideVariable</key>
+	<string>containerJobPosition</string>
+	<key>custompaintContextOrigin</key>
+	<string>durationByContext</string>
+	<key>difficultChannelsAcceleration</key>
+	<string>publicTransitionBrightness</string>
+	<key>directlyMobileSize</key>
+	<string>immediateRadiusPadding</string>
+	<key>liteNormOrigin</key>
+	<string>pointWithoutScope</string>
+	<key>lostPaddingFeedback</key>
+	<string>rowDecoratorForce</string>
+	<key>rectOrAdapter</key>
+	<string>axisJobAppearance</string>
+	<key>switchThroughMemento</key>
+	<string>lastProjectKind</string>
+</dict>
+</plist>

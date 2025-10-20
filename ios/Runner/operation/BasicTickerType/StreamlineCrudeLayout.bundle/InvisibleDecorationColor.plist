@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleModeFeedback</key>
+	<string>boxshadowAsStage</string>
+	<key>eventMediatorTint</key>
+	<string>coordinatorAgainstPrototype</string>
+	<key>mutableThemeDepth</key>
+	<string>channelForProcess</string>
+	<key>resilientUtilTint</key>
+	<string>similarOffsetSkewx</string>
+	<key>rowAgainstPhase</key>
+	<string>compositionalStatefulTheme</string>
+	<key>semanticStatefulSaturation</key>
+	<string>cubeMementoTransparency</string>
+	<key>sineMethodTag</key>
+	<string>batchByFacade</string>
+</dict>
+</plist>

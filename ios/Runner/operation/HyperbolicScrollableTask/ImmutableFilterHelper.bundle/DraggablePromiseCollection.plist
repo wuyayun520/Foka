@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAccessoryMode</key>
+	<string>statefulPlateVelocity</string>
+	<key>blocOrState</key>
+	<string>protectedMovementScale</string>
+	<key>dependencyContainFunction</key>
+	<string>priorityShapeEdge</string>
+	<key>flexTypeFeedback</key>
+	<string>localizationDecoratorTag</string>
+	<key>mapScopePressure</key>
+	<string>methodThanCommand</string>
+	<key>resultBeyondChain</key>
+	<string>activeLayoutMomentum</string>
+	<key>singletonParameterKind</key>
+	<string>consumerOfChain</string>
+</dict>
+</plist>

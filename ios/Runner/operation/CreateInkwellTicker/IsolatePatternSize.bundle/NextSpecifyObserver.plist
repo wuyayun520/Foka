@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionMediatorFlags</key>
+	<string>tickerStyleFeedback</string>
+	<key>chartPrototypeAlignment</key>
+	<string>eventCycleSkewy</string>
+	<key>disparatePrecisionColor</key>
+	<string>channelShapeBottom</string>
+	<key>grainModeInteraction</key>
+	<string>apertureLikeLevel</string>
+	<key>sensorParamInset</key>
+	<string>resolverModeTension</string>
+	<key>transitionAndMediator</key>
+	<string>previewVarShade</string>
+	<key>unactivatedNavigatorDirection</key>
+	<string>sinkWithoutVisitor</string>
+</dict>
+</plist>

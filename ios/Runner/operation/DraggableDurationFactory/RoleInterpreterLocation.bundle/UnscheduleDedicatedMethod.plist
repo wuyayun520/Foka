@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitNearStage</key>
+	<string>providerTaskBrightness</string>
+	<key>presenterVersusTask</key>
+	<string>assetObserverRate</string>
+	<key>queueModeOpacity</key>
+	<string>inheritedPrecisionTransparency</string>
+	<key>slashLevelDelay</key>
+	<string>originalResourceVisibility</string>
+	<key>utilLayerLeft</key>
+	<string>semanticIntegerOffset</string>
+</dict>
+</plist>

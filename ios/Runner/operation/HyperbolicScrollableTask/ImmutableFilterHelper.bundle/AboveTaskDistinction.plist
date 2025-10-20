@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSkinDuration</key>
+	<string>gesturedetectorFromVariable</string>
+	<key>desktopDimensionRight</key>
+	<string>permanentConsumerPressure</string>
+	<key>dropdownbuttonAboutInterpreter</key>
+	<string>scrollableLayoutInteraction</string>
+	<key>localizationInWork</key>
+	<string>gesturedetectorOperationPadding</string>
+	<key>remainderCompositeScale</key>
+	<string>layoutModeType</string>
+	<key>responsiveInkwellTheme</key>
+	<string>responseFunctionMomentum</string>
+	<key>sampleBeyondPrototype</key>
+	<string>scaleByAction</string>
+</dict>
+</plist>

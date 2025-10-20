@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedUsageBehavior</key>
+	<string>cosineLikeProxy</string>
+	<key>consultativeRadiusBehavior</key>
+	<string>usageAlongVariable</string>
+	<key>exponentForCycle</key>
+	<string>subscriptionTierFeedback</string>
+	<key>mediumDescriptionDensity</key>
+	<string>getxDuringFunction</string>
+	<key>positionBesideMemento</key>
+	<string>requestKindInteraction</string>
+	<key>protectedAnimationAcceleration</key>
+	<string>effectContextAppearance</string>
+	<key>protocolProcessHead</key>
+	<string>lostBulletVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackInStructure</key>
+	<string>liteDecorationState</string>
+	<key>checklistObserverValidation</key>
+	<string>scrollAboutBuffer</string>
+	<key>composableFrameDepth</key>
+	<string>screenFunctionDelay</string>
+	<key>equipmentAmongStrategy</key>
+	<string>expandedInsideKind</string>
+	<key>pointLikeState</key>
+	<string>pinchableProfileDensity</string>
+	<key>stateAsStage</key>
+	<string>currentGemSpeed</string>
+</dict>
+</plist>

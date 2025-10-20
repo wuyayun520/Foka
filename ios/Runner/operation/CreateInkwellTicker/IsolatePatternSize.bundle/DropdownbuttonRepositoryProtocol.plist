@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSceneBorder</key>
+	<string>logViaVisitor</string>
+	<key>managerAsComposite</key>
+	<string>usecaseForFlyweight</string>
+	<key>oldProjectionBehavior</key>
+	<string>managerDespiteActivity</string>
+	<key>presenterSystemSkewy</key>
+	<string>diversifiedSceneFrequency</string>
+	<key>priorProfileTension</key>
+	<string>ternarySinceCycle</string>
+	<key>sequentialDimensionInteraction</key>
+	<string>offsetBufferName</string>
+	<key>sessionVersusForm</key>
+	<string>displayableSlashRotation</string>
+	<key>textDuringBuffer</key>
+	<string>observerInsideContext</string>
+</dict>
+</plist>

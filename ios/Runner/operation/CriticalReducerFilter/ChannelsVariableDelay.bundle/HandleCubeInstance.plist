@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChannelDensity</key>
+	<string>resizableFrameScale</string>
+	<key>behaviorModeMomentum</key>
+	<string>publicPopupAcceleration</string>
+	<key>blocAsMethod</key>
+	<string>animatedcontainerAgainstLayer</string>
+	<key>bulletInterpreterStyle</key>
+	<string>missionTypeVelocity</string>
+	<key>labelSystemShape</key>
+	<string>prevZoneRate</string>
+</dict>
+</plist>

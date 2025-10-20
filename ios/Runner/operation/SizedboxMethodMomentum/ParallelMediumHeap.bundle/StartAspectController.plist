@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeDrawerIndex</key>
+	<string>staticInkwellInteraction</string>
+	<key>finalCaptionTheme</key>
+	<string>disabledGroupSpacing</string>
+	<key>gradientContainBridge</key>
+	<string>inactiveAxisForce</string>
+	<key>listviewInterpreterTint</key>
+	<string>zoneKindStatus</string>
+	<key>semanticSliderOrientation</key>
+	<string>allocatorAdapterBehavior</string>
+	<key>singletonModeShade</key>
+	<string>prismaticManagerBehavior</string>
+	<key>subtleConfigurationSpacing</key>
+	<string>sampleMementoDistance</string>
+</dict>
+</plist>

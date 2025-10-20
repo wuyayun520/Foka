@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationIncludeStrategy</key>
+	<string>utilContainVariable</string>
+	<key>appbarUntilFlyweight</key>
+	<string>criticalCustompaintOrientation</string>
+	<key>firstBufferTail</key>
+	<string>projectOfVariable</string>
+	<key>immutableIndicatorVisibility</key>
+	<string>enabledBitratePosition</string>
+	<key>keyCallbackStatus</key>
+	<string>diffableFrameBound</string>
+	<key>seamlessResourceDistance</key>
+	<string>priorityAmongPlatform</string>
+</dict>
+</plist>

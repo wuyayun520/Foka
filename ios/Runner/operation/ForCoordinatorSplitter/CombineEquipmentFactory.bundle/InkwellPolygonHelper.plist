@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorUntilShape</key>
+	<string>sortedGridInterval</string>
+	<key>baselineVarDelay</key>
+	<string>bulletParameterLocation</string>
+	<key>borderFacadeContrast</key>
+	<string>subpixelAgainstPhase</string>
+	<key>iconFacadeSkewy</key>
+	<string>statelessTimerOpacity</string>
+	<key>layoutCompositeBound</key>
+	<string>reusableConstraintVisible</string>
+	<key>momentumFunctionHead</key>
+	<string>elasticCoordinatorLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentVectorEdge</key>
+	<string>storageUntilTemple</string>
+	<key>disabledCallbackBehavior</key>
+	<string>playbackAlongPhase</string>
+	<key>menuStageType</key>
+	<string>originalCommandFeedback</string>
+	<key>observerBesideFacade</key>
+	<string>statefulCompositeSkewy</string>
+	<key>scrollAtWork</key>
+	<string>immediateDecorationSpacing</string>
+	<key>shaderInScope</key>
+	<string>adaptiveBehaviorSpacing</string>
+	<key>streamBesideTemple</key>
+	<string>iterativeListenerOrigin</string>
+	<key>streamVariableResponse</key>
+	<string>offsetAmongMethod</string>
+</dict>
+</plist>

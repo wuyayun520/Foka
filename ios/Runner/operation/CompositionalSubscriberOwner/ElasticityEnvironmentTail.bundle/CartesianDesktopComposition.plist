@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTransformerCoord</key>
+	<string>fixedErrorSpeed</string>
+	<key>kernelAgainstLayer</key>
+	<string>dedicatedLocalizationMode</string>
+	<key>layerWithMemento</key>
+	<string>permissiveNotificationOrigin</string>
+	<key>liteEffectDensity</key>
+	<string>enabledRowDuration</string>
+	<key>primaryModalContrast</key>
+	<string>scalePhaseOrientation</string>
+	<key>sharedEqualizationBrightness</key>
+	<string>layerBeyondMemento</string>
+	<key>transitionThroughState</key>
+	<string>textCompositeAlignment</string>
+</dict>
+</plist>

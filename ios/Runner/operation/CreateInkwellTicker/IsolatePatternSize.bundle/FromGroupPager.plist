@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableAnimatedcontainerSkewx</key>
+	<string>popupAgainstFacade</string>
+	<key>difficultNodeLocation</key>
+	<string>tappableLayoutLocation</string>
+	<key>drawerAroundPattern</key>
+	<string>handlerAsPrototype</string>
+	<key>firstBulletMargin</key>
+	<string>modalFlyweightTheme</string>
+	<key>resultContextPadding</key>
+	<string>statefulSinkTheme</string>
+	<key>tangentLikeVariable</key>
+	<string>asyncLikeProxy</string>
+	<key>widgetByPrototype</key>
+	<string>allocatorValuePadding</string>
+	<key>zoneFromLevel</key>
+	<string>discardedCompositionFlags</string>
+</dict>
+</plist>

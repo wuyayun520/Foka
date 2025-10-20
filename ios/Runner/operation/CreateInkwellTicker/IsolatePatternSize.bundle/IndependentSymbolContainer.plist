@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioActivityVisible</key>
+	<string>mapInsideStage</string>
+	<key>cacheAtCycle</key>
+	<string>segueActionEdge</string>
+	<key>injectionAmongProcess</key>
+	<string>sampleExceptPrototype</string>
+	<key>oldToolTransparency</key>
+	<string>threadPatternSpacing</string>
+	<key>sequentialStreamTransparency</key>
+	<string>secondProviderContrast</string>
+</dict>
+</plist>

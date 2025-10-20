@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertVersusBridge</key>
+	<string>normFormStyle</string>
+	<key>blocJobKind</key>
+	<string>newestDecorationVelocity</string>
+	<key>custompaintModeDepth</key>
+	<string>resultTierSpeed</string>
+	<key>dialogsLevelSpeed</key>
+	<string>reactiveBaseFlags</string>
+	<key>notifierParamKind</key>
+	<string>containerOperationOpacity</string>
+	<key>primaryActivityDirection</key>
+	<string>alignmentPrototypeBehavior</string>
+	<key>resultLayerDistance</key>
+	<string>autoPaddingType</string>
+	<key>rowIncludeParam</key>
+	<string>accessoryMediatorSpeed</string>
+	<key>textFrameworkDuration</key>
+	<string>asynchronousDecorationShade</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushLayerCount</key>
+	<string>immediateResultTint</string>
+	<key>controllerViaBridge</key>
+	<string>resilientScrollOffset</string>
+	<key>delicateLabelRight</key>
+	<string>viewStateContrast</string>
+	<key>delicateTransformerSaturation</key>
+	<string>smartOverlayDistance</string>
+	<key>pinchableBuilderSpacing</key>
+	<string>routePatternTag</string>
+	<key>serviceOrPrototype</key>
+	<string>permissiveTextHead</string>
+	<key>variantOutsideStage</key>
+	<string>navigatorThroughJob</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableConvolutionCenter</key>
+	<string>beginnerResolverShade</string>
+	<key>mobxAsStrategy</key>
+	<string>textfieldForParam</string>
+	<key>resolverOrInterpreter</key>
+	<string>hierarchicalReducerName</string>
+	<key>resourceStyleTransparency</key>
+	<string>protectedNibStyle</string>
+	<key>singletonAboutStructure</key>
+	<string>providerFunctionTag</string>
+	<key>specifyTouchSpeed</key>
+	<string>sinkSinceDecorator</string>
+</dict>
+</plist>

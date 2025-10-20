@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveHashState</key>
+	<string>concurrentTextureValidation</string>
+	<key>dedicatedSegmentFeedback</key>
+	<string>completerOutsideVisitor</string>
+	<key>deferredMethodResponse</key>
+	<string>builderBufferAlignment</string>
+	<key>projectionParameterTheme</key>
+	<string>streamWithProxy</string>
+	<key>richtextAndValue</key>
+	<string>buttonAroundMode</string>
+	<key>screenSystemShade</key>
+	<string>musicEnvironmentContrast</string>
+	<key>themeObserverRight</key>
+	<string>dependencyProcessColor</string>
+	<key>unsortedLabelMargin</key>
+	<string>arithmeticPositionDistance</string>
+</dict>
+</plist>

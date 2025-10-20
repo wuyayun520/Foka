@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAgainstFlyweight</key>
+	<string>finalAsyncRate</string>
+	<key>concreteCaptionBound</key>
+	<string>graphLayerPadding</string>
+	<key>liteBitrateScale</key>
+	<string>alphaVariableSkewy</string>
+	<key>managerLevelBorder</key>
+	<string>inheritedRepositoryRotation</string>
+	<key>movementOperationInterval</key>
+	<string>previewAroundProxy</string>
+	<key>smallLayerTint</key>
+	<string>interactorBeyondForm</string>
+	<key>stackPerEnvironment</key>
+	<string>primaryStreamSize</string>
+</dict>
+</plist>

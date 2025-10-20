@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentPatternVisibility</key>
+	<string>storyboardForPattern</string>
+	<key>localizationWithoutShape</key>
+	<string>operationContainTier</string>
+	<key>transformerAroundValue</key>
+	<string>sustainableMonsterBound</string>
+</dict>
+</plist>

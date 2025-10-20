@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationChainVisibility</key>
+	<string>accessoryPerInterpreter</string>
+	<key>denseMusicInteraction</key>
+	<string>delegateMediatorSkewy</string>
+	<key>dialogsExceptTemple</key>
+	<string>commandMethodRight</string>
+	<key>projectionBeyondFlyweight</key>
+	<string>resultIncludeParameter</string>
+	<key>protocolKindAcceleration</key>
+	<string>challengeBesideProxy</string>
+	<key>transformerThroughChain</key>
+	<string>arithmeticFrameworkFlags</string>
+	<key>usedAnimationFlags</key>
+	<string>frameOutsideBridge</string>
+	<key>variantAboutVariable</key>
+	<string>paddingIncludeTemple</string>
+</dict>
+</plist>

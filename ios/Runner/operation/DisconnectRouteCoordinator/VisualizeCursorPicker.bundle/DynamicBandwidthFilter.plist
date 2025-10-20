@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLikeMode</key>
+	<string>globalResultSpeed</string>
+	<key>concurrentMaterialMargin</key>
+	<string>seamlessLayerPadding</string>
+	<key>instructionSystemFlags</key>
+	<string>sceneProcessTag</string>
+	<key>interactorContainStructure</key>
+	<string>blocJobMomentum</string>
+	<key>providerNumberCount</key>
+	<string>usageJobScale</string>
+	<key>queueWithoutMode</key>
+	<string>symbolWithOperation</string>
+	<key>similarUnaryVisibility</key>
+	<string>entropyForInterpreter</string>
+	<key>statefulAtVariable</key>
+	<string>transformerBesideMediator</string>
+	<key>storageAtTask</key>
+	<string>characterContextCount</string>
+</dict>
+</plist>

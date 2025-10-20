@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertInterpreterFormat</key>
+	<string>checklistNearComposite</string>
+	<key>animationPatternStatus</key>
+	<string>liteLabelSpacing</string>
+	<key>disparateDimensionColor</key>
+	<string>segmentTypePressure</string>
+	<key>menuScopeLeft</key>
+	<string>independentEquipmentRotation</string>
+	<key>mobileWithParameter</key>
+	<string>queryOutsideFramework</string>
+	<key>scrollableFactoryMargin</key>
+	<string>responseInterpreterFlags</string>
+	<key>sinkAgainstMediator</key>
+	<string>lostAnchorAcceleration</string>
+	<key>smallButtonDistance</key>
+	<string>oldRequestTheme</string>
+	<key>viewFrameworkName</key>
+	<string>bufferValueName</string>
+</dict>
+</plist>

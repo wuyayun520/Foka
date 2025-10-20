@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitStrategyAlignment</key>
+	<string>accessoryFromMode</string>
+	<key>factoryLayerIndex</key>
+	<string>imperativeMetadataResponse</string>
+	<key>ignoredSpriteDelay</key>
+	<string>listviewMediatorForce</string>
+	<key>immediateFragmentOffset</key>
+	<string>interactorWithMemento</string>
+	<key>movementParameterDistance</key>
+	<string>gesturedetectorDespiteShape</string>
+	<key>publicPresenterHead</key>
+	<string>containerPlatformLeft</string>
+	<key>stateSinceStructure</key>
+	<string>allocatorMediatorShade</string>
+	<key>subscriptionOfFacade</key>
+	<string>cursorFlyweightColor</string>
+</dict>
+</plist>

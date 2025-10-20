@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatePerPlatform</key>
+	<string>signIncludeMethod</string>
+	<key>extensionAroundAction</key>
+	<string>coordinatorNumberSaturation</string>
+	<key>greatRequestOffset</key>
+	<string>keyButtonAcceleration</string>
+	<key>layoutAndFunction</key>
+	<string>reactiveTouchDepth</string>
+	<key>publicLayoutCount</key>
+	<string>alertByCycle</string>
+	<key>resizableAnchorBehavior</key>
+	<string>resizableInterfaceResponse</string>
+	<key>robustPositionedVisible</key>
+	<string>entityInterpreterResponse</string>
+	<key>tweenActivityVisibility</key>
+	<string>modalByKind</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directCanvasSize</key>
+	<string>screenForVisitor</string>
+	<key>globalConvolutionKind</key>
+	<string>completerStrategyAppearance</string>
+	<key>lossOutsideActivity</key>
+	<string>tabbarWithVisitor</string>
+	<key>optimizerNearPattern</key>
+	<string>alignmentAwayScope</string>
+	<key>pivotalControllerCount</key>
+	<string>priorLayoutForce</string>
+</dict>
+</plist>

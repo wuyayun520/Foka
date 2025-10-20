@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationShapeCenter</key>
+	<string>coordinatorAboutStyle</string>
+	<key>cubitKindSpeed</key>
+	<string>responsiveTaskInset</string>
+	<key>eventThanMediator</key>
+	<string>mobxStructureFeedback</string>
+	<key>menuFlyweightDirection</key>
+	<string>delegateMediatorInterval</string>
+	<key>operationDuringContext</key>
+	<string>gesturedetectorBesideAction</string>
+	<key>progressbarWithoutShape</key>
+	<string>asyncCubitTension</string>
+	<key>rapidProfileLocation</key>
+	<string>boxIncludeStage</string>
+	<key>resourceOrMemento</key>
+	<string>completerOutsideStage</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVarKind</key>
+	<string>easyPromiseStatus</string>
+	<key>animationPhaseSkewy</key>
+	<string>responsiveIntensityTag</string>
+	<key>crucialTabbarShade</key>
+	<string>nativeGraphContrast</string>
+	<key>equipmentTempleBehavior</key>
+	<string>stepLevelType</string>
+	<key>playbackAtPattern</key>
+	<string>positionContainState</string>
+	<key>resilientViewVisible</key>
+	<string>memberWithVisitor</string>
+	<key>richtextAtOperation</key>
+	<string>agileAnimationOffset</string>
+	<key>specifyHandlerVisible</key>
+	<string>chartFlyweightStyle</string>
+	<key>tabbarAtDecorator</key>
+	<string>logContainPattern</string>
+</dict>
+</plist>

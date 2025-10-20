@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentInStage</key>
+	<string>menuIncludeForm</string>
+	<key>controllerMementoStyle</key>
+	<string>gateInsideObserver</string>
+	<key>mapOperationBound</key>
+	<string>originalCupertinoStatus</string>
+	<key>seamlessChartShade</key>
+	<string>smallServiceCenter</string>
+	<key>skirtAwayMode</key>
+	<string>specifierBeyondLayer</string>
+	<key>spinePlatformRate</key>
+	<string>cupertinoTimerLocation</string>
+	<key>widgetSingletonSkewy</key>
+	<string>composableColumnTop</string>
+</dict>
+</plist>

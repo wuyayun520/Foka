@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartSinceLayer</key>
+	<string>richtextOfStyle</string>
+	<key>customNibDuration</key>
+	<string>asynchronousTabbarRight</string>
+	<key>keyBuilderSkewy</key>
+	<string>activityOperationMargin</string>
+	<key>modulusActivityMargin</key>
+	<string>tabviewFrameworkAcceleration</string>
+	<key>opaqueAnchorScale</key>
+	<string>navigatorAmongFlyweight</string>
+	<key>reductionJobAppearance</key>
+	<string>interpolationDuringPattern</string>
+	<key>webEqualizationTop</key>
+	<string>positionedVisitorOrigin</string>
+</dict>
+</plist>

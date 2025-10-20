@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorStrategyAcceleration</key>
+	<string>pinchableMasterShape</string>
+	<key>builderFacadePadding</key>
+	<string>geometricObserverCenter</string>
+	<key>callbackKindOrigin</key>
+	<string>alertViaAdapter</string>
+	<key>collectionCycleLocation</key>
+	<string>equipmentAdapterIndex</string>
+	<key>equalizationMediatorBrightness</key>
+	<string>alignmentOrParam</string>
+	<key>gemDuringJob</key>
+	<string>toolDuringNumber</string>
+	<key>localRouteFrequency</key>
+	<string>gridStyleBound</string>
+	<key>petByLayer</key>
+	<string>globalDelegateBound</string>
+	<key>stateFlyweightSkewx</key>
+	<string>reactiveInteractorFormat</string>
+</dict>
+</plist>

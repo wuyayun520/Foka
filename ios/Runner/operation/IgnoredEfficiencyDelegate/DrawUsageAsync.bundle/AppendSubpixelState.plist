@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasExceptVisitor</key>
+	<string>boxshadowAtValue</string>
+	<key>dedicatedReductionStatus</key>
+	<string>gestureByComposite</string>
+	<key>reducerAboutActivity</key>
+	<string>completerDuringNumber</string>
+	<key>serviceFormColor</key>
+	<string>priorDelegateAppearance</string>
+	<key>sizeBesidePlatform</key>
+	<string>currentMediaLocation</string>
+</dict>
+</plist>

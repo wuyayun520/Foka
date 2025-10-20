@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonConstraintTransparency</key>
+	<string>alignmentFromFramework</string>
+	<key>discardedAppbarScale</key>
+	<string>callbackAlongParam</string>
+	<key>independentDependencyMomentum</key>
+	<string>visibleResourceRate</string>
+	<key>nativeResolverPosition</key>
+	<string>textfieldAlongKind</string>
+	<key>offsetNumberTop</key>
+	<string>resolverContextPressure</string>
+	<key>smartPopupState</key>
+	<string>hierarchicalLayerFlags</string>
+</dict>
+</plist>

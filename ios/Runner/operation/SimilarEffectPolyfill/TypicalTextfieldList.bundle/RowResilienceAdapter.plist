@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratePerCycle</key>
+	<string>localDimensionDuration</string>
+	<key>contractionPhaseSkewx</key>
+	<string>blocContextStyle</string>
+	<key>directlyStoryboardIndex</key>
+	<string>materialCubeAlignment</string>
+	<key>positionedAdapterMode</key>
+	<string>projectParameterColor</string>
+	<key>previewExceptStrategy</key>
+	<string>permissivePresenterVisible</string>
+	<key>viewVisitorInterval</key>
+	<string>alignmentExceptEnvironment</string>
+</dict>
+</plist>

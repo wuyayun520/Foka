@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCommandDepth</key>
+	<string>crudeMasterTransparency</string>
+	<key>awaitSinceState</key>
+	<string>timerStrategyTop</string>
+	<key>clipperOutsideLevel</key>
+	<string>heapBesideProxy</string>
+	<key>menuObserverCoord</key>
+	<string>discardedGroupTag</string>
+	<key>timerAgainstProxy</key>
+	<string>documentBridgeInterval</string>
+	<key>usecaseBeyondVisitor</key>
+	<string>flexSinceShape</string>
+</dict>
+</plist>

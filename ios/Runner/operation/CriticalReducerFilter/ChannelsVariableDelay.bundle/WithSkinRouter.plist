@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasOrInterpreter</key>
+	<string>swiftPlatformHue</string>
+	<key>featureCycleResponse</key>
+	<string>grayscaleActivityCount</string>
+	<key>flexibleDecorationInset</key>
+	<string>reductionStyleMargin</string>
+	<key>indicatorTaskAlignment</key>
+	<string>drawerWorkTop</string>
+	<key>originalMatrixSize</key>
+	<string>durationAboutWork</string>
+	<key>originalMediaFeedback</key>
+	<string>mobileTaskShape</string>
+	<key>popupKindShape</key>
+	<string>coordinatorContainFunction</string>
+	<key>providerFunctionBrightness</key>
+	<string>sizeAsKind</string>
+	<key>tabbarAroundAction</key>
+	<string>navigatorCycleInterval</string>
+	<key>webStreamType</key>
+	<string>sustainableRoleInset</string>
+</dict>
+</plist>

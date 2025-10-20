@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBufferSpacing</key>
+	<string>axisThroughCommand</string>
+	<key>bufferAroundAction</key>
+	<string>sliderTempleName</string>
+	<key>containerSingletonAppearance</key>
+	<string>intuitiveDocumentSpeed</string>
+	<key>controllerMediatorFeedback</key>
+	<string>priorFrameStyle</string>
+	<key>equipmentAtFramework</key>
+	<string>directTangentOffset</string>
+	<key>immediateBoxDensity</key>
+	<string>screenLayerVisibility</string>
+	<key>layoutTypeType</key>
+	<string>robustFeatureIndex</string>
+	<key>parallelFutureFeedback</key>
+	<string>parallelNotifierDepth</string>
+</dict>
+</plist>

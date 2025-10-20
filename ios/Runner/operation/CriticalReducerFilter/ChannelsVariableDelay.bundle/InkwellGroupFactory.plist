@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocOperationLocation</key>
+	<string>mediaqueryTypeInteraction</string>
+	<key>commandBesideSingleton</key>
+	<string>segueAgainstContext</string>
+	<key>comprehensiveConfigurationVelocity</key>
+	<string>subscriptionModeTransparency</string>
+	<key>customLayoutDirection</key>
+	<string>paddingInsideLevel</string>
+	<key>popupCommandPadding</key>
+	<string>promiseVariablePadding</string>
+	<key>priorityKindAppearance</key>
+	<string>paddingWithState</string>
+	<key>storageObserverHead</key>
+	<string>imperativeContainerPadding</string>
+	<key>taskAsComposite</key>
+	<string>particleStylePosition</string>
+</dict>
+</plist>

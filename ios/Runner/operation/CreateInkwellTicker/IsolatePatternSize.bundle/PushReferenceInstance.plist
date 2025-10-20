@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsLayerRotation</key>
+	<string>diffableCheckboxTag</string>
+	<key>queueNumberStatus</key>
+	<string>storeStrategyRight</string>
+	<key>sizedboxAdapterLeft</key>
+	<string>diffableRoleSkewy</string>
+	<key>statefulStrategyTint</key>
+	<string>missionVariableStyle</string>
+	<key>toolTypeVelocity</key>
+	<string>rowAndActivity</string>
+</dict>
+</plist>

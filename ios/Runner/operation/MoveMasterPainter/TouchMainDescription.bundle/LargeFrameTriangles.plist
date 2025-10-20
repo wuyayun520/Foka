@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorFacadeScale</key>
+	<string>dedicatedInkwellSaturation</string>
+	<key>granularSegmentIndex</key>
+	<string>sizedboxBridgeEdge</string>
+	<key>mobxSystemResponse</key>
+	<string>unsortedCupertinoRight</string>
+	<key>sinkAtMemento</key>
+	<string>operationIncludeFramework</string>
+	<key>statefulLocalizationBrightness</key>
+	<string>controllerOperationType</string>
+</dict>
+</plist>

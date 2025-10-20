@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowLikeMethod</key>
+	<string>priorityTierTag</string>
+	<key>currentResultStyle</key>
+	<string>accessibleTabbarHead</string>
+	<key>independentGesturedetectorFrequency</key>
+	<string>requestFormTransparency</string>
+	<key>sceneAsMediator</key>
+	<string>offsetAlongLevel</string>
+	<key>scrollShapeInset</key>
+	<string>exceptionAlongFlyweight</string>
+	<key>statefulAnchorInteraction</key>
+	<string>precisionActivityName</string>
+	<key>statefulModeFormat</key>
+	<string>queueBesideBridge</string>
+	<key>uniqueMarginPadding</key>
+	<string>tableWorkTransparency</string>
+</dict>
+</plist>

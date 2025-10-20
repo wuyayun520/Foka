@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoActionOrigin</key>
+	<string>visibleUtilOrientation</string>
+	<key>blocIncludeMode</key>
+	<string>widgetSingletonCount</string>
+	<key>layerTierSpeed</key>
+	<string>widgetAsAction</string>
+	<key>relationalLogTheme</key>
+	<string>completerStageDepth</string>
+	<key>transformerOperationOpacity</key>
+	<string>directlyMovementLocation</string>
+</dict>
+</plist>

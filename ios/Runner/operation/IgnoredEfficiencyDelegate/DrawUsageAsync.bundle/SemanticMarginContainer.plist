@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateViaPlatform</key>
+	<string>movementParameterCenter</string>
+	<key>characterEnvironmentLocation</key>
+	<string>widgetBesideFunction</string>
+	<key>displayableSliderOrientation</key>
+	<string>specifyLabelState</string>
+	<key>dynamicEqualizationDistance</key>
+	<string>channelOfSingleton</string>
+	<key>reductionNearParam</key>
+	<string>blocFromPrototype</string>
+	<key>sizeContainVar</key>
+	<string>activeInterfaceSaturation</string>
+	<key>swiftVarAcceleration</key>
+	<string>retainedBaseIndex</string>
+</dict>
+</plist>

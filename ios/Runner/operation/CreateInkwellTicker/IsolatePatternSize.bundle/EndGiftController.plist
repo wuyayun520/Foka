@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardBitrateFormat</key>
+	<string>sinkPerState</string>
+	<key>frameLayerTension</key>
+	<string>delegateFacadeEdge</string>
+	<key>missedDescriptorState</key>
+	<string>factoryStateStyle</string>
+	<key>modalAlongMode</key>
+	<string>hashNearStrategy</string>
+	<key>nodeOrStructure</key>
+	<string>stampTaskDistance</string>
+	<key>textfieldStatePressure</key>
+	<string>mediaqueryValueRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missionViaFlyweight</key>
+	<string>gridObserverMode</string>
+	<key>nextAlphaIndex</key>
+	<string>tabviewOfEnvironment</string>
+	<key>positionedDuringSingleton</key>
+	<string>challengeVariablePosition</string>
+	<key>semanticsPhaseSpeed</key>
+	<string>routerSinceFacade</string>
+	<key>singleChapterSize</key>
+	<string>captionWithSingleton</string>
+	<key>swiftVersusPrototype</key>
+	<string>resultByPhase</string>
+	<key>tableFlyweightDuration</key>
+	<string>sortedChannelMargin</string>
+	<key>timerInLevel</key>
+	<string>allocatorActivityContrast</string>
+	<key>uniformCompletionColor</key>
+	<string>agileMissionHue</string>
+</dict>
+</plist>

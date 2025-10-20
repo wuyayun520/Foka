@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAlongInterpreter</key>
+	<string>completionWithFlyweight</string>
+	<key>geometricDecorationOffset</key>
+	<string>alphaBufferAppearance</string>
+	<key>stampUntilLevel</key>
+	<string>activeObserverTint</string>
+	<key>streamSystemInset</key>
+	<string>mobxVersusState</string>
+	<key>unsortedCubitCenter</key>
+	<string>desktopPositionAcceleration</string>
+</dict>
+</plist>

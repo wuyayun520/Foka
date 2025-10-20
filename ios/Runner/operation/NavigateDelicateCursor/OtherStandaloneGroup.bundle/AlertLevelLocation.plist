@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAwayVariable</key>
+	<string>multiApertureLocation</string>
+	<key>dynamicSwitchBehavior</key>
+	<string>mobxPerProxy</string>
+	<key>gesturedetectorAroundFacade</key>
+	<string>chartForFacade</string>
+	<key>heroCommandTheme</key>
+	<string>imperativeSignEdge</string>
+	<key>permissiveSizeBound</key>
+	<string>iconSinceActivity</string>
+	<key>primarySemanticsPadding</key>
+	<string>durationInsideJob</string>
+	<key>similarInteractorTransparency</key>
+	<string>popupStyleVisible</string>
+	<key>transformerPhaseInterval</key>
+	<string>decorationFunctionBrightness</string>
+	<key>vectorAtVisitor</key>
+	<string>gridBufferTop</string>
+	<key>zoneShapeCoord</key>
+	<string>behaviorWithoutAction</string>
+</dict>
+</plist>

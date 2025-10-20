@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitKindFlags</key>
+	<string>singlePreviewTension</string>
+	<key>concurrentStampScale</key>
+	<string>protectedResultBrightness</string>
+	<key>concurrentStatefulFrequency</key>
+	<string>resourcePerSingleton</string>
+	<key>dependencyOrPattern</key>
+	<string>imageInsideVisitor</string>
+	<key>disabledQueryFlags</key>
+	<string>temporaryLayoutSpacing</string>
+	<key>disparateSliderPressure</key>
+	<string>resourceCyclePressure</string>
+	<key>progressbarJobOrientation</key>
+	<string>smartPreviewIndex</string>
+</dict>
+</plist>

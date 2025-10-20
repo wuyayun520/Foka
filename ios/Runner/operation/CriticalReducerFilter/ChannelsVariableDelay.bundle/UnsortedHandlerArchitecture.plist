@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryOperationAcceleration</key>
+	<string>animationEnvironmentOrigin</string>
+	<key>alignmentAsType</key>
+	<string>liteEquipmentDepth</string>
+	<key>previewVarAppearance</key>
+	<string>reactiveGridContrast</string>
+	<key>progressbarEnvironmentState</key>
+	<string>slashFunctionSkewy</string>
+	<key>remainderViaCommand</key>
+	<string>observerModeDensity</string>
+	<key>sortedDialogsType</key>
+	<string>activatedLayerVelocity</string>
+	<key>spriteTypeBrightness</key>
+	<string>positionTypeRate</string>
+	<key>synchronousCommandType</key>
+	<string>storeAgainstMemento</string>
+	<key>threadChainMomentum</key>
+	<string>contractionTierBehavior</string>
+</dict>
+</plist>

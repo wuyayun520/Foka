@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMenuFrequency</key>
+	<string>widgetAndSingleton</string>
+	<key>documentMethodCenter</key>
+	<string>opaqueTickerTail</string>
+	<key>enabledTransformerTail</key>
+	<string>sliderScopeBound</string>
+	<key>exponentViaCycle</key>
+	<string>visibleContainerBound</string>
+	<key>nativeMediaAppearance</key>
+	<string>unaryFlyweightCoord</string>
+	<key>plateStateIndex</key>
+	<string>skinCycleValidation</string>
+	<key>samplePhaseAlignment</key>
+	<string>skinAlongProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAlongPhase</key>
+	<string>offsetCompositeFormat</string>
+	<key>chartObserverMode</key>
+	<string>localizationAtMediator</string>
+	<key>cubitStructureBorder</key>
+	<string>resultProxyInteraction</string>
+	<key>entityLevelAppearance</key>
+	<string>normJobHead</string>
+	<key>instructionOperationHead</key>
+	<string>dependencyAlongMethod</string>
+	<key>segmentFromSingleton</key>
+	<string>completionBeyondVisitor</string>
+	<key>shaderBesideAction</key>
+	<string>fusedTabviewType</string>
+</dict>
+</plist>

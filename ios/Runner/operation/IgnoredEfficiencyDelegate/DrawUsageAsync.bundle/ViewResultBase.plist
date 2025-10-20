@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentOutsideProxy</key>
+	<string>timerViaProxy</string>
+	<key>backwardLayerMargin</key>
+	<string>coordinatorFunctionCoord</string>
+	<key>channelsAmongActivity</key>
+	<string>spriteFormEdge</string>
+	<key>characterStageOrientation</key>
+	<string>instructionModeOrigin</string>
+	<key>diversifiedGroupTransparency</key>
+	<string>batchCompositeDelay</string>
+	<key>robustSpineHue</key>
+	<string>compositionVersusFramework</string>
+	<key>sharedRadioOpacity</key>
+	<string>resolverFromActivity</string>
+</dict>
+</plist>

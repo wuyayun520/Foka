@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAgainstContext</key>
+	<string>resilientCompletionOpacity</string>
+	<key>aspectOutsideJob</key>
+	<string>sceneFunctionTail</string>
+	<key>entityChainFlags</key>
+	<string>previewAlongOperation</string>
+	<key>graphVersusChain</key>
+	<string>frameLevelDistance</string>
+	<key>interactivePresenterPosition</key>
+	<string>profileInsideComposite</string>
+	<key>numericalTransitionState</key>
+	<string>sharedHandlerRight</string>
+	<key>stepCommandOpacity</key>
+	<string>primaryGroupName</string>
+</dict>
+</plist>

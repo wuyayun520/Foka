@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisPatternRotation</key>
+	<string>intensitySinceScope</string>
+	<key>concurrentHeapAlignment</key>
+	<string>positionDuringLayer</string>
+	<key>geometricRowResponse</key>
+	<string>boxOrPattern</string>
+	<key>interactiveCanvasTension</key>
+	<string>equalizationTaskColor</string>
+	<key>methodMediatorDensity</key>
+	<string>richtextEnvironmentOrientation</string>
+	<key>shaderAtAdapter</key>
+	<string>gridviewByPhase</string>
+</dict>
+</plist>

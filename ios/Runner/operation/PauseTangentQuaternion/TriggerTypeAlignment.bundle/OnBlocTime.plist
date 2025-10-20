@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAroundCycle</key>
+	<string>streamAsFacade</string>
+	<key>configurationPrototypeRight</key>
+	<string>queueInterpreterTint</string>
+	<key>documentFrameworkAcceleration</key>
+	<string>compositionAroundState</string>
+	<key>managerFlyweightTransparency</key>
+	<string>liteSwitchDirection</string>
+	<key>progressbarActionBound</key>
+	<string>reusableQueueSize</string>
+	<key>typicalPreviewVisible</key>
+	<string>columnAtBuffer</string>
+	<key>viewCompositeRate</key>
+	<string>durationFacadeSaturation</string>
+</dict>
+</plist>

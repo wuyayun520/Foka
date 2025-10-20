@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionObserverShape</key>
+	<string>unsortedResolverRight</string>
+	<key>customTitleShape</key>
+	<string>cubitBesideFunction</string>
+	<key>granularEntityPosition</key>
+	<string>associatedSlashFormat</string>
+	<key>pinchableBufferKind</key>
+	<string>statefulZoneSkewy</string>
+	<key>riverpodDuringAction</key>
+	<string>animationFromVar</string>
+	<key>routeWorkTint</key>
+	<string>synchronousAlertMargin</string>
+	<key>sliderAroundMediator</key>
+	<string>numericalTransformerHead</string>
+	<key>specifySegueCount</key>
+	<string>labelInterpreterDirection</string>
+	<key>taskChainSkewx</key>
+	<string>handlerActivityStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionIncludeShape</key>
+	<string>interactorWorkDirection</string>
+	<key>scrollableRowPadding</key>
+	<string>bufferDecoratorBrightness</string>
+	<key>textAboutAdapter</key>
+	<string>resultAlongStructure</string>
+	<key>viewBesideDecorator</key>
+	<string>inactiveModalLocation</string>
+</dict>
+</plist>

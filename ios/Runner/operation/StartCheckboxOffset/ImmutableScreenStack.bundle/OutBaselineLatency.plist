@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedScaleRotation</key>
+	<string>composableZoneForce</string>
+	<key>graphOrValue</key>
+	<string>managerOutsideState</string>
+	<key>positionOfDecorator</key>
+	<string>sizedboxDuringPrototype</string>
+	<key>rapidPriorityVisibility</key>
+	<string>instructionOrDecorator</string>
+	<key>responseLayerSpeed</key>
+	<string>checkboxActionStyle</string>
+	<key>shaderPlatformRate</key>
+	<string>requestAndFunction</string>
+	<key>singletonOutsideParam</key>
+	<string>tableKindBehavior</string>
+</dict>
+</plist>

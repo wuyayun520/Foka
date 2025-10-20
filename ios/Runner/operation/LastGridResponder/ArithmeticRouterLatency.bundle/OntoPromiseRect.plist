@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSubpixelTop</key>
+	<string>buttonDuringLayer</string>
+	<key>allocatorUntilPrototype</key>
+	<string>controllerByStage</string>
+	<key>constraintProxyLocation</key>
+	<string>seamlessListenerSaturation</string>
+	<key>controllerNearLevel</key>
+	<string>completerCycleHead</string>
+	<key>declarativeCharacterState</key>
+	<string>errorInterpreterCenter</string>
+	<key>effectViaFlyweight</key>
+	<string>criticalAssetEdge</string>
+	<key>lastStatefulHead</key>
+	<string>euclideanTextfieldMode</string>
+	<key>resourceActionBorder</key>
+	<string>singletonOutsideVisitor</string>
+	<key>routeInsideInterpreter</key>
+	<string>enabledBorderSaturation</string>
+	<key>streamPatternOrigin</key>
+	<string>storageLevelVelocity</string>
+</dict>
+</plist>

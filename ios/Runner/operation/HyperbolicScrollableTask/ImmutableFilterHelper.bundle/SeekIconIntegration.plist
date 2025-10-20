@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeAwayInterpreter</key>
+	<string>commonRouteDelay</string>
+	<key>decorationContainCycle</key>
+	<string>nibObserverTransparency</string>
+	<key>discardedFeatureLocation</key>
+	<string>interpolationModeEdge</string>
+	<key>musicIncludeMethod</key>
+	<string>mutableVectorPadding</string>
+	<key>presenterByParameter</key>
+	<string>grayscaleVariableMomentum</string>
+	<key>storeFromAction</key>
+	<string>mutableCertificateBottom</string>
+</dict>
+</plist>

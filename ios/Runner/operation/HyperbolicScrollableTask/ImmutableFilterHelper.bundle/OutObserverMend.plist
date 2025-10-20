@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartThanSingleton</key>
+	<string>hashAtDecorator</string>
+	<key>currentGesturedetectorLocation</key>
+	<string>modelDecoratorBound</string>
+	<key>resourceCommandInteraction</key>
+	<string>riverpodAsVar</string>
+	<key>touchObserverTransparency</key>
+	<string>handlerFacadeFormat</string>
+	<key>webAnimationLeft</key>
+	<string>currentBaselinePosition</string>
+</dict>
+</plist>

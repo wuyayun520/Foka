@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureAndMethod</key>
+	<string>stampProcessFeedback</string>
+	<key>eagerFeatureFeedback</key>
+	<string>gridAwayCommand</string>
+	<key>logOutsideContext</key>
+	<string>scrollAroundFramework</string>
+	<key>momentumAmongObserver</key>
+	<string>tweenFromFunction</string>
+	<key>normSinceType</key>
+	<string>serviceAsFunction</string>
+	<key>topicNumberDensity</key>
+	<string>completerVariableScale</string>
+</dict>
+</plist>

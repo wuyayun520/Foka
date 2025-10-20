@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationJobInteraction</key>
+	<string>spriteVersusObserver</string>
+	<key>layoutAboutFunction</key>
+	<string>documentBeyondShape</string>
+	<key>normalContainerStatus</key>
+	<string>aspectContextStyle</string>
+	<key>petActionOrientation</key>
+	<string>loopParameterDistance</string>
+	<key>projectOutsideStage</key>
+	<string>layerKindPressure</string>
+	<key>responsiveInstructionHue</key>
+	<string>visibleAlignmentShape</string>
+	<key>singleStatelessPressure</key>
+	<string>notificationTierIndex</string>
+	<key>sizedboxByValue</key>
+	<string>ephemeralLocalizationSpacing</string>
+	<key>spotVersusStructure</key>
+	<string>functionalWidgetFrequency</string>
+	<key>subsequentCommandCoord</key>
+	<string>labelViaChain</string>
+</dict>
+</plist>

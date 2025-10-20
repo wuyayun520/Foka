@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedSingletonSpacing</key>
+	<string>switchAmongLayer</string>
+	<key>gridUntilObserver</key>
+	<string>tabbarSinceMode</string>
+	<key>interactorLayerBehavior</key>
+	<string>monsterProxyTag</string>
+	<key>newestTimerLeft</key>
+	<string>grainFunctionTag</string>
+	<key>otherCommandAcceleration</key>
+	<string>sinkBufferKind</string>
+	<key>positionTaskKind</key>
+	<string>webHandlerAcceleration</string>
+</dict>
+</plist>

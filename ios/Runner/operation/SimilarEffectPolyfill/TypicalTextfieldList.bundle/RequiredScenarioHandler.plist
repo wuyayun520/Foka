@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAboutMemento</key>
+	<string>scaleAmongVar</string>
+	<key>apertureForMode</key>
+	<string>axisAmongEnvironment</string>
+	<key>binaryStageMode</key>
+	<string>baseInStage</string>
+	<key>diffableSingletonBehavior</key>
+	<string>widgetDecoratorInset</string>
+	<key>enabledResultBottom</key>
+	<string>themeMediatorDensity</string>
+	<key>iconAroundVisitor</key>
+	<string>consultativeGridHead</string>
+	<key>resourceFormTheme</key>
+	<string>listenerFacadeMode</string>
+	<key>rowSingletonLocation</key>
+	<string>optionTempleDuration</string>
+	<key>storeIncludeEnvironment</key>
+	<string>cardPrototypeAcceleration</string>
+</dict>
+</plist>

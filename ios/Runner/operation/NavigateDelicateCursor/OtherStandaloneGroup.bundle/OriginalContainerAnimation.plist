@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityModeBehavior</key>
+	<string>histogramContextStatus</string>
+	<key>arithmeticValueOffset</key>
+	<string>dimensionMethodIndex</string>
+	<key>bufferLevelSkewy</key>
+	<string>sharedActivityLeft</string>
+	<key>normFacadeTop</key>
+	<string>modelModeSaturation</string>
+	<key>optimizerVariableBrightness</key>
+	<string>builderInSystem</string>
+	<key>sequentialNotifierRotation</key>
+	<string>resilientIntegerAlignment</string>
+</dict>
+</plist>

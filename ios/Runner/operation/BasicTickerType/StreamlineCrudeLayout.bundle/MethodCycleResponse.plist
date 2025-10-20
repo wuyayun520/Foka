@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityInsideLayer</key>
+	<string>scaleAgainstEnvironment</string>
+	<key>constraintAgainstFunction</key>
+	<string>awaitFunctionVisibility</string>
+	<key>monsterBridgeSkewy</key>
+	<string>routeAgainstBridge</string>
+	<key>normalChannelsSkewy</key>
+	<string>utilViaForm</string>
+	<key>parallelPresenterInteraction</key>
+	<string>challengeChainEdge</string>
+	<key>sequentialConstraintKind</key>
+	<string>buttonSingletonCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatObserverOrientation</key>
+	<string>scrollableSubpixelSkewy</string>
+	<key>heapShapeVisible</key>
+	<string>basicRadiusSkewy</string>
+	<key>positionBesideMediator</key>
+	<string>configurationDespiteTask</string>
+	<key>providerAboutPrototype</key>
+	<string>dimensionFromStage</string>
+</dict>
+</plist>

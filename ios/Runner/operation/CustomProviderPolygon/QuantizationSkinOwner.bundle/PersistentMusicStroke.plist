@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticResponseFeedback</key>
+	<string>normSinceScope</string>
+	<key>compositionParameterType</key>
+	<string>prevPositionedTail</string>
+	<key>currentNodeBottom</key>
+	<string>indicatorParameterDepth</string>
+	<key>intuitiveStreamForce</key>
+	<string>giftStateDensity</string>
+	<key>layoutPlatformDuration</key>
+	<string>pinchableSessionDuration</string>
+	<key>paddingObserverPosition</key>
+	<string>statelessContextLocation</string>
+	<key>smallRowPosition</key>
+	<string>anchorLayerMargin</string>
+	<key>stateActivityPressure</key>
+	<string>chartBufferTension</string>
+	<key>tweenVisitorCenter</key>
+	<string>cosineAwaySingleton</string>
+</dict>
+</plist>

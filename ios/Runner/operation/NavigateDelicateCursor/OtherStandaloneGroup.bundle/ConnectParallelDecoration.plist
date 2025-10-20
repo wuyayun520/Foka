@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartSinceLevel</key>
+	<string>usecaseCycleInset</string>
+	<key>commonCubeAlignment</key>
+	<string>collectionTierBorder</string>
+	<key>entityMementoMargin</key>
+	<string>scaffoldLevelOrientation</string>
+	<key>materialChallengeInterval</key>
+	<string>explicitMethodVisibility</string>
+	<key>nibAndFlyweight</key>
+	<string>directlyParticleStatus</string>
+	<key>normalCubitVelocity</key>
+	<string>reactiveAllocatorOrigin</string>
+	<key>optionParamDirection</key>
+	<string>subsequentPriorityStatus</string>
+	<key>sizeExceptVar</key>
+	<string>statefulAsMemento</string>
+	<key>subpixelSincePrototype</key>
+	<string>compositionalBorderBound</string>
+</dict>
+</plist>

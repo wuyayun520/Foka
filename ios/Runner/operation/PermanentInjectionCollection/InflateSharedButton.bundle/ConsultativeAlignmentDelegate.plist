@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredMetadataFrequency</key>
+	<string>richtextForContext</string>
+	<key>flexibleScaleTransparency</key>
+	<string>clipperAmongCommand</string>
+	<key>gridParamPadding</key>
+	<string>gramInterpreterPadding</string>
+	<key>groupContainSingleton</key>
+	<string>tableScopeAcceleration</string>
+	<key>indicatorTypeRotation</key>
+	<string>reusableNavigatorState</string>
+	<key>matrixContextHue</key>
+	<string>firstProjectionAlignment</string>
+	<key>playbackOfCycle</key>
+	<string>indicatorLikeState</string>
+	<key>publicCurveRight</key>
+	<string>pinchableCursorValidation</string>
+	<key>resizableMarginRight</key>
+	<string>localizationAlongCommand</string>
+	<key>skinStyleDuration</key>
+	<string>animationAgainstFlyweight</string>
+</dict>
+</plist>

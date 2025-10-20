@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocOperationFrequency</key>
+	<string>methodFromContext</string>
+	<key>descriptionAdapterStatus</key>
+	<string>displayableTextDensity</string>
+	<key>presenterOperationPadding</key>
+	<string>desktopCacheSpacing</string>
+	<key>sortedProviderMargin</key>
+	<string>sizeOfValue</string>
+	<key>symbolAwayFunction</key>
+	<string>subscriptionParameterCoord</string>
+</dict>
+</plist>

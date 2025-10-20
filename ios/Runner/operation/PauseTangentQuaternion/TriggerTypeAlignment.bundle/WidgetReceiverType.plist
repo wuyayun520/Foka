@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitMovementContrast</key>
+	<string>largeWidgetBrightness</string>
+	<key>materialActionMomentum</key>
+	<string>protectedQuerySpeed</string>
+	<key>referenceFromPrototype</key>
+	<string>precisionPhaseSkewy</string>
+	<key>serviceEnvironmentType</key>
+	<string>lostBehaviorSkewy</string>
+	<key>sortedStateMargin</key>
+	<string>sharedAllocatorBound</string>
+</dict>
+</plist>

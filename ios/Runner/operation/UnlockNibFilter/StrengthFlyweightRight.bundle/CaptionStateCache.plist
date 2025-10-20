@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateFrameworkShade</key>
+	<string>allocatorBridgePadding</string>
+	<key>effectIncludeOperation</key>
+	<string>entityActionOpacity</string>
+	<key>modulusFacadeKind</key>
+	<string>crudeSizeSpeed</string>
+	<key>observerDuringComposite</key>
+	<string>managerBufferOrientation</string>
+	<key>offsetViaSingleton</key>
+	<string>hardThemeHead</string>
+	<key>semanticDelegateBound</key>
+	<string>intuitivePopupOffset</string>
+	<key>signStateBrightness</key>
+	<string>temporaryProgressbarDepth</string>
+	<key>subsequentProjectDuration</key>
+	<string>baselineAdapterTop</string>
+</dict>
+</plist>

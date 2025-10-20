@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartActivityValidation</key>
+	<string>activeOptimizerState</string>
+	<key>lazyTaskTransparency</key>
+	<string>custompaintActionSize</string>
+	<key>parallelMetadataLeft</key>
+	<string>stampFlyweightFeedback</string>
+	<key>radiusAsNumber</key>
+	<string>standaloneLoopOffset</string>
+	<key>topicOutsideLayer</key>
+	<string>positionedDespiteVisitor</string>
+	<key>touchAlongLayer</key>
+	<string>descriptorInterpreterDelay</string>
+</dict>
+</plist>

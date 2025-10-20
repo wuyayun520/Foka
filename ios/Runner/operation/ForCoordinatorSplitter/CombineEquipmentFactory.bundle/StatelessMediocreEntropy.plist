@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLikeActivity</key>
+	<string>subscriptionBySingleton</string>
+	<key>checklistWithoutCommand</key>
+	<string>particleFlyweightForce</string>
+	<key>delegateAsSingleton</key>
+	<string>effectInsidePhase</string>
+	<key>gramEnvironmentForce</key>
+	<string>labelFromLevel</string>
+	<key>intuitiveMethodInterval</key>
+	<string>streamStateOrientation</string>
+	<key>layerOperationCenter</key>
+	<string>primaryInterpolationFormat</string>
+	<key>nodeInsideEnvironment</key>
+	<string>customCacheDelay</string>
+	<key>operationWithoutPlatform</key>
+	<string>statelessObserverInset</string>
+	<key>transformerInterpreterDuration</key>
+	<string>pivotalWidgetCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionNavigationRight</key>
+	<string>associatedFeatureSpeed</string>
+	<key>parallelTaskState</key>
+	<string>constGraphOpacity</string>
+	<key>popupCommandState</key>
+	<string>cubitIncludeFramework</string>
+	<key>projectionProxySize</key>
+	<string>optimizerInsideProxy</string>
+	<key>sceneAmongLayer</key>
+	<string>specifyPageviewTheme</string>
+	<key>sinkTierInteraction</key>
+	<string>diffableIntensityTail</string>
+</dict>
+</plist>

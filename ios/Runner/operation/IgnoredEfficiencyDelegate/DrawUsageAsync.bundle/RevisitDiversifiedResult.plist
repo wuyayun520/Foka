@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventModeStyle</key>
+	<string>multiNavigatorMomentum</string>
+	<key>fixedPageviewSkewy</key>
+	<string>sortedTabviewOpacity</string>
+	<key>independentWorkflowShade</key>
+	<string>storageVarTint</string>
+	<key>listviewParameterKind</key>
+	<string>diversifiedControllerSkewy</string>
+	<key>mediumHandlerLocation</key>
+	<string>chartOfContext</string>
+	<key>retainedChecklistSpacing</key>
+	<string>futureTypeColor</string>
+	<key>scrollableSlashTag</key>
+	<string>mediaPhaseAlignment</string>
+	<key>zonePrototypeFeedback</key>
+	<string>unactivatedDependencyTransparency</string>
+</dict>
+</plist>

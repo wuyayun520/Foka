@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAssetVisible</key>
+	<string>coordinatorStrategyRight</string>
+	<key>denseAssetSkewy</key>
+	<string>notifierBeyondTask</string>
+	<key>featureBeyondKind</key>
+	<string>hashFunctionStyle</string>
+	<key>futureChainCount</key>
+	<string>constStateVisibility</string>
+	<key>seamlessMetadataInteraction</key>
+	<string>effectOutsideBridge</string>
+	<key>shaderShapeResponse</key>
+	<string>animatedcontainerOutsideVisitor</string>
+</dict>
+</plist>

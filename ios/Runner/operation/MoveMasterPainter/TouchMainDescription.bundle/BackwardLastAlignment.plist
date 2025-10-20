@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheThroughPattern</key>
+	<string>resolverTempleResponse</string>
+	<key>channelInsideEnvironment</key>
+	<string>menuPerMode</string>
+	<key>getxContextOffset</key>
+	<string>basicEntityTransparency</string>
+	<key>immediateStatefulFlags</key>
+	<string>observerStructureCoord</string>
+	<key>interactorWithoutDecorator</key>
+	<string>protectedLossValidation</string>
+	<key>petWithMode</key>
+	<string>displayableOptionCoord</string>
+	<key>priorHandlerBehavior</key>
+	<string>touchValuePressure</string>
+	<key>specifierUntilBridge</key>
+	<string>missedInkwellDepth</string>
+	<key>tabbarCycleRotation</key>
+	<string>mobileSingletonBrightness</string>
+	<key>tableCycleFeedback</key>
+	<string>reusableEffectCount</string>
+</dict>
+</plist>

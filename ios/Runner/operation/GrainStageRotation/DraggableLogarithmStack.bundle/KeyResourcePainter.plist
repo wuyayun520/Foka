@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoCursorType</key>
+	<string>scrollNumberMargin</string>
+	<key>deferredTangentSkewx</key>
+	<string>richtextTaskVisibility</string>
+	<key>gestureKindSpeed</key>
+	<string>firstScreenVisible</string>
+	<key>managerAgainstSystem</key>
+	<string>notificationStructureResponse</string>
+	<key>pageviewParamBorder</key>
+	<string>inkwellKindFeedback</string>
+	<key>permanentResourceDuration</key>
+	<string>radioLayerEdge</string>
+	<key>platePerMemento</key>
+	<string>configurationUntilActivity</string>
+	<key>prismaticMovementDensity</key>
+	<string>queueShapeCoord</string>
+	<key>statelessAxisTension</key>
+	<string>responseTaskVelocity</string>
+</dict>
+</plist>

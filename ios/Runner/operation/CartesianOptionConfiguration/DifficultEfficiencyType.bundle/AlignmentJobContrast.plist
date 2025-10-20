@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTransformerTint</key>
+	<string>mobileCubeSpeed</string>
+	<key>borderAgainstPrototype</key>
+	<string>originalFragmentLocation</string>
+	<key>flexibleAllocatorSpeed</key>
+	<string>discardedMemberLocation</string>
+	<key>gradientViaShape</key>
+	<string>reducerValueVisible</string>
+	<key>lastTextureDelay</key>
+	<string>lastRouteMode</string>
+	<key>playbackTierBehavior</key>
+	<string>titleBesideCycle</string>
+	<key>responseExceptEnvironment</key>
+	<string>firstTernaryCenter</string>
+	<key>segmentForMethod</key>
+	<string>singletonAmongStrategy</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionObserverTail</key>
+	<string>liteRouteTransparency</string>
+	<key>callbackOutsideBridge</key>
+	<string>explicitTabviewLeft</string>
+	<key>composableProgressbarCount</key>
+	<string>pinchableOptimizerResponse</string>
+	<key>cycleDuringActivity</key>
+	<string>resultObserverInteraction</string>
+	<key>resultSinceKind</key>
+	<string>topicScopeLocation</string>
+	<key>taskFormTag</key>
+	<string>smallUsageContrast</string>
+	<key>topicProcessTension</key>
+	<string>fixedAccessorySpeed</string>
+</dict>
+</plist>

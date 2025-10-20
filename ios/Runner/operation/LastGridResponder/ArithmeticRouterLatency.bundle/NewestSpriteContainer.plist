@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAgainstSingleton</key>
+	<string>controllerAmongFramework</string>
+	<key>asyncTopicStyle</key>
+	<string>tabbarAtStrategy</string>
+	<key>gateTaskLocation</key>
+	<string>callbackInsideDecorator</string>
+	<key>momentumPrototypeHue</key>
+	<string>challengeDespiteVar</string>
+	<key>permissiveReferenceShade</key>
+	<string>columnBufferFrequency</string>
+	<key>sensorMementoScale</key>
+	<string>routerTempleTransparency</string>
+	<key>sustainableTransitionMode</key>
+	<string>denseCatalystPadding</string>
+</dict>
+</plist>

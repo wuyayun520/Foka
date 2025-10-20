@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDimensionType</key>
+	<string>gridSystemMode</string>
+	<key>cubitInsideVariable</key>
+	<string>widgetFacadeBound</string>
+	<key>decorationPlatformMargin</key>
+	<string>reducerAlongEnvironment</string>
+	<key>interactorValueDensity</key>
+	<string>requestPerMediator</string>
+	<key>mediumInteractorOrigin</key>
+	<string>richtextTierOrientation</string>
+	<key>protocolCompositeMargin</key>
+	<string>lostContainerState</string>
+	<key>respectiveIndicatorAppearance</key>
+	<string>bulletAsTemple</string>
+	<key>utilSystemSkewy</key>
+	<string>labelActivityBound</string>
+	<key>viewProcessKind</key>
+	<string>appbarStateSaturation</string>
+</dict>
+</plist>

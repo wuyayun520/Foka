@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultDecorationAppearance</key>
+	<string>diffableNavigatorPadding</string>
+	<key>drawerStyleSkewy</key>
+	<string>opaqueQueueShape</string>
+	<key>futureKindHue</key>
+	<string>liteRectLeft</string>
+	<key>spriteForCycle</key>
+	<string>completionAdapterRight</string>
+</dict>
+</plist>

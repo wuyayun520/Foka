@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDespiteNumber</key>
+	<string>alertWithoutProxy</string>
+	<key>controllerProcessDirection</key>
+	<string>firstStateCoord</string>
+	<key>logProxyFrequency</key>
+	<string>permissiveWidgetDuration</string>
+	<key>pointUntilType</key>
+	<string>kernelTempleFrequency</string>
+</dict>
+</plist>

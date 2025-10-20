@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSubscriptionVelocity</key>
+	<string>clipperAsMediator</string>
+	<key>allocatorNearStrategy</key>
+	<string>primaryBlocLocation</string>
+	<key>decorationAroundMemento</key>
+	<string>sensorNumberSkewx</string>
+	<key>frameWithWork</key>
+	<string>tabbarStrategyForce</string>
+	<key>histogramInsideJob</key>
+	<string>extensionViaAdapter</string>
+	<key>permissiveCollectionDuration</key>
+	<string>equipmentForMode</string>
+	<key>positionedTaskVisibility</key>
+	<string>resourceNearWork</string>
+	<key>storeScopeDepth</key>
+	<string>viewLayerMode</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioVarTail</key>
+	<string>builderBufferColor</string>
+	<key>checkboxBufferOrigin</key>
+	<string>otherCheckboxInterval</string>
+	<key>futureOrMode</key>
+	<string>multiTopicBehavior</string>
+	<key>observerOutsideTask</key>
+	<string>progressbarVarMomentum</string>
+	<key>routeBridgeScale</key>
+	<string>graphKindCount</string>
+	<key>viewAndEnvironment</key>
+	<string>scrollDespiteSingleton</string>
+</dict>
+</plist>

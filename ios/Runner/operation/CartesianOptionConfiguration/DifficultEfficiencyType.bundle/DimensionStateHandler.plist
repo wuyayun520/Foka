@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnFromKind</key>
+	<string>symmetricQueryOffset</string>
+	<key>constCaptionScale</key>
+	<string>configurationProcessTint</string>
+	<key>dialogsScopeOrigin</key>
+	<string>assetPhaseScale</string>
+	<key>futurePhaseHue</key>
+	<string>radiusDuringScope</string>
+	<key>immutableVectorCount</key>
+	<string>unaryFrameworkDirection</string>
+	<key>nativeListviewDistance</key>
+	<string>resilientInkwellBehavior</string>
+	<key>normalMaterialOpacity</key>
+	<string>independentOverlayOrigin</string>
+	<key>subtleSwitchPadding</key>
+	<string>reusableTexturePadding</string>
+	<key>tickerAgainstPattern</key>
+	<string>resilientParticleTop</string>
+</dict>
+</plist>

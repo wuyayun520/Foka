@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScaleAlignment</key>
+	<string>modalMementoTheme</string>
+	<key>geometricStreamStyle</key>
+	<string>pageviewPrototypeStyle</string>
+	<key>rowStrategyAppearance</key>
+	<string>sceneDuringFunction</string>
+	<key>sliderFromMode</key>
+	<string>challengeAsFunction</string>
+	<key>streamAtBuffer</key>
+	<string>sizeNumberOpacity</string>
+</dict>
+</plist>

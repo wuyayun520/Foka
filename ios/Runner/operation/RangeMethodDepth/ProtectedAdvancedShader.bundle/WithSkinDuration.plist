@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStrategySize</key>
+	<string>injectionViaStrategy</string>
+	<key>commandInEnvironment</key>
+	<string>multiKernelPosition</string>
+	<key>layoutForScope</key>
+	<string>entropyAndObserver</string>
+	<key>normalCellAlignment</key>
+	<string>respectiveRadiusShade</string>
+	<key>radiusPatternInset</key>
+	<string>difficultBuilderTransparency</string>
+	<key>sinkViaBridge</key>
+	<string>boxByObserver</string>
+	<key>streamFunctionSaturation</key>
+	<string>plateMethodBorder</string>
+</dict>
+</plist>

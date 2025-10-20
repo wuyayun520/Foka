@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleAsMode</key>
+	<string>bufferLayerFlags</string>
+	<key>firstErrorBorder</key>
+	<string>sliderPlatformPadding</string>
+	<key>frameContainJob</key>
+	<string>factoryThroughStage</string>
+	<key>intensityModeSkewy</key>
+	<string>stateObserverDuration</string>
+	<key>originalLayoutOrientation</key>
+	<string>rectLayerDepth</string>
+	<key>singletonVarVisibility</key>
+	<string>popupPatternContrast</string>
+	<key>spriteVersusAction</key>
+	<string>iterativeStreamMargin</string>
+</dict>
+</plist>

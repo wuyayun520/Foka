@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedReducerSaturation</key>
+	<string>textFrameworkFormat</string>
+	<key>gestureAlongKind</key>
+	<string>deferredServiceOpacity</string>
+	<key>inactiveBaseShade</key>
+	<string>navigatorModeTransparency</string>
+	<key>interpolationJobFeedback</key>
+	<string>widgetPerVisitor</string>
+	<key>mainCompositionStyle</key>
+	<string>unactivatedSinkMargin</string>
+	<key>reactiveHeapFlags</key>
+	<string>rowWithoutProxy</string>
+	<key>sceneBridgeTail</key>
+	<string>routerEnvironmentTag</string>
+	<key>vectorDuringKind</key>
+	<string>sharedStateSpacing</string>
+</dict>
+</plist>

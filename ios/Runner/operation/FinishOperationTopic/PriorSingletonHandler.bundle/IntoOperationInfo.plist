@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInteractorOpacity</key>
+	<string>drawerContextLeft</string>
+	<key>controllerPatternValidation</key>
+	<string>nextControllerLeft</string>
+	<key>coordinatorBufferRate</key>
+	<string>largeProjectionBrightness</string>
+	<key>directProtocolKind</key>
+	<string>cubeVersusFunction</string>
+	<key>gemFrameworkBehavior</key>
+	<string>descriptionDuringCycle</string>
+	<key>localPriorityStyle</key>
+	<string>controllerLayerTop</string>
+	<key>swiftWithoutProxy</key>
+	<string>metadataIncludeEnvironment</string>
+	<key>ternaryEnvironmentSpeed</key>
+	<string>temporarySignatureInteraction</string>
+</dict>
+</plist>

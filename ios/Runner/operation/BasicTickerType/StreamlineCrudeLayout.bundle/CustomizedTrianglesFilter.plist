@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAboutPrototype</key>
+	<string>dedicatedMapOrientation</string>
+	<key>diffableWidgetEdge</key>
+	<string>featureInForm</string>
+	<key>effectViaObserver</key>
+	<string>interfacePhaseOpacity</string>
+	<key>observerCycleScale</key>
+	<string>difficultKernelFeedback</string>
+	<key>painterAsOperation</key>
+	<string>streamJobCoord</string>
+	<key>shaderIncludePattern</key>
+	<string>callbackAlongParameter</string>
+	<key>sinkPhaseType</key>
+	<string>storeAgainstContext</string>
+	<key>uniqueResolverSkewx</key>
+	<string>gemTaskSkewx</string>
+</dict>
+</plist>

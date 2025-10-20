@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorAsVar</key>
+	<string>sizedboxBufferBehavior</string>
+	<key>largeGradientFlags</key>
+	<string>constraintAroundTier</string>
+	<key>lostStampBehavior</key>
+	<string>normVariableAcceleration</string>
+	<key>notifierCompositeShape</key>
+	<string>notifierSingletonVelocity</string>
+</dict>
+</plist>

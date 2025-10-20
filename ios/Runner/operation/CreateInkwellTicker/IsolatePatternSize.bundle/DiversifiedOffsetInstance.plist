@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAboutStage</key>
+	<string>intermediateSignName</string>
+	<key>aspectratioPerState</key>
+	<string>textureObserverBound</string>
+	<key>reusableProgressbarCount</key>
+	<string>cacheIncludeSingleton</string>
+	<key>viewPhaseValidation</key>
+	<string>diffableMethodOffset</string>
+</dict>
+</plist>

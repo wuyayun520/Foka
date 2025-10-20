@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheProcessMode</key>
+	<string>delicateModalCount</string>
+	<key>ignoredGemVelocity</key>
+	<string>prevTopicPosition</string>
+	<key>lostTangentSize</key>
+	<string>robustMissionInset</string>
+	<key>offsetOfTask</key>
+	<string>nextRadiusHue</string>
+	<key>offsetSinceDecorator</key>
+	<string>buttonOutsideStrategy</string>
+	<key>persistentLayoutDistance</key>
+	<string>borderOutsideParam</string>
+	<key>usedResolverDuration</key>
+	<string>serviceAmongPrototype</string>
+</dict>
+</plist>

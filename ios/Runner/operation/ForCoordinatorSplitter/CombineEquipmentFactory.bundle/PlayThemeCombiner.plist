@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowVersusCycle</key>
+	<string>denseAssetSaturation</string>
+	<key>diffableMediaquerySkewy</key>
+	<string>geometricMobileTop</string>
+	<key>gestureAdapterOpacity</key>
+	<string>publicAspectShade</string>
+	<key>histogramScopeOpacity</key>
+	<string>constraintSystemDensity</string>
+	<key>instructionShapeShade</key>
+	<string>rowAboutProcess</string>
+	<key>keyStoreHue</key>
+	<string>comprehensiveOptionFlags</string>
+	<key>operationStructureTop</key>
+	<string>activePresenterCoord</string>
+	<key>radiusFromState</key>
+	<string>synchronousDurationTheme</string>
+	<key>standaloneNavigationPressure</key>
+	<string>popupAgainstTier</string>
+</dict>
+</plist>

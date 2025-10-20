@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandBridgeContrast</key>
+	<string>diffableDurationRate</string>
+	<key>ephemeralCompletionFeedback</key>
+	<string>transitionAsParam</string>
+	<key>gemDecoratorTransparency</key>
+	<string>hierarchicalRowOrientation</string>
+	<key>mapOfVariable</key>
+	<string>substantialCompletionInset</string>
+	<key>missionPerStage</key>
+	<string>comprehensiveMapSpeed</string>
+	<key>queryDecoratorShape</key>
+	<string>allocatorContextShape</string>
+	<key>storageBufferRate</key>
+	<string>explicitDurationFeedback</string>
+	<key>tickerAndTemple</key>
+	<string>interpolationFlyweightBound</string>
+	<key>uniformProtocolResponse</key>
+	<string>mobileCubitSkewy</string>
+</dict>
+</plist>

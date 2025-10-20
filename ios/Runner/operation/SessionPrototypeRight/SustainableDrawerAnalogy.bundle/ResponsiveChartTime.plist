@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocInScope</key>
+	<string>statefulObserverBound</string>
+	<key>cellVariableEdge</key>
+	<string>concreteResultSize</string>
+	<key>movementSincePhase</key>
+	<string>enabledMomentumTail</string>
+	<key>queueMethodSkewy</key>
+	<string>intensityUntilPattern</string>
+	<key>specifyStorageShape</key>
+	<string>capsuleAgainstCycle</string>
+	<key>statefulFormName</key>
+	<string>blocOrVariable</string>
+</dict>
+</plist>

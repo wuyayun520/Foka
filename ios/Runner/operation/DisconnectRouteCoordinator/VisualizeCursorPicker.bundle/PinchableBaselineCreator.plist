@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryActivityTop</key>
+	<string>scrollBufferForce</string>
+	<key>isolateOperationFormat</key>
+	<string>boxProxyFormat</string>
+	<key>labelInAdapter</key>
+	<string>eventProcessTransparency</string>
+	<key>sliderUntilFacade</key>
+	<string>timerAtAdapter</string>
+	<key>topicPhaseTop</key>
+	<string>staticBrushVisibility</string>
+	<key>transitionOrCommand</key>
+	<string>deferredGraphicPadding</string>
+</dict>
+</plist>

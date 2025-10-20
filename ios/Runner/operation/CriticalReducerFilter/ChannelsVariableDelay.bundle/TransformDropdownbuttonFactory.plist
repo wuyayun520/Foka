@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorAdapterBottom</key>
+	<string>customResourceInteraction</string>
+	<key>cacheNumberLocation</key>
+	<string>subpixelDespiteObserver</string>
+	<key>curveCommandDelay</key>
+	<string>persistentContainerOrigin</string>
+	<key>grainCompositeShape</key>
+	<string>significantViewShade</string>
+	<key>greatCompleterType</key>
+	<string>usedEffectEdge</string>
+	<key>stampCommandDirection</key>
+	<string>scaffoldProxyTension</string>
+</dict>
+</plist>

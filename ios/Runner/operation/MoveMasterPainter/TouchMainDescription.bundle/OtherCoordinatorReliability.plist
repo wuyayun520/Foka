@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTickerAcceleration</key>
+	<string>staticNodeFrequency</string>
+	<key>arithmeticAndMediator</key>
+	<string>skinThroughObserver</string>
+	<key>completerOutsideFacade</key>
+	<string>cupertinoLikeValue</string>
+	<key>controllerWithFacade</key>
+	<string>offsetScopeFeedback</string>
+	<key>curveFunctionLocation</key>
+	<string>directReducerLocation</string>
+	<key>modelContextCenter</key>
+	<string>robustPainterTag</string>
+	<key>primarySizedboxScale</key>
+	<string>smartVectorBound</string>
+	<key>viewJobSize</key>
+	<string>iconInProxy</string>
+</dict>
+</plist>

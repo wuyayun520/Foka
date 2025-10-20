@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerShapeMode</key>
+	<string>sophisticatedFactoryShade</string>
+	<key>customCertificateIndex</key>
+	<string>controllerPatternLeft</string>
+	<key>eagerBehaviorSaturation</key>
+	<string>histogramForMemento</string>
+	<key>frameFlyweightKind</key>
+	<string>indicatorAgainstTask</string>
+	<key>gridviewPatternDepth</key>
+	<string>navigatorAgainstMemento</string>
+	<key>threadAroundEnvironment</key>
+	<string>arithmeticSingletonContrast</string>
+</dict>
+</plist>

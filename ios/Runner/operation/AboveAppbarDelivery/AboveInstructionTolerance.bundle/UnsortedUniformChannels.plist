@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorActionStatus</key>
+	<string>sharedPresenterInteraction</string>
+	<key>animationPerKind</key>
+	<string>basicCatalystLeft</string>
+	<key>pinchableStreamValidation</key>
+	<string>cosineLayerContrast</string>
+	<key>reductionViaPlatform</key>
+	<string>widgetOfFunction</string>
+	<key>resolverAndMode</key>
+	<string>tappableSceneCoord</string>
+	<key>subsequentResourceHead</key>
+	<string>projectionContainParam</string>
+	<key>swiftUntilType</key>
+	<string>iterativeGridVisibility</string>
+</dict>
+</plist>

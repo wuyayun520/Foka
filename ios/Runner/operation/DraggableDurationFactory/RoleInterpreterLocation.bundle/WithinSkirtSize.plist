@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocValuePadding</key>
+	<string>captionParamAlignment</string>
+	<key>cacheAgainstValue</key>
+	<string>containerFlyweightRotation</string>
+	<key>containerIncludeWork</key>
+	<string>newestProviderBrightness</string>
+	<key>observerInOperation</key>
+	<string>decorationInterpreterTheme</string>
+	<key>pinchablePointMode</key>
+	<string>spriteOutsideParameter</string>
+	<key>prevCubitInterval</key>
+	<string>sequentialLayerFeedback</string>
+	<key>resizableTouchTension</key>
+	<string>chartThroughState</string>
+	<key>utilContextPosition</key>
+	<string>normalSliderValidation</string>
+	<key>widgetAdapterSkewx</key>
+	<string>pinchablePreviewResponse</string>
+</dict>
+</plist>

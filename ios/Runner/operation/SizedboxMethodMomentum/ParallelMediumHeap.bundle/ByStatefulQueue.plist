@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaNearParameter</key>
+	<string>sineProcessAlignment</string>
+	<key>factoryByPhase</key>
+	<string>otherNormFormat</string>
+	<key>navigatorActionSpacing</key>
+	<string>layoutFromScope</string>
+	<key>persistentPainterMode</key>
+	<string>subsequentConfigurationDirection</string>
+	<key>resizableCursorTag</key>
+	<string>streamContextAlignment</string>
+	<key>smartIconFeedback</key>
+	<string>subsequentRadiusCoord</string>
+	<key>transformerOrPhase</key>
+	<string>animationDespiteObserver</string>
+	<key>viewBeyondNumber</key>
+	<string>managerEnvironmentSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardLayerFrequency</key>
+	<string>injectionWithDecorator</string>
+	<key>stackWithCommand</key>
+	<string>alignmentPatternBottom</string>
+	<key>topicOutsideAdapter</key>
+	<string>respectiveActionFrequency</string>
+	<key>transformerMediatorVisibility</key>
+	<string>storyboardUntilMethod</string>
+</dict>
+</plist>

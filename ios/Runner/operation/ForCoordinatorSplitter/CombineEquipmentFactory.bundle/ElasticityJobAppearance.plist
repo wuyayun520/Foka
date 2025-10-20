@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryObserverDistance</key>
+	<string>hashByVar</string>
+	<key>constraintInsideNumber</key>
+	<string>cursorContextRight</string>
+	<key>curveAboutFramework</key>
+	<string>localizationAsAction</string>
+	<key>explicitProfileOrigin</key>
+	<string>projectFunctionType</string>
+	<key>labelStyleAcceleration</key>
+	<string>invisibleSegueDelay</string>
+	<key>lazyServiceSpeed</key>
+	<string>singleDimensionPosition</string>
+	<key>normalCanvasTransparency</key>
+	<string>discardedZoneVisible</string>
+	<key>transitionNearProcess</key>
+	<string>vectorSystemTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncMethodRate</key>
+	<string>lastSampleOrientation</string>
+	<key>chapterEnvironmentKind</key>
+	<string>durationInState</string>
+	<key>desktopScaffoldOpacity</key>
+	<string>opaqueNavigatorShade</string>
+	<key>disabledDelegateOffset</key>
+	<string>diversifiedChallengeShape</string>
+	<key>futureFlyweightInteraction</key>
+	<string>slashThanTask</string>
+	<key>screenAlongStrategy</key>
+	<string>cycleFlyweightSaturation</string>
+	<key>standaloneSpriteOpacity</key>
+	<string>catalystStateKind</string>
+	<key>usedNotificationTheme</key>
+	<string>bufferForForm</string>
+</dict>
+</plist>

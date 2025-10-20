@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTaskFeedback</key>
+	<string>asyncUntilVisitor</string>
+	<key>arithmeticBufferForce</key>
+	<string>localTabbarState</string>
+	<key>directlyContainerBehavior</key>
+	<string>integerWorkPadding</string>
+	<key>gestureValueSaturation</key>
+	<string>promiseSinceMediator</string>
+	<key>hardReducerForce</key>
+	<string>accessoryNumberTransparency</string>
+	<key>mediocreSceneDepth</key>
+	<string>sharedDescriptorResponse</string>
+	<key>multiZoneFlags</key>
+	<string>logarithmVarResponse</string>
+	<key>progressbarWithoutScope</key>
+	<string>signExceptFramework</string>
+</dict>
+</plist>

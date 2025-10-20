@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandSinceKind</key>
+	<string>fragmentPhaseStyle</string>
+	<key>compositionalMemberTheme</key>
+	<string>referenceThroughScope</string>
+	<key>euclideanPlaybackRight</key>
+	<string>explicitContainerStatus</string>
+	<key>futureShapeState</key>
+	<string>nodeVarTop</string>
+	<key>multiBlocPosition</key>
+	<string>retainedTextfieldEdge</string>
+	<key>storeSinceComposite</key>
+	<string>clipperInsideFunction</string>
+	<key>tensorAsyncName</key>
+	<string>sessionInsideBridge</string>
+</dict>
+</plist>

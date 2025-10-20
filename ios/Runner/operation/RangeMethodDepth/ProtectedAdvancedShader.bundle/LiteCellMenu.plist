@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorBeyondMediator</key>
+	<string>decorationWithoutFlyweight</string>
+	<key>mediaqueryAtStyle</key>
+	<string>discardedRequestAcceleration</string>
+	<key>permissiveCubitDuration</key>
+	<string>singletonInScope</string>
+	<key>projectionIncludeStage</key>
+	<string>particleAgainstStyle</string>
+</dict>
+</plist>

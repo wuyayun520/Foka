@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAdapterStyle</key>
+	<string>assetSingletonAppearance</string>
+	<key>configurationWithoutStrategy</key>
+	<string>loopOrMediator</string>
+	<key>constraintIncludeVariable</key>
+	<string>pinchableTopicName</string>
+	<key>durationAtScope</key>
+	<string>popupLevelTheme</string>
+	<key>listviewAlongTask</key>
+	<string>mainProgressbarAlignment</string>
+	<key>previewTierBehavior</key>
+	<string>baseStructureShade</string>
+	<key>specifierWithoutNumber</key>
+	<string>bulletFunctionOrientation</string>
+	<key>streamJobPadding</key>
+	<string>dialogsPerSingleton</string>
+	<key>uniformApertureState</key>
+	<string>plateFormDistance</string>
+</dict>
+</plist>

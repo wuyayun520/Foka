@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorPhaseDensity</key>
+	<string>numericalPromiseCount</string>
+	<key>curveActivityBound</key>
+	<string>persistentSymbolRotation</string>
+	<key>descriptionCycleInteraction</key>
+	<string>desktopObserverSpeed</string>
+	<key>documentPlatformKind</key>
+	<string>viewStyleInset</string>
+	<key>groupObserverCenter</key>
+	<string>largeGrainStyle</string>
+	<key>segueSingletonStyle</key>
+	<string>touchMementoMargin</string>
+	<key>sizeStateDepth</key>
+	<string>tappableRowType</string>
+</dict>
+</plist>

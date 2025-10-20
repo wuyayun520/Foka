@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionByMethod</key>
+	<string>resourceLikeTemple</string>
+	<key>missedServiceAcceleration</key>
+	<string>widgetVarContrast</string>
+	<key>protectedEntityBound</key>
+	<string>dependencyViaSystem</string>
+	<key>requiredDescriptionTheme</key>
+	<string>skirtBufferSkewx</string>
+	<key>tappableCubeTheme</key>
+	<string>enabledTaskScale</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleScaleShade</key>
+	<string>spriteExceptForm</string>
+	<key>handlerLikeContext</key>
+	<string>customUnaryFeedback</string>
+	<key>missedViewDepth</key>
+	<string>firstTabbarMargin</string>
+	<key>statefulContainJob</key>
+	<string>tweenModeRate</string>
+	<key>storePlatformSpeed</key>
+	<string>alertLayerTheme</string>
+	<key>subscriptionWithDecorator</key>
+	<string>tangentPatternMode</string>
+</dict>
+</plist>

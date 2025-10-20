@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeEventStatus</key>
+	<string>routerOutsideWork</string>
+	<key>controllerStructureSaturation</key>
+	<string>basicLogDepth</string>
+	<key>cubitVersusInterpreter</key>
+	<string>cubitPhaseSkewy</string>
+	<key>discardedChannelSkewy</key>
+	<string>ignoredEntropyPressure</string>
+	<key>entityFlyweightMode</key>
+	<string>unactivatedResolverOpacity</string>
+	<key>handlerStageOrientation</key>
+	<string>inheritedSubscriptionTransparency</string>
+	<key>pinchableChannelRotation</key>
+	<string>pinchableBlocTint</string>
+	<key>storeShapeLeft</key>
+	<string>effectAroundState</string>
+</dict>
+</plist>

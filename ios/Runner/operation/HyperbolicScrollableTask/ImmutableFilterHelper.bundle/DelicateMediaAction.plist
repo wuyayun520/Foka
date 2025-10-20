@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAgainstComposite</key>
+	<string>sliderAmongShape</string>
+	<key>displayableVectorStyle</key>
+	<string>frameUntilState</string>
+	<key>largeBaseSpacing</key>
+	<string>coordinatorStageMargin</string>
+	<key>localizationDecoratorAppearance</key>
+	<string>promiseSinceEnvironment</string>
+	<key>popupWithPhase</key>
+	<string>assetOutsideContext</string>
+	<key>presenterScopeShade</key>
+	<string>monsterIncludeStructure</string>
+	<key>progressbarOutsideFramework</key>
+	<string>loopOutsidePhase</string>
+	<key>resolverModeStatus</key>
+	<string>labelInsideSingleton</string>
+	<key>spotInterpreterVisible</key>
+	<string>standaloneAllocatorMomentum</string>
+	<key>statelessSinkSaturation</key>
+	<string>equipmentAtStructure</string>
+</dict>
+</plist>

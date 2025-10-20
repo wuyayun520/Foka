@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushExceptPattern</key>
+	<string>baselineStructureName</string>
+	<key>containerAdapterFeedback</key>
+	<string>easyGestureEdge</string>
+	<key>containerModeShape</key>
+	<string>mutableCharacterBrightness</string>
+	<key>durationPhaseKind</key>
+	<string>lazyButtonEdge</string>
+	<key>factoryAndMediator</key>
+	<string>graphInterpreterName</string>
+	<key>mapBridgeOpacity</key>
+	<string>timerOrType</string>
+	<key>sizeKindSpacing</key>
+	<string>alertStrategyDistance</string>
+	<key>sustainableResourceBehavior</key>
+	<string>statefulBorderTail</string>
+</dict>
+</plist>

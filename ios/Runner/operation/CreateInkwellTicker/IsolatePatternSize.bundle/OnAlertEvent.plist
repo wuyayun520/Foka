@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletOrStrategy</key>
+	<string>appbarActionDelay</string>
+	<key>capsulePlatformLocation</key>
+	<string>profileForLevel</string>
+	<key>clipperSystemVisible</key>
+	<string>cosineBesideBuffer</string>
+	<key>decorationBeyondTier</key>
+	<string>builderExceptStyle</string>
+	<key>desktopSkirtSpacing</key>
+	<string>missedProfileState</string>
+	<key>listenerDuringFunction</key>
+	<string>metadataAndValue</string>
+	<key>similarInterfaceRotation</key>
+	<string>localizationByAdapter</string>
+	<key>singleAspectName</key>
+	<string>routeExceptStructure</string>
+	<key>sliderExceptLayer</key>
+	<string>chartParamBrightness</string>
+</dict>
+</plist>

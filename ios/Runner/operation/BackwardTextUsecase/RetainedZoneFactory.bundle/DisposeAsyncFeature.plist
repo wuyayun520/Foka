@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicReductionInterval</key>
+	<string>autoPresenterResponse</string>
+	<key>futureAtVar</key>
+	<string>taskAdapterOrientation</string>
+	<key>integerStrategyDepth</key>
+	<string>temporaryHeroTop</string>
+	<key>queueVarTheme</key>
+	<string>accordionHashState</string>
+	<key>semanticRepositoryResponse</key>
+	<string>blocKindSaturation</string>
+	<key>stateAtType</key>
+	<string>queueOperationEdge</string>
+</dict>
+</plist>

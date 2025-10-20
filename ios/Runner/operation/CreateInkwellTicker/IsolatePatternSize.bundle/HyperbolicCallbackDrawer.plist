@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredWidgetInset</key>
+	<string>mediumLoopDelay</string>
+	<key>permanentPrioritySkewy</key>
+	<string>boxshadowExceptComposite</string>
+	<key>retainedGrainColor</key>
+	<string>blocLevelHue</string>
+	<key>sizeStructureSkewy</key>
+	<string>significantLocalizationFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledCallbackForce</key>
+	<string>delicateManagerLocation</string>
+	<key>draggableAnimationSpeed</key>
+	<string>advancedSegmentCoord</string>
+	<key>featureVersusDecorator</key>
+	<string>richtextEnvironmentFlags</string>
+	<key>mainLoopFormat</key>
+	<string>methodNearBridge</string>
+	<key>missedCatalystLocation</key>
+	<string>projectKindDistance</string>
+	<key>pinchableAlertBound</key>
+	<string>decorationMethodHue</string>
+	<key>positionTaskPressure</key>
+	<string>featureDespiteState</string>
+	<key>presenterProcessDepth</key>
+	<string>elasticInterpolationSkewx</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorMediatorBrightness</key>
+	<string>mediumButtonMargin</string>
+	<key>delegateByStyle</key>
+	<string>controllerActionTag</string>
+	<key>imperativeModulusTag</key>
+	<string>providerCommandDuration</string>
+	<key>interfaceWithoutActivity</key>
+	<string>blocEnvironmentRate</string>
+	<key>plateOrMemento</key>
+	<string>chapterWorkInteraction</string>
+	<key>storeLevelTop</key>
+	<string>rowFromVar</string>
+	<key>webMonsterFlags</key>
+	<string>responsiveBoxBottom</string>
+</dict>
+</plist>

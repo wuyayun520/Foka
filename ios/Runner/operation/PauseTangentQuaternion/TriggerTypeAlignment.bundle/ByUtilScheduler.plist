@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRoleInteraction</key>
+	<string>interactorExceptMediator</string>
+	<key>composableTextureTransparency</key>
+	<string>baseViaCycle</string>
+	<key>descriptorDecoratorCoord</key>
+	<string>priorityAndScope</string>
+	<key>firstRequestTop</key>
+	<string>entityActivityScale</string>
+	<key>iterativeFlexTheme</key>
+	<string>interfaceJobHead</string>
+	<key>nodeStateVisibility</key>
+	<string>providerOperationEdge</string>
+	<key>previewContainPhase</key>
+	<string>capsuleThanType</string>
+	<key>stepSinceCommand</key>
+	<string>dialogsActivityRotation</string>
+	<key>transitionValueKind</key>
+	<string>lossPhaseStyle</string>
+</dict>
+</plist>

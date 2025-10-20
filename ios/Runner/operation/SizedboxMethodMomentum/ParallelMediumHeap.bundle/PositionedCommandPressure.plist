@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsForNumber</key>
+	<string>pageviewOfSingleton</string>
+	<key>expandedThanAction</key>
+	<string>mobileCustompaintFormat</string>
+	<key>isolateChainLeft</key>
+	<string>inheritedGraphSize</string>
+	<key>materialCanvasFlags</key>
+	<string>cycleAmongComposite</string>
+	<key>mediumReferenceSpeed</key>
+	<string>methodMementoFlags</string>
+</dict>
+</plist>

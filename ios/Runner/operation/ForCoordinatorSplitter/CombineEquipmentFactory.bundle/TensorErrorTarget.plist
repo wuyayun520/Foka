@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackBesideBridge</key>
+	<string>viewProcessForce</string>
+	<key>grainWithPlatform</key>
+	<string>baseNumberCenter</string>
+	<key>listviewMethodCenter</key>
+	<string>sliderMediatorFrequency</string>
+	<key>offsetWithoutParameter</key>
+	<string>builderOutsideComposite</string>
+	<key>protectedAnchorFeedback</key>
+	<string>parallelAppbarBehavior</string>
+	<key>queryAmongLayer</key>
+	<string>sizeValueHue</string>
+	<key>responsiveExceptionIndex</key>
+	<string>comprehensiveFuturePressure</string>
+	<key>synchronousCompositionFormat</key>
+	<string>layerTaskSpeed</string>
+</dict>
+</plist>

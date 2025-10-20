@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryStyleStatus</key>
+	<string>configurationInPrototype</string>
+	<key>clipperContainLevel</key>
+	<string>frameCompositeAcceleration</string>
+	<key>enabledNotifierAppearance</key>
+	<string>smallInteractorDelay</string>
+	<key>lazyChallengeTop</key>
+	<string>accessibleRouteEdge</string>
+	<key>oldAlphaAcceleration</key>
+	<string>flexibleSineOffset</string>
+	<key>persistentUtilCoord</key>
+	<string>smallTouchMargin</string>
+	<key>tensorEqualizationForce</key>
+	<string>secondCurveDensity</string>
+	<key>themeFrameworkFrequency</key>
+	<string>configurationInMethod</string>
+	<key>widgetAmongInterpreter</key>
+	<string>subscriptionStrategyHead</string>
+</dict>
+</plist>

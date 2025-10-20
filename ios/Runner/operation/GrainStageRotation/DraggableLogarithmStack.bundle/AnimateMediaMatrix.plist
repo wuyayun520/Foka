@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedIntegerHead</key>
+	<string>asyncStyleContrast</string>
+	<key>chartPlatformBehavior</key>
+	<string>resourceBeyondOperation</string>
+	<key>gesturedetectorOutsideType</key>
+	<string>menuAdapterTransparency</string>
+	<key>progressbarContextPressure</key>
+	<string>characterBridgeForce</string>
+	<key>radioIncludeVisitor</key>
+	<string>sharedShaderAcceleration</string>
+	<key>referenceLayerHue</key>
+	<string>storeSingletonTint</string>
+	<key>synchronousPresenterSaturation</key>
+	<string>certificateShapeBound</string>
+	<key>textfieldFrameworkTension</key>
+	<string>stampCompositeScale</string>
+</dict>
+</plist>

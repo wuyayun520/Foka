@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyOfParam</key>
+	<string>missionContextContrast</string>
+	<key>enabledMethodOrigin</key>
+	<string>repositoryDuringSingleton</string>
+	<key>equalizationCompositeMode</key>
+	<string>explicitEntityScale</string>
+	<key>painterModeInset</key>
+	<string>keyContainerShade</string>
+	<key>statefulActivityBehavior</key>
+	<string>tweenEnvironmentSpeed</string>
+	<key>uniqueOffsetMode</key>
+	<string>textureByStage</string>
+</dict>
+</plist>

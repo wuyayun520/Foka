@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableFeatureSkewy</key>
+	<string>permissiveGraphInteraction</string>
+	<key>popupModeTransparency</key>
+	<string>captionTaskFeedback</string>
+	<key>prevDelegateSaturation</key>
+	<string>containerShapeContrast</string>
+	<key>significantStatefulType</key>
+	<string>viewAtStrategy</string>
+</dict>
+</plist>

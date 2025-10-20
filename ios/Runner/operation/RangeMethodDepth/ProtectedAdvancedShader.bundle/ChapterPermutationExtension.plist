@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowAsTier</key>
+	<string>tickerDespitePlatform</string>
+	<key>channelVariableInteraction</key>
+	<string>activeStreamTransparency</string>
+	<key>clipperIncludeMode</key>
+	<string>largeBrushResponse</string>
+	<key>configurationWithoutCycle</key>
+	<string>referenceTierVelocity</string>
+	<key>customizedListenerBorder</key>
+	<string>themeJobBound</string>
+	<key>factoryCommandBound</key>
+	<string>ternaryValueSpacing</string>
+	<key>queueStrategyInterval</key>
+	<string>seamlessIntensitySkewy</string>
+	<key>scalePatternFrequency</key>
+	<string>queueAroundVariable</string>
+	<key>specifyPetInset</key>
+	<string>logBeyondShape</string>
+</dict>
+</plist>

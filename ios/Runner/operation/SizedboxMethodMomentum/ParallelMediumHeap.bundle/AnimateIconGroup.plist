@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertForMode</key>
+	<string>boxshadowSystemMomentum</string>
+	<key>buttonFacadeInterval</key>
+	<string>responsiveTextPadding</string>
+	<key>expandedAgainstObserver</key>
+	<string>interactiveFragmentLeft</string>
+	<key>requiredDurationFrequency</key>
+	<string>segmentActivityAcceleration</string>
+	<key>resilientStreamOrientation</key>
+	<string>globalChecklistBehavior</string>
+	<key>sliderPhaseBehavior</key>
+	<string>positionScopeInset</string>
+	<key>subscriptionDespiteChain</key>
+	<string>touchBeyondProcess</string>
+	<key>toolCycleSpeed</key>
+	<string>bulletAndPlatform</string>
+	<key>vectorDuringOperation</key>
+	<string>gramSingletonMomentum</string>
+</dict>
+</plist>

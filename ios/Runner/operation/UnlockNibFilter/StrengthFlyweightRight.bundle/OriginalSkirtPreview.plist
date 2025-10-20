@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineOperationFlags</key>
+	<string>drawerIncludePhase</string>
+	<key>desktopProfileDuration</key>
+	<string>localResultPosition</string>
+	<key>factoryActivityTransparency</key>
+	<string>roleMethodIndex</string>
+	<key>handlerCycleAppearance</key>
+	<string>graphicSinceCycle</string>
+	<key>labelDuringActivity</key>
+	<string>sortedSessionSaturation</string>
+	<key>observerAtCycle</key>
+	<string>resolverShapeMomentum</string>
+	<key>profileTempleRate</key>
+	<string>providerContainVisitor</string>
+	<key>rectParameterSkewy</key>
+	<string>responseCommandHue</string>
+	<key>touchContainFunction</key>
+	<string>resizableGraphicBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalPlaybackInteraction</key>
+	<string>stepAdapterRotation</string>
+	<key>dynamicDurationType</key>
+	<string>gridFromFramework</string>
+	<key>eagerScaleDirection</key>
+	<string>pivotalSpotInterval</string>
+	<key>futureViaCycle</key>
+	<string>labelCompositeName</string>
+	<key>isolateInsideCycle</key>
+	<string>documentWithAction</string>
+	<key>logarithmPhaseType</key>
+	<string>decorationLayerContrast</string>
+	<key>matrixBesidePhase</key>
+	<string>labelParameterResponse</string>
+	<key>spriteActivityTension</key>
+	<string>oldDependencyAlignment</string>
+</dict>
+</plist>

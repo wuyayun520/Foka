@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePrecisionDuration</key>
+	<string>normalContainerInteraction</string>
+	<key>custompaintStrategyVisibility</key>
+	<string>transformerVersusVariable</string>
+	<key>offsetParamSize</key>
+	<string>cubitFrameworkBorder</string>
+	<key>optimizerChainCount</key>
+	<string>rapidRouteForce</string>
+	<key>semanticsFromOperation</key>
+	<string>textureBridgeCoord</string>
+</dict>
+</plist>

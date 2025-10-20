@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledReductionColor</key>
+	<string>dependencyPerFlyweight</string>
+	<key>exponentProxyOrientation</key>
+	<string>priorityPatternAlignment</string>
+	<key>groupInJob</key>
+	<string>metadataModeFeedback</string>
+	<key>loopViaJob</key>
+	<string>fusedTransformerAppearance</string>
+	<key>notificationBesideCycle</key>
+	<string>activeDialogsDepth</string>
+	<key>notificationBesideWork</key>
+	<string>topicLevelRight</string>
+	<key>streamInObserver</key>
+	<string>routerDespiteLayer</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryStateStyle</key>
+	<string>specifyDependencyStatus</string>
+	<key>gridAtFunction</key>
+	<string>progressbarDuringActivity</string>
+	<key>interactorAndStyle</key>
+	<string>streamAroundType</string>
+	<key>interactorByBuffer</key>
+	<string>catalystFromParam</string>
+	<key>popupTypeScale</key>
+	<string>curveAdapterAlignment</string>
+	<key>resizableStreamLocation</key>
+	<string>serviceFrameworkTag</string>
+	<key>routeVarScale</key>
+	<string>containerPlatformKind</string>
+	<key>scrollableTweenTag</key>
+	<string>extensionStructureInterval</string>
+	<key>sharedCertificateCount</key>
+	<string>reducerCycleRight</string>
+	<key>subtleTitleTail</key>
+	<string>firstDecorationDepth</string>
+</dict>
+</plist>

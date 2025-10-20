@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsOrKind</key>
+	<string>heroPatternAppearance</string>
+	<key>directlySceneCoord</key>
+	<string>directMediaqueryInterval</string>
+	<key>intuitiveOptionStatus</key>
+	<string>relationalBufferAppearance</string>
+	<key>priorityViaStage</key>
+	<string>routeWorkFlags</string>
+	<key>scrollableStreamBorder</key>
+	<string>localInteractorKind</string>
+	<key>temporaryChartMode</key>
+	<string>rectAgainstContext</string>
+	<key>transformerWithoutTier</key>
+	<string>compositionTierBrightness</string>
+</dict>
+</plist>

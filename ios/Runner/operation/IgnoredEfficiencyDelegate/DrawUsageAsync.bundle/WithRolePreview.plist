@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeMediaFeedback</key>
+	<string>spriteNumberCount</string>
+	<key>rapidGroupPadding</key>
+	<string>temporaryMetadataVisibility</string>
+	<key>sampleDuringLayer</key>
+	<string>semanticsStrategyMomentum</string>
+	<key>segueWithoutStrategy</key>
+	<string>beginnerGraphDelay</string>
+</dict>
+</plist>

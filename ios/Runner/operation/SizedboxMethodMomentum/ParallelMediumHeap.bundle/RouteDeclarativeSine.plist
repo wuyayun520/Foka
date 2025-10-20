@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintViaStage</key>
+	<string>reusableListenerName</string>
+	<key>crucialEventDuration</key>
+	<string>crudeCoordinatorFrequency</string>
+	<key>decorationThroughPlatform</key>
+	<string>dropdownbuttonOutsideLayer</string>
+	<key>disparatePriorityKind</key>
+	<string>layoutNearMediator</string>
+	<key>menuAmongForm</key>
+	<string>serviceAmongFramework</string>
+	<key>secondObserverEdge</key>
+	<string>serviceBesideWork</string>
+	<key>smartNibBrightness</key>
+	<string>transformerAdapterValidation</string>
+	<key>stampTypeStatus</key>
+	<string>usecasePerProxy</string>
+</dict>
+</plist>

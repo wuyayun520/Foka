@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateMissionAppearance</key>
+	<string>listviewFunctionType</string>
+	<key>draggableEffectEdge</key>
+	<string>previewAtAction</string>
+	<key>interactorFacadeStyle</key>
+	<string>queueExceptStructure</string>
+	<key>pinchableMobileFormat</key>
+	<string>directlyTweenDirection</string>
+	<key>smallOptimizerTheme</key>
+	<string>previewProxyTension</string>
+	<key>spriteActionTag</key>
+	<string>monsterSinceComposite</string>
+	<key>streamContainProcess</key>
+	<string>queueTaskInteraction</string>
+	<key>subpixelIncludeStyle</key>
+	<string>groupVariableKind</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorUntilWork</key>
+	<string>independentAspectInset</string>
+	<key>arithmeticTimerShape</key>
+	<string>persistentStoreSpacing</string>
+	<key>containerOperationPadding</key>
+	<string>listviewSinceForm</string>
+	<key>pivotalDimensionAppearance</key>
+	<string>stateAboutState</string>
+</dict>
+</plist>

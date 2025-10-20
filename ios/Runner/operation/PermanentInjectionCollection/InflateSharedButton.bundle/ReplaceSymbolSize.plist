@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerLayoutCenter</key>
+	<string>animationProcessAppearance</string>
+	<key>concreteEntityDepth</key>
+	<string>greatEquipmentLeft</string>
+	<key>mainConfigurationLeft</key>
+	<string>statefulEntityPadding</string>
+	<key>tabviewOrMethod</key>
+	<string>firstRouteShade</string>
+	<key>usecaseOrDecorator</key>
+	<string>greatZoneBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentInterfaceSkewy</key>
+	<string>taskParamBehavior</string>
+	<key>coordinatorFormBound</key>
+	<string>stepVersusForm</string>
+	<key>custompaintMementoState</key>
+	<string>spineThroughActivity</string>
+	<key>immediateViewSpeed</key>
+	<string>publicCacheValidation</string>
+	<key>lastConsumerSpeed</key>
+	<string>rapidCheckboxDistance</string>
+	<key>previewContextTag</key>
+	<string>handlerExceptMemento</string>
+	<key>resourceViaProxy</key>
+	<string>concurrentTabviewOrientation</string>
+	<key>staticListenerStyle</key>
+	<string>statelessStateInterval</string>
+	<key>widgetForCommand</key>
+	<string>sizeLikeCommand</string>
+</dict>
+</plist>

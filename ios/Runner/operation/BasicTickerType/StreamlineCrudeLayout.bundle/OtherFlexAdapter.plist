@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetVariableOpacity</key>
+	<string>singleDrawerMode</string>
+	<key>builderActivityState</key>
+	<string>actionContainComposite</string>
+	<key>desktopChannelsBehavior</key>
+	<string>featureSinceParam</string>
+	<key>interactorStyleInteraction</key>
+	<string>tangentFunctionLocation</string>
+	<key>metadataStructureDuration</key>
+	<string>accordionQueryRotation</string>
+	<key>specifyResultPosition</key>
+	<string>mapObserverIndex</string>
+</dict>
+</plist>

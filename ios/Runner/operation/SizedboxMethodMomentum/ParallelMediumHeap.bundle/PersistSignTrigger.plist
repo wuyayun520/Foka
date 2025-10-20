@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileOffsetIndex</key>
+	<string>buttonAtStage</string>
+	<key>baseAboutMode</key>
+	<string>labelOfFlyweight</string>
+	<key>discardedDialogsForce</key>
+	<string>singleCardDistance</string>
+	<key>graphVisitorBound</key>
+	<string>resourceFlyweightDistance</string>
+	<key>mutableWidgetSaturation</key>
+	<string>allocatorByFacade</string>
+	<key>singletonAroundKind</key>
+	<string>navigationTaskVisibility</string>
+	<key>tabviewThroughFramework</key>
+	<string>playbackAndSystem</string>
+	<key>tappableDependencyMomentum</key>
+	<string>plateInsidePattern</string>
+	<key>unactivatedBufferInterval</key>
+	<string>descriptionModeSpeed</string>
+</dict>
+</plist>

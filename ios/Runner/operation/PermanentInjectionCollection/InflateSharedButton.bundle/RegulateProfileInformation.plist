@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackStageBrightness</key>
+	<string>alignmentForComposite</string>
+	<key>criticalCallbackDensity</key>
+	<string>featureSingletonValidation</string>
+	<key>nativeBinaryTension</key>
+	<string>serviceOfTask</string>
+	<key>responsiveOptionBrightness</key>
+	<string>responseFrameworkRate</string>
+	<key>utilExceptBridge</key>
+	<string>bufferOrPattern</string>
+</dict>
+</plist>

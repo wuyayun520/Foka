@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisLikeMemento</key>
+	<string>compositionalPainterCoord</string>
+	<key>mobileAsMemento</key>
+	<string>collectionFromState</string>
+	<key>navigatorExceptMethod</key>
+	<string>alertPerFunction</string>
+	<key>referenceAtStyle</key>
+	<string>projectionStateRight</string>
+	<key>sharedAwaitValidation</key>
+	<string>storeScopeBrightness</string>
+	<key>subtleTaskValidation</key>
+	<string>utilTaskName</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetTierRotation</key>
+	<string>persistentNavigatorShape</string>
+	<key>asynchronousRowDirection</key>
+	<string>sineSinceShape</string>
+	<key>channelsInsideFlyweight</key>
+	<string>scrollContextSize</string>
+	<key>geometricNavigatorVelocity</key>
+	<string>animationLikeShape</string>
+	<key>navigatorBridgeBound</key>
+	<string>popupTempleDensity</string>
+	<key>particleVariableCoord</key>
+	<string>fragmentAsVisitor</string>
+	<key>smartVariantAlignment</key>
+	<string>channelBridgeAlignment</string>
+	<key>storageExceptMemento</key>
+	<string>utilCycleOpacity</string>
+	<key>textfieldIncludeOperation</key>
+	<string>providerAlongParameter</string>
+</dict>
+</plist>

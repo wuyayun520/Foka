@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerAroundInterpreter</key>
+	<string>projectionAmongOperation</string>
+	<key>decorationAmongContext</key>
+	<string>customizedAnimationEdge</string>
+	<key>deferredRectTransparency</key>
+	<string>movementStructureBound</string>
+	<key>immutableOffsetFlags</key>
+	<string>mobxTempleTop</string>
+	<key>largeEqualizationDensity</key>
+	<string>cubitAlongInterpreter</string>
+	<key>referenceValueTransparency</key>
+	<string>usecaseLikeComposite</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateMediatorInterval</key>
+	<string>constReducerDelay</string>
+	<key>difficultSessionTop</key>
+	<string>buttonDespitePlatform</string>
+	<key>queueWithFlyweight</key>
+	<string>requestAdapterFrequency</string>
+	<key>screenShapeTint</key>
+	<string>multiNavigatorAcceleration</string>
+	<key>stackByLayer</key>
+	<string>animationBeyondVar</string>
+	<key>tweenModeContrast</key>
+	<string>firstDecorationSaturation</string>
+</dict>
+</plist>

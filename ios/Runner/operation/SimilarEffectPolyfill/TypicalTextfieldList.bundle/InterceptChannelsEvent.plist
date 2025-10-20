@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLikeMediator</key>
+	<string>zoneOperationTail</string>
+	<key>asyncAlongDecorator</key>
+	<string>durationKindOffset</string>
+	<key>commonRectTint</key>
+	<string>ephemeralHeapTag</string>
+	<key>constraintParamInteraction</key>
+	<string>keyRouteFormat</string>
+	<key>enabledSubscriptionStyle</key>
+	<string>completionWithoutComposite</string>
+	<key>interfaceOrScope</key>
+	<string>entropyEnvironmentDepth</string>
+	<key>notifierWithoutProxy</key>
+	<string>callbackBySingleton</string>
+	<key>serviceJobAcceleration</key>
+	<string>composableTaskRate</string>
+	<key>timerLikeShape</key>
+	<string>timerAmongMethod</string>
+</dict>
+</plist>

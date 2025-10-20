@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutPerContext</key>
+	<string>swiftUntilMemento</string>
+	<key>notifierOutsideNumber</key>
+	<string>textfieldAgainstAction</string>
+	<key>routeParameterTheme</key>
+	<string>discardedInteractorDistance</string>
+	<key>symmetricVectorShade</key>
+	<string>isolateAgainstMode</string>
+	<key>tappableGraphColor</key>
+	<string>matrixCycleOpacity</string>
+</dict>
+</plist>

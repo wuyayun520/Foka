@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowCommandDuration</key>
+	<string>commandInterpreterLeft</string>
+	<key>completerParameterFlags</key>
+	<string>awaitExceptStrategy</string>
+	<key>gesturedetectorWithoutMode</key>
+	<string>synchronousBuilderAlignment</string>
+	<key>interfaceExceptStage</key>
+	<string>disabledTickerDirection</string>
+	<key>parallelPromiseOrigin</key>
+	<string>semanticsIncludeComposite</string>
+	<key>reducerLevelShape</key>
+	<string>constraintCycleDensity</string>
+	<key>richtextContainKind</key>
+	<string>assetContainBuffer</string>
+	<key>secondTextfieldVisibility</key>
+	<string>widgetAgainstObserver</string>
+	<key>signStageCount</key>
+	<string>cacheSincePattern</string>
+</dict>
+</plist>

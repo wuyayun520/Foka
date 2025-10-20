@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchFrameworkHue</key>
+	<string>stateInParam</string>
+	<key>bulletOrMediator</key>
+	<string>largeSubpixelValidation</string>
+	<key>largeModalAppearance</key>
+	<string>scrollableLabelVisibility</string>
+	<key>liteSingletonKind</key>
+	<string>usageViaMediator</string>
+	<key>priorLayoutTint</key>
+	<string>columnMementoSpeed</string>
+	<key>sineActivityStatus</key>
+	<string>transformerAlongTask</string>
+	<key>stepCommandCenter</key>
+	<string>dedicatedNodeInterval</string>
+</dict>
+</plist>

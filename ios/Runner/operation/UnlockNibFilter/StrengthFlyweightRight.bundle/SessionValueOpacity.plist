@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFrameTheme</key>
+	<string>missedAlphaStatus</string>
+	<key>collectionStrategyFrequency</key>
+	<string>isolateStrategyName</string>
+	<key>coordinatorSingletonInteraction</key>
+	<string>cartesianQueueVisibility</string>
+	<key>cubitFacadeSpeed</key>
+	<string>curveOfSingleton</string>
+	<key>decorationAboutStrategy</key>
+	<string>grayscaleSinceChain</string>
+	<key>directlyTaskResponse</key>
+	<string>custompaintAboutOperation</string>
+	<key>plateValueSpeed</key>
+	<string>metadataFlyweightTransparency</string>
+	<key>responsiveAlphaOrigin</key>
+	<string>expandedPhaseBottom</string>
+	<key>widgetProcessDelay</key>
+	<string>normalSizePosition</string>
+</dict>
+</plist>

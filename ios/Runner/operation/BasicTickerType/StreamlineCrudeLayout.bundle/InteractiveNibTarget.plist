@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterOrPlatform</key>
+	<string>directDurationBorder</string>
+	<key>crudeEqualizationPadding</key>
+	<string>queueOutsideState</string>
+	<key>intermediateStateHead</key>
+	<string>capacitiesStatePadding</string>
+	<key>intuitiveOffsetShade</key>
+	<string>tangentTaskVelocity</string>
+	<key>playbackDespiteState</key>
+	<string>buttonDespiteDecorator</string>
+	<key>singletonTempleSaturation</key>
+	<string>semanticsIncludeScope</string>
+	<key>storageAtTier</key>
+	<string>containerAwayPhase</string>
+	<key>streamSingletonSpeed</key>
+	<string>fixedLoopSpeed</string>
+	<key>tweenLayerShape</key>
+	<string>compositionalTweenSkewx</string>
+</dict>
+</plist>

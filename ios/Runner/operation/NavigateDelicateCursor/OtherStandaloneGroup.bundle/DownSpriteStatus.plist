@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderContainDecorator</key>
+	<string>ternaryInsideTier</string>
+	<key>dynamicLoopTail</key>
+	<string>signatureWithCommand</string>
+	<key>elasticResponsePosition</key>
+	<string>sliderBesideDecorator</string>
+	<key>fusedAlphaInteraction</key>
+	<string>accessibleLayoutAlignment</string>
+	<key>routeStageTag</key>
+	<string>materialRowValidation</string>
+	<key>sortedTimerHead</key>
+	<string>subscriptionViaDecorator</string>
+	<key>tabbarLevelOffset</key>
+	<string>interactorPerLevel</string>
+	<key>topicSingletonOpacity</key>
+	<string>constraintAroundTier</string>
+</dict>
+</plist>

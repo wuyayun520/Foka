@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCubitTop</key>
+	<string>chartTypeAppearance</string>
+	<key>desktopBitrateBorder</key>
+	<string>inkwellPerPattern</string>
+	<key>providerProcessPadding</key>
+	<string>utilPlatformColor</string>
+	<key>providerStageIndex</key>
+	<string>resolverShapeName</string>
+	<key>semanticEffectMargin</key>
+	<string>logarithmAlongStructure</string>
+	<key>sequentialDescriptorBrightness</key>
+	<string>sensorOutsideComposite</string>
+	<key>substantialGateSkewx</key>
+	<string>checklistLikeState</string>
+</dict>
+</plist>

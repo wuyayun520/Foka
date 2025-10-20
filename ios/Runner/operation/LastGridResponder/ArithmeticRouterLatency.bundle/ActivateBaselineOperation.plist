@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardWithPrototype</key>
+	<string>constRowOrientation</string>
+	<key>cycleVarPadding</key>
+	<string>precisionOutsideNumber</string>
+	<key>decorationActivityContrast</key>
+	<string>sliderInterpreterSpacing</string>
+	<key>equipmentOrFacade</key>
+	<string>positionBesideCommand</string>
+	<key>permissiveTimerSkewy</key>
+	<string>tweenContextCoord</string>
+	<key>presenterParamCoord</key>
+	<string>expandedObserverShape</string>
+	<key>widgetInsideParameter</key>
+	<string>gramVariableOrigin</string>
+</dict>
+</plist>

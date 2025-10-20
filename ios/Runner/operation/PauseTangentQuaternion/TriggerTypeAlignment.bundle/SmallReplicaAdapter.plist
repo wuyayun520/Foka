@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarInStrategy</key>
+	<string>coordinatorKindLocation</string>
+	<key>autoResponseForce</key>
+	<string>completerEnvironmentForce</string>
+	<key>routeProxyTransparency</key>
+	<string>futureByActivity</string>
+	<key>stateDespiteObserver</key>
+	<string>transitionLayerRight</string>
+	<key>staticSwitchMode</key>
+	<string>groupStructureRight</string>
+	<key>utilCommandSpacing</key>
+	<string>spriteTaskInteraction</string>
+</dict>
+</plist>

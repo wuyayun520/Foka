@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferSystemBorder</key>
+	<string>cosineMementoDirection</string>
+	<key>offsetScopeSkewy</key>
+	<string>baselineThroughMediator</string>
+	<key>sceneParameterDirection</key>
+	<string>localizationByForm</string>
+	<key>sliderNearTask</key>
+	<string>sophisticatedPainterInteraction</string>
+	<key>stampAsLayer</key>
+	<string>resultFlyweightInteraction</string>
+</dict>
+</plist>

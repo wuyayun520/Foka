@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterViaJob</key>
+	<string>popupParamState</string>
+	<key>exceptionValueColor</key>
+	<string>menuViaFlyweight</string>
+	<key>layoutExceptBuffer</key>
+	<string>lostStorageOrientation</string>
+	<key>layoutThroughVisitor</key>
+	<string>brushVariableInteraction</string>
+	<key>notificationExceptObserver</key>
+	<string>swiftShapeBehavior</string>
+	<key>resourceVarStatus</key>
+	<string>metadataInMethod</string>
+	<key>routerInsideFramework</key>
+	<string>sequentialMethodSpeed</string>
+	<key>spotChainOffset</key>
+	<string>singleLossDelay</string>
+	<key>standaloneCubitTension</key>
+	<string>requiredAllocatorDelay</string>
+</dict>
+</plist>

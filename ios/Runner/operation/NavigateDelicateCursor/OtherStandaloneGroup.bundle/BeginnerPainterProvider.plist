@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProviderFrequency</key>
+	<string>navigationChainSaturation</string>
+	<key>asyncResourceValidation</key>
+	<string>intensityUntilScope</string>
+	<key>dependencyOfStructure</key>
+	<string>timerAroundMediator</string>
+	<key>durationAroundContext</key>
+	<string>imperativeModalTheme</string>
+	<key>pinchableNodeTint</key>
+	<string>reusableTableRate</string>
+	<key>queueBridgeBehavior</key>
+	<string>scaffoldWorkInteraction</string>
+	<key>queueViaValue</key>
+	<string>subtleProjectionOrientation</string>
+	<key>rowDecoratorStatus</key>
+	<string>permissiveBlocDirection</string>
+	<key>signatureAtValue</key>
+	<string>dialogsEnvironmentState</string>
+	<key>topicFormDistance</key>
+	<string>featureBeyondValue</string>
+</dict>
+</plist>

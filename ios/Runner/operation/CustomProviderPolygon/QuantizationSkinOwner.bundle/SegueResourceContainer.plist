@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryOperationTint</key>
+	<string>singleAwaitFrequency</string>
+	<key>cartesianPositionedInset</key>
+	<string>liteOffsetInterval</string>
+	<key>promiseTierTransparency</key>
+	<string>tabviewFacadeTop</string>
+	<key>sizeInsideStructure</key>
+	<string>controllerExceptMode</string>
+	<key>viewMediatorVisible</key>
+	<string>temporaryRouterOffset</string>
+</dict>
+</plist>

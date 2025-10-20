@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryInterpreterDistance</key>
+	<string>scrollDuringTask</string>
+	<key>granularResourceForce</key>
+	<string>eventWorkResponse</string>
+	<key>nextWidgetBrightness</key>
+	<string>responseAsPhase</string>
+	<key>particleAdapterMode</key>
+	<string>effectFacadeFeedback</string>
+	<key>primaryAllocatorInterval</key>
+	<string>repositoryCycleName</string>
+	<key>sortedRadioCenter</key>
+	<string>typicalIsolateSkewx</string>
+	<key>widgetEnvironmentTop</key>
+	<string>durationAwayKind</string>
+</dict>
+</plist>

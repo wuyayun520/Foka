@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modulusSingletonTransparency</key>
+	<string>responsiveActivityBottom</string>
+	<key>otherCycleSpacing</key>
+	<string>curveValueInterval</string>
+	<key>primarySubscriptionAppearance</key>
+	<string>crudeContractionScale</string>
+	<key>priorScrollBound</key>
+	<string>accessibleTransformerAcceleration</string>
+	<key>serviceFormSpacing</key>
+	<string>clipperFromStyle</string>
+	<key>touchDespiteEnvironment</key>
+	<string>awaitEnvironmentInteraction</string>
+	<key>unaryEnvironmentFlags</key>
+	<string>animatedViewVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardIncludeVariable</key>
+	<string>retainedWorkflowScale</string>
+	<key>cubitIncludeVar</key>
+	<string>navigatorAroundMediator</string>
+	<key>invisibleRichtextVisibility</key>
+	<string>routerFacadeMode</string>
+	<key>keyTangentCount</key>
+	<string>nodeThroughVar</string>
+	<key>navigatorVarAlignment</key>
+	<string>mediaqueryLikeAction</string>
+	<key>normalGraphBorder</key>
+	<string>cartesianProjectionAcceleration</string>
+	<key>responsiveTweenVisible</key>
+	<string>mobxTempleTension</string>
+	<key>sharedNavigatorVelocity</key>
+	<string>frameAlongForm</string>
+	<key>singletonExceptMediator</key>
+	<string>reductionValueName</string>
+</dict>
+</plist>

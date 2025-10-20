@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationAndStrategy</key>
+	<string>displayableApertureBound</string>
+	<key>graphicAmongStructure</key>
+	<string>requestAtMemento</string>
+	<key>hyperbolicResourceStyle</key>
+	<string>sliderFlyweightBorder</string>
+	<key>normalTaskSize</key>
+	<string>timerAmongProxy</string>
+	<key>resultBySingleton</key>
+	<string>dialogsForParam</string>
+	<key>streamAdapterPadding</key>
+	<string>routeFormIndex</string>
+</dict>
+</plist>

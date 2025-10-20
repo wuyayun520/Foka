@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateOfAction</key>
+	<string>localTransitionFrequency</string>
+	<key>chapterStrategyRight</key>
+	<string>largeIntensitySpacing</string>
+	<key>enabledScaleBehavior</key>
+	<string>unactivatedMetadataAcceleration</string>
+	<key>indicatorTierScale</key>
+	<string>logTypeDistance</string>
+	<key>parallelLogFlags</key>
+	<string>displayableNavigatorLeft</string>
+	<key>singletonDecoratorInterval</key>
+	<string>containerFrameworkSkewy</string>
+	<key>statelessStructureDirection</key>
+	<string>graphInterpreterCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStyleTheme</key>
+	<string>unsortedStampShade</string>
+	<key>hierarchicalQueueMargin</key>
+	<string>entityVersusCommand</string>
+	<key>intermediateTimerSpacing</key>
+	<string>optionSystemVisibility</string>
+	<key>memberLevelColor</key>
+	<string>queryDecoratorEdge</string>
+	<key>observerCompositeForce</key>
+	<string>specifierDespiteFlyweight</string>
+	<key>playbackBridgeBound</key>
+	<string>deferredNibDelay</string>
+	<key>relationalOverlayDuration</key>
+	<string>apertureIncludeAction</string>
+	<key>scrollableMasterFrequency</key>
+	<string>lastPopupSize</string>
+	<key>stackDuringChain</key>
+	<string>promiseBeyondActivity</string>
+</dict>
+</plist>

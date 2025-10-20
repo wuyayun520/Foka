@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopTangentShape</key>
+	<string>liteUtilTop</string>
+	<key>explicitGridviewScale</key>
+	<string>containerFlyweightSpeed</string>
+	<key>sinkAwayValue</key>
+	<string>priorReducerAcceleration</string>
+	<key>utilDespiteComposite</key>
+	<string>frameValueSpeed</string>
+</dict>
+</plist>

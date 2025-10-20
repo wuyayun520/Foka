@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorMethodFormat</key>
+	<string>hashContextRotation</string>
+	<key>dynamicPlaybackOrigin</key>
+	<string>disabledColumnSaturation</string>
+	<key>labelChainDepth</key>
+	<string>smallMenuMode</string>
+	<key>mapOutsideBridge</key>
+	<string>variantNearScope</string>
+	<key>modelContainState</key>
+	<string>uniformConsumerPadding</string>
+	<key>movementParamCenter</key>
+	<string>sinkStrategySaturation</string>
+	<key>segueContextStatus</key>
+	<string>lazyTweenOffset</string>
+	<key>streamTypeSaturation</key>
+	<string>capsuleByFlyweight</string>
+</dict>
+</plist>

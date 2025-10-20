@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorMediatorShape</key>
+	<string>staticQueueDepth</string>
+	<key>displayableSegueKind</key>
+	<string>rowFlyweightLeft</string>
+	<key>positionAndMethod</key>
+	<string>errorStyleHue</string>
+	<key>resizableAnimatedcontainerSpacing</key>
+	<string>featureAsFramework</string>
+	<key>smallButtonKind</key>
+	<string>integerContainMemento</string>
+	<key>subscriptionActionFrequency</key>
+	<string>framePlatformHead</string>
+</dict>
+</plist>

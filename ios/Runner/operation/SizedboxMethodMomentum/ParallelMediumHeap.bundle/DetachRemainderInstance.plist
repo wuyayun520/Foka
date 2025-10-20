@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedOptimizerEdge</key>
+	<string>callbackThroughAdapter</string>
+	<key>desktopLoopState</key>
+	<string>semanticRadiusPosition</string>
+	<key>discardedDelegateCount</key>
+	<string>immutableTechniqueSize</string>
+	<key>fragmentTempleTail</key>
+	<string>pivotalAllocatorSpeed</string>
+	<key>isolateCompositeFormat</key>
+	<string>exceptionVariableEdge</string>
+	<key>protectedNavigatorBrightness</key>
+	<string>alphaExceptKind</string>
+	<key>webLoopEdge</key>
+	<string>cupertinoPreviewStyle</string>
+</dict>
+</plist>

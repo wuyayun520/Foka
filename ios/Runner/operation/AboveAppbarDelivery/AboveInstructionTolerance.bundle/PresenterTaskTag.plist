@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerDespiteProcess</key>
+	<string>basicPageviewEdge</string>
+	<key>cycleVarOffset</key>
+	<string>containerModeInterval</string>
+	<key>intensityDuringProcess</key>
+	<string>cubitTaskRate</string>
+	<key>persistentHashState</key>
+	<string>statelessServiceTension</string>
+	<key>queueStructureType</key>
+	<string>assetNearNumber</string>
+	<key>sequentialMonsterSpeed</key>
+	<string>iterativeGridviewSaturation</string>
+	<key>themeFlyweightIndex</key>
+	<string>transformerSystemContrast</string>
+</dict>
+</plist>

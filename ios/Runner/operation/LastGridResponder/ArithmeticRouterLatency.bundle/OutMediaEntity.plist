@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonProcessShape</key>
+	<string>delegateExceptTier</string>
+	<key>mainListviewTint</key>
+	<string>diffableChallengeShade</string>
+	<key>movementKindVelocity</key>
+	<string>controllerAlongTemple</string>
+</dict>
+</plist>

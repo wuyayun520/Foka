@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFactoryDensity</key>
+	<string>pinchableNavigatorForce</string>
+	<key>appbarOperationValidation</key>
+	<string>specifyCommandContrast</string>
+	<key>binaryInsideSingleton</key>
+	<string>localizationPatternFlags</string>
+	<key>cursorFormBehavior</key>
+	<string>imperativeSinkPressure</string>
+	<key>featureForInterpreter</key>
+	<string>resourceAwayPrototype</string>
+	<key>labelBridgeFlags</key>
+	<string>controllerForVar</string>
+	<key>layerOrPhase</key>
+	<string>histogramWithObserver</string>
+	<key>popupAmongPlatform</key>
+	<string>menuExceptActivity</string>
+</dict>
+</plist>

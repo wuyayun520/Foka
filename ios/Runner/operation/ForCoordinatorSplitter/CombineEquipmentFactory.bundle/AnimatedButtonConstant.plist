@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocLayerOrigin</key>
+	<string>deferredPreviewOrientation</string>
+	<key>borderBeyondFunction</key>
+	<string>widgetShapeAlignment</string>
+	<key>commandFrameworkAcceleration</key>
+	<string>futureOrEnvironment</string>
+	<key>directExceptionColor</key>
+	<string>observerAroundScope</string>
+	<key>gramMementoStatus</key>
+	<string>uniqueGesturedetectorBehavior</string>
+	<key>navigatorJobPadding</key>
+	<string>sliderExceptDecorator</string>
+	<key>reducerVarScale</key>
+	<string>cubitLevelBound</string>
+	<key>routeTaskDirection</key>
+	<string>memberStructureCount</string>
+	<key>sinkEnvironmentTop</key>
+	<string>cubitAsShape</string>
+	<key>unactivatedLabelInset</key>
+	<string>liteTextDistance</string>
+</dict>
+</plist>

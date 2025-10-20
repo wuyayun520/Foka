@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationNearStage</key>
+	<string>exponentVarFrequency</string>
+	<key>denseGridFeedback</key>
+	<string>segueScopePressure</string>
+	<key>discardedAllocatorPressure</key>
+	<string>handlerForVariable</string>
+	<key>requestPatternPosition</key>
+	<string>channelsEnvironmentRotation</string>
+	<key>riverpodChainDirection</key>
+	<string>methodThroughStyle</string>
+	<key>segmentMediatorPressure</key>
+	<string>presenterAgainstSingleton</string>
+	<key>switchWithoutInterpreter</key>
+	<string>serviceChainDepth</string>
+</dict>
+</plist>

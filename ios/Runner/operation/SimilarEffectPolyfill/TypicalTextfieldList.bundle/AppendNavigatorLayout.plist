@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAmongComposite</key>
+	<string>materialSpineHead</string>
+	<key>channelInsideBridge</key>
+	<string>signOrBridge</string>
+	<key>dimensionAgainstDecorator</key>
+	<string>persistentControllerTransparency</string>
+	<key>directCubitForce</key>
+	<string>streamWithoutEnvironment</string>
+	<key>ephemeralBlocHue</key>
+	<string>crucialMenuCenter</string>
+	<key>exponentTypeInset</key>
+	<string>managerVersusPhase</string>
+	<key>semanticCompleterOrientation</key>
+	<string>dimensionDespiteCommand</string>
+</dict>
+</plist>

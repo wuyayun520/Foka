@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineOutsideBuffer</key>
+	<string>routerThroughSingleton</string>
+	<key>coordinatorMementoStyle</key>
+	<string>specifyLogarithmFlags</string>
+	<key>crudePainterRate</key>
+	<string>dropdownbuttonShapeFeedback</string>
+	<key>permanentDecorationInterval</key>
+	<string>oldThemeInterval</string>
+	<key>queueFromFramework</key>
+	<string>streamTypeTail</string>
+	<key>taskStrategyLeft</key>
+	<string>iterativeLayoutOffset</string>
+	<key>textOrMode</key>
+	<string>elasticProfileContrast</string>
+	<key>unaryVarFrequency</key>
+	<string>serviceTaskName</string>
+</dict>
+</plist>

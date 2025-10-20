@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocLayerTension</key>
+	<string>cardBesideEnvironment</string>
+	<key>buttonAgainstAdapter</key>
+	<string>priorFrameTint</string>
+	<key>previewMediatorTheme</key>
+	<string>constraintAgainstStage</string>
+	<key>radiusProxyVisible</key>
+	<string>criticalPaddingAlignment</string>
+	<key>reactiveStoreCount</key>
+	<string>ignoredControllerAcceleration</string>
+	<key>routeLevelOrientation</key>
+	<string>greatBuilderAcceleration</string>
+	<key>subpixelStructureInteraction</key>
+	<string>serviceThanStage</string>
+</dict>
+</plist>

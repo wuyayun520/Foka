@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnAsBridge</key>
+	<string>alphaVariableBound</string>
+	<key>directTabviewTheme</key>
+	<string>roleByState</string>
+	<key>gesturedetectorForSingleton</key>
+	<string>brushLayerHead</string>
+	<key>primaryHeapInterval</key>
+	<string>alertValueCoord</string>
+	<key>semanticCurvePadding</key>
+	<string>beginnerRowDirection</string>
+	<key>streamObserverMargin</key>
+	<string>durationStrategyTail</string>
+</dict>
+</plist>

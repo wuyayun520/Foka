@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianGroupLocation</key>
+	<string>imperativeKernelLeft</string>
+	<key>constraintVarBehavior</key>
+	<string>actionParamName</string>
+	<key>interfaceDespiteAction</key>
+	<string>petOutsideValue</string>
+	<key>intermediateReducerForce</key>
+	<string>transitionUntilFunction</string>
+	<key>signatureAboutPattern</key>
+	<string>eventShapeDuration</string>
+	<key>streamByOperation</key>
+	<string>coordinatorSingletonBound</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateKindScale</key>
+	<string>concurrentConvolutionFeedback</string>
+	<key>crudeHashDirection</key>
+	<string>particleProcessState</string>
+	<key>nativeBufferState</key>
+	<string>denseAnchorBrightness</string>
+	<key>persistentExceptionOrientation</key>
+	<string>permanentCompleterRate</string>
+	<key>petStrategyVisibility</key>
+	<string>switchAgainstContext</string>
+	<key>sequentialRequestOpacity</key>
+	<string>smartCheckboxFormat</string>
+	<key>subscriptionNearMethod</key>
+	<string>routerLayerAcceleration</string>
+	<key>threadPerPrototype</key>
+	<string>signCompositeSpacing</string>
+	<key>transitionCycleMomentum</key>
+	<string>sizeFromNumber</string>
+</dict>
+</plist>

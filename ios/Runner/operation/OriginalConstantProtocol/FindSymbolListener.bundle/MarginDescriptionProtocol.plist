@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAroundChain</key>
+	<string>stateDuringPlatform</string>
+	<key>delegateAroundKind</key>
+	<string>customRectDepth</string>
+	<key>easyScrollMode</key>
+	<string>operationAmongActivity</string>
+	<key>immutableModelName</key>
+	<string>singleNotifierResponse</string>
+	<key>interfaceAsBridge</key>
+	<string>diffablePreviewOpacity</string>
+	<key>reducerActivityOrigin</key>
+	<string>firstErrorInset</string>
+	<key>reusableFrameCount</key>
+	<string>reducerObserverSkewy</string>
+	<key>sceneSingletonMargin</key>
+	<string>exceptionWithProcess</string>
+	<key>sliderProxyFrequency</key>
+	<string>providerWithLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarUntilComposite</key>
+	<string>iterativeLayoutResponse</string>
+	<key>concurrentPopupFlags</key>
+	<string>gridMementoSpeed</string>
+	<key>dependencyAdapterDirection</key>
+	<string>priorFrameTag</string>
+	<key>intermediateGrainRotation</key>
+	<string>cubitOrBridge</string>
+	<key>keyQueryRotation</key>
+	<string>secondViewFeedback</string>
+	<key>nativeSkirtLeft</key>
+	<string>buttonBesideLevel</string>
+	<key>navigatorCommandAcceleration</key>
+	<string>textureOfPrototype</string>
+	<key>routerSingletonInterval</key>
+	<string>hashFlyweightSpeed</string>
+</dict>
+</plist>

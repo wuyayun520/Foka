@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderThanSingleton</key>
+	<string>constraintBeyondMediator</string>
+	<key>desktopAxisStyle</key>
+	<string>interactorWithBridge</string>
+	<key>grainTierBrightness</key>
+	<string>vectorAmongVisitor</string>
+	<key>logarithmInActivity</key>
+	<string>hashThanParam</string>
+	<key>overlayOfJob</key>
+	<string>seamlessBlocShape</string>
+</dict>
+</plist>

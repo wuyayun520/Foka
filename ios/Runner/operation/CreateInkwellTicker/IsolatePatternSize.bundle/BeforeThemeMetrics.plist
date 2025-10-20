@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedSkirtBottom</key>
+	<string>gesturedetectorStyleTint</string>
+	<key>handlerDespiteCommand</key>
+	<string>operationTypeEdge</string>
+	<key>listviewStageFormat</key>
+	<string>directlyObserverFeedback</string>
+	<key>musicCommandPadding</key>
+	<string>callbackSingletonTheme</string>
+	<key>popupKindVelocity</key>
+	<string>techniqueOfCycle</string>
+	<key>responsiveHashSkewx</key>
+	<string>statefulConsumerTag</string>
+	<key>routeWithoutType</key>
+	<string>groupForProcess</string>
+	<key>tickerProxyFormat</key>
+	<string>decorationDespiteAction</string>
+</dict>
+</plist>

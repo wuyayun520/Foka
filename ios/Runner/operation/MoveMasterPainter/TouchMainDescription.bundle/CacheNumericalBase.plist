@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticViaNumber</key>
+	<string>switchAboutKind</string>
+	<key>constraintMementoBehavior</key>
+	<string>mainExceptionBottom</string>
+	<key>lastPlaybackState</key>
+	<string>listviewStrategyMode</string>
+	<key>numericalErrorVisibility</key>
+	<string>parallelSensorAppearance</string>
+	<key>usecaseAgainstFunction</key>
+	<string>completionEnvironmentPressure</string>
+	<key>vectorAgainstBridge</key>
+	<string>playbackParamType</string>
+</dict>
+</plist>

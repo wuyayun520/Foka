@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonInsideAction</key>
+	<string>heroBesideActivity</string>
+	<key>indicatorStrategyKind</key>
+	<string>awaitAdapterTension</string>
+	<key>isolateTypeFlags</key>
+	<string>resourcePhaseBottom</string>
+	<key>transitionVisitorRight</key>
+	<string>staticFactoryCoord</string>
+	<key>usageWithoutValue</key>
+	<string>cupertinoRiverpodInteraction</string>
+	<key>workflowCommandOpacity</key>
+	<string>requestAgainstActivity</string>
+</dict>
+</plist>

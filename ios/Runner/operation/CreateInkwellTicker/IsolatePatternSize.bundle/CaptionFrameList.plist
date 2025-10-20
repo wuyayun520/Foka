@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFutureType</key>
+	<string>certificateExceptSingleton</string>
+	<key>extensionDespiteDecorator</key>
+	<string>stepAsProxy</string>
+	<key>greatLabelState</key>
+	<string>boxshadowEnvironmentMode</string>
+	<key>imperativeBulletVisible</key>
+	<string>axisNumberPosition</string>
+	<key>listenerExceptVar</key>
+	<string>commandDespiteFlyweight</string>
+	<key>menuAtShape</key>
+	<string>transitionInInterpreter</string>
+	<key>momentumFlyweightBottom</key>
+	<string>standaloneEventTag</string>
+	<key>spriteStateEdge</key>
+	<string>discardedCollectionTension</string>
+	<key>transitionMethodSpeed</key>
+	<string>opaqueStoreVisible</string>
+</dict>
+</plist>

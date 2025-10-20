@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexMediatorFormat</key>
+	<string>keyTernaryInteraction</string>
+	<key>multiOperationState</key>
+	<string>groupAndStrategy</string>
+	<key>skirtValueStyle</key>
+	<string>titleInFlyweight</string>
+	<key>webListviewState</key>
+	<string>rowAmongLevel</string>
+</dict>
+</plist>

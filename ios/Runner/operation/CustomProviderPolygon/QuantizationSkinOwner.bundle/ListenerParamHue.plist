@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionStructureStatus</key>
+	<string>prismaticIntegerTint</string>
+	<key>sceneThroughKind</key>
+	<string>particleParameterCenter</string>
+	<key>specifierOrCommand</key>
+	<string>modulusByVariable</string>
+	<key>spriteSystemResponse</key>
+	<string>buttonAmongJob</string>
+</dict>
+</plist>

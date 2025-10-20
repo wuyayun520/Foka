@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerByBridge</key>
+	<string>routeViaActivity</string>
+	<key>dynamicTopicResponse</key>
+	<string>resourceOutsideSystem</string>
+	<key>interpolationSystemDepth</key>
+	<string>sensorAwaySystem</string>
+	<key>precisionAgainstJob</key>
+	<string>accordionProgressbarCoord</string>
+	<key>remainderVersusActivity</key>
+	<string>directlyChartFeedback</string>
+	<key>resilientSampleState</key>
+	<string>stateAwayFramework</string>
+	<key>symmetricMediaBottom</key>
+	<string>bulletLayerLocation</string>
+</dict>
+</plist>

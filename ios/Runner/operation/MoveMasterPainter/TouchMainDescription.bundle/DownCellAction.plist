@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeReductionFormat</key>
+	<string>sinkDuringObserver</string>
+	<key>frameIncludeVar</key>
+	<string>materialTabbarDirection</string>
+	<key>gridviewFacadeAlignment</key>
+	<string>notificationScopeShape</string>
+	<key>isolateContextSpacing</key>
+	<string>concurrentCurveValidation</string>
+	<key>methodStyleDirection</key>
+	<string>materialWidgetState</string>
+	<key>viewAtVisitor</key>
+	<string>precisionTierColor</string>
+</dict>
+</plist>

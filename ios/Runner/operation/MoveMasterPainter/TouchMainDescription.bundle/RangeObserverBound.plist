@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveInSingleton</key>
+	<string>rectAndPrototype</string>
+	<key>draggableEffectStyle</key>
+	<string>resizableButtonDirection</string>
+	<key>sceneStageAlignment</key>
+	<string>nativeLayoutRight</string>
+	<key>usecaseInInterpreter</key>
+	<string>zoneDuringVariable</string>
+</dict>
+</plist>

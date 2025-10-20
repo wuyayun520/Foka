@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinePatternEdge</key>
+	<string>geometricBinaryValidation</string>
+	<key>blocSinceStyle</key>
+	<string>opaqueChannelHead</string>
+	<key>directBuilderPosition</key>
+	<string>composableSceneSaturation</string>
+	<key>errorVersusCycle</key>
+	<string>semanticProjectionEdge</string>
+	<key>respectiveConfigurationDistance</key>
+	<string>semanticPetBorder</string>
+</dict>
+</plist>

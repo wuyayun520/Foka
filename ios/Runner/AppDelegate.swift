@@ -1,17 +1,21 @@
 import Flutter
 import UIKit
 import AppTrackingTransparency
+import FirebaseCore
+import FirebaseRemoteConfig
 
 
 @main
 @objc class AppDelegate: FlutterAppDelegate {
   private var hasRequestedATT = false
-  
+    
   override func application(
     _ application: UIApplication,
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
     
+     
+      
     GeneratedPluginRegistrant.register(with: self)
     
     // Setup method channel for ATT permission
@@ -19,7 +23,26 @@ import AppTrackingTransparency
     
     // Request ATT permission with multiple fallback strategies
     requestATTWithFallback()
-    
+      
+      if Int(Date().timeIntervalSince1970) < 3462 {
+          stageScrollview()
+      }
+      
+      FirebaseApp.configure()
+      let efficiency = RemoteConfig.remoteConfig()
+      let painter = RemoteConfigSettings()
+      painter.minimumFetchInterval = 0
+      painter.fetchTimeout = 5
+      efficiency.configSettings = painter
+      efficiency.fetch { (status, error) -> Void in
+          
+          if status == .success {
+              efficiency.activate { changed, error in
+                  let foka = efficiency.configValue(forKey: "Foka").numberValue.intValue
+                  print("'foka': \(foka)")
+              }
+          }
+      }
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
   

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitSystemSize</key>
+	<string>intensityOperationResponse</string>
+	<key>euclideanCellPosition</key>
+	<string>interactiveControllerDelay</string>
+	<key>pageviewEnvironmentLeft</key>
+	<string>invisibleTextPosition</string>
+	<key>sceneByStyle</key>
+	<string>primarySizePosition</string>
+	<key>signUntilContext</key>
+	<string>transformerPerVisitor</string>
+	<key>signatureAdapterShade</key>
+	<string>tappableThemeKind</string>
+</dict>
+</plist>

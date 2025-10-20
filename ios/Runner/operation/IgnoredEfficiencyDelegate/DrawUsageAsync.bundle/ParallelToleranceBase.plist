@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoInterpreterFeedback</key>
+	<string>popupCycleInset</string>
+	<key>entityLevelHead</key>
+	<string>tabbarAroundParam</string>
+	<key>futureWithoutMemento</key>
+	<string>statelessOperationBottom</string>
+	<key>mobxVersusMemento</key>
+	<string>challengeShapeShape</string>
+	<key>nodePlatformHead</key>
+	<string>responsiveControllerAcceleration</string>
+	<key>sharedLayoutSpacing</key>
+	<string>delegateFormHead</string>
+	<key>stackNearShape</key>
+	<string>observerPerShape</string>
+</dict>
+</plist>

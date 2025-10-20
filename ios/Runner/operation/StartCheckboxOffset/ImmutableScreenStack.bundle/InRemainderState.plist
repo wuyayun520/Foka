@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPreviewInterval</key>
+	<string>interactorPerOperation</string>
+	<key>alignmentThroughType</key>
+	<string>tappableLayerShape</string>
+	<key>easyLabelOrientation</key>
+	<string>localizationOutsideBridge</string>
+	<key>pivotalResourceTag</key>
+	<string>touchStateKind</string>
+	<key>switchPhaseColor</key>
+	<string>featureBufferBehavior</string>
+	<key>symbolBufferHue</key>
+	<string>profileNumberCount</string>
+	<key>themeSystemTail</key>
+	<string>tweenThroughVisitor</string>
+	<key>webGraphResponse</key>
+	<string>imageLikeMemento</string>
+</dict>
+</plist>

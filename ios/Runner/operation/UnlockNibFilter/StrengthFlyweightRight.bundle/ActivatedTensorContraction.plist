@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheAdapterKind</key>
+	<string>resourceValueTag</string>
+	<key>currentProjectionStyle</key>
+	<string>animationStrategyVisible</string>
+	<key>gridviewEnvironmentMargin</key>
+	<string>alertPhaseKind</string>
+	<key>interfaceActionBrightness</key>
+	<string>sceneParamInteraction</string>
+	<key>mapOfStrategy</key>
+	<string>disabledBlocSaturation</string>
+	<key>particleValueRight</key>
+	<string>operationCompositeMode</string>
+	<key>prevSymbolRate</key>
+	<string>independentColumnMode</string>
+	<key>typicalPainterOrientation</key>
+	<string>singleSliderBottom</string>
+</dict>
+</plist>

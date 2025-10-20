@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferBeyondSingleton</key>
+	<string>segmentAroundMode</string>
+	<key>bulletAndType</key>
+	<string>uniquePopupLocation</string>
+	<key>custompaintPerPhase</key>
+	<string>offsetStyleMargin</string>
+	<key>dimensionThroughShape</key>
+	<string>masterThroughKind</string>
+	<key>projectStyleCenter</key>
+	<string>layoutDuringMemento</string>
+	<key>semanticZoneCoord</key>
+	<string>immediateSkinShade</string>
+</dict>
+</plist>

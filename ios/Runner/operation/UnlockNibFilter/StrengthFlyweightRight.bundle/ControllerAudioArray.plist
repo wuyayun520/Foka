@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsStructureBottom</key>
+	<string>sharedVectorEdge</string>
+	<key>ignoredSkinDelay</key>
+	<string>cosineBridgeBrightness</string>
+	<key>mediaqueryWithoutParameter</key>
+	<string>storageCycleScale</string>
+	<key>skirtProcessVisibility</key>
+	<string>pinchableTransitionContrast</string>
+	<key>spriteThroughChain</key>
+	<string>zoneFromPlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAssetVelocity</key>
+	<string>constraintAdapterLeft</string>
+	<key>compositionalTweenMode</key>
+	<string>discardedBlocScale</string>
+	<key>currentViewPadding</key>
+	<string>liteThreadType</string>
+	<key>grainAgainstSingleton</key>
+	<string>menuFrameworkVisibility</string>
+	<key>interfaceViaKind</key>
+	<string>workflowNearMode</string>
+	<key>scaleAtBridge</key>
+	<string>capsuleValueBehavior</string>
+	<key>symmetricConsumerInterval</key>
+	<string>iconAlongKind</string>
+</dict>
+</plist>

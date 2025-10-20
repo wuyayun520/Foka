@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableEventBehavior</key>
+	<string>anchorPlatformDensity</string>
+	<key>easyRemainderHead</key>
+	<string>scaleViaPlatform</string>
+	<key>heapVarOffset</key>
+	<string>clipperVariableDensity</string>
+	<key>immediateBufferCenter</key>
+	<string>textureCompositeKind</string>
+	<key>invisiblePetSpacing</key>
+	<string>resultBridgeBrightness</string>
+	<key>iterativeDelegateIndex</key>
+	<string>sliderIncludeMethod</string>
+	<key>precisionAlongLevel</key>
+	<string>futureFacadeCount</string>
+	<key>subscriptionOutsideStructure</key>
+	<string>tensorMomentumRotation</string>
+	<key>unsortedSliderFlags</key>
+	<string>immutableRadiusLeft</string>
+</dict>
+</plist>

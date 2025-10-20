@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionPerValue</key>
+	<string>topicFlyweightScale</string>
+	<key>graphSinceStyle</key>
+	<string>liteNavigatorEdge</string>
+	<key>intermediateDependencyCoord</key>
+	<string>segueOrMediator</string>
+	<key>lazyMomentumIndex</key>
+	<string>backwardBuilderRate</string>
+	<key>mediumSubpixelTail</key>
+	<string>eventBeyondJob</string>
+	<key>offsetAwayKind</key>
+	<string>methodInterpreterSaturation</string>
+</dict>
+</plist>

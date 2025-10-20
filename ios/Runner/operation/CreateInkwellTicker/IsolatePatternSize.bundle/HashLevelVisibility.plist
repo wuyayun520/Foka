@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationFunctionScale</key>
+	<string>featureVersusStyle</string>
+	<key>equalizationByOperation</key>
+	<string>stepForType</string>
+	<key>euclideanColumnOffset</key>
+	<string>visibleContainerRotation</string>
+	<key>notificationPhaseColor</key>
+	<string>behaviorContainStrategy</string>
+	<key>requestOutsideState</key>
+	<string>particleIncludeJob</string>
+	<key>semanticCurveName</key>
+	<string>autoUsageSkewy</string>
+</dict>
+</plist>

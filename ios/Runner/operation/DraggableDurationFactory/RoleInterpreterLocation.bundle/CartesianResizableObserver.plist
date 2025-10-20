@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveHandlerLocation</key>
+	<string>alphaContextFormat</string>
+	<key>asyncChapterBrightness</key>
+	<string>diffableRowCenter</string>
+	<key>completerJobCenter</key>
+	<string>actionCommandDuration</string>
+	<key>contractionCycleEdge</key>
+	<string>semanticCallbackCount</string>
+	<key>smartCursorInteraction</key>
+	<string>binaryTempleType</string>
+	<key>usedSinkInteraction</key>
+	<string>repositoryVersusScope</string>
+</dict>
+</plist>

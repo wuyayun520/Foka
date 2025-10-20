@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleChartCenter</key>
+	<string>positionBeyondTask</string>
+	<key>pageviewBeyondSingleton</key>
+	<string>newestGraphContrast</string>
+	<key>semanticCoordinatorSaturation</key>
+	<string>titleOutsideStructure</string>
+	<key>tableParamColor</key>
+	<string>mapCycleDuration</string>
+</dict>
+</plist>

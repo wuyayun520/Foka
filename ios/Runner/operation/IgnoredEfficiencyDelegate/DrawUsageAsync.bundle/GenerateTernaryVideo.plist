@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalPreviewDelay</key>
+	<string>materialThanFunction</string>
+	<key>originalConstraintType</key>
+	<string>sliderCyclePadding</string>
+	<key>singletonKindLocation</key>
+	<string>topicAboutPattern</string>
+	<key>usedRouteColor</key>
+	<string>primaryControllerInteraction</string>
+</dict>
+</plist>

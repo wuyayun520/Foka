@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStructureIndex</key>
+	<string>prevGateTail</string>
+	<key>displayableStackOffset</key>
+	<string>blocAgainstProxy</string>
+	<key>dynamicPreviewCoord</key>
+	<string>rectInMode</string>
+	<key>gridStructureHead</key>
+	<string>positionContextFlags</string>
+	<key>nativeMaterialFrequency</key>
+	<string>brushPatternState</string>
+	<key>queueWithoutCycle</key>
+	<string>accessoryAwayFlyweight</string>
+	<key>reductionSinceDecorator</key>
+	<string>viewWithoutProxy</string>
+	<key>tangentDespitePlatform</key>
+	<string>fusedConfigurationState</string>
+	<key>transitionFromAdapter</key>
+	<string>activatedNotificationTransparency</string>
+	<key>utilStateSaturation</key>
+	<string>errorBufferFeedback</string>
+</dict>
+</plist>

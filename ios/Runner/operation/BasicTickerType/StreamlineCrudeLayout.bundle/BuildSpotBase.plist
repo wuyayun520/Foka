@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileBufferLocation</key>
+	<string>cartesianIndicatorIndex</string>
+	<key>concurrentChartDuration</key>
+	<string>cosineCycleRight</string>
+	<key>descriptionContextAcceleration</key>
+	<string>futureShapeDepth</string>
+	<key>directlySymbolCoord</key>
+	<string>providerFlyweightKind</string>
+	<key>invisibleSensorState</key>
+	<string>associatedMissionDelay</string>
+	<key>mediaLayerContrast</key>
+	<string>nodeCycleRight</string>
+	<key>reductionMethodAppearance</key>
+	<string>memberFrameworkContrast</string>
+	<key>screenViaCycle</key>
+	<string>skinPatternTop</string>
+	<key>singletonWithValue</key>
+	<string>associatedInterpolationSaturation</string>
+</dict>
+</plist>

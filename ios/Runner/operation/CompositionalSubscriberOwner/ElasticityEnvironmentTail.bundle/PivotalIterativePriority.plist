@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncLayerAppearance</key>
+	<string>similarDecorationState</string>
+	<key>deferredResultMode</key>
+	<string>secondCharacterDepth</string>
+	<key>materialThroughScope</key>
+	<string>bufferProxyDelay</string>
+	<key>menuChainAcceleration</key>
+	<string>localizationModeFlags</string>
+	<key>remainderProcessBehavior</key>
+	<string>descriptionUntilState</string>
+	<key>signLevelDirection</key>
+	<string>resultMethodRight</string>
+</dict>
+</plist>

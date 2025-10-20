@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAroundProxy</key>
+	<string>effectChainIndex</string>
+	<key>arithmeticSkirtIndex</key>
+	<string>menuEnvironmentBrightness</string>
+	<key>brushBridgeMomentum</key>
+	<string>sharedDependencyRate</string>
+	<key>enabledLabelSpeed</key>
+	<string>layoutFlyweightShape</string>
+	<key>factoryDuringState</key>
+	<string>handlerPhaseDepth</string>
+	<key>newestResourceBrightness</key>
+	<string>currentProtocolShade</string>
+	<key>nextConstraintForce</key>
+	<string>overlayDespiteState</string>
+	<key>segueAtScope</key>
+	<string>repositoryAsMethod</string>
+</dict>
+</plist>

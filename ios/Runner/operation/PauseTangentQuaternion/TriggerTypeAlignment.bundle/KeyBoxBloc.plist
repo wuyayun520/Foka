@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardLabelKind</key>
+	<string>callbackFacadeInset</string>
+	<key>clipperFlyweightCount</key>
+	<string>listenerSingletonShape</string>
+	<key>completerTierSpacing</key>
+	<string>streamModeMargin</string>
+	<key>fusedEquipmentShade</key>
+	<string>serviceFlyweightResponse</string>
+	<key>intuitiveExceptionPadding</key>
+	<string>uniqueObserverShade</string>
+	<key>normInChain</key>
+	<string>scaleVariableRight</string>
+	<key>semanticChannelOrientation</key>
+	<string>uniqueSessionBehavior</string>
+	<key>shaderParameterPosition</key>
+	<string>materialWidgetCoord</string>
+	<key>similarTransformerRate</key>
+	<string>memberSingletonLeft</string>
+</dict>
+</plist>

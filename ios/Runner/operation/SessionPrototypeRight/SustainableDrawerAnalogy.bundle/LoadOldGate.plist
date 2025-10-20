@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventUntilLayer</key>
+	<string>scaleTypeRotation</string>
+	<key>granularBlocVelocity</key>
+	<string>gridAgainstParameter</string>
+	<key>heapSingletonDensity</key>
+	<string>constraintDuringMemento</string>
+	<key>largeBaseRight</key>
+	<string>globalTextureInset</string>
+	<key>responsiveSineRight</key>
+	<string>permissiveHeroValidation</string>
+	<key>slashLevelVisibility</key>
+	<string>futureStructurePressure</string>
+	<key>swiftByActivity</key>
+	<string>providerModeDepth</string>
+</dict>
+</plist>

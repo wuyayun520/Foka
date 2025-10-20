@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderStyleValidation</key>
+	<string>graphicAroundTask</string>
+	<key>containerMethodAlignment</key>
+	<string>presenterBeyondParam</string>
+	<key>painterMediatorStyle</key>
+	<string>subpixelInsideJob</string>
+	<key>projectAtStrategy</key>
+	<string>multiplicationAlongParam</string>
+	<key>uniqueOptimizerDepth</key>
+	<string>semanticsDuringStyle</string>
+</dict>
+</plist>

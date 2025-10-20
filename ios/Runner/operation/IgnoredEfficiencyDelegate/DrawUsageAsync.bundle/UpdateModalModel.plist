@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAndComposite</key>
+	<string>dropdownbuttonInsideStructure</string>
+	<key>grayscaleStageSpeed</key>
+	<string>iconAgainstJob</string>
+	<key>intermediateStoryboardInterval</key>
+	<string>factoryWorkLocation</string>
+	<key>previewFunctionFlags</key>
+	<string>tabbarByFacade</string>
+	<key>screenLikePlatform</key>
+	<string>heroFacadeTag</string>
+	<key>widgetByEnvironment</key>
+	<string>momentumOrProxy</string>
+</dict>
+</plist>

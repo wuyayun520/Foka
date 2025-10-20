@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSymbolTheme</key>
+	<string>robustConstraintVisible</string>
+	<key>effectSingletonStatus</key>
+	<string>queryStageFormat</string>
+	<key>inactiveAsyncFrequency</key>
+	<string>dropdownbuttonPatternSize</string>
+	<key>interfaceBufferTag</key>
+	<string>bulletSystemDuration</string>
+	<key>missedCaptionTheme</key>
+	<string>previewActionFormat</string>
+	<key>roleValueFlags</key>
+	<string>featureNumberSize</string>
+	<key>scaffoldFromStage</key>
+	<string>tickerTierAcceleration</string>
+	<key>standaloneModulusBottom</key>
+	<string>iterativeSwiftMomentum</string>
+</dict>
+</plist>

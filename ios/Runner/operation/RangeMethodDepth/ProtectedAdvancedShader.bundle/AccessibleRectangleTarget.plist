@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationMediatorPressure</key>
+	<string>scaleAgainstLevel</string>
+	<key>aspectratioThroughInterpreter</key>
+	<string>bufferThroughPrototype</string>
+	<key>canvasFunctionLeft</key>
+	<string>lazyMenuFeedback</string>
+	<key>clipperAndCycle</key>
+	<string>transitionBufferLeft</string>
+	<key>diffableNibForce</key>
+	<string>protectedLogInteraction</string>
+	<key>inheritedTransitionOrientation</key>
+	<string>equalizationDecoratorRate</string>
+	<key>sustainableErrorRotation</key>
+	<string>mobileDimensionTension</string>
+	<key>widgetStructureContrast</key>
+	<string>storyboardAboutMethod</string>
+</dict>
+</plist>

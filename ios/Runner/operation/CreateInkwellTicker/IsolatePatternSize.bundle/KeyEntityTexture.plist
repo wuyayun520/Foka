@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectWorkRotation</key>
+	<string>mobileRiverpodBound</string>
+	<key>greatProgressbarHead</key>
+	<string>bufferBeyondPattern</string>
+	<key>widgetPrototypeSkewy</key>
+	<string>aspectratioUntilDecorator</string>
+</dict>
+</plist>

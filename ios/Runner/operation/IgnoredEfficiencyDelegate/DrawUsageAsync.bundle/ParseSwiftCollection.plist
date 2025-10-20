@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRoleStyle</key>
+	<string>bitrateWithoutComposite</string>
+	<key>coordinatorStrategyDirection</key>
+	<string>stackWorkRotation</string>
+	<key>durationChainSpacing</key>
+	<string>statelessClipperMargin</string>
+	<key>explicitQueueTop</key>
+	<string>alignmentAwayShape</string>
+	<key>featureNearJob</key>
+	<string>arithmeticInterpreterSize</string>
+	<key>mapDuringAction</key>
+	<string>actionViaCommand</string>
+	<key>musicAboutProxy</key>
+	<string>invisibleAllocatorFlags</string>
+	<key>remainderLevelAlignment</key>
+	<string>memberEnvironmentAlignment</string>
+	<key>scrollableChartForce</key>
+	<string>requiredRequestBrightness</string>
+	<key>stateFormVisible</key>
+	<string>layoutAlongState</string>
+</dict>
+</plist>

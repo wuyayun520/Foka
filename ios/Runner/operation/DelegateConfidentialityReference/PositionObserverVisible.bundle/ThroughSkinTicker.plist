@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalLabelDelay</key>
+	<string>coordinatorMethodBehavior</string>
+	<key>previewFlyweightDensity</key>
+	<string>coordinatorFormSize</string>
+	<key>previewFrameworkSkewy</key>
+	<string>plateAsSingleton</string>
+	<key>routeMediatorFlags</key>
+	<string>unactivatedTernaryTransparency</string>
+	<key>rowDuringActivity</key>
+	<string>delicatePositionedBound</string>
+</dict>
+</plist>

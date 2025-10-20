@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarBufferSaturation</key>
+	<string>reactiveLossState</string>
+	<key>disabledSizedboxBottom</key>
+	<string>handlerBeyondComposite</string>
+	<key>eagerRequestBrightness</key>
+	<string>graphChainAppearance</string>
+	<key>intuitivePlateMode</key>
+	<string>newestMetadataBound</string>
+	<key>localizationKindDistance</key>
+	<string>mediumBlocDelay</string>
+	<key>observerAroundJob</key>
+	<string>utilLevelShape</string>
+	<key>sampleLikeValue</key>
+	<string>listenerForCycle</string>
+	<key>storeAmongScope</key>
+	<string>sceneAboutBridge</string>
+</dict>
+</plist>

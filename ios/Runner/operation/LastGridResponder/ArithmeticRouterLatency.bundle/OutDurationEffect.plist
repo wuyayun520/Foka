@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAboutSystem</key>
+	<string>threadBufferAppearance</string>
+	<key>checkboxAroundValue</key>
+	<string>notificationMementoKind</string>
+	<key>largeBitrateTail</key>
+	<string>referenceVersusNumber</string>
+	<key>taskSinceFunction</key>
+	<string>integerPatternPadding</string>
+</dict>
+</plist>

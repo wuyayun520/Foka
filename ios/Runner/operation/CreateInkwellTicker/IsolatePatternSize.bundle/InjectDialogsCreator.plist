@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveObserverTheme</key>
+	<string>mapActivityHead</string>
+	<key>flexibleResolverShape</key>
+	<string>scrollAroundInterpreter</string>
+	<key>histogramSinceCommand</key>
+	<string>persistentGridOffset</string>
+	<key>lastInteractorFrequency</key>
+	<string>spotVarOrientation</string>
+	<key>semanticsTierTop</key>
+	<string>mainAssetHue</string>
+	<key>statefulStreamRate</key>
+	<string>streamFacadeValidation</string>
+</dict>
+</plist>

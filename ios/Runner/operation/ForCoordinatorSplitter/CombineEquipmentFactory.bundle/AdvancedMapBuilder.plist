@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineNumberFormat</key>
+	<string>layoutInsideAdapter</string>
+	<key>scaleIncludeChain</key>
+	<string>indicatorOrState</string>
+	<key>signatureOrDecorator</key>
+	<string>operationSinceVar</string>
+	<key>synchronousTextureStatus</key>
+	<string>spriteOfParameter</string>
+	<key>tangentUntilStrategy</key>
+	<string>dynamicUnaryDelay</string>
+	<key>textScopePadding</key>
+	<string>textInVariable</string>
+</dict>
+</plist>

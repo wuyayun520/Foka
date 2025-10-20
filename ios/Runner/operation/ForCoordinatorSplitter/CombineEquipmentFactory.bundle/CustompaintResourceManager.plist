@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintBeyondLevel</key>
+	<string>localizationLayerVisibility</string>
+	<key>heroExceptPhase</key>
+	<string>graphTaskScale</string>
+	<key>layoutCompositeRight</key>
+	<string>checklistUntilBuffer</string>
+	<key>monsterInNumber</key>
+	<string>cubitDuringSingleton</string>
+	<key>offsetWithoutVar</key>
+	<string>rectSingletonScale</string>
+	<key>particleExceptInterpreter</key>
+	<string>queryContextValidation</string>
+	<key>relationalOverlaySkewy</key>
+	<string>optimizerFormState</string>
+	<key>sliderFromParameter</key>
+	<string>staticLocalizationDuration</string>
+</dict>
+</plist>

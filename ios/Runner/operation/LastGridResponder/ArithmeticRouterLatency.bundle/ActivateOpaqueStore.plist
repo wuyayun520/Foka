@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAllocatorFeedback</key>
+	<string>oldBuilderBehavior</string>
+	<key>constCacheOrientation</key>
+	<string>robustControllerBrightness</string>
+	<key>disabledVectorTransparency</key>
+	<string>ternaryAroundLayer</string>
+	<key>equalizationSinceChain</key>
+	<string>mutableTickerTheme</string>
+	<key>factoryThroughShape</key>
+	<string>allocatorJobFlags</string>
+	<key>robustLocalizationBrightness</key>
+	<string>publicFactoryRotation</string>
+	<key>smartMobileHead</key>
+	<string>retainedSlashHead</string>
+</dict>
+</plist>

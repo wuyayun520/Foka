@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleCommandPressure</key>
+	<string>channelsTaskDistance</string>
+	<key>immutableTitleDistance</key>
+	<string>dropdownbuttonByScope</string>
+	<key>kernelOrStrategy</key>
+	<string>persistentReducerOpacity</string>
+	<key>localEntropyLocation</key>
+	<string>anchorProcessName</string>
+	<key>optionVersusPlatform</key>
+	<string>toolFrameworkTop</string>
+	<key>projectAdapterRight</key>
+	<string>hardAspectSpacing</string>
+</dict>
+</plist>

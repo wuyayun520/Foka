@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveCursorTop</key>
+	<string>appbarStrategyTail</string>
+	<key>navigatorAwayStructure</key>
+	<string>transformerSystemOrientation</string>
+	<key>sineBesideTask</key>
+	<string>adaptiveTableBehavior</string>
+	<key>standaloneTabbarValidation</key>
+	<string>missedCollectionDepth</string>
+	<key>widgetForSingleton</key>
+	<string>actionThanWork</string>
+</dict>
+</plist>

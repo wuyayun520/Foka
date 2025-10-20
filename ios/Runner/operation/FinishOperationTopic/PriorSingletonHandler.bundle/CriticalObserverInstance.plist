@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRowVisible</key>
+	<string>equalizationPlatformPadding</string>
+	<key>appbarInsideLevel</key>
+	<string>textfieldTierValidation</string>
+	<key>desktopIntegerOrientation</key>
+	<string>touchThanComposite</string>
+	<key>lazyEntityStyle</key>
+	<string>builderDuringStage</string>
+	<key>semanticPlaybackDuration</key>
+	<string>taskByCommand</string>
+	<key>skirtPrototypeSpeed</key>
+	<string>directlyTextTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorVisitorAlignment</key>
+	<string>mobxVersusNumber</string>
+	<key>behaviorForPlatform</key>
+	<string>storyboardInterpreterOpacity</string>
+	<key>menuJobCenter</key>
+	<string>curveParamInteraction</string>
+	<key>protectedSliderTail</key>
+	<string>visibleDelegateScale</string>
+	<key>remainderWithoutVisitor</key>
+	<string>previewCommandOffset</string>
+	<key>repositoryBeyondCommand</key>
+	<string>delegatePlatformRate</string>
+	<key>statefulDialogsRight</key>
+	<string>tabbarVersusProcess</string>
+	<key>statefulKindHue</key>
+	<string>actionDuringProcess</string>
+</dict>
+</plist>

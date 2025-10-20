@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAgainstProcess</key>
+	<string>futureTierMode</string>
+	<key>concurrentBufferInset</key>
+	<string>prismaticOffsetDelay</string>
+	<key>constraintSinceFacade</key>
+	<string>frameOutsideStage</string>
+	<key>containerOutsideOperation</key>
+	<string>buttonProxyCenter</string>
+	<key>elasticEffectCenter</key>
+	<string>nativeBoxshadowName</string>
+	<key>inkwellAsPlatform</key>
+	<string>tweenByStage</string>
+	<key>retainedBitrateHue</key>
+	<string>alignmentThroughActivity</string>
+	<key>sequentialChartStatus</key>
+	<string>cacheAlongWork</string>
+	<key>skinActivityLeft</key>
+	<string>gramWorkKind</string>
+</dict>
+</plist>

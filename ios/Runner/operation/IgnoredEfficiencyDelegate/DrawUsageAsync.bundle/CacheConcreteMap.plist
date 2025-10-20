@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOrFunction</key>
+	<string>queueSinceTier</string>
+	<key>drawerAgainstFramework</key>
+	<string>durationProcessTransparency</string>
+	<key>globalBuilderSkewx</key>
+	<string>remainderStageInterval</string>
+	<key>symmetricBuilderValidation</key>
+	<string>subpixelAgainstOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitJobBehavior</key>
+	<string>advancedCompleterFlags</string>
+	<key>histogramMethodMargin</key>
+	<string>drawerVersusForm</string>
+	<key>robustActionRate</key>
+	<string>oldControllerDepth</string>
+	<key>robustHeapDistance</key>
+	<string>activeChannelsMomentum</string>
+	<key>zoneSingletonMode</key>
+	<string>smallBehaviorDirection</string>
+</dict>
+</plist>

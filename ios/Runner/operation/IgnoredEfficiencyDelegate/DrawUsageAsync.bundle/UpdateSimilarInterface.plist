@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSubscriptionPadding</key>
+	<string>taskInsideFunction</string>
+	<key>functionalSliderSize</key>
+	<string>frameOfShape</string>
+	<key>fusedLossMargin</key>
+	<string>immutableModelMargin</string>
+	<key>liteAllocatorFeedback</key>
+	<string>integerPhaseState</string>
+	<key>musicNearContext</key>
+	<string>localizationContextTheme</string>
+	<key>newestProtocolSaturation</key>
+	<string>retainedQueueAppearance</string>
+	<key>permanentAspectratioInterval</key>
+	<string>commonEffectTop</string>
+	<key>singletonViaBuffer</key>
+	<string>cupertinoLikeFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionInteractorType</key>
+	<string>liteDecorationBound</string>
+	<key>agileResolverDuration</key>
+	<string>hierarchicalAppbarMode</string>
+	<key>basicTransitionVisible</key>
+	<string>nodeBridgeVelocity</string>
+	<key>columnFlyweightResponse</key>
+	<string>nibCommandAcceleration</string>
+	<key>crudeControllerTop</key>
+	<string>builderOfOperation</string>
+	<key>diffableTransitionVisible</key>
+	<string>musicSingletonShade</string>
+	<key>layerByWork</key>
+	<string>matrixInterpreterAcceleration</string>
+	<key>sharedGraphCount</key>
+	<string>crucialUtilScale</string>
+	<key>statelessResolverDensity</key>
+	<string>layerCompositeAlignment</string>
+</dict>
+</plist>

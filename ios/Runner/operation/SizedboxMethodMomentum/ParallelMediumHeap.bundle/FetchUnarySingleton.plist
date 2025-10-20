@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsAtPrototype</key>
+	<string>numericalProviderSize</string>
+	<key>channelsSystemShade</key>
+	<string>radioStateDuration</string>
+	<key>completerOperationCount</key>
+	<string>variantKindTint</string>
+	<key>normalPresenterBehavior</key>
+	<string>unaryAtKind</string>
+	<key>responsiveDropdownbuttonShade</key>
+	<string>symmetricRepositoryShade</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsCompositeValidation</key>
+	<string>activatedMonsterState</string>
+	<key>commonPreviewVelocity</key>
+	<string>commonInjectionName</string>
+	<key>gestureUntilStyle</key>
+	<string>sceneCommandCoord</string>
+	<key>hardActivityTag</key>
+	<string>providerAndChain</string>
+	<key>sinkAndSingleton</key>
+	<string>touchEnvironmentScale</string>
+	<key>topicContainContext</key>
+	<string>nativeTickerInterval</string>
+	<key>vectorScopeDensity</key>
+	<string>captionIncludeCycle</string>
+	<key>widgetInsideAction</key>
+	<string>mobileLevelOrientation</string>
+</dict>
+</plist>

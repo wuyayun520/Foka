@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSemanticsDistance</key>
+	<string>multiZoneContrast</string>
+	<key>granularSensorName</key>
+	<string>interactiveCellAlignment</string>
+	<key>iconWithValue</key>
+	<string>metadataNumberSkewy</string>
+	<key>reusableBinaryShape</key>
+	<string>accordionSpecifierSpacing</string>
+	<key>usedSizeInset</key>
+	<string>borderFormTop</string>
+</dict>
+</plist>

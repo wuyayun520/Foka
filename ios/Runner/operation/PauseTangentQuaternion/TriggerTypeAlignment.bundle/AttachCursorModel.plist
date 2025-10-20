@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedTimerValidation</key>
+	<string>layoutPlatformStyle</string>
+	<key>ignoredStreamCenter</key>
+	<string>protectedBufferVisible</string>
+	<key>operationOutsideStyle</key>
+	<string>queryPrototypeSize</string>
+	<key>routerWithShape</key>
+	<string>documentThroughStyle</string>
+	<key>synchronousBuilderInteraction</key>
+	<string>responsiveAwaitBottom</string>
+	<key>temporaryListenerTop</key>
+	<string>pointPlatformTail</string>
+</dict>
+</plist>

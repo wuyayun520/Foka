@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentSpriteDirection</key>
+	<string>constraintOrActivity</string>
+	<key>missionOperationBound</key>
+	<string>buttonPatternPosition</string>
+	<key>plateOperationTint</key>
+	<string>standalonePositionedName</string>
+	<key>positionFromAction</key>
+	<string>completionExceptMemento</string>
+	<key>sensorAgainstScope</key>
+	<string>usageFacadeTint</string>
+	<key>uniqueModalIndex</key>
+	<string>tickerNearTemple</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowBeyondAdapter</key>
+	<string>capsuleShapeAppearance</string>
+	<key>notificationLikeDecorator</key>
+	<string>hardRemainderForce</string>
+	<key>painterIncludeOperation</key>
+	<string>mobxPatternAppearance</string>
+	<key>similarToolInteraction</key>
+	<string>painterBesideState</string>
+	<key>symbolParameterVelocity</key>
+	<string>significantDecorationBound</string>
+</dict>
+</plist>

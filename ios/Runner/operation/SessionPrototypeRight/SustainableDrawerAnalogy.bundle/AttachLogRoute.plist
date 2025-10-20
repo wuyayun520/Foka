@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonValueOrigin</key>
+	<string>difficultWidgetRotation</string>
+	<key>cellAtOperation</key>
+	<string>materialCubeHue</string>
+	<key>commandBridgeTint</key>
+	<string>materialNumberSpacing</string>
+	<key>coordinatorSinceStrategy</key>
+	<string>vectorInsideFramework</string>
+	<key>customPreviewSpacing</key>
+	<string>constraintTaskStatus</string>
+</dict>
+</plist>

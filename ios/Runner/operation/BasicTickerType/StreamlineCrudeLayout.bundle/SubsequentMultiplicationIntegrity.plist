@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentInScope</key>
+	<string>alertInsideState</string>
+	<key>aspectBeyondLevel</key>
+	<string>mediaqueryBesideBuffer</string>
+	<key>buttonProcessStyle</key>
+	<string>batchTempleTension</string>
+	<key>crucialOptionValidation</key>
+	<string>delegateJobOpacity</string>
+	<key>cubitStyleOrientation</key>
+	<string>widgetUntilPrototype</string>
+	<key>decorationNearLevel</key>
+	<string>secondInterfaceSpacing</string>
+	<key>ignoredRiverpodBrightness</key>
+	<string>dimensionForObserver</string>
+	<key>permissiveRadioOrientation</key>
+	<string>histogramViaCycle</string>
+	<key>titleScopeVisible</key>
+	<string>singletonWithProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaIncludeObserver</key>
+	<string>independentResponsePressure</string>
+	<key>cartesianFragmentType</key>
+	<string>routeAgainstMediator</string>
+	<key>exponentEnvironmentFeedback</key>
+	<string>buttonFrameworkOrientation</string>
+	<key>fixedMonsterRate</key>
+	<string>stackAgainstType</string>
+	<key>scrollMementoColor</key>
+	<string>semanticConfigurationOpacity</string>
+	<key>temporaryDescriptionCount</key>
+	<string>unsortedSemanticsBottom</string>
+</dict>
+</plist>
