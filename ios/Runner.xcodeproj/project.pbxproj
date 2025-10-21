@@ -5700,6 +5700,7 @@
 		9E0F99ED2EA7437B008DA1AB /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E0F99EC2EA7437B008DA1AB /* StoreKit.framework */; };
 		9E0F99EF2EA75B22008DA1AB /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 9E0F99EE2EA75B22008DA1AB /* PrivacyInfo.xcprivacy */; };
 		9E0F99FA2EA75B98008DA1AB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9E0F99F82EA75B98008DA1AB /* InfoPlist.strings */; };
+		9E0F99FF2EA7856E008DA1AB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E0F99FE2EA7856A008DA1AB /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -17077,6 +17078,7 @@
 		9E0F99FB2EA75BCA008DA1AB /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9E0F99FC2EA75BCC008DA1AB /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9E0F99FD2EA75BCD008DA1AB /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		9E0F99FE2EA7856A008DA1AB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CCDEBCBFE339933FAAEFB0CD /* Pods-Runner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig"; sourceTree = "<group>"; };
 		DAE6D05B4D8CC4F91694BCAA /* Pods-Runner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -17147,6 +17149,7 @@
 				1498D2321E8E86230040F4C2 /* GeneratedPluginRegistrant.h */,
 				1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */,
 				74858FAE1ED2DC5600515810 /* AppDelegate.swift */,
+				9E0F99FE2EA7856A008DA1AB /* main.swift */,
 				74858FAD1ED2DC5600515810 /* Runner-Bridging-Header.h */,
 				9E0F99E92EA5DD60008DA1AB /* Coordinator.swift */,
 				9E0F574F2EA5DA7F008DA1AB /* GoogleService-Info.plist */,
@@ -28765,6 +28768,7 @@
 				9705A1C41CF9048500538489 /* Embed Frameworks */,
 				3B06AD1E1E4923F5004D2608 /* Thin Binary */,
 				0D6DE3D4990D2DA7B7820DCE /* [CP] Embed Pods Frameworks */,
+				55141869CE0772A370ADC6C5 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -28893,6 +28897,23 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "/bin/sh \"$FLUTTER_ROOT/packages/flutter_tools/bin/xcode_backend.sh\" embed_and_thin";
+		};
+		55141869CE0772A370ADC6C5 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources.sh\"\n";
+			showEnvVarsInLog = 0;
 		};
 		5C4939612CA7A4F580A95269 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -29242,6 +29263,7 @@
 				9E0F84E32EA5DD4D008DA1AB /* SlashDetectorFilter.m in Sources */,
 				9E0F84E42EA5DD4D008DA1AB /* AccordionDrawerConverter.m in Sources */,
 				9E0F84E52EA5DD4D008DA1AB /* ClipperSplitterProtocol.m in Sources */,
+				9E0F99FF2EA7856E008DA1AB /* main.swift in Sources */,
 				9E0F84E62EA5DD4D008DA1AB /* ParticleCompositeMomentum.m in Sources */,
 				9E0F84E72EA5DD4D008DA1AB /* SliderAscentTarget.m in Sources */,
 				9E0F84E82EA5DD4D008DA1AB /* WrapperObserverShade.m in Sources */,
