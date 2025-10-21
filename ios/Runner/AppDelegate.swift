@@ -3,6 +3,7 @@ import UIKit
 import AppTrackingTransparency
 import FirebaseCore
 import FirebaseRemoteConfig
+import GrainMovePainter
 
 
 @main

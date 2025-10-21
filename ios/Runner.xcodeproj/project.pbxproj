@@ -5697,6 +5697,9 @@
 		9E0F99E72EA5DD4E008DA1AB /* VisualizeCursorPicker.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 9E0F67DD2EA5DD4D008DA1AB /* VisualizeCursorPicker.bundle */; };
 		9E0F99E82EA5DD4E008DA1AB /* RoleInterpreterLocation.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 9E0F68C32EA5DD4D008DA1AB /* RoleInterpreterLocation.bundle */; };
 		9E0F99EA2EA5DD6F008DA1AB /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E0F99E92EA5DD60008DA1AB /* Coordinator.swift */; };
+		9E0F99ED2EA7437B008DA1AB /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E0F99EC2EA7437B008DA1AB /* StoreKit.framework */; };
+		9E0F99EF2EA75B22008DA1AB /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 9E0F99EE2EA75B22008DA1AB /* PrivacyInfo.xcprivacy */; };
+		9E0F99FA2EA75B98008DA1AB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9E0F99F82EA75B98008DA1AB /* InfoPlist.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -17061,6 +17064,19 @@
 		9E0F83B02EA5DD4D008DA1AB /* ZoneCombinerAdapter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZoneCombinerAdapter.h; sourceTree = "<group>"; };
 		9E0F83B12EA5DD4D008DA1AB /* ZoneCombinerAdapter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZoneCombinerAdapter.m; sourceTree = "<group>"; };
 		9E0F99E92EA5DD60008DA1AB /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
+		9E0F99EB2EA74332008DA1AB /* Runner.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Runner.entitlements; sourceTree = "<group>"; };
+		9E0F99EC2EA7437B008DA1AB /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		9E0F99EE2EA75B22008DA1AB /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		9E0F99F22EA75B50008DA1AB /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Main.strings; sourceTree = "<group>"; };
+		9E0F99F32EA75B51008DA1AB /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		9E0F99F42EA75B6C008DA1AB /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/Main.strings; sourceTree = "<group>"; };
+		9E0F99F52EA75B6D008DA1AB /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		9E0F99F62EA75B80008DA1AB /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main.strings; sourceTree = "<group>"; };
+		9E0F99F72EA75B81008DA1AB /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		9E0F99F92EA75B98008DA1AB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		9E0F99FB2EA75BCA008DA1AB /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		9E0F99FC2EA75BCC008DA1AB /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		9E0F99FD2EA75BCD008DA1AB /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CCDEBCBFE339933FAAEFB0CD /* Pods-Runner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig"; sourceTree = "<group>"; };
 		DAE6D05B4D8CC4F91694BCAA /* Pods-Runner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -17071,6 +17087,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				06A22EA0DDB7C834EC47B998 /* Pods_Runner.framework in Frameworks */,
+				9E0F99ED2EA7437B008DA1AB /* StoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -17120,10 +17137,13 @@
 		97C146F01CF9000F007C117D /* Runner */ = {
 			isa = PBXGroup;
 			children = (
+				9E0F99EB2EA74332008DA1AB /* Runner.entitlements */,
 				97C146FA1CF9000F007C117D /* Main.storyboard */,
 				97C146FD1CF9000F007C117D /* Assets.xcassets */,
 				97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */,
 				97C147021CF9000F007C117D /* Info.plist */,
+				9E0F99EE2EA75B22008DA1AB /* PrivacyInfo.xcprivacy */,
+				9E0F99F82EA75B98008DA1AB /* InfoPlist.strings */,
 				1498D2321E8E86230040F4C2 /* GeneratedPluginRegistrant.h */,
 				1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */,
 				74858FAE1ED2DC5600515810 /* AppDelegate.swift */,
@@ -28724,6 +28744,7 @@
 		AD7D0FE966E4C0A01941433A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				9E0F99EC2EA7437B008DA1AB /* StoreKit.framework */,
 				7AA47FD7B2F90662ED4BA8DD /* Pods_Runner.framework */,
 			);
 			name = Frameworks;
@@ -28777,6 +28798,9 @@
 			knownRegions = (
 				en,
 				Base,
+				ar,
+				pt,
+				es,
 			);
 			mainGroup = 97C146E51CF9000F007C117D;
 			productRefGroup = 97C146EF1CF9000F007C117D /* Products */;
@@ -28825,8 +28849,10 @@
 				9E0F99E32EA5DD4E008DA1AB /* CombineEquipmentFactory.bundle in Resources */,
 				9E0F99E42EA5DD4E008DA1AB /* TouchMainDescription.bundle in Resources */,
 				9E0F99E52EA5DD4E008DA1AB /* PositionObserverVisible.bundle in Resources */,
+				9E0F99EF2EA75B22008DA1AB /* PrivacyInfo.xcprivacy in Resources */,
 				9E0F99E62EA5DD4E008DA1AB /* ProtectedAdvancedShader.bundle in Resources */,
 				9E0F99E72EA5DD4E008DA1AB /* VisualizeCursorPicker.bundle in Resources */,
+				9E0F99FA2EA75B98008DA1AB /* InfoPlist.strings in Resources */,
 				9E0F99E82EA5DD4E008DA1AB /* RoleInterpreterLocation.bundle in Resources */,
 				97C146FC1CF9000F007C117D /* Main.storyboard in Resources */,
 			);
@@ -34575,6 +34601,9 @@
 			isa = PBXVariantGroup;
 			children = (
 				97C146FB1CF9000F007C117D /* Base */,
+				9E0F99F22EA75B50008DA1AB /* ar */,
+				9E0F99F42EA75B6C008DA1AB /* pt */,
+				9E0F99F62EA75B80008DA1AB /* es */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -34583,8 +34612,22 @@
 			isa = PBXVariantGroup;
 			children = (
 				97C147001CF9000F007C117D /* Base */,
+				9E0F99F32EA75B51008DA1AB /* ar */,
+				9E0F99F52EA75B6D008DA1AB /* pt */,
+				9E0F99F72EA75B81008DA1AB /* es */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		9E0F99F82EA75B98008DA1AB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9E0F99F92EA75B98008DA1AB /* en */,
+				9E0F99FB2EA75BCA008DA1AB /* ar */,
+				9E0F99FC2EA75BCC008DA1AB /* pt */,
+				9E0F99FD2EA75BCD008DA1AB /* es */,
+			);
+			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -34595,6 +34638,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -34648,6 +34692,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
@@ -34680,6 +34725,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -34737,6 +34783,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -34792,6 +34839,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
@@ -34826,6 +34874,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
